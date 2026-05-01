@@ -7,6 +7,7 @@ const OUTPUT_FILE = path.join(__dirname, "feed.xml");
 const FEED_TITLE = "Manager Magazin – Der … im Überblick";
 const FEED_LINK = TARGET_URL;
 const FEED_DESCRIPTION = 'Nur „Der … im Überblick"-Artikel von manager-magazin.de';
+const FEED_SELF_URL = "https://sjeap.github.io/web-feed/feed.xml";
 
 function fetchPage(url) {
   return new Promise((resolve, reject) => {
@@ -28,8 +29,8 @@ function fetchPage(url) {
   });
 }
 
-function extractText(html, regex) {
-  const m = regex.exec(html);
+function extractText(snippet, regex) {
+  const m = regex.exec(snippet);
   if (!m) return null;
   return m[1].replace(/<[^>]+>/g, "").trim()
     .replace(/\s+/g, " ")
@@ -55,12 +56,14 @@ function parseGermanDate(str) {
 function parseHeadlines(html) {
   const items = [];
   const seen = new Set();
-  const teaserRegex = /<div class="teaser"[\s\S]*?(?=<div class="teaser"|$)/gi;
 
-  let match;
-  while ((match = teaserRegex.exec(html)) !== null) {
-    const block = match[0];
+  // Robust: Split am öffnenden Tag statt Lookahead-Regex
+  const parts = html.split('<div class="teaser"');
 
+  for (let i = 1; i < parts.length; i++) {
+    const block = parts[i];
+
+    // Titel
     const title = extractText(block, /<h2 class="teaser-headline"[^>]*>([\s\S]*?)<\/h2>/i);
     if (!title || title.length < 10) continue;
 
@@ -70,15 +73,18 @@ function parseHeadlines(html) {
     if (seen.has(title)) continue;
     seen.add(title);
 
-    const linkMatch = /<a[^>]+href="([^"]+)"/.exec(block);
+    // Link
+    const linkMatch = /href="([^"]+)"/.exec(block);
     const rawLink = linkMatch ? linkMatch[1] : null;
     const fullLink = rawLink
       ? rawLink.startsWith("http") ? rawLink : `https://www.manager-magazin.de${rawLink}`
       : TARGET_URL;
 
+    // Datum
     const dateStr = extractText(block, /<span class="teaser-date"[^>]*>([\s\S]*?)<\/span>/i);
     const pubDate = parseGermanDate(dateStr);
 
+    // Bild (optional)
     const imgMatch = /<img[^>]+src="([^"]+)"[^>]*alt="([^"]*)"/.exec(block);
     const imgSrc = imgMatch ? imgMatch[1] : null;
     const imgAlt = imgMatch ? imgMatch[2] : title;
@@ -86,6 +92,7 @@ function parseHeadlines(html) {
     items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt });
     if (items.length >= 30) break;
   }
+
   return items;
 }
 
@@ -98,12 +105,23 @@ function escapeXml(str) {
 function buildRss(items) {
   const buildDate = new Date().toUTCString();
   const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt }) => {
-    const enclosure = imgSrc ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="image/jpeg" length="0"/>` : "";
-    const mediaContent = imgSrc ? `\n      <media:content url="${escapeXml(imgSrc)}" medium="image"><media:title>${escapeXml(imgAlt)}</media:title></media:content>` : "";
+    const enclosure = imgSrc
+      ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="image/jpeg" length="0"/>`
+      : "";
+    const mediaContent = imgSrc
+      ? `\n      <media:content url="${escapeXml(imgSrc)}" medium="image"><media:title>${escapeXml(imgAlt)}</media:title></media:content>`
+      : "";
     const description = imgSrc
       ? `<![CDATA[<img src="${imgSrc}" alt="${imgAlt}"/><p>${escapeXml(title)}</p>]]>`
       : `<![CDATA[${escapeXml(title)}]]>`;
-    return `\n    <item>\n      <title>${escapeXml(title)}</title>\n      <link>${escapeXml(link)}</link>\n      <guid isPermaLink="true">${escapeXml(link)}</guid>\n      <pubDate>${pubDate}</pubDate>\n      <description>${description}</description>${enclosure}${mediaContent}\n    </item>`;
+    return `
+    <item>
+      <title>${escapeXml(title)}</title>
+      <link>${escapeXml(link)}</link>
+      <guid isPermaLink="true">${escapeXml(link)}</guid>
+      <pubDate>${pubDate}</pubDate>
+      <description>${description}</description>${enclosure}${mediaContent}
+    </item>`;
   }).join("");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -114,7 +132,7 @@ function buildRss(items) {
     <description>${escapeXml(FEED_DESCRIPTION)}</description>
     <language>de-DE</language>
     <lastBuildDate>${buildDate}</lastBuildDate>
-    <atom:link href="https://sjeap.github.io/web-feed/feed.xml" rel="self" type="application/rss+xml"/>${itemsXml}
+    <atom:link href="${FEED_SELF_URL}" rel="self" type="application/rss+xml"/>${itemsXml}
   </channel>
 </rss>`;
 }
@@ -122,19 +140,24 @@ function buildRss(items) {
 async function main() {
   console.log(`[${new Date().toISOString()}] Fetching ${TARGET_URL} ...`);
   const html = await fetchPage(TARGET_URL);
+  console.log(`   HTML geladen: ${html.length} Zeichen`);
+
   const items = parseHeadlines(html);
 
   if (items.length === 0) {
-    // Signal für self-heal: HTML-Snapshot speichern und mit Exit-Code 2 beenden
     fs.writeFileSync(path.join(__dirname, "last-html-snapshot.txt"), html.slice(0, 15000), "utf8");
-    console.error("PARSE_FAILED: 0 Artikel gefunden");
+    console.error("PARSE_FAILED: 0 Artikel gefunden — Snapshot gespeichert");
     process.exit(2);
   }
 
   const rss = buildRss(items);
   fs.writeFileSync(OUTPUT_FILE, rss, "utf8");
-  console.log(`✅ Feed aktualisiert: ${items.length} Artikel`);
+  console.log(`✅ Feed aktualisiert: ${items.length} Artikel → ${OUTPUT_FILE}`);
   items.forEach(({ title, pubDate }) => console.log(`   • ${title} (${pubDate})`));
 }
 
-main().catch(err => { console.error("❌", err.message); process.exit(1); });
+main().catch(err => {
+  console.error("❌ Unbehandelter Fehler:", err.message);
+  console.error(err.stack);
+  process.exit(1);
+});
