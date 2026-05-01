@@ -1,13 +1,29 @@
+/**
+ * scraper.js — Matrix-fähig
+ * Aufruf: node scraper.js <site-id>
+ * Beispiel: node scraper.js manager-magazin
+ */
+
 const https = require("https");
 const fs = require("fs");
 const path = require("path");
 
-const TARGET_URL = "https://www.manager-magazin.de/schlagzeilen/";
-const OUTPUT_FILE = path.join(__dirname, "feed.xml");
-const FEED_TITLE = "Manager Magazin – Der … im Überblick";
-const FEED_LINK = TARGET_URL;
-const FEED_DESCRIPTION = 'Nur „Der … im Überblick"-Artikel von manager-magazin.de';
-const FEED_SELF_URL = "https://sjeap.github.io/web-feed/feed.xml";
+const SITES_FILE = path.join(__dirname, "sites.json");
+const FEED_BASE_URL = "https://sjeap.github.io/web-feed/";
+
+// ── Site-ID aus Argument lesen ──
+const siteId = process.argv[2];
+if (!siteId) {
+  console.error("❌ Kein Site-ID angegeben. Beispiel: node scraper.js manager-magazin");
+  process.exit(1);
+}
+
+const sites = JSON.parse(fs.readFileSync(SITES_FILE, "utf8"));
+const site = sites.find(s => s.id === siteId);
+if (!site) {
+  console.error(`❌ Site '${siteId}' nicht in sites.json gefunden`);
+  process.exit(1);
+}
 
 function fetchPage(url) {
   return new Promise((resolve, reject) => {
@@ -29,8 +45,8 @@ function fetchPage(url) {
   });
 }
 
-function extractText(snippet, regex) {
-  const m = regex.exec(snippet);
+function extractText(snippet, regexStr) {
+  const m = new RegExp(regexStr, "i").exec(snippet);
   if (!m) return null;
   return m[1].replace(/<[^>]+>/g, "").trim()
     .replace(/\s+/g, " ")
@@ -52,39 +68,33 @@ function parseGermanDate(str) {
   return new Date(new Date().getFullYear(), month - 1, +day, +hour, +min).toUTCString();
 }
 
-// ── PARSER — wird von self-heal.js ggf. automatisch ersetzt ──
-function parseHeadlines(html) {
+function parseHeadlines(html, site) {
   const items = [];
   const seen = new Set();
-
-  // Robust: Split am öffnenden Tag statt Lookahead-Regex
-  const parts = html.split('<div class="teaser"');
+  const parts = html.split(site.teaserSplit);
 
   for (let i = 1; i < parts.length; i++) {
     const block = parts[i];
 
-    // Titel
-    const title = extractText(block, /<h2 class="teaser-headline"[^>]*>([\s\S]*?)<\/h2>/i);
+    const title = extractText(block, site.titleSelector);
     if (!title || title.length < 10) continue;
 
-    // FILTER: nur "Der <xxx> im Überblick"
-    if (!/\bDer\s+\S+.*?im\s+Überblick\b/i.test(title)) continue;
+    // Filter anwenden wenn definiert
+    if (site.filter && !new RegExp(site.filter, "i").test(title)) continue;
 
     if (seen.has(title)) continue;
     seen.add(title);
 
-    // Link
-    const linkMatch = /href="([^"]+)"/.exec(block);
+    const linkMatch = new RegExp(site.linkSelector).exec(block);
     const rawLink = linkMatch ? linkMatch[1] : null;
+    const base = new URL(site.url).origin;
     const fullLink = rawLink
-      ? rawLink.startsWith("http") ? rawLink : `https://www.manager-magazin.de${rawLink}`
-      : TARGET_URL;
+      ? rawLink.startsWith("http") ? rawLink : `${base}${rawLink}`
+      : site.url;
 
-    // Datum
-    const dateStr = extractText(block, /<span class="teaser-date"[^>]*>([\s\S]*?)<\/span>/i);
+    const dateStr = extractText(block, site.dateSelector);
     const pubDate = parseGermanDate(dateStr);
 
-    // Bild (optional)
     const imgMatch = /<img[^>]+src="([^"]+)"[^>]*alt="([^"]*)"/.exec(block);
     const imgSrc = imgMatch ? imgMatch[1] : null;
     const imgAlt = imgMatch ? imgMatch[2] : title;
@@ -92,7 +102,6 @@ function parseHeadlines(html) {
     items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt });
     if (items.length >= 30) break;
   }
-
   return items;
 }
 
@@ -102,8 +111,10 @@ function escapeXml(str) {
     .replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
 }
 
-function buildRss(items) {
+function buildRss(items, site) {
   const buildDate = new Date().toUTCString();
+  const selfUrl = `${FEED_BASE_URL}${site.output}`;
+
   const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt }) => {
     const enclosure = imgSrc
       ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="image/jpeg" length="0"/>`
@@ -127,37 +138,40 @@ function buildRss(items) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>${escapeXml(FEED_TITLE)}</title>
-    <link>${escapeXml(FEED_LINK)}</link>
-    <description>${escapeXml(FEED_DESCRIPTION)}</description>
+    <title>${escapeXml(site.name)}</title>
+    <link>${escapeXml(site.url)}</link>
+    <description>${escapeXml(site.name)}</description>
     <language>de-DE</language>
     <lastBuildDate>${buildDate}</lastBuildDate>
-    <atom:link href="${FEED_SELF_URL}" rel="self" type="application/rss+xml"/>${itemsXml}
+    <atom:link href="${selfUrl}" rel="self" type="application/rss+xml"/>${itemsXml}
   </channel>
 </rss>`;
 }
 
 async function main() {
-  console.log(`[${new Date().toISOString()}] Fetching ${TARGET_URL} ...`);
-  const html = await fetchPage(TARGET_URL);
+  console.log(`[${new Date().toISOString()}] [${site.id}] Fetching ${site.url} ...`);
+  const html = await fetchPage(site.url);
   console.log(`   HTML geladen: ${html.length} Zeichen`);
 
-  const items = parseHeadlines(html);
+  const items = parseHeadlines(html, site);
 
   if (items.length === 0) {
-    fs.writeFileSync(path.join(__dirname, "last-html-snapshot.txt"), html.slice(0, 15000), "utf8");
-    console.error("PARSE_FAILED: 0 Artikel gefunden — Snapshot gespeichert");
+    fs.writeFileSync(
+      path.join(__dirname, `snapshot-${site.id}.txt`),
+      html.slice(0, 15000), "utf8"
+    );
+    console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert`);
     process.exit(2);
   }
 
-  const rss = buildRss(items);
-  fs.writeFileSync(OUTPUT_FILE, rss, "utf8");
-  console.log(`✅ Feed aktualisiert: ${items.length} Artikel → ${OUTPUT_FILE}`);
-  items.forEach(({ title, pubDate }) => console.log(`   • ${title} (${pubDate})`));
+  const outputFile = path.join(__dirname, site.output);
+  fs.writeFileSync(outputFile, buildRss(items, site), "utf8");
+  console.log(`✅ [${site.id}] ${items.length} Artikel → ${site.output}`);
+  items.forEach(({ title }) => console.log(`   • ${title}`));
 }
 
 main().catch(err => {
-  console.error("❌ Unbehandelter Fehler:", err.message);
+  console.error(`❌ [${siteId}] Fehler:`, err.message);
   console.error(err.stack);
   process.exit(1);
 });

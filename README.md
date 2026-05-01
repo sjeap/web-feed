@@ -1,69 +1,68 @@
-# Feeder (NoNonsenseApps) RSS Feed
+# RSS Feed – Matrix Setup
 
-Automatischer RSS-Feed für manager-magazin.de/schlagzeilen/, gehostet via GitHub Actions + GitHub Pages.
+Mehrere Websites parallel scrapen via GitHub Actions Matrix Strategy.
 
-```
-- Manager Magazin
-```
-
-## Setup (5 Minuten)
-
-### 1. Repository erstellen
-
-- Neues **öffentliches** GitHub-Repo anlegen (z.B. `mm-rss`)
-- `scraper.js` ins Root-Verzeichnis hochladen
-- `.github/workflows/update-rss.yml` in den entsprechenden Ordner hochladen
+## Dateistruktur
 
 ```
-mm-rss/
-├── scraper.js
-├── feed.xml          ← wird automatisch generiert
-├── README.md
+web-feed/
+├── scraper.js                        ← ein Scraper für alle Sites
+├── sites.json                        ← Konfiguration aller Sites
+├── feed-manager-magazin.xml          ← wird automatisch generiert
+├── feed-handelsblatt.xml             ← wird automatisch generiert
 └── .github/
     └── workflows/
         └── update-rss.yml
 ```
 
-### 2. GitHub Pages aktivieren
+## Neue Site hinzufügen
 
-1. Repo → **Settings** → **Pages**
-2. Source: **Deploy from a branch**
-3. Branch: `main` / Root `/`
-4. Speichern
+### Schritt 1 — Eintrag in `sites.json`
 
-### 3. Feed-URL in scraper.js anpassen
-
-In `scraper.js`, Zeile mit `atom:link href=` anpassen:
-
-```js
-// Ersetze:
-https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/feed.xml
-
-// Mit z.B.:
-https://maxmuster.github.io/mm-rss/feed.xml
+```json
+{
+  "id": "meine-site",
+  "name": "Meine Site – Titel",
+  "url": "https://www.beispiel.de/news/",
+  "filter": null,
+  "output": "feed-meine-site.xml",
+  "teaserSplit": "<article",
+  "titleSelector": "<h2[^>]*>([\\s\\S]*?)<\\/h2>",
+  "dateSelector": "<time[^>]*>([\\s\\S]*?)<\\/time>",
+  "linkSelector": "href=\"([^\"]+)\""
+}
 ```
 
-### 4. Ersten Lauf manuell starten
+Die Selektoren (`teaserSplit`, `titleSelector` etc.) musst du aus dem
+HTML-Quelltext der jeweiligen Seite ableiten (Strg+U im Browser).
 
-GitHub → **Actions** → `Update RSS Feed` → **Run workflow**
+### Schritt 2 — Eintrag in `update-rss.yml`
 
-Nach ~30 Sekunden erscheint `feed.xml` im Repo.
+```yaml
+matrix:
+  site:
+    - manager-magazin
+    - handelsblatt
+    - meine-site       # ← neu
+```
 
----
+Das war es. Beim nächsten Run wird `feed-meine-site.xml` automatisch erstellt.
 
-## Deine RSS-Feed-URL
+## Feed-URLs
 
 ```
-https://DEIN_USERNAME.github.io/DEIN_REPO/feed.xml
+https://sjeap.github.io/web-feed/feed-manager-magazin.xml
+https://sjeap.github.io/web-feed/feed-handelsblatt.xml
 ```
 
-Diese URL kannst du in jeden RSS-Reader eintragen (z.B. Feedly, NetNewsWire, Inoreader).
+## Wie Matrix funktioniert
 
-## Zeitplan
+Jede Site läuft als **eigener paralleler Job**:
 
-Der Feed wird **jede Stunde** automatisch aktualisiert (konfigurierbar in `update-rss.yml`).
+```
+Job: scrape (manager-magazin)   ←─ läuft gleichzeitig
+Job: scrape (handelsblatt)      ←─ läuft gleichzeitig
+```
 
-## Hinweise
-
-- GitHub Actions Free: 2.000 Minuten/Monat — stündliches Scraping verbraucht ~720 Minuten/Monat, liegt gut im Limit
-- Falls manager-magazin.de seinen HTML-Aufbau ändert, muss der Parser in `scraper.js` angepasst werden
+Mit `fail-fast: false` schlägt eine Site fehl → die anderen laufen trotzdem durch.
+Jeder Job committet seine eigene `feed-xxx.xml` unabhängig.
