@@ -28,14 +28,36 @@ jobs:
         with:
           node-version: "20"
 
+      # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
+        id: scrape
+        run: node scraper.js ${{ matrix.site }}
+        continue-on-error: true
+
+      # ── Schritt 2: Self-heal wenn Exit-Code 2 (0 Artikel) ──
+      - name: Self-heal [${{ matrix.site }}]
+        if: steps.scrape.outcome == 'failure'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "⚠️  Parse fehlgeschlagen — starte Self-heal für ${{ matrix.site }}..."
+          node self-heal.js ${{ matrix.site }}
+
+      # ── Schritt 3: Scraper nochmal nach Patch ──
+      - name: Re-run scraper after heal [${{ matrix.site }}]
+        if: steps.scrape.outcome == 'failure'
         run: node scraper.js ${{ matrix.site }}
 
-      - name: Commit feed [${{ matrix.site }}]
+      # ── Schritt 4: Commit — feed.xml + ggf. gepatchtes sites.json ──
+      - name: Commit [${{ matrix.site }}]
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "feed-${{ matrix.site }}.xml"
+          git add "feed-${{ matrix.site }}.xml" sites.json
           git diff --cached --quiet && echo "Keine Änderungen" && exit 0
-          git commit -m "chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          if git diff --cached --name-only | grep -q "sites.json"; then
+            git commit -m "fix: auto-heal [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          else
+            git commit -m "chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          fi
           git push
