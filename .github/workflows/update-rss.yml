@@ -28,18 +28,18 @@ jobs:
         continue-on-error: true   # Fehler blockieren nicht den nächsten Schritt
 
       # ── Schritt 2: Self-heal wenn Exit-Code 2 (0 Artikel) ──
-      - name: Self-heal parser
-        if: steps.scrape.outcome == 'failure'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          echo "⚠️  Scraper fehlgeschlagen — starte Self-heal..."
-          node self-heal.js
+      #- name: Self-heal parser
+      #  if: steps.scrape.outcome == 'failure'
+      #  env:
+      #    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      #  run: |
+      #    echo "⚠️  Scraper fehlgeschlagen — starte Self-heal..."
+      #    node self-heal.js
 
       # ── Schritt 3: Scraper nochmal ausführen nach Patch ──
-      - name: Re-run scraper after heal
-        if: steps.scrape.outcome == 'failure'
-        run: node scraper.js
+      #- name: Re-run scraper after heal
+      #  if: steps.scrape.outcome == 'failure'
+      #  run: node scraper.js
 
       # ── Schritt 4: Änderungen committen (feed.xml + ggf. gepatchtes scraper.js) ──
       - name: Commit changes
