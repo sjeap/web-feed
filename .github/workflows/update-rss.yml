@@ -12,6 +12,13 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
+    strategy:
+      fail-fast: false        # eine Site schlägt fehl → andere laufen weiter
+      matrix:
+        site:
+          - manager-magazin
+          - handelsblatt       # weitere Sites hier einfach hinzufügen
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,36 +28,14 @@ jobs:
         with:
           node-version: "20"
 
-      # ── Schritt 1: Scraper ausführen ──
-      - name: Run scraper
-        id: scrape
-        run: node scraper.js
-        continue-on-error: true   # Fehler blockieren nicht den nächsten Schritt
+      - name: Run scraper [${{ matrix.site }}]
+        run: node scraper.js ${{ matrix.site }}
 
-      # ── Schritt 2: Self-heal wenn Exit-Code 2 (0 Artikel) ──
-      #- name: Self-heal parser
-      #  if: steps.scrape.outcome == 'failure'
-      #  env:
-      #    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      #  run: |
-      #    echo "⚠️  Scraper fehlgeschlagen — starte Self-heal..."
-      #    node self-heal.js
-
-      # ── Schritt 3: Scraper nochmal ausführen nach Patch ──
-      #- name: Re-run scraper after heal
-      #  if: steps.scrape.outcome == 'failure'
-      #  run: node scraper.js
-
-      # ── Schritt 4: Änderungen committen (feed.xml + ggf. gepatchtes scraper.js) ──
-      - name: Commit changes
+      - name: Commit feed [${{ matrix.site }}]
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml scraper.js
+          git add "feed-${{ matrix.site }}.xml"
           git diff --cached --quiet && echo "Keine Änderungen" && exit 0
-          if git diff --cached --name-only | grep -q "scraper.js"; then
-            git commit -m "fix: auto-heal parser [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          else
-            git commit -m "chore: update RSS feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          fi
+          git commit -m "chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
