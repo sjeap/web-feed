@@ -1,9 +1,10 @@
 # Feeder (NoNonsenseApps) RSS Feed
+
+Automatischer RSS-Feed für manager-magazin.de/schlagzeilen/, gehostet via GitHub Actions + GitHub Pages.
+
 ```
 - Manager Magazin
 ```
-
-Automatischer RSS-Feed für manager-magazin.de/schlagzeilen/, gehostet via GitHub Actions + GitHub Pages.
 
 ## Setup (5 Minuten)
 
