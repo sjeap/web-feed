@@ -35,18 +35,18 @@ jobs:
         continue-on-error: true
 
       # ── Schritt 2: Self-heal wenn Exit-Code 2 (0 Artikel) ──
-      - name: Self-heal [${{ matrix.site }}]
-        if: steps.scrape.outcome == 'failure'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          echo "⚠️  Parse fehlgeschlagen — starte Self-heal für ${{ matrix.site }}..."
-          node self-heal.js ${{ matrix.site }}
+      #- name: Self-heal [${{ matrix.site }}]
+      #  if: steps.scrape.outcome == 'failure'
+      #  env:
+      #    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      #  run: |
+      #    echo "⚠️  Parse fehlgeschlagen — starte Self-heal für ${{ matrix.site }}..."
+      #    node self-heal.js ${{ matrix.site }}
 
       # ── Schritt 3: Scraper nochmal nach Patch ──
-      - name: Re-run scraper after heal [${{ matrix.site }}]
-        if: steps.scrape.outcome == 'failure'
-        run: node scraper.js ${{ matrix.site }}
+      #- name: Re-run scraper after heal [${{ matrix.site }}]
+      #  if: steps.scrape.outcome == 'failure'
+      #  run: node scraper.js ${{ matrix.site }}
 
       # ── Schritt 4: Commit — feed.xml + ggf. gepatchtes sites.json ──
       - name: Commit [${{ matrix.site }}]
