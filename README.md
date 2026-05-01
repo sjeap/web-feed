@@ -1,4 +1,4 @@
-# RSS Feed – Matrix Setup
+# Feeder (NoNonsenseApps) – RSS Feed – Matrix Setup
 
 Mehrere Websites parallel scrapen via GitHub Actions Matrix Strategy.
 
