@@ -114,7 +114,7 @@ function buildRss(items) {
     <description>${escapeXml(FEED_DESCRIPTION)}</description>
     <language>de-DE</language>
     <lastBuildDate>${buildDate}</lastBuildDate>
-    <atom:link href="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/feed.xml" rel="self" type="application/rss+xml"/>${itemsXml}
+    <atom:link href="https://sjeap.github.io/web-feed/feed.xml" rel="self" type="application/rss+xml"/>${itemsXml}
   </channel>
 </rss>`;
 }
