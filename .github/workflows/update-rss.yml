@@ -16,7 +16,8 @@ jobs:
       matrix:
         site:
           - manager-magazin
-          - handelsblatt        # weitere Sites hier einfach hinzufügen
+          - handelsblatt
+          - seekingalpha-notable-calls   # ← neu, läuft im Browser-Modus
 
     steps:
       - name: Checkout
@@ -28,6 +29,27 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "npm"
+
+      - name: Install npm dependencies
+        run: npm ci || npm install
+
+      # ── Playwright-Chromium nur installieren, wenn diese Site Browser-Engine nutzt ──
+      - name: Cache Playwright browser
+        if: matrix.site == 'seekingalpha-notable-calls'
+        id: pw-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package-lock.json', 'package.json') }}
+
+      - name: Install Playwright Chromium
+        if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit != 'true'
+        run: npx playwright install --with-deps chromium
+
+      - name: Install Playwright system deps (cache hit case)
+        if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit == 'true'
+        run: npx playwright install-deps chromium
 
       # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
@@ -49,7 +71,18 @@ jobs:
       #  if: steps.scrape.outcome == 'failure'
       #  run: node scraper.js ${{ matrix.site }}
 
-      # ── Schritt 4: Commit & Push mit Rebase-Retry (gegen Matrix-Race) ──
+      # ── Schritt 4: Bei Fehlschlag Snapshot in den Logs zeigen ──
+      - name: Show snapshot on failure
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          if [ -f "snapshot-${{ matrix.site }}.txt" ]; then
+            echo "=== Snapshot (erste 5000 Zeichen) ==="
+            head -c 5000 "snapshot-${{ matrix.site }}.txt"
+            echo ""
+            echo "=== Ende Snapshot ==="
+          fi
+
+      # ── Schritt 5: Commit & Push mit Rebase-Retry (gegen Matrix-Race) ──
       - name: Commit & Push [${{ matrix.site }}]
         run: |
           git config user.name  "github-actions[bot]"
