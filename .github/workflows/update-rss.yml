@@ -17,7 +17,7 @@ jobs:
         site:
           - manager-magazin
           - handelsblatt
-          - seekingalpha-notable-calls   # ← neu, läuft im Browser-Modus
+          - seekingalpha-notable-calls   # nutzt Browser-Engine (Playwright)
 
     steps:
       - name: Checkout
@@ -29,19 +29,28 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
+          # bewusst KEIN `cache: "npm"` — würde lockfile verlangen UND alle Matrix-Jobs betreffen
+
+      # ── npm + Playwright nur für Sites mit Browser-Engine ──
+      - name: Cache node_modules
+        if: matrix.site == 'seekingalpha-notable-calls'
+        id: node-cache
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: node_modules-${{ runner.os }}-${{ hashFiles('package.json') }}
 
       - name: Install npm dependencies
-        run: npm ci || npm install
+        if: matrix.site == 'seekingalpha-notable-calls' && steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
 
-      # ── Playwright-Chromium nur installieren, wenn diese Site Browser-Engine nutzt ──
       - name: Cache Playwright browser
         if: matrix.site == 'seekingalpha-notable-calls'
         id: pw-cache
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
-          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package-lock.json', 'package.json') }}
+          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package.json') }}
 
       - name: Install Playwright Chromium
         if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit != 'true'
