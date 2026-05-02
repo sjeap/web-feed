@@ -11,17 +11,6 @@
     "linkSelector": "href=\"([^\"]+)\""
   },
   {
-    "id": "handelsblatt",
-    "name": "Handelsblatt – Schlagzeilen",
-    "url": "https://www.handelsblatt.com/",
-    "filter": null,
-    "output": "feed-handelsblatt.xml",
-    "teaserSplit": "<article",
-    "titleSelector": "<h[23][^>]*>([\\s\\S]*?)<\\/h[23]>",
-    "dateSelector": "<time[^>]*>([\\s\\S]*?)<\\/time>",
-    "linkSelector": "href=\"([^\"]+)\""
-  },
-  {
     "id": "seekingalpha-notable-calls",
     "name": "Seeking Alpha – Notable Calls",
     "url": "https://seekingalpha.com/market-news/notable-calls",
@@ -32,5 +21,16 @@
     "dateSelector": "<time[^>]*datetime=\"([^\"]+)\"",
     "linkSelector": "href=\"(/news/[^\"]+)\"",
     "engine": "browser"
+  },
+  {
+    "id": "visualcapitalist",
+    "name": "Visual Capitalist – Popular",
+    "url": "https://www.visualcapitalist.com/",
+    "filter": null,
+    "output": "feed-visualcapitalist.xml",
+    "teaserSplit": "class=\"mvp-feat1-pop-text\"",
+    "titleSelector": "<h2[^>]*>([\\s\\S]*?)<\\/h2>",
+    "dateSelector": "<span class=\"mvp-cd-date\"[^>]*>([\\s\\S]*?)<\\/span>",
+    "linkSelector": "href=\"([^\"]+)\""
   }
 ]
