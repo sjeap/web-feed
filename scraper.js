@@ -1,20 +1,23 @@
 /**
- * scraper.js — Matrix-fähig (robuste Variante, v2)
+ * scraper.js — Matrix-fähig (robuste Variante, v3)
  * Aufruf: node scraper.js <site-id>
  *
- * Neu in v2:
+ * Neu in v3:
+ *  • Browser-Engine nutzt Patchright (Stealth-Playwright-Fork)
+ *    statt vanilla Playwright → besserer Cloudflare-Bypass
+ *  • Patchright benötigt launchPersistentContext für volle Stealth-Wirkung
+ *  • Manuelle Stealth-Init-Scripts entfernt (patchright handhabt das auf C++-Ebene)
+ *
+ * Aus v2:
  *  • Optionales Feld `engine: "browser"` in sites.json
- *    → nutzt Playwright Chromium statt https.get
- *    → für Cloudflare/Bot-geschützte Seiten (z.B. Seeking Alpha)
  *
  * Aus v1:
- *  • Split-Fallbacks, falls teaserSplit aus sites.json nicht greift
- *  • Titel-Fallbacks pro Block (h2/h3/title-Attribut)
- *  • Decompression von gzip/deflate/br Responses
- *  • Status-Code-Check (4xx/5xx → Fehler)
- *  • Bild-Extraktion: src ODER data-src, Reihenfolge egal
- *  • Vollständige HTML-Entity-Dekodierung
- *  • Diagnose-Stats im Log
+ *  • Split- und Title-Fallbacks
+ *  • Decompression von gzip/deflate/br
+ *  • Status-Code-Check
+ *  • Bild-Extraktion (src/data-src)
+ *  • HTML-Entity-Dekodierung
+ *  • Diagnose-Stats
  *  • Snapshot bei PARSE_FAILED
  *  • Robusteres Redirect-Handling
  */
@@ -24,6 +27,7 @@ const http  = require("http");
 const zlib  = require("zlib");
 const fs    = require("fs");
 const path  = require("path");
+const os    = require("os");
 const { URL } = require("url");
 
 const SITES_FILE    = path.join(__dirname, "sites.json");
@@ -92,69 +96,63 @@ function fetchPageHttps(url, redirectCount = 0) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Engine 2: Playwright Chromium (für Cloudflare-/JS-protected Seiten)
+// Engine 2: Patchright Chromium (stealth, für Cloudflare-protected Seiten)
 // ─────────────────────────────────────────────────────────────────────
 async function fetchPageBrowser(url) {
-  console.log("   🌐 Engine: Playwright Chromium (Browser-Modus)");
-  const { chromium } = require("playwright");
+  console.log("   🌐 Engine: Patchright Chromium (Stealth-Modus)");
+  const { chromium } = require("patchright");
 
-  const browser = await chromium.launch({
-    headless: true,
-    args: [
-      "--disable-blink-features=AutomationControlled",
-      "--no-sandbox",
-      "--disable-dev-shm-usage",
-    ],
+  // Patchright braucht launchPersistentContext für vollen Stealth-Effekt.
+  // Ein temporäres User-Data-Verzeichnis pro Run reicht — wird in CI eh weggeworfen.
+  const userDataDir = fs.mkdtempSync(path.join(os.tmpdir(), "patchright-"));
+
+  // KEINE manuellen `args` und KEINE addInitScript-Aufrufe —
+  // patchright optimiert das selbst, manuelle Patches stören nur.
+  const context = await chromium.launchPersistentContext(userDataDir, {
+    headless:   true,
+    viewport:   { width: 1366, height: 768 },
+    locale:     "en-US",
+    timezoneId: "America/New_York",
+    userAgent:
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    extraHTTPHeaders: {
+      "Accept-Language": "en-US,en;q=0.9",
+    },
   });
 
   try {
-    const context = await browser.newContext({
-      userAgent:
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      viewport:   { width: 1366, height: 768 },
-      locale:     "en-US",
-      timezoneId: "America/New_York",
-      extraHTTPHeaders: {
-        "Accept-Language": "en-US,en;q=0.9",
-      },
-    });
-
-    // Stealth: webdriver-Flag verstecken (oft Cloudflare-Indikator)
-    await context.addInitScript(() => {
-      Object.defineProperty(navigator, "webdriver", { get: () => undefined });
-      // Plugins/Languages plausibel setzen
-      Object.defineProperty(navigator, "languages", { get: () => ["en-US", "en"] });
-    });
-
     const page = await context.newPage();
 
-    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
 
-    // Cloudflare-Challenge ggf. abwarten (löst sich von selbst, meist <5s)
-    await page.waitForTimeout(5000);
+    // Cloudflare-Challenge ggf. abwarten — patchright löst sie meist von selbst
+    await page.waitForTimeout(8000);
 
-    // Best-effort: warte auf Content-Indikator, sonst weitermachen
+    // Best-effort: warte auf Content-Indikator
     try {
-      await page.waitForSelector("article, main, [data-test-id]", { timeout: 8000 });
+      await page.waitForSelector("article, main, [data-test-id]", { timeout: 10000 });
     } catch (e) {
-      console.log("   ⚠ Kein Content-Selektor erkannt – Cloudflare hat ggf. geblockt");
+      console.log("   ⚠ Kein Content-Selektor erkannt – Wall evtl. nicht durchbrochen");
     }
 
     const html = await page.content();
 
-    // Cloudflare-Challenge erkennen (heuristisch)
+    // Heuristische Block-Erkennung
     if (
       html.includes("Just a moment") ||
       html.includes("cf-browser-verification") ||
-      html.includes("Checking your browser")
+      html.includes("Checking your browser") ||
+      html.includes("Access denied") ||
+      html.length < 20000
     ) {
-      console.log("   ⚠ Cloudflare-Challenge wurde im HTML gefunden – Bypass evtl. fehlgeschlagen");
+      console.log(`   ⚠ Verdächtige Antwort (${html.length} Zeichen) – ggf. weiterhin blockiert`);
     }
 
     return html;
   } finally {
-    await browser.close();
+    await context.close();
+    try { fs.rmSync(userDataDir, { recursive: true, force: true }); } catch (e) {}
   }
 }
 

@@ -4,6 +4,6 @@
   "private": true,
   "description": "RSS-Feed-Generator via Web-Scraping",
   "dependencies": {
-    "playwright": "^1.50.0"
+    "patchright": "^1.50.0"
   }
 }
