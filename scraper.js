@@ -1,18 +1,22 @@
 /**
- * scraper.js — Matrix-fähig (robuste Variante)
+ * scraper.js — Matrix-fähig (robuste Variante, v2)
  * Aufruf: node scraper.js <site-id>
- * Beispiel: node scraper.js manager-magazin
  *
- * Änderungen ggü. der Vorversion:
+ * Neu in v2:
+ *  • Optionales Feld `engine: "browser"` in sites.json
+ *    → nutzt Playwright Chromium statt https.get
+ *    → für Cloudflare/Bot-geschützte Seiten (z.B. Seeking Alpha)
+ *
+ * Aus v1:
  *  • Split-Fallbacks, falls teaserSplit aus sites.json nicht greift
  *  • Titel-Fallbacks pro Block (h2/h3/title-Attribut)
  *  • Decompression von gzip/deflate/br Responses
- *  • Status-Code-Check (4xx/5xx → Fehler statt Müll-HTML)
+ *  • Status-Code-Check (4xx/5xx → Fehler)
  *  • Bild-Extraktion: src ODER data-src, Reihenfolge egal
- *  • Vollständige HTML-Entity-Dekodierung im Titel
+ *  • Vollständige HTML-Entity-Dekodierung
  *  • Diagnose-Stats im Log
- *  • Größerer Snapshot bei PARSE_FAILED
- *  • Robusteres Redirect-Handling (auch relative Locations)
+ *  • Snapshot bei PARSE_FAILED
+ *  • Robusteres Redirect-Handling
  */
 
 const https = require("https");
@@ -40,9 +44,9 @@ if (!site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Fetching mit Redirect-, Status- und Encoding-Handling
+// Engine 1: HTTPS (lightweight, default)
 // ─────────────────────────────────────────────────────────────────────
-function fetchPage(url, redirectCount = 0) {
+function fetchPageHttps(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
     if (redirectCount > 5) return reject(new Error("Zu viele Redirects"));
 
@@ -55,26 +59,24 @@ function fetchPage(url, redirectCount = 0) {
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
           "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "de-DE,de;q=0.9",
+        "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
         "Accept-Encoding": "gzip, deflate, br",
         "Cache-Control":   "no-cache",
       },
     };
 
     lib.get(url, options, (res) => {
-      // Redirects (auch relative Location-Header)
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         const nextUrl = new URL(res.headers.location, url).href;
         console.log(`   ↪ Redirect ${res.statusCode} → ${nextUrl}`);
-        res.resume(); // Body verwerfen
-        return fetchPage(nextUrl, redirectCount + 1).then(resolve).catch(reject);
+        res.resume();
+        return fetchPageHttps(nextUrl, redirectCount + 1).then(resolve).catch(reject);
       }
 
       if (res.statusCode !== 200) {
         return reject(new Error(`HTTP ${res.statusCode} ${res.statusMessage} (${url})`));
       }
 
-      // Decompression
       let stream = res;
       const enc = (res.headers["content-encoding"] || "").toLowerCase();
       if      (enc === "gzip")    stream = res.pipe(zlib.createGunzip());
@@ -87,6 +89,83 @@ function fetchPage(url, redirectCount = 0) {
       stream.on("error", reject);
     }).on("error", reject);
   });
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Engine 2: Playwright Chromium (für Cloudflare-/JS-protected Seiten)
+// ─────────────────────────────────────────────────────────────────────
+async function fetchPageBrowser(url) {
+  console.log("   🌐 Engine: Playwright Chromium (Browser-Modus)");
+  const { chromium } = require("playwright");
+
+  const browser = await chromium.launch({
+    headless: true,
+    args: [
+      "--disable-blink-features=AutomationControlled",
+      "--no-sandbox",
+      "--disable-dev-shm-usage",
+    ],
+  });
+
+  try {
+    const context = await browser.newContext({
+      userAgent:
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+      viewport:   { width: 1366, height: 768 },
+      locale:     "en-US",
+      timezoneId: "America/New_York",
+      extraHTTPHeaders: {
+        "Accept-Language": "en-US,en;q=0.9",
+      },
+    });
+
+    // Stealth: webdriver-Flag verstecken (oft Cloudflare-Indikator)
+    await context.addInitScript(() => {
+      Object.defineProperty(navigator, "webdriver", { get: () => undefined });
+      // Plugins/Languages plausibel setzen
+      Object.defineProperty(navigator, "languages", { get: () => ["en-US", "en"] });
+    });
+
+    const page = await context.newPage();
+
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+
+    // Cloudflare-Challenge ggf. abwarten (löst sich von selbst, meist <5s)
+    await page.waitForTimeout(5000);
+
+    // Best-effort: warte auf Content-Indikator, sonst weitermachen
+    try {
+      await page.waitForSelector("article, main, [data-test-id]", { timeout: 8000 });
+    } catch (e) {
+      console.log("   ⚠ Kein Content-Selektor erkannt – Cloudflare hat ggf. geblockt");
+    }
+
+    const html = await page.content();
+
+    // Cloudflare-Challenge erkennen (heuristisch)
+    if (
+      html.includes("Just a moment") ||
+      html.includes("cf-browser-verification") ||
+      html.includes("Checking your browser")
+    ) {
+      console.log("   ⚠ Cloudflare-Challenge wurde im HTML gefunden – Bypass evtl. fehlgeschlagen");
+    }
+
+    return html;
+  } finally {
+    await browser.close();
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Engine-Dispatcher
+// ─────────────────────────────────────────────────────────────────────
+async function fetchPage(url) {
+  if (site.engine === "browser") {
+    return fetchPageBrowser(url);
+  }
+  return fetchPageHttps(url);
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -124,7 +203,7 @@ function extractText(snippet, regexStr) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Multi-Strategie-Split: erst sites.json-Wert, dann Fallbacks
+// Multi-Strategie-Split
 // ─────────────────────────────────────────────────────────────────────
 function smartSplit(html, primarySplit) {
   if (primarySplit) {
@@ -159,7 +238,7 @@ function smartSplit(html, primarySplit) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Multi-Strategie-Titel: erst sites.json-Selektor, dann Fallbacks
+// Multi-Strategie-Titel
 // ─────────────────────────────────────────────────────────────────────
 const FALLBACK_TITLE_PATTERNS = [
   '<h2[^>]*>([\\s\\S]*?)<\\/h2>',
@@ -179,7 +258,7 @@ function extractTitle(block, primarySelector) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Bild: src ODER data-src, alt ODER aria-label, Reihenfolge egal
+// Bild
 // ─────────────────────────────────────────────────────────────────────
 function extractImage(block) {
   const imgTag = /<img\b[^>]*>/i.exec(block);
@@ -195,7 +274,7 @@ function extractImage(block) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Datum: deutsches Format + ISO-Fallback
+// Datum: Deutsch + ISO 8601
 // ─────────────────────────────────────────────────────────────────────
 function parseGermanDate(str) {
   if (!str) return new Date().toUTCString();
@@ -205,7 +284,6 @@ function parseGermanDate(str) {
     Juli:7, August:8, September:9, Oktober:10, November:11, Dezember:12,
   };
 
-  // "12. März, 14.05 Uhr"
   const m = str.match(/(\d{1,2})\.\s+(\w+),?\s+(\d{1,2})\.(\d{2})\s+Uhr/);
   if (m) {
     const [, day, monthName, hour, min] = m;
@@ -215,7 +293,6 @@ function parseGermanDate(str) {
     }
   }
 
-  // ISO 8601
   const iso = Date.parse(str);
   if (!isNaN(iso)) return new Date(iso).toUTCString();
 
@@ -263,7 +340,6 @@ function parseHeadlines(html, site) {
 
     const linkMatch = site.linkSelector ? new RegExp(site.linkSelector).exec(block) : null;
     const rawLink   = linkMatch ? linkMatch[1] : null;
-    const base      = new URL(site.url).origin;
     const fullLink  = rawLink
       ? rawLink.startsWith("http")
         ? rawLink
@@ -287,8 +363,8 @@ function parseHeadlines(html, site) {
   }
 
   console.log(
-    `   📊 Stats: ${stats.blocks} Blöcke · ${stats.titleFound} Titel gefunden · ` +
-    `${stats.filtered} per Filter verworfen · ${stats.deduped} Duplikate · ${items.length} Items`
+    `   📊 Stats: ${stats.blocks} Blöcke · ${stats.titleFound} Titel · ` +
+    `${stats.filtered} per Filter · ${stats.deduped} Duplikate · ${items.length} Items`
   );
   return items;
 }

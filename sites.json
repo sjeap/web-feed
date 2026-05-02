@@ -20,5 +20,17 @@
     "titleSelector": "<h[23][^>]*>([\\s\\S]*?)<\\/h[23]>",
     "dateSelector": "<time[^>]*>([\\s\\S]*?)<\\/time>",
     "linkSelector": "href=\"([^\"]+)\""
+  },
+  {
+    "id": "seekingalpha-notable-calls",
+    "name": "Seeking Alpha – Notable Calls",
+    "url": "https://seekingalpha.com/market-news/notable-calls",
+    "filter": null,
+    "output": "feed-seekingalpha-notable-calls.xml",
+    "teaserSplit": "<article",
+    "titleSelector": "<h[23][^>]*>([\\s\\S]*?)<\\/h[23]>",
+    "dateSelector": "<time[^>]*datetime=\"([^\"]+)\"",
+    "linkSelector": "href=\"(/news/[^\"]+)\"",
+    "engine": "browser"
   }
 ]
