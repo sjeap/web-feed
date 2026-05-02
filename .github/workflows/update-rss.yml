@@ -16,8 +16,8 @@ jobs:
       matrix:
         site:
           - manager-magazin
+          - handelsblatt
           - seekingalpha-notable-calls   # nutzt Browser-Engine (Patchright)
-          - visualcapitalist
 
     steps:
       - name: Checkout
