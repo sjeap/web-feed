@@ -1,14 +1,28 @@
 /**
- * scraper.js — Matrix-fähig
+ * scraper.js — Matrix-fähig (robuste Variante)
  * Aufruf: node scraper.js <site-id>
  * Beispiel: node scraper.js manager-magazin
+ *
+ * Änderungen ggü. der Vorversion:
+ *  • Split-Fallbacks, falls teaserSplit aus sites.json nicht greift
+ *  • Titel-Fallbacks pro Block (h2/h3/title-Attribut)
+ *  • Decompression von gzip/deflate/br Responses
+ *  • Status-Code-Check (4xx/5xx → Fehler statt Müll-HTML)
+ *  • Bild-Extraktion: src ODER data-src, Reihenfolge egal
+ *  • Vollständige HTML-Entity-Dekodierung im Titel
+ *  • Diagnose-Stats im Log
+ *  • Größerer Snapshot bei PARSE_FAILED
+ *  • Robusteres Redirect-Handling (auch relative Locations)
  */
 
 const https = require("https");
-const fs = require("fs");
-const path = require("path");
+const http  = require("http");
+const zlib  = require("zlib");
+const fs    = require("fs");
+const path  = require("path");
+const { URL } = require("url");
 
-const SITES_FILE = path.join(__dirname, "sites.json");
+const SITES_FILE    = path.join(__dirname, "sites.json");
 const FEED_BASE_URL = "https://sjeap.github.io/web-feed/";
 
 // ── Site-ID aus Argument lesen ──
@@ -19,101 +33,281 @@ if (!siteId) {
 }
 
 const sites = JSON.parse(fs.readFileSync(SITES_FILE, "utf8"));
-const site = sites.find(s => s.id === siteId);
+const site  = sites.find(s => s.id === siteId);
 if (!site) {
   console.error(`❌ Site '${siteId}' nicht in sites.json gefunden`);
   process.exit(1);
 }
 
-function fetchPage(url) {
+// ─────────────────────────────────────────────────────────────────────
+// Fetching mit Redirect-, Status- und Encoding-Handling
+// ─────────────────────────────────────────────────────────────────────
+function fetchPage(url, redirectCount = 0) {
   return new Promise((resolve, reject) => {
+    if (redirectCount > 5) return reject(new Error("Zu viele Redirects"));
+
+    const u   = new URL(url);
+    const lib = u.protocol === "http:" ? http : https;
+
     const options = {
       headers: {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+          "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "de-DE,de;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control":   "no-cache",
       },
     };
-    https.get(url, options, (res) => {
+
+    lib.get(url, options, (res) => {
+      // Redirects (auch relative Location-Header)
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetchPage(res.headers.location).then(resolve).catch(reject);
+        const nextUrl = new URL(res.headers.location, url).href;
+        console.log(`   ↪ Redirect ${res.statusCode} → ${nextUrl}`);
+        res.resume(); // Body verwerfen
+        return fetchPage(nextUrl, redirectCount + 1).then(resolve).catch(reject);
       }
-      let data = "";
-      res.on("data", (chunk) => (data += chunk));
-      res.on("end", () => resolve(data));
+
+      if (res.statusCode !== 200) {
+        return reject(new Error(`HTTP ${res.statusCode} ${res.statusMessage} (${url})`));
+      }
+
+      // Decompression
+      let stream = res;
+      const enc = (res.headers["content-encoding"] || "").toLowerCase();
+      if      (enc === "gzip")    stream = res.pipe(zlib.createGunzip());
+      else if (enc === "deflate") stream = res.pipe(zlib.createInflate());
+      else if (enc === "br")      stream = res.pipe(zlib.createBrotliDecompress());
+
+      const chunks = [];
+      stream.on("data",  (c) => chunks.push(c));
+      stream.on("end",   ()  => resolve(Buffer.concat(chunks).toString("utf8")));
+      stream.on("error", reject);
     }).on("error", reject);
   });
 }
 
-function extractText(snippet, regexStr) {
-  const m = new RegExp(regexStr, "i").exec(snippet);
-  if (!m) return null;
-  return m[1].replace(/<[^>]+>/g, "").trim()
-    .replace(/\s+/g, " ")
-    .replace(/&amp;/g, "&").replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'").replace(/&nbsp;/g, " ");
+// ─────────────────────────────────────────────────────────────────────
+// HTML-Helpers
+// ─────────────────────────────────────────────────────────────────────
+function decodeEntities(str) {
+  return (str || "")
+    .replace(/&amp;/g,  "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&#39;/g,  "'")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&lt;/g,   "<")
+    .replace(/&gt;/g,   ">")
+    .replace(/&shy;/g,  "")
+    .replace(/&#(\d+);/g,        (_, n) => String.fromCharCode(parseInt(n, 10)))
+    .replace(/&#x([0-9a-f]+);/gi,(_, n) => String.fromCharCode(parseInt(n, 16)));
 }
 
+function cleanText(str) {
+  if (!str) return null;
+  return decodeEntities(str.replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
+}
+
+function extractText(snippet, regexStr) {
+  if (!regexStr || !snippet) return null;
+  try {
+    const m = new RegExp(regexStr, "i").exec(snippet);
+    if (!m || !m[1]) return null;
+    return cleanText(m[1]);
+  } catch (e) {
+    console.error(`   ⚠ Regex-Fehler in Selektor: ${regexStr} (${e.message})`);
+    return null;
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Multi-Strategie-Split: erst sites.json-Wert, dann Fallbacks
+// ─────────────────────────────────────────────────────────────────────
+function smartSplit(html, primarySplit) {
+  if (primarySplit) {
+    const parts = html.split(primarySplit);
+    if (parts.length >= 3) {
+      console.log(`   ✓ Split via "${primarySplit}" → ${parts.length - 1} Blöcke`);
+      return parts;
+    }
+    console.log(
+      `   ⚠ Primary-Split "${primarySplit}" lieferte nur ${parts.length - 1} Block(s) – probiere Fallbacks`
+    );
+  }
+
+  const fallbacks = [
+    { label: "<article",                  re: /<article\b/i },
+    { label: 'class="...teaser..."',      re: /<(?:div|li|article)[^>]*class="[^"]*teaser[^"]*"/i },
+    { label: 'data-block-el="teaser"',    re: /data-block-(?:el|type|component)="[^"]*[Tt]easer/i },
+    { label: 'data-component="Teaser"',   re: /data-component="[^"]*[Tt]easer/i },
+    { label: '<li class="...headline..."',re: /<li[^>]*class="[^"]*headline[^"]*"/i },
+  ];
+
+  for (const fb of fallbacks) {
+    const parts = html.split(fb.re);
+    if (parts.length >= 3) {
+      console.log(`   ✓ Fallback-Split via ${fb.label} → ${parts.length - 1} Blöcke`);
+      return parts;
+    }
+  }
+
+  console.log("   ⚠ Keine Split-Strategie lieferte ≥2 Blöcke");
+  return primarySplit ? html.split(primarySplit) : [html];
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Multi-Strategie-Titel: erst sites.json-Selektor, dann Fallbacks
+// ─────────────────────────────────────────────────────────────────────
+const FALLBACK_TITLE_PATTERNS = [
+  '<h2[^>]*>([\\s\\S]*?)<\\/h2>',
+  '<h3[^>]*>([\\s\\S]*?)<\\/h3>',
+  '<a[^>]*\\stitle="([^"]+)"',
+  '<span[^>]*class="[^"]*headline[^"]*"[^>]*>([\\s\\S]*?)<\\/span>',
+];
+
+function extractTitle(block, primarySelector) {
+  let t = extractText(block, primarySelector);
+  if (t && t.length >= 10) return t;
+  for (const sel of FALLBACK_TITLE_PATTERNS) {
+    t = extractText(block, sel);
+    if (t && t.length >= 10) return t;
+  }
+  return null;
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Bild: src ODER data-src, alt ODER aria-label, Reihenfolge egal
+// ─────────────────────────────────────────────────────────────────────
+function extractImage(block) {
+  const imgTag = /<img\b[^>]*>/i.exec(block);
+  if (!imgTag) return { src: null, alt: null };
+  const tag = imgTag[0];
+  const src =
+    (/\sdata-src="([^"]+)"/i.exec(tag) || [])[1] ||
+    (/\ssrc="([^"]+)"/i.exec(tag)      || [])[1] || null;
+  const alt =
+    (/\salt="([^"]*)"/i.exec(tag)        || [])[1] ||
+    (/\saria-label="([^"]*)"/i.exec(tag) || [])[1] || null;
+  return { src, alt };
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Datum: deutsches Format + ISO-Fallback
+// ─────────────────────────────────────────────────────────────────────
 function parseGermanDate(str) {
   if (!str) return new Date().toUTCString();
+
   const months = {
-    Januar:1,Februar:2,März:3,April:4,Mai:5,Juni:6,
-    Juli:7,August:8,September:9,Oktober:10,November:11,Dezember:12
+    Januar:1, Februar:2, März:3, Maerz:3, April:4, Mai:5, Juni:6,
+    Juli:7, August:8, September:9, Oktober:10, November:11, Dezember:12,
   };
+
+  // "12. März, 14.05 Uhr"
   const m = str.match(/(\d{1,2})\.\s+(\w+),?\s+(\d{1,2})\.(\d{2})\s+Uhr/);
-  if (!m) return new Date().toUTCString();
-  const [, day, monthName, hour, min] = m;
-  const month = months[monthName];
-  if (!month) return new Date().toUTCString();
-  return new Date(new Date().getFullYear(), month - 1, +day, +hour, +min).toUTCString();
+  if (m) {
+    const [, day, monthName, hour, min] = m;
+    const month = months[monthName];
+    if (month) {
+      return new Date(new Date().getFullYear(), month - 1, +day, +hour, +min).toUTCString();
+    }
+  }
+
+  // ISO 8601
+  const iso = Date.parse(str);
+  if (!isNaN(iso)) return new Date(iso).toUTCString();
+
+  return new Date().toUTCString();
 }
 
+// ─────────────────────────────────────────────────────────────────────
+// Haupt-Parser
+// ─────────────────────────────────────────────────────────────────────
 function parseHeadlines(html, site) {
   const items = [];
-  const seen = new Set();
-  const parts = html.split(site.teaserSplit);
+  const seen  = new Set();
+  const parts = smartSplit(html, site.teaserSplit);
+
+  const stats = {
+    blocks:     Math.max(0, parts.length - 1),
+    titleFound: 0,
+    filtered:   0,
+    deduped:    0,
+  };
+
+  let filterRegex = null;
+  if (site.filter) {
+    try { filterRegex = new RegExp(site.filter, "i"); }
+    catch (e) { console.error(`   ⚠ Ungültiger Filter "${site.filter}": ${e.message}`); }
+  }
 
   for (let i = 1; i < parts.length; i++) {
     const block = parts[i];
 
-    const title = extractText(block, site.titleSelector);
+    const title = extractTitle(block, site.titleSelector);
     if (!title || title.length < 10) continue;
+    stats.titleFound++;
 
-    // Filter anwenden wenn definiert
-    if (site.filter && !new RegExp(site.filter, "i").test(title)) continue;
+    if (filterRegex && !filterRegex.test(title)) {
+      stats.filtered++;
+      continue;
+    }
 
-    if (seen.has(title)) continue;
+    if (seen.has(title)) {
+      stats.deduped++;
+      continue;
+    }
     seen.add(title);
 
-    const linkMatch = new RegExp(site.linkSelector).exec(block);
-    const rawLink = linkMatch ? linkMatch[1] : null;
-    const base = new URL(site.url).origin;
-    const fullLink = rawLink
-      ? rawLink.startsWith("http") ? rawLink : `${base}${rawLink}`
+    const linkMatch = site.linkSelector ? new RegExp(site.linkSelector).exec(block) : null;
+    const rawLink   = linkMatch ? linkMatch[1] : null;
+    const base      = new URL(site.url).origin;
+    const fullLink  = rawLink
+      ? rawLink.startsWith("http")
+        ? rawLink
+        : new URL(rawLink, site.url).href
       : site.url;
 
     const dateStr = extractText(block, site.dateSelector);
     const pubDate = parseGermanDate(dateStr);
 
-    const imgMatch = /<img[^>]+src="([^"]+)"[^>]*alt="([^"]*)"/.exec(block);
-    const imgSrc = imgMatch ? imgMatch[1] : null;
-    const imgAlt = imgMatch ? imgMatch[2] : title;
+    const { src: imgSrc, alt: imgAlt } = extractImage(block);
 
-    items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt });
+    items.push({
+      title,
+      link:    fullLink,
+      pubDate,
+      imgSrc,
+      imgAlt:  imgAlt || title,
+    });
+
     if (items.length >= 30) break;
   }
+
+  console.log(
+    `   📊 Stats: ${stats.blocks} Blöcke · ${stats.titleFound} Titel gefunden · ` +
+    `${stats.filtered} per Filter verworfen · ${stats.deduped} Duplikate · ${items.length} Items`
+  );
   return items;
 }
 
+// ─────────────────────────────────────────────────────────────────────
+// RSS-Bau
+// ─────────────────────────────────────────────────────────────────────
 function escapeXml(str) {
   return (str || "")
-    .replace(/&/g, "&amp;").replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
+    .replace(/&/g,  "&amp;")
+    .replace(/</g,  "&lt;")
+    .replace(/>/g,  "&gt;")
+    .replace(/"/g,  "&quot;")
+    .replace(/'/g,  "&apos;");
 }
 
 function buildRss(items, site) {
   const buildDate = new Date().toUTCString();
-  const selfUrl = `${FEED_BASE_URL}${site.output}`;
+  const selfUrl   = `${FEED_BASE_URL}${site.output}`;
 
   const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt }) => {
     const enclosure = imgSrc
@@ -148,6 +342,9 @@ function buildRss(items, site) {
 </rss>`;
 }
 
+// ─────────────────────────────────────────────────────────────────────
+// Main
+// ─────────────────────────────────────────────────────────────────────
 async function main() {
   console.log(`[${new Date().toISOString()}] [${site.id}] Fetching ${site.url} ...`);
   const html = await fetchPage(site.url);
@@ -158,9 +355,10 @@ async function main() {
   if (items.length === 0) {
     fs.writeFileSync(
       path.join(__dirname, `snapshot-${site.id}.txt`),
-      html.slice(0, 15000), "utf8"
+      html.slice(0, 30000),
+      "utf8"
     );
-    console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert`);
+    console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert (snapshot-${site.id}.txt, ~30 KB)`);
     process.exit(2);
   }
 
@@ -170,7 +368,7 @@ async function main() {
   items.forEach(({ title }) => console.log(`   • ${title}`));
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error(`❌ [${siteId}] Fehler:`, err.message);
   console.error(err.stack);
   process.exit(1);
