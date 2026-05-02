@@ -16,8 +16,8 @@ jobs:
       matrix:
         site:
           - manager-magazin
-          - seekingalpha-notable-calls   # nutzt Browser-Engine (Playwright)
-          - visualcapitalist
+          - handelsblatt
+          - seekingalpha-notable-calls   # nutzt Browser-Engine (Patchright)
 
     steps:
       - name: Checkout
@@ -31,7 +31,7 @@ jobs:
           node-version: "20"
           # bewusst KEIN `cache: "npm"` — würde lockfile verlangen UND alle Matrix-Jobs betreffen
 
-      # ── npm + Playwright nur für Sites mit Browser-Engine ──
+      # ── npm + Patchright nur für Sites mit Browser-Engine ──
       - name: Cache node_modules
         if: matrix.site == 'seekingalpha-notable-calls'
         id: node-cache
@@ -44,21 +44,21 @@ jobs:
         if: matrix.site == 'seekingalpha-notable-calls' && steps.node-cache.outputs.cache-hit != 'true'
         run: npm install
 
-      - name: Cache Playwright browser
+      - name: Cache Patchright browser
         if: matrix.site == 'seekingalpha-notable-calls'
         id: pw-cache
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
-          key: playwright-chromium-${{ runner.os }}-${{ hashFiles('package.json') }}
+          key: patchright-chromium-${{ runner.os }}-${{ hashFiles('package.json') }}
 
-      - name: Install Playwright Chromium
+      - name: Install Patchright Chromium
         if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit != 'true'
-        run: npx playwright install --with-deps chromium
+        run: npx patchright install --with-deps chromium
 
-      - name: Install Playwright system deps (cache hit case)
+      - name: Install Patchright system deps (cache hit case)
         if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit == 'true'
-        run: npx playwright install-deps chromium
+        run: npx patchright install-deps chromium
 
       # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
