@@ -3,7 +3,7 @@ name: Update RSS Feed
 on:
   schedule:
     - cron: "0 6,12,18 * * *"   # 3x täglich (6h, 12h, 18h)
-  workflow_dispatch:        # manueller Trigger
+  workflow_dispatch:            # manueller Trigger
 
 permissions:
   contents: write
@@ -11,17 +11,18 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     strategy:
-      fail-fast: false        # eine Site schlägt fehl → andere laufen weiter
+      fail-fast: false          # eine Site schlägt fehl → andere laufen weiter
       matrix:
         site:
           - manager-magazin
-          - handelsblatt       # weitere Sites hier einfach hinzufügen
+          - handelsblatt        # weitere Sites hier einfach hinzufügen
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # volle Historie für sauberen Rebase
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -48,16 +49,37 @@ jobs:
       #  if: steps.scrape.outcome == 'failure'
       #  run: node scraper.js ${{ matrix.site }}
 
-      # ── Schritt 4: Commit — feed.xml + ggf. gepatchtes sites.json ──
-      - name: Commit [${{ matrix.site }}]
+      # ── Schritt 4: Commit & Push mit Rebase-Retry (gegen Matrix-Race) ──
+      - name: Commit & Push [${{ matrix.site }}]
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Feed + ggf. von Self-heal gepatchtes sites.json stagen
           git add --ignore-errors "feed-${{ matrix.site }}.xml" sites.json
-          git diff --cached --quiet && echo "Keine Änderungen" && exit 0
-          if git diff --cached --name-only | grep -q "sites.json"; then
-            git commit -m "fix: auto-heal [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          else
-            git commit -m "chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+
+          # Nichts zu committen? sauber raus
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen für ${{ matrix.site }}"
+            exit 0
           fi
-          git push     
+
+          # Commit-Message: fix bei Self-heal (sites.json geändert), sonst chore
+          if git diff --cached --name-only | grep -q "sites.json"; then
+            MSG="fix: auto-heal [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          else
+            MSG="chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          fi
+          git commit -m "$MSG"
+
+          # Push-Retry: bei Race mit anderem Matrix-Job → rebase & retry
+          for i in 1 2 3 4 5; do
+            if git pull --rebase --autostash origin main && git push origin main; then
+              echo "✅ Push erfolgreich (Versuch $i)"
+              exit 0
+            fi
+            echo "⚠️  Push-Konflikt – Retry $i in $((i * 3))s …"
+            sleep $((i * 3))
+          done
+          echo "❌ Push nach 5 Versuchen fehlgeschlagen"
+          exit 1
