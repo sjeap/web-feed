@@ -18,6 +18,7 @@ jobs:
           - manager-magazin
           - seekingalpha-notable-calls   # nutzt Browser-Engine (Patchright)
           - visualcapitalist
+          - cnn-fear-greed
 
     steps:
       - name: Checkout
