@@ -1,5 +1,14 @@
 [
   {
+    "id": "cnn-fear-greed",
+    "name": "CNN Fear & Greed Index",
+    "url": "https://edition.cnn.com/markets/fear-and-greed",
+    "apiUrl": "https://production.dataviz.cnn.io/index/fearandgreed/graphdata",
+    "engine": "cnn-fear-greed",
+    "language": "en-US",
+    "output": "feed-cnn-fear-greed.xml"
+  },
+  {
     "id": "manager-magazin",
     "name": "Manager Magazin – Der … im Überblick",
     "url": "https://www.manager-magazin.de/schlagzeilen/",

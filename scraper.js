@@ -199,6 +199,77 @@ function extractText(snippet, regexStr) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// JSON-API-Fetcher (für engine: "cnn-fear-greed")
+// Nutzt fetchPageHttps; antwortet mit geparstem JSON-Objekt.
+// ─────────────────────────────────────────────────────────────────────
+async function fetchJsonApi(url) {
+  const raw = await fetchPageHttps(url);
+  try {
+    return JSON.parse(raw);
+  } catch (e) {
+    throw new Error(`JSON-Parse-Fehler von ${url}: ${e.message}`);
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// CNN Fear & Greed Item-Builder
+// Erzeugt aus der JSON-API genau ein RSS-Item mit den drei vom User
+// gewünschten Werten in der Description:
+//   1) Fear & Greed Index – numerischer Wert + Rating (z.B. 67, greed)
+//      [entspricht "market-fng-gauge__dial-number-value" auf der Seite]
+//   2) 5-day average put/call ratio – Rating (z.B. fear)
+//   3) VIX and its 50-day moving average – Rating (z.B. neutral)
+// ─────────────────────────────────────────────────────────────────────
+function capitalizeRating(rating) {
+  return (rating || "")
+    .split(" ")
+    .map(w => w ? w[0].toUpperCase() + w.slice(1) : w)
+    .join(" ");
+}
+
+function buildCnnFearGreedItems(data, site) {
+  const fng     = data && data.fear_and_greed;
+  const putCall = data && data.put_call_options;
+  const vix     = data && data.market_volatility_vix;
+
+  if (!fng || typeof fng.score !== "number" || !fng.rating) {
+    throw new Error("CNN-API: 'fear_and_greed' fehlt oder hat unerwartete Struktur");
+  }
+
+  const score        = Math.round(fng.score);
+  const ratingLabel  = capitalizeRating(fng.rating);
+  const putCallLabel = putCall && putCall.rating ? capitalizeRating(putCall.rating) : "n/a";
+  const vixLabel     = vix     && vix.rating     ? capitalizeRating(vix.rating)     : "n/a";
+
+  // pubDate aus CNN-timestamp; Fallback auf jetzt
+  const tsRaw   = fng.timestamp || (data.fear_and_greed_historical && data.fear_and_greed_historical.timestamp);
+  const tsDate  = tsRaw ? new Date(typeof tsRaw === "number" ? tsRaw : tsRaw) : new Date();
+  const pubDate = (isNaN(tsDate.getTime()) ? new Date() : tsDate).toUTCString();
+
+  // GUID datumsabhängig, damit Reader täglich ein neues Item erkennen
+  const dayKey = (isNaN(tsDate.getTime()) ? new Date() : tsDate).toISOString().slice(0, 10);
+  const guid   = `${site.url}#${dayKey}`;
+
+  const title = `Fear & Greed: ${score} (${ratingLabel}) – Put/Call: ${putCallLabel}, VIX: ${vixLabel}`;
+
+  const descriptionHtml =
+    `<p><strong>Fear &amp; Greed Index:</strong> ${score} (${escapeXml(ratingLabel)})</p>` +
+    `<p><strong>5-day average put/call ratio:</strong> ${escapeXml(putCallLabel)}</p>` +
+    `<p><strong>VIX and its 50-day moving average:</strong> ${escapeXml(vixLabel)}</p>`;
+
+  return [{
+    title,
+    link:    site.url,
+    pubDate,
+    imgSrc:  null,
+    imgAlt:  title,
+    guid,
+    guidIsPermaLink: false,
+    descriptionHtml,
+  }];
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Container-Slicing (neu in v4)
 // Grenzt das HTML auf einen bestimmten Bereich ein, BEVOR gesplittet wird.
 // Beide Argumente sind plain Strings (indexOf), keine Regex.
@@ -447,21 +518,25 @@ function buildRss(items, site) {
   const buildDate = new Date().toUTCString();
   const selfUrl   = `${FEED_BASE_URL}${site.output}`;
 
-  const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt }) => {
+  const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt, guid, guidIsPermaLink, descriptionHtml }) => {
     const enclosure = imgSrc
       ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="image/jpeg" length="0"/>`
       : "";
     const mediaContent = imgSrc
       ? `\n      <media:content url="${escapeXml(imgSrc)}" medium="image"><media:title>${escapeXml(imgAlt)}</media:title></media:content>`
       : "";
-    const description = imgSrc
-      ? `<![CDATA[<img src="${imgSrc}" alt="${imgAlt}"/><p>${escapeXml(title)}</p>]]>`
-      : `<![CDATA[${escapeXml(title)}]]>`;
+    const description = descriptionHtml
+      ? `<![CDATA[${descriptionHtml}]]>`
+      : imgSrc
+        ? `<![CDATA[<img src="${imgSrc}" alt="${imgAlt}"/><p>${escapeXml(title)}</p>]]>`
+        : `<![CDATA[${escapeXml(title)}]]>`;
+    const guidValue   = guid || link;
+    const isPermaLink = (guidIsPermaLink === false) ? "false" : "true";
     return `
     <item>
       <title>${escapeXml(title)}</title>
       <link>${escapeXml(link)}</link>
-      <guid isPermaLink="true">${escapeXml(link)}</guid>
+      <guid isPermaLink="${isPermaLink}">${escapeXml(guidValue)}</guid>
       <pubDate>${pubDate}</pubDate>
       <description>${description}</description>${enclosure}${mediaContent}
     </item>`;
@@ -473,7 +548,7 @@ function buildRss(items, site) {
     <title>${escapeXml(site.name)}</title>
     <link>${escapeXml(site.url)}</link>
     <description>${escapeXml(site.name)}</description>
-    <language>de-DE</language>
+    <language>${escapeXml(site.language || "de-DE")}</language>
     <lastBuildDate>${buildDate}</lastBuildDate>
     <atom:link href="${selfUrl}" rel="self" type="application/rss+xml"/>${itemsXml}
   </channel>
@@ -484,25 +559,43 @@ function buildRss(items, site) {
 // Main
 // ─────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log(`[${new Date().toISOString()}] [${site.id}] Fetching ${site.url} ...`);
-  const html = await fetchPage(site.url);
-  console.log(`   HTML geladen: ${html.length} Zeichen`);
+  console.log(`[${new Date().toISOString()}] [${site.id}] Start ...`);
 
-  const items = parseHeadlines(html, site);
+  let items;
+
+  if (site.engine === "cnn-fear-greed") {
+    // ── JSON-API-Pfad: kein HTML-Scraping, kein Teaser-Splitting
+    const apiUrl = site.apiUrl || "https://production.dataviz.cnn.io/index/fearandgreed/graphdata";
+    console.log(`   📡 Fetching JSON: ${apiUrl}`);
+    const data = await fetchJsonApi(apiUrl);
+    console.log(`   ✓ JSON empfangen, baue Item ...`);
+    items = buildCnnFearGreedItems(data, site);
+  } else {
+    // ── Standard-Pfad: HTML laden + parsen
+    console.log(`   🌐 Fetching HTML: ${site.url}`);
+    const html = await fetchPage(site.url);
+    console.log(`   HTML geladen: ${html.length} Zeichen`);
+    items = parseHeadlines(html, site);
+
+    if (items.length === 0) {
+      fs.writeFileSync(
+        path.join(__dirname, `snapshot-${site.id}.txt`),
+        html.slice(0, 30000),
+        "utf8"
+      );
+      console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert (snapshot-${site.id}.txt, ~30 KB)`);
+      process.exit(2);
+    }
+  }
 
   if (items.length === 0) {
-    fs.writeFileSync(
-      path.join(__dirname, `snapshot-${site.id}.txt`),
-      html.slice(0, 30000),
-      "utf8"
-    );
-    console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert (snapshot-${site.id}.txt, ~30 KB)`);
+    console.error(`PARSE_FAILED [${site.id}]: 0 Items`);
     process.exit(2);
   }
 
   const outputFile = path.join(__dirname, site.output);
   fs.writeFileSync(outputFile, buildRss(items, site), "utf8");
-  console.log(`✅ [${site.id}] ${items.length} Artikel → ${site.output}`);
+  console.log(`✅ [${site.id}] ${items.length} Item(s) → ${site.output}`);
   items.forEach(({ title }) => console.log(`   • ${title}`));
 }
 
