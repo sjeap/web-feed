@@ -1,12 +1,18 @@
 /**
- * scraper.js — Matrix-fähig (robuste Variante, v3)
+ * scraper.js — Matrix-fähig (robuste Variante, v4)
  * Aufruf: node scraper.js <site-id>
  *
- * Neu in v3:
+ * Neu in v4:
+ *  • Optionale Felder `containerStart` / `containerEnd` in sites.json
+ *    → grenzen das HTML vor dem teaserSplit auf einen bestimmten Bereich ein
+ *    (z. B. nur die "Popular"-Sidebar einer Themenseite)
+ *  • parseFlexibleDate (vorher parseGermanDate) versteht jetzt zusätzlich
+ *    englische Formate ("8th Apr, 2026", "Apr 8, 2026") und relative
+ *    Formate ("5 hours ago", "2 days ago", "3 weeks ago")
+ *
+ * Aus v3:
  *  • Browser-Engine nutzt Patchright (Stealth-Playwright-Fork)
- *    statt vanilla Playwright → besserer Cloudflare-Bypass
- *  • Patchright benötigt launchPersistentContext für volle Stealth-Wirkung
- *  • Manuelle Stealth-Init-Scripts entfernt (patchright handhabt das auf C++-Ebene)
+ *  • Patchright nutzt launchPersistentContext für volle Stealth-Wirkung
  *
  * Aus v2:
  *  • Optionales Feld `engine: "browser"` in sites.json
@@ -102,12 +108,8 @@ async function fetchPageBrowser(url) {
   console.log("   🌐 Engine: Patchright Chromium (Stealth-Modus)");
   const { chromium } = require("patchright");
 
-  // Patchright braucht launchPersistentContext für vollen Stealth-Effekt.
-  // Ein temporäres User-Data-Verzeichnis pro Run reicht — wird in CI eh weggeworfen.
   const userDataDir = fs.mkdtempSync(path.join(os.tmpdir(), "patchright-"));
 
-  // KEINE manuellen `args` und KEINE addInitScript-Aufrufe —
-  // patchright optimiert das selbst, manuelle Patches stören nur.
   const context = await chromium.launchPersistentContext(userDataDir, {
     headless:   true,
     viewport:   { width: 1366, height: 768 },
@@ -125,11 +127,8 @@ async function fetchPageBrowser(url) {
     const page = await context.newPage();
 
     await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
-
-    // Cloudflare-Challenge ggf. abwarten — patchright löst sie meist von selbst
     await page.waitForTimeout(8000);
 
-    // Best-effort: warte auf Content-Indikator
     try {
       await page.waitForSelector("article, main, [data-test-id]", { timeout: 10000 });
     } catch (e) {
@@ -138,7 +137,6 @@ async function fetchPageBrowser(url) {
 
     const html = await page.content();
 
-    // Heuristische Block-Erkennung
     if (
       html.includes("Just a moment") ||
       html.includes("cf-browser-verification") ||
@@ -198,6 +196,42 @@ function extractText(snippet, regexStr) {
     console.error(`   ⚠ Regex-Fehler in Selektor: ${regexStr} (${e.message})`);
     return null;
   }
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Container-Slicing (neu in v4)
+// Grenzt das HTML auf einen bestimmten Bereich ein, BEVOR gesplittet wird.
+// Beide Argumente sind plain Strings (indexOf), keine Regex.
+// Wenn start nicht gefunden wird, wird das ganze HTML zurückgegeben.
+// Wenn end nicht gefunden wird, wird bis zum Ende des HTML gesliced.
+// ─────────────────────────────────────────────────────────────────────
+function sliceContainer(html, start, end) {
+  if (!start && !end) return html;
+
+  let s = 0;
+  let e = html.length;
+
+  if (start) {
+    const idx = html.indexOf(start);
+    if (idx === -1) {
+      console.log(`   ⚠ containerStart "${start}" nicht im HTML gefunden — verwende ganzes HTML`);
+      return html;
+    }
+    s = idx;
+  }
+
+  if (end) {
+    const idx = html.indexOf(end, s + (start ? start.length : 0));
+    if (idx === -1) {
+      console.log(`   ⚠ containerEnd "${end}" nicht gefunden — slice bis Ende des HTML`);
+    } else {
+      e = idx;
+    }
+  }
+
+  const sliced = html.slice(s, e);
+  console.log(`   ✂ Container-Slice: ${html.length} → ${sliced.length} Zeichen`);
+  return sliced;
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -272,26 +306,52 @@ function extractImage(block) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Datum: Deutsch + ISO 8601
+// Datum: Deutsch + Englisch + Relativ + ISO 8601
 // ─────────────────────────────────────────────────────────────────────
-function parseGermanDate(str) {
+function parseFlexibleDate(str) {
   if (!str) return new Date().toUTCString();
+  const s = str.trim();
 
+  // ── Relativ: "5 hours ago", "2 days ago", "3 weeks ago", "1 month ago"
+  const rel = s.match(/^(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago$/i);
+  if (rel) {
+    const n   = parseInt(rel[1], 10);
+    const ms  = {
+      second: 1000,
+      minute: 60_000,
+      hour:   3_600_000,
+      day:    86_400_000,
+      week:   604_800_000,
+      month:  2_592_000_000,    // 30 Tage approx.
+      year:   31_536_000_000,   // 365 Tage approx.
+    }[rel[2].toLowerCase()];
+    if (ms) return new Date(Date.now() - n * ms).toUTCString();
+  }
+
+  // ── Englisch mit Ordnungszahl: "8th Apr, 2026", "1st Mar 2026"
+  const ord = s.match(/^(\d{1,2})(?:st|nd|rd|th)\s+(\w+)\.?,?\s+(\d{4})$/i);
+  if (ord) {
+    const cleaned = `${ord[1]} ${ord[2]} ${ord[3]}`;
+    const t = Date.parse(cleaned);
+    if (!isNaN(t)) return new Date(t).toUTCString();
+  }
+
+  // ── Deutsch: "5. Mai, 14.30 Uhr"
   const months = {
     Januar:1, Februar:2, März:3, Maerz:3, April:4, Mai:5, Juni:6,
     Juli:7, August:8, September:9, Oktober:10, November:11, Dezember:12,
   };
-
-  const m = str.match(/(\d{1,2})\.\s+(\w+),?\s+(\d{1,2})\.(\d{2})\s+Uhr/);
-  if (m) {
-    const [, day, monthName, hour, min] = m;
+  const de = s.match(/(\d{1,2})\.\s+(\w+),?\s+(\d{1,2})\.(\d{2})\s+Uhr/);
+  if (de) {
+    const [, day, monthName, hour, min] = de;
     const month = months[monthName];
     if (month) {
       return new Date(new Date().getFullYear(), month - 1, +day, +hour, +min).toUTCString();
     }
   }
 
-  const iso = Date.parse(str);
+  // ── ISO/RFC fallback
+  const iso = Date.parse(s);
   if (!isNaN(iso)) return new Date(iso).toUTCString();
 
   return new Date().toUTCString();
@@ -303,7 +363,11 @@ function parseGermanDate(str) {
 function parseHeadlines(html, site) {
   const items = [];
   const seen  = new Set();
-  const parts = smartSplit(html, site.teaserSplit);
+
+  // v4: optionales Container-Slicing vor dem Split
+  const scoped = sliceContainer(html, site.containerStart, site.containerEnd);
+
+  const parts = smartSplit(scoped, site.teaserSplit);
 
   const stats = {
     blocks:     Math.max(0, parts.length - 1),
@@ -345,7 +409,7 @@ function parseHeadlines(html, site) {
       : site.url;
 
     const dateStr = extractText(block, site.dateSelector);
-    const pubDate = parseGermanDate(dateStr);
+    const pubDate = parseFlexibleDate(dateStr);
 
     const { src: imgSrc, alt: imgAlt } = extractImage(block);
 

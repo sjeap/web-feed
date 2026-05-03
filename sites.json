@@ -28,9 +28,11 @@
     "url": "https://www.visualcapitalist.com/",
     "filter": null,
     "output": "feed-visualcapitalist.xml",
-    "teaserSplit": "class=\"mvp-feat1-pop-text\"",
+    "containerStart": "class=\"mvp-feat5-side-list",
+    "containerEnd": "<!--mvp-feat5-side-list-->",
+    "teaserSplit": "class=\"mvp-feat1-list-cont",
     "titleSelector": "<h2[^>]*>([\\s\\S]*?)<\\/h2>",
-    "dateSelector": "<span class=\"mvp-cd-date\"[^>]*>([\\s\\S]*?)<\\/span>",
+    "dateSelector": "<span class=\"mvp-cd-date[^\"]*\"[^>]*>([\\s\\S]*?)<\\/span>",
     "linkSelector": "href=\"([^\"]+)\""
   }
 ]
