@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 10:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:16:57 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -15,15 +15,6 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" alt="Data visualization showing the world&#039;s most powerful and least powerful passports."/><p>Ranked: The World’s Most Powerful Passports in 2026</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" medium="image"><media:title>Data visualization showing the world&amp;#039;s most powerful and least powerful passports.</media:title></media:content>
-    </item>
-    <item>
-      <title>Mapped: The Cost of Living Across America</title>
-      <link>https://www.visualcapitalist.com/mapped-the-annual-cost-of-living-in-every-u-s-state/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/mapped-the-annual-cost-of-living-in-every-u-s-state/</guid>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-4-80x80.webp" alt="Map showing the average cost of living per household by state in 2026."/><p>Mapped: The Cost of Living Across America</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-4-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-4-80x80.webp" medium="image"><media:title>Map showing the average cost of living per household by state in 2026.</media:title></media:content>
     </item>
     <item>
       <title>Mapped: What It Takes to Be Upper-Middle Class in Every State</title>
@@ -60,6 +51,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Where-Workers-are-Most-Productive_02-share-80x80.webp" alt="Horizontal bar chart showing GDP generated per hour worked by OECD countries."/><p>Ranked: The Most Productive Countries in the World</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Where-Workers-are-Most-Productive_02-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Where-Workers-are-Most-Productive_02-share-80x80.webp" medium="image"><media:title>Horizontal bar chart showing GDP generated per hour worked by OECD countries.</media:title></media:content>
+    </item>
+    <item>
+      <title>Ranked: Who Uses the World’s Coal?</title>
+      <link>https://www.visualcapitalist.com/ranked-who-uses-the-worlds-coal/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-who-uses-the-worlds-coal/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/coal-consumption-share-2-80x80.webp" alt="Ranked: Who Uses the World’s Coal?"/><p>Ranked: Who Uses the World’s Coal?</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/coal-consumption-share-2-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/coal-consumption-share-2-80x80.webp" medium="image"><media:title>Ranked: Who Uses the World’s Coal?</media:title></media:content>
     </item>
   </channel>
 </rss>
