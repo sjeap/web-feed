@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 11 May 2026 16:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 21:55:00 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -35,15 +35,6 @@
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/quality-of-life-share-80x80.webp" medium="image"><media:title>Mapped: America’s Best States to Live In</media:title></media:content>
     </item>
     <item>
-      <title>Mapped: The Salary Needed to Live Comfortably in U.S. Cities</title>
-      <link>https://www.visualcapitalist.com/mapped-the-salary-needed-to-live-comfortably-in-u-s-cities/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/mapped-the-salary-needed-to-live-comfortably-in-u-s-cities/</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/annual-salary-live-comfortably-share-80x80.webp" alt="Mapped: The Salary Needed to Live Comfortably in U.S. Cities"/><p>Mapped: The Salary Needed to Live Comfortably in U.S. Cities</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/annual-salary-live-comfortably-share-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/annual-salary-live-comfortably-share-80x80.webp" medium="image"><media:title>Mapped: The Salary Needed to Live Comfortably in U.S. Cities</media:title></media:content>
-    </item>
-    <item>
       <title>Ranked: The Most Productive Countries in the World</title>
       <link>https://www.visualcapitalist.com/ranked-where-workers-generate-the-most-gdp-per-hour/</link>
       <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-where-workers-generate-the-most-gdp-per-hour/</guid>
@@ -60,6 +51,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/coal-consumption-share-2-80x80.webp" alt="Ranked: Who Uses the World’s Coal?"/><p>Ranked: Who Uses the World’s Coal?</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/coal-consumption-share-2-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/coal-consumption-share-2-80x80.webp" medium="image"><media:title>Ranked: Who Uses the World’s Coal?</media:title></media:content>
+    </item>
+    <item>
+      <title>Ranked: America’s Top Non-Ivy League Universities</title>
+      <link>https://www.visualcapitalist.com/ranked-the-best-non-ivy-league-universities-in-the-us/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-the-best-non-ivy-league-universities-in-the-us/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Best-Non-Ivy-League-Universities_Shareable-80x80.webp" alt="Visualization showing the top non-Ivies in the U.S. in both a ranking and a map."/><p>Ranked: America’s Top Non-Ivy League Universities</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Best-Non-Ivy-League-Universities_Shareable-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Best-Non-Ivy-League-Universities_Shareable-80x80.webp" medium="image"><media:title>Visualization showing the top non-Ivies in the U.S. in both a ranking and a map.</media:title></media:content>
     </item>
   </channel>
 </rss>
