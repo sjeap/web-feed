@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 15 May 2026 12:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 21:38:45 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -15,15 +15,6 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" alt="Data visualization showing the world&#039;s most powerful and least powerful passports."/><p>Ranked: The World’s Most Powerful Passports in 2026</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" medium="image"><media:title>Data visualization showing the world&amp;#039;s most powerful and least powerful passports.</media:title></media:content>
-    </item>
-    <item>
-      <title>Mapped: What It Takes to Be Upper-Middle Class in Every State</title>
-      <link>https://www.visualcapitalist.com/income-needed-to-be-upper-middle-class-by-state/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/income-needed-to-be-upper-middle-class-by-state/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/upper-middle-class-80x80.webp" alt="Mapped: What It Takes to Be Upper-Middle Class in Every State"/><p>Mapped: What It Takes to Be Upper-Middle Class in Every State</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/upper-middle-class-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/upper-middle-class-80x80.webp" medium="image"><media:title>Mapped: What It Takes to Be Upper-Middle Class in Every State</media:title></media:content>
     </item>
     <item>
       <title>Mapped: America’s Best States to Live In</title>
@@ -60,6 +51,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" alt="Mapped: The World’s Most (and Least) Religiously Diverse Countries"/><p>Mapped: The World’s Most (and Least) Religiously Diverse Countries</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" medium="image"><media:title>Mapped: The World’s Most (and Least) Religiously Diverse Countries</media:title></media:content>
+    </item>
+    <item>
+      <title>Europe’s $32 Trillion Economy, by Country</title>
+      <link>https://www.visualcapitalist.com/europes-32-trillion-economy-by-country/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/europes-32-trillion-economy-by-country/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" alt="Graphic showing European countries and the continent&#039;s $32 trillion economy."/><p>Europe’s $32 Trillion Economy, by Country</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" medium="image"><media:title>Graphic showing European countries and the continent&amp;#039;s $32 trillion economy.</media:title></media:content>
     </item>
   </channel>
 </rss>
