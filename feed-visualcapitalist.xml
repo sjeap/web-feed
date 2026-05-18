@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 17 May 2026 20:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 16:42:52 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -15,6 +15,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" alt="Data visualization showing the world&#039;s most powerful and least powerful passports."/><p>Ranked: The World’s Most Powerful Passports in 2026</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" medium="image"><media:title>Data visualization showing the world&amp;#039;s most powerful and least powerful passports.</media:title></media:content>
+    </item>
+    <item>
+      <title>Ranked: Countries With the Highest Water Use Per Person</title>
+      <link>https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" alt="Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand."/><p>Ranked: Countries With the Highest Water Use Per Person</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" medium="image"><media:title>Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand.</media:title></media:content>
     </item>
     <item>
       <title>Ranked: Who Uses the World’s Coal?</title>
@@ -51,15 +60,6 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" alt="Graphic showing European countries and the continent&#039;s $32 trillion economy."/><p>Europe’s $32 Trillion Economy, by Country</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" medium="image"><media:title>Graphic showing European countries and the continent&amp;#039;s $32 trillion economy.</media:title></media:content>
-    </item>
-    <item>
-      <title>Mapped: Gas Prices Worldwide, From $0.09 to $15.65</title>
-      <link>https://www.visualcapitalist.com/mapped-gas-prices-worldwide-from-0-09-to-15-65/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/mapped-gas-prices-worldwide-from-0-09-to-15-65/</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Gasoline-Prices-Around-the-World-2026-Shareable-May4-1-80x80.webp" alt="This map shows gasoline prices in 170 countries as of April 2026, based on data from GlobalPetrolPrices."/><p>Mapped: Gas Prices Worldwide, From $0.09 to $15.65</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Gasoline-Prices-Around-the-World-2026-Shareable-May4-1-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Gasoline-Prices-Around-the-World-2026-Shareable-May4-1-80x80.webp" medium="image"><media:title>This map shows gasoline prices in 170 countries as of April 2026, based on data from GlobalPetrolPrices.</media:title></media:content>
     </item>
   </channel>
 </rss>
