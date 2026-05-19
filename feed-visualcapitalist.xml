@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 18 May 2026 21:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:54:27 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -15,6 +15,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" alt="Data visualization showing the world&#039;s most powerful and least powerful passports."/><p>Ranked: The World’s Most Powerful Passports in 2026</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Passport-Strength_02-share-80x80.webp" medium="image"><media:title>Data visualization showing the world&amp;#039;s most powerful and least powerful passports.</media:title></media:content>
+    </item>
+    <item>
+      <title>Mapped: America’s Most-Spoken Languages After English and Spanish</title>
+      <link>https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" alt="See the most-spoken languages in America besides English and Spanish, based on U.S. Census data."/><p>Mapped: America’s Most-Spoken Languages After English and Spanish</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" medium="image"><media:title>See the most-spoken languages in America besides English and Spanish, based on U.S. Census data.</media:title></media:content>
     </item>
     <item>
       <title>Ranked: Countries With the Highest Water Use Per Person</title>
@@ -51,15 +60,6 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" alt="Mapped: The World’s Most (and Least) Religiously Diverse Countries"/><p>Mapped: The World’s Most (and Least) Religiously Diverse Countries</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" medium="image"><media:title>Mapped: The World’s Most (and Least) Religiously Diverse Countries</media:title></media:content>
-    </item>
-    <item>
-      <title>Europe’s $32 Trillion Economy, by Country</title>
-      <link>https://www.visualcapitalist.com/europes-32-trillion-economy-by-country/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/europes-32-trillion-economy-by-country/</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" alt="Graphic showing European countries and the continent&#039;s $32 trillion economy."/><p>Europe’s $32 Trillion Economy, by Country</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/shareable-2-80x80.webp" medium="image"><media:title>Graphic showing European countries and the continent&amp;#039;s $32 trillion economy.</media:title></media:content>
     </item>
   </channel>
 </rss>
