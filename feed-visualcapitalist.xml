@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 22:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:58:33 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -24,6 +24,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" alt="See the most-spoken languages in America besides English and Spanish, based on U.S. Census data."/><p>Mapped: America’s Most-Spoken Languages After English and Spanish</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" medium="image"><media:title>See the most-spoken languages in America besides English and Spanish, based on U.S. Census data.</media:title></media:content>
+    </item>
+    <item>
+      <title>Ranked: The 30 Highest-Paying Jobs in America</title>
+      <link>https://www.visualcapitalist.com/ranked-the-30-highest-paying-jobs-in-america/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-the-30-highest-paying-jobs-in-america/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Americas-Highest-Paying-Jobs_shareable_May19-80x80.webp" alt="Horizontal bar chart showing the highest-paying jobs in America."/><p>Ranked: The 30 Highest-Paying Jobs in America</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Americas-Highest-Paying-Jobs_shareable_May19-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Americas-Highest-Paying-Jobs_shareable_May19-80x80.webp" medium="image"><media:title>Horizontal bar chart showing the highest-paying jobs in America.</media:title></media:content>
     </item>
     <item>
       <title>Ranked: Countries With the Highest Water Use Per Person</title>
@@ -51,15 +60,6 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Best-Non-Ivy-League-Universities_Shareable-80x80.webp" alt="Visualization showing the top non-Ivies in the U.S. in both a ranking and a map."/><p>Ranked: America’s Top Non-Ivy League Universities</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Best-Non-Ivy-League-Universities_Shareable-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Best-Non-Ivy-League-Universities_Shareable-80x80.webp" medium="image"><media:title>Visualization showing the top non-Ivies in the U.S. in both a ranking and a map.</media:title></media:content>
-    </item>
-    <item>
-      <title>Mapped: The World’s Most (and Least) Religiously Diverse Countries</title>
-      <link>https://www.visualcapitalist.com/cp/worlds-most-and-least-religiously-diverse-countries/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/cp/worlds-most-and-least-religiously-diverse-countries/</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" alt="Mapped: The World’s Most (and Least) Religiously Diverse Countries"/><p>Mapped: The World’s Most (and Least) Religiously Diverse Countries</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/04/countries-religious-diversity-SHARE-80x80.webp" medium="image"><media:title>Mapped: The World’s Most (and Least) Religiously Diverse Countries</media:title></media:content>
     </item>
   </channel>
 </rss>
