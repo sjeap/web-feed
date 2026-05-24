@@ -1,12 +1,10 @@
 name: Update RSS Feed
 
 on:
-  workflow_dispatch:            # manueller Trigger
   schedule:
-    # GitHub Actions Cron läuft in UTC. Anker = CEST (Sommer).
-    # Im Winter (CET) laufen die Jobs eine Stunde früher in Berliner Zeit.
-    - cron: '30 4 * * *'   # 06:30 CEST (= 05:30 CET im Winter)
-    - cron: '30 16 * * *'  # 18:30 CEST (= 17:30 CET im Winter)
+    # 06:30 CEST (= 05:30 CET im Winter) und 18:30 CEST (= 17:30 CET im Winter)
+    - cron: "30 4,16 * * *"
+  workflow_dispatch:        # manueller Trigger jederzeit
 
 permissions:
   contents: write
@@ -14,55 +12,26 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     strategy:
-      fail-fast: false          # eine Site schlägt fehl → andere laufen weiter
+      fail-fast: false      # eine Site schlägt fehl → andere laufen weiter
       matrix:
         site:
           - manager-magazin
-          - seekingalpha-notable-calls   # nutzt Browser-Engine (Patchright)
+          - handelsblatt
+          - cnn-fear-greed
           - visualcapitalist
-          - cnn-fear-greed               # nutzt öffentliche JSON-API (Dataviz)
+          - seekingalpha-notable-calls
+          # weitere Sites hier einfach hinzufügen
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0        # volle Historie für sauberen Rebase
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          # bewusst KEIN `cache: "npm"` — würde lockfile verlangen UND alle Matrix-Jobs betreffen
-
-      # ── npm + Patchright nur für Sites mit Browser-Engine ──
-      - name: Cache node_modules
-        if: matrix.site == 'seekingalpha-notable-calls'
-        id: node-cache
-        uses: actions/cache@v4
-        with:
-          path: node_modules
-          key: node_modules-${{ runner.os }}-${{ hashFiles('package.json') }}
-
-      - name: Install npm dependencies
-        if: matrix.site == 'seekingalpha-notable-calls' && steps.node-cache.outputs.cache-hit != 'true'
-        run: npm install
-
-      - name: Cache Patchright browser
-        if: matrix.site == 'seekingalpha-notable-calls'
-        id: pw-cache
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: patchright-chromium-${{ runner.os }}-${{ hashFiles('package.json') }}
-
-      - name: Install Patchright Chromium
-        if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit != 'true'
-        run: npx patchright install --with-deps chromium
-
-      - name: Install Patchright system deps (cache hit case)
-        if: matrix.site == 'seekingalpha-notable-calls' && steps.pw-cache.outputs.cache-hit == 'true'
-        run: npx patchright install-deps chromium
 
       # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
@@ -76,7 +45,7 @@ jobs:
       #  env:
       #    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       #  run: |
-      #    echo "⚠️  Parse fehlgeschlagen — starte Self-heal für ${{ matrix.site }}..."
+      #    echo "⚠️ Parse fehlgeschlagen — starte Self-heal für ${{ matrix.site }}..."
       #    node self-heal.js ${{ matrix.site }}
 
       # ── Schritt 3: Scraper nochmal nach Patch ──
@@ -84,48 +53,16 @@ jobs:
       #  if: steps.scrape.outcome == 'failure'
       #  run: node scraper.js ${{ matrix.site }}
 
-      # ── Schritt 4: Bei Fehlschlag Snapshot in den Logs zeigen ──
-      - name: Show snapshot on failure
-        if: steps.scrape.outcome == 'failure'
+      # ── Schritt 4: Commit — feed.xml + ggf. feed.svg + ggf. gepatchtes sites.json ──
+      - name: Commit [${{ matrix.site }}]
         run: |
-          if [ -f "snapshot-${{ matrix.site }}.txt" ]; then
-            echo "=== Snapshot (erste 5000 Zeichen) ==="
-            head -c 5000 "snapshot-${{ matrix.site }}.txt"
-            echo ""
-            echo "=== Ende Snapshot ==="
-          fi
-
-      # ── Schritt 5: Commit & Push mit Rebase-Retry (gegen Matrix-Race) ──
-      - name: Commit & Push [${{ matrix.site }}]
-        run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Feed + ggf. von Self-heal gepatchtes sites.json stagen
-          git add --ignore-errors "feed-${{ matrix.site }}.xml" sites.json
-
-          # Nichts zu committen? sauber raus
-          if git diff --cached --quiet; then
-            echo "Keine Änderungen für ${{ matrix.site }}"
-            exit 0
-          fi
-
-          # Commit-Message: fix bei Self-heal (sites.json geändert), sonst chore
+          git add --ignore-errors "feed-${{ matrix.site }}.xml" "feed-${{ matrix.site }}.svg" sites.json
+          git diff --cached --quiet && echo "Keine Änderungen" && exit 0
           if git diff --cached --name-only | grep -q "sites.json"; then
-            MSG="fix: auto-heal [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git commit -m "fix: auto-heal [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           else
-            MSG="chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git commit -m "chore: update feed [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           fi
-          git commit -m "$MSG"
-
-          # Push-Retry: bei Race mit anderem Matrix-Job → rebase & retry
-          for i in 1 2 3 4 5; do
-            if git pull --rebase --autostash origin main && git push origin main; then
-              echo "✅ Push erfolgreich (Versuch $i)"
-              exit 0
-            fi
-            echo "⚠️  Push-Konflikt – Retry $i in $((i * 3))s …"
-            sleep $((i * 3))
-          done
-          echo "❌ Push nach 5 Versuchen fehlgeschlagen"
-          exit 1
+          git push
