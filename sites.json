@@ -7,7 +7,7 @@
     "engine": "cnn-fear-greed",
     "language": "en-US",
     "output": "feed-cnn-fear-greed.xml",
-    "gaugeOutput": "feed-cnn-fear-greed.svg"
+    "gaugeOutput": "assets/feed-cnn-fear-greed.svg"
   },
   {
     "id": "manager-magazin",
