@@ -18,7 +18,6 @@ jobs:
       matrix:
         site:
           - manager-magazin
-          - handelsblatt
           - cnn-fear-greed
           - visualcapitalist
           - seekingalpha-notable-calls
@@ -53,12 +52,14 @@ jobs:
       #  if: steps.scrape.outcome == 'failure'
       #  run: node scraper.js ${{ matrix.site }}
 
-      # ── Schritt 4: Commit — feed.xml + ggf. feed.svg + ggf. gepatchtes sites.json ──
+      # ── Schritt 4: Commit — feed.xml (+ ggf. feed.svg) + ggf. gepatchtes sites.json ──
       - name: Commit [${{ matrix.site }}]
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add --ignore-errors "feed-${{ matrix.site }}.xml" "feed-${{ matrix.site }}.svg" sites.json
+          for f in "feed-${{ matrix.site }}.xml" "feed-${{ matrix.site }}.svg" "sites.json"; do
+            [ -f "$f" ] && git add "$f"
+          done
           git diff --cached --quiet && echo "Keine Änderungen" && exit 0
           if git diff --cached --name-only | grep -q "sites.json"; then
             git commit -m "fix: auto-heal [${{ matrix.site }}] [$(date -u '+%Y-%m-%d %H:%M UTC')]"
