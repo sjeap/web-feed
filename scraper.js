@@ -427,7 +427,7 @@ function buildCnnFearGreedItems(data, site) {
     ? `${FEED_BASE_URL}${site.gaugeOutput}?v=${dayKey}`
     : null;
 
-  const title = `Fear & Greed: ${score} (${ratingLabel}) – Put/Call: ${putCallLabel}, VIX: ${vixLabel}`;
+  const title = `Fear & Greed: ${score} (${ratingLabel}) // Put-Call Ratio: ${putCallLabel} // Market Volatility VIX: ${vixLabel}`;
 
   // Schön formatierte HTML-Description: Bild + Tabelle
   const imgBlock = gaugeUrl
