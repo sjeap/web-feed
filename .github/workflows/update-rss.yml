@@ -1,9 +1,12 @@
 name: Update RSS Feed
 
 on:
-  schedule:
-    - cron: "0 6,12,18 * * *"   # 3x täglich (6h, 12h, 18h)
   workflow_dispatch:            # manueller Trigger
+  schedule:
+    # GitHub Actions Cron läuft in UTC. Anker = CEST (Sommer).
+    # Im Winter (CET) laufen die Jobs eine Stunde früher in Berliner Zeit.
+    - cron: '30 4 * * *'   # 06:30 CEST (= 05:30 CET im Winter)
+    - cron: '30 16 * * *'  # 18:30 CEST (= 17:30 CET im Winter)
 
 permissions:
   contents: write
