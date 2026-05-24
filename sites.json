@@ -6,7 +6,8 @@
     "apiUrl": "https://production.dataviz.cnn.io/index/fearandgreed/graphdata",
     "engine": "cnn-fear-greed",
     "language": "en-US",
-    "output": "feed-cnn-fear-greed.xml"
+    "output": "feed-cnn-fear-greed.xml",
+    "gaugeOutput": "feed-cnn-fear-greed.svg"
   },
   {
     "id": "manager-magazin",

@@ -212,6 +212,173 @@ async function fetchJsonApi(url) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// CNN Fear & Greed: Bands (Schwellwerte + Farben)
+// Farben matchen das aktuelle CNN-Design: nur das aktive Band ist farbig,
+// alle anderen sind hellgrau.
+// ─────────────────────────────────────────────────────────────────────
+const FNG_BANDS = [
+  { key: "extreme fear",  label: "Extreme Fear",  min:  0, max: 25,  color: "#F08080", text: "EXTREME FEAR" },
+  { key: "fear",          label: "Fear",          min: 25, max: 45,  color: "#F5B97F", text: "FEAR" },
+  { key: "neutral",       label: "Neutral",       min: 45, max: 55,  color: "#F5DC85", text: "NEUTRAL" },
+  { key: "greed",         label: "Greed",         min: 55, max: 75,  color: "#9DDFC4", text: "GREED" },
+  { key: "extreme greed", label: "Extreme Greed", min: 75, max: 100, color: "#7DD3A0", text: "EXTREME GREED" },
+];
+const FNG_INACTIVE_COLOR = "#ebedf0";
+const FNG_LABEL_COLOR    = "#3a3a3a";
+const FNG_SCALE_COLOR    = "#9aa0a6";
+const FNG_NEEDLE_COLOR   = "#1a1a1a";
+const FNG_VALUE_COLOR    = "#1a1a1a";
+
+function bandForRating(rating) {
+  const r = (rating || "").trim().toLowerCase();
+  return FNG_BANDS.find(b => b.key === r) || null;
+}
+
+function bandForScore(score) {
+  return FNG_BANDS.find(b => score >= b.min && score < b.max) ||
+         FNG_BANDS[FNG_BANDS.length - 1];
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// SVG Gauge: Polar → Cartesian (SVG: Y-Achse nach unten)
+// ─────────────────────────────────────────────────────────────────────
+function polar(cx, cy, r, angleDeg) {
+  const rad = (angleDeg * Math.PI) / 180;
+  return {
+    x: cx + r * Math.cos(rad),
+    y: cy - r * Math.sin(rad),
+  };
+}
+
+// Annularer Sektor (Donut-Slice) zwischen Score s1 und s2 (0..100)
+function annularSector(cx, cy, rO, rI, s1, s2) {
+  // Score → Winkel: 0 = 180° (links), 100 = 0° (rechts)
+  const a1 = 180 - s1 * 1.8;
+  const a2 = 180 - s2 * 1.8;
+  const pO1 = polar(cx, cy, rO, a1);
+  const pO2 = polar(cx, cy, rO, a2);
+  const pI1 = polar(cx, cy, rI, a1);
+  const pI2 = polar(cx, cy, rI, a2);
+  return [
+    `M ${pO1.x.toFixed(2)} ${pO1.y.toFixed(2)}`,
+    `A ${rO} ${rO} 0 0 1 ${pO2.x.toFixed(2)} ${pO2.y.toFixed(2)}`,
+    `L ${pI2.x.toFixed(2)} ${pI2.y.toFixed(2)}`,
+    `A ${rI} ${rI} 0 0 0 ${pI1.x.toFixed(2)} ${pI1.y.toFixed(2)}`,
+    "Z",
+  ].join(" ");
+}
+
+// Text-Helper (Single-Line oder Multi-Line via tspan)
+function svgText(x, y, lines, opts = {}) {
+  const {
+    fontSize   = 14,
+    fontWeight = "700",
+    fill       = "#000000",
+    fontFamily = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+  } = opts;
+  const lh  = fontSize + 2;
+  const arr = Array.isArray(lines) ? lines : [lines];
+  const xs  = x.toFixed(1);
+  const ys  = y.toFixed(1);
+  const common = `text-anchor="middle" dominant-baseline="central" font-family="${fontFamily}" font-size="${fontSize}" font-weight="${fontWeight}" fill="${fill}"`;
+  if (arr.length === 1) {
+    return `<text x="${xs}" y="${ys}" ${common}>${arr[0]}</text>`;
+  }
+  const startDy = -((arr.length - 1) * lh) / 2;
+  const tspans  = arr.map((line, i) =>
+    `<tspan x="${xs}" dy="${i === 0 ? startDy : lh}">${line}</tspan>`
+  ).join("");
+  return `<text x="${xs}" y="${ys}" ${common}>${tspans}</text>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Gauge-SVG-Renderer (exakt im CNN-Design)
+//   score:  0..100  (z.B. 67)
+//   rating: "extreme fear" | "fear" | "neutral" | "greed" | "extreme greed"
+//           (Falls leer, wird Band aus Score abgeleitet)
+// ─────────────────────────────────────────────────────────────────────
+function renderGaugeSvg(score, rating) {
+  const W = 680;
+  const H = 400;
+  const cx = W / 2;     // 340
+  const cy = 350;
+  const rO = 290;       // Außenradius des Bogens
+  const rI = 170;       // Innenradius des Bogens
+  const labelR = (rO + rI) / 2;  // 230 — Mitte des Bogens, für Bandlabels
+  const scaleR = 148;   // innerhalb des Innenbogens, für Skala-Zahlen
+  const tickR  = 132;   // innerhalb der Skala-Zahlen, für Tick-Dots
+  const centerR = 48;
+  const active = bandForRating(rating) || bandForScore(score);
+
+  // 1) Sektoren — nur das aktive ist farbig, alle anderen hellgrau
+  const sectors = FNG_BANDS.map(b => {
+    const fill = active && b.key === active.key ? b.color : FNG_INACTIVE_COLOR;
+    return `  <path d="${annularSector(cx, cy, rO, rI, b.min, b.max)}" fill="${fill}"/>`;
+  }).join("\n");
+
+  // 2) Bandlabels — INNERHALB des Bogens, tangential gedreht
+  //    Rotation: für mathematischen Winkel θ ist die Tangente um (90 - θ) im Uhrzeigersinn gedreht
+  const labels = FNG_BANDS.map(b => {
+    const mid   = (b.min + b.max) / 2;
+    const angle = 180 - mid * 1.8;
+    const rot   = 90 - angle;       // SVG-Rotation (Uhrzeigersinn)
+    const p     = polar(cx, cy, labelR, angle);
+    const lines = b.text.split(" ");
+    const x = p.x.toFixed(2);
+    const y = p.y.toFixed(2);
+
+    // Multi-Line: erste Zeile außen (weg vom Zentrum, dy negativ), zweite Zeile innen
+    const lh = 14;
+    const startDy = lines.length > 1 ? -(lines.length - 1) * lh / 2 : 0;
+    const tspans = lines.map((line, i) =>
+      `<tspan x="${x}" dy="${i === 0 ? startDy : lh}">${line}</tspan>`
+    ).join("");
+
+    return `  <text transform="rotate(${rot.toFixed(2)} ${x} ${y})" x="${x}" y="${y}" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="${FNG_LABEL_COLOR}">${tspans}</text>`;
+  }).join("\n");
+
+  // 3) Skala-Zahlen (0, 25, 50, 75, 100) — innerhalb, NICHT rotiert
+  const scaleNums = [0, 25, 50, 75, 100].map(s => {
+    const angle = 180 - s * 1.8;
+    const p = polar(cx, cy, scaleR, angle);
+    return `  <text x="${p.x.toFixed(2)}" y="${p.y.toFixed(2)}" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" fill="${FNG_SCALE_COLOR}">${s}</text>`;
+  }).join("\n");
+
+  // 4) Tick-Dots — alle 5 Score-Schritte, außer wo Zahlen stehen
+  const tickDots = [];
+  for (let s = 0; s <= 100; s += 5) {
+    if (s % 25 === 0) continue; // Skala-Zahlen-Positionen auslassen
+    const angle = 180 - s * 1.8;
+    const p = polar(cx, cy, tickR, angle);
+    tickDots.push(`  <circle cx="${p.x.toFixed(2)}" cy="${p.y.toFixed(2)}" r="1.6" fill="${FNG_SCALE_COLOR}"/>`);
+  }
+
+  // 5) Nadel — vom Zentrum bis zur Außenkante des Bogens
+  const clamped     = Math.max(0, Math.min(100, score));
+  const needleAngle = 180 - clamped * 1.8;
+  const needleEnd   = polar(cx, cy, rO - 4, needleAngle);
+  const needle      = `  <line x1="${cx}" y1="${cy}" x2="${needleEnd.x.toFixed(2)}" y2="${needleEnd.y.toFixed(2)}" stroke="${FNG_NEEDLE_COLOR}" stroke-width="4" stroke-linecap="round"/>`;
+
+  // 6) Center-Disk (weiß, kein Border, verdeckt Nadelfuß)
+  const centerDisk = `  <circle cx="${cx}" cy="${cy}" r="${centerR}" fill="#ffffff"/>`;
+
+  // 7) Center-Wert (großer Zahlenwert)
+  const value = `  <text x="${cx}" y="${cy}" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="${FNG_VALUE_COLOR}">${Math.round(score)}</text>`;
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">
+  <rect width="${W}" height="${H}" fill="#ffffff"/>
+${sectors}
+${tickDots.join("\n")}
+${scaleNums}
+${labels}
+${needle}
+${centerDisk}
+${value}
+</svg>`;
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // CNN Fear & Greed Item-Builder
 // Erzeugt aus der JSON-API genau ein RSS-Item mit den drei vom User
 // gewünschten Werten in der Description:
@@ -241,28 +408,57 @@ function buildCnnFearGreedItems(data, site) {
   const putCallLabel = putCall && putCall.rating ? capitalizeRating(putCall.rating) : "n/a";
   const vixLabel     = vix     && vix.rating     ? capitalizeRating(vix.rating)     : "n/a";
 
+  // Aktive Band für Akzentfarbe in der Description
+  const activeBand = bandForRating(fng.rating) || bandForScore(fng.score);
+  const accent     = activeBand ? activeBand.color : "#64748b";
+
   // pubDate aus CNN-timestamp; Fallback auf jetzt
-  const tsRaw   = fng.timestamp || (data.fear_and_greed_historical && data.fear_and_greed_historical.timestamp);
-  const tsDate  = tsRaw ? new Date(typeof tsRaw === "number" ? tsRaw : tsRaw) : new Date();
-  const pubDate = (isNaN(tsDate.getTime()) ? new Date() : tsDate).toUTCString();
+  const tsRaw  = fng.timestamp || (data.fear_and_greed_historical && data.fear_and_greed_historical.timestamp);
+  const tsDate = tsRaw ? new Date(typeof tsRaw === "number" ? tsRaw : tsRaw) : new Date();
+  const validTs = !isNaN(tsDate.getTime());
+  const pubDate = (validTs ? tsDate : new Date()).toUTCString();
+  const dayKey  = (validTs ? tsDate : new Date()).toISOString().slice(0, 10);
 
   // GUID datumsabhängig, damit Reader täglich ein neues Item erkennen
-  const dayKey = (isNaN(tsDate.getTime()) ? new Date() : tsDate).toISOString().slice(0, 10);
-  const guid   = `${site.url}#${dayKey}`;
+  const guid = `${site.url}#${dayKey}`;
+
+  // Gauge-Bild-URL (mit Cachebuster, damit Reader das aktualisierte SVG holen)
+  const gaugeUrl = site.gaugeOutput
+    ? `${FEED_BASE_URL}${site.gaugeOutput}?v=${dayKey}`
+    : null;
 
   const title = `Fear & Greed: ${score} (${ratingLabel}) – Put/Call: ${putCallLabel}, VIX: ${vixLabel}`;
 
+  // Schön formatierte HTML-Description: Bild + Tabelle
+  const imgBlock = gaugeUrl
+    ? `<p style="margin:0 0 12px 0;"><img src="${escapeXml(gaugeUrl)}" alt="${escapeXml(title)}" width="660" style="max-width:100%;height:auto;display:block;"/></p>`
+    : "";
+
   const descriptionHtml =
-    `<p><strong>Fear &amp; Greed Index:</strong> ${score} (${escapeXml(ratingLabel)})</p>` +
-    `<p><strong>5-day average put/call ratio:</strong> ${escapeXml(putCallLabel)}</p>` +
-    `<p><strong>VIX and its 50-day moving average:</strong> ${escapeXml(vixLabel)}</p>`;
+    imgBlock +
+    `<h2 style="margin:0 0 8px 0;font-family:-apple-system,system-ui,sans-serif;font-size:20px;">` +
+      `Fear &amp; Greed Index: ` +
+      `<span style="color:${accent};">${score} — ${escapeXml(ratingLabel)}</span>` +
+    `</h2>` +
+    `<table cellpadding="6" cellspacing="0" border="0" style="font-family:-apple-system,system-ui,sans-serif;font-size:14px;border-collapse:collapse;">` +
+      `<tr>` +
+        `<td style="color:#64748b;padding:4px 12px 4px 0;">5-day average put/call ratio</td>` +
+        `<td style="font-weight:600;">${escapeXml(putCallLabel)}</td>` +
+      `</tr>` +
+      `<tr>` +
+        `<td style="color:#64748b;padding:4px 12px 4px 0;">VIX and its 50-day moving average</td>` +
+        `<td style="font-weight:600;">${escapeXml(vixLabel)}</td>` +
+      `</tr>` +
+    `</table>` +
+    `<p style="color:#94a3b8;font-size:12px;margin:10px 0 0 0;font-family:-apple-system,system-ui,sans-serif;">via CNN Business</p>`;
 
   return [{
     title,
     link:    site.url,
     pubDate,
-    imgSrc:  null,
+    imgSrc:  gaugeUrl,
     imgAlt:  title,
+    mimeType: gaugeUrl ? "image/svg+xml" : null,
     guid,
     guidIsPermaLink: false,
     descriptionHtml,
@@ -518,12 +714,13 @@ function buildRss(items, site) {
   const buildDate = new Date().toUTCString();
   const selfUrl   = `${FEED_BASE_URL}${site.output}`;
 
-  const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt, guid, guidIsPermaLink, descriptionHtml }) => {
+  const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt, guid, guidIsPermaLink, descriptionHtml, mimeType }) => {
+    const itemMime  = mimeType || "image/jpeg";
     const enclosure = imgSrc
-      ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="image/jpeg" length="0"/>`
+      ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="${itemMime}" length="0"/>`
       : "";
     const mediaContent = imgSrc
-      ? `\n      <media:content url="${escapeXml(imgSrc)}" medium="image"><media:title>${escapeXml(imgAlt)}</media:title></media:content>`
+      ? `\n      <media:content url="${escapeXml(imgSrc)}" medium="image" type="${itemMime}"><media:title>${escapeXml(imgAlt)}</media:title></media:content>`
       : "";
     const description = descriptionHtml
       ? `<![CDATA[${descriptionHtml}]]>`
@@ -570,6 +767,15 @@ async function main() {
     const data = await fetchJsonApi(apiUrl);
     console.log(`   ✓ JSON empfangen, baue Item ...`);
     items = buildCnnFearGreedItems(data, site);
+
+    // SVG-Gauge mit aktuellem Wert generieren und ins Repo schreiben
+    if (site.gaugeOutput) {
+      const fng = data.fear_and_greed;
+      const svg = renderGaugeSvg(fng.score, fng.rating);
+      const svgPath = path.join(__dirname, site.gaugeOutput);
+      fs.writeFileSync(svgPath, svg, "utf8");
+      console.log(`   🎨 Gauge-SVG geschrieben → ${site.gaugeOutput} (score=${Math.round(fng.score)}, rating=${fng.rating})`);
+    }
   } else {
     // ── Standard-Pfad: HTML laden + parsen
     console.log(`   🌐 Fetching HTML: ${site.url}`);
