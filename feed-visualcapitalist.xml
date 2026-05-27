@@ -5,7 +5,7 @@
     <link>https://www.visualcapitalist.com/</link>
     <description>Visual Capitalist – Popular</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 08:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:37:52 GMT</lastBuildDate>
     <atom:link href="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ranked: The World’s Most Powerful Passports in 2026</title>
@@ -35,15 +35,6 @@
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" medium="image" type="image/jpeg"><media:title>See the most-spoken languages in America besides English and Spanish, based on U.S. Census data.</media:title></media:content>
     </item>
     <item>
-      <title>Ranked: Countries With the Highest Water Use Per Person</title>
-      <link>https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</link>
-      <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" alt="Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand."/><p>Ranked: Countries With the Highest Water Use Per Person</p>]]></description>
-      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" type="image/jpeg" length="0"/>
-      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" medium="image" type="image/jpeg"><media:title>Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand.</media:title></media:content>
-    </item>
-    <item>
       <title>Ranked: The World’s Most &amp; Least Free Countries</title>
       <link>https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/</link>
       <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/</guid>
@@ -51,6 +42,15 @@
       <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp" alt="Ranking of the world&#039;s freest and least free countries per Freedom House."/><p>Ranked: The World’s Most &amp; Least Free Countries</p>]]></description>
       <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp" type="image/jpeg" length="0"/>
       <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp" medium="image" type="image/jpeg"><media:title>Ranking of the world&amp;#039;s freest and least free countries per Freedom House.</media:title></media:content>
+    </item>
+    <item>
+      <title>Ranked: Countries With the Highest Water Use Per Person</title>
+      <link>https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</link>
+      <guid isPermaLink="true">https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" alt="Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand."/><p>Ranked: Countries With the Highest Water Use Per Person</p>]]></description>
+      <enclosure url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" type="image/jpeg" length="0"/>
+      <media:content url="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" medium="image" type="image/jpeg"><media:title>Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand.</media:title></media:content>
     </item>
     <item>
       <title>Ranked: The World’s Biggest Economies by 2031</title>
