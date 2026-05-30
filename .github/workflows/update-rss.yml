@@ -106,3 +106,56 @@ jobs:
           done
           echo "Push nach 5 Versuchen weiterhin fehlgeschlagen"
           exit 1
+
+  # ── Eigener Job: README aus ACKNOWLEDGMENTS.md zusammensetzen ──
+  # Läuft EINMAL nach allen Matrix-Jobs (needs: scrape). 'if: always()' sorgt
+  # dafür, dass er auch dann läuft, wenn einzelne Scraper-Jobs fehlschlagen.
+  # ACKNOWLEDGMENTS.md ist die Single Source of Truth; README wird nur
+  # committet, wenn sich zwischen den Markern wirklich etwas geändert hat.
+  sync-readme:
+    runs-on: ubuntu-latest
+    needs: scrape
+    if: always()
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: README mit Acknowledgments aktualisieren
+        run: |
+          node -e '
+            const fs = require("fs");
+            const ack = fs.readFileSync("ACKNOWLEDGMENTS.md", "utf8").trim();
+            let readme = fs.readFileSync("README.md", "utf8");
+            const block = "<!-- ACKNOWLEDGMENTS:START -->\n" + ack + "\n<!-- ACKNOWLEDGMENTS:END -->";
+            if (!/<!-- ACKNOWLEDGMENTS:START -->[\s\S]*<!-- ACKNOWLEDGMENTS:END -->/.test(readme)) {
+              console.error("Marker im README nicht gefunden — Abbruch.");
+              process.exit(1);
+            }
+            readme = readme.replace(/<!-- ACKNOWLEDGMENTS:START -->[\s\S]*<!-- ACKNOWLEDGMENTS:END -->/, block);
+            fs.writeFileSync("README.md", readme);
+          '
+
+      - name: Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "Keine README-Änderungen" && exit 0
+          git commit -m "docs: sync acknowledgments into README [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          # gleiche race-freie Push-Logik wie bei den Matrix-Jobs
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main || exit 1
+            if git push; then
+              exit 0
+            fi
+            echo "Push-Versuch $i fehlgeschlagen (Race) — sleep + retry..."
+            sleep $((RANDOM % 3 + 1))
+          done
+          echo "Push nach 5 Versuchen weiterhin fehlgeschlagen"
+          exit 1
