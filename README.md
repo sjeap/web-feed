@@ -11,6 +11,8 @@ web-feed/
 ├── self-heal.js            ← repariert kaputte Selektoren via Anthropic API
 ├── sites.json              ← zentrale Konfiguration aller Feeds (Single Source of Truth)
 ├── feed-*.xml              ← generierte Feeds (ein File pro Quelle)
+├── assets/                 ← generierte Zusatz-Artefakte (gaugeOutput)
+│   └── *.svg               ← z. B. Gauge-SVG für cnn-fear-greed
 ├── ACKNOWLEDGMENTS.md      ← Credits/Quellen (wird ins README gespiegelt)
 └── .github/workflows/
     └── update-rss.yml      ← Matrix-Run (cron + manueller Trigger)
