@@ -121,21 +121,17 @@ Rebase-Retry race-frei. Ein separater `sync-readme`-Job spiegelt **nach** der Ma
 ## OPML Backup
 
 Abonnement-Backup aus Twine (`backups/twine_backup.opml`). ★ = aus diesem Repo.
-Die Tabelle wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
+Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 
 <!-- OPML:START -->
-```
-| Titel | Feed |
-| --- | --- |
-| CNN Fear & Greed Index ★ | https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml |
-| Golem.de - Wissenschaft | https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0 |
-| iNTELLiGENT iNVESTiEREN | https://feeds.feedburner.com/IntelligentInvestieren |
-| Manager Magazin – Der … im Überblick ★ | https://sjeap.github.io/web-feed/feed-manager-magazin.xml |
-| t3n.de - New Finance | https://t3n.de/tag/finance/rss.xml |
-| Visual Capitalist – Popular ★ | https://sjeap.github.io/web-feed/feed-visualcapitalist.xml |
-| tagesschau.de - die erste Adresse für Nachrichten und Information | https://www.tagesschau.de/index~rss2.xmlInlandalle |
-| Golem.de - Open Source | https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0 |
-```
+- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml) ★
+- [Golem.de - Wissenschaft](https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0)
+- [iNTELLiGENT iNVESTiEREN](https://feeds.feedburner.com/IntelligentInvestieren)
+- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/feed-manager-magazin.xml) ★
+- [t3n.de - New Finance](https://t3n.de/tag/finance/rss.xml)
+- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ★
+- [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
+- [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
 <!-- OPML:END -->
 
 <!-- ACKNOWLEDGMENTS:START -->
