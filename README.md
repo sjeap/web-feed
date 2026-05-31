@@ -13,6 +13,8 @@ web-feed/
 ├── feed-*.xml              ← generierte Feeds (ein File pro Quelle)
 ├── assets/                 ← generierte Zusatz-Artefakte (gaugeOutput)
 │   └── *.svg               ← z. B. Gauge-SVG für cnn-fear-greed
+├── backups/                ← OPML-Exporte
+│   └── twine_backup.opml   ← Twine-Abo-Backup (Quelle für den OPML-Abschnitt)
 ├── ACKNOWLEDGMENTS.md      ← Credits/Quellen (wird ins README gespiegelt)
 └── .github/workflows/
     └── update-rss.yml      ← Matrix-Run (cron + manueller Trigger)
@@ -116,14 +118,23 @@ Quelle blockiert die anderen nicht. Jeder Job committet nur seine eigenen Artefa
 Rebase-Retry race-frei. Ein separater `sync-readme`-Job spiegelt **nach** der Matrix
 `ACKNOWLEDGMENTS.md` in dieses README.
 
-## Feed-URLs
+## OPML Backup
 
-```
-https://sjeap.github.io/web-feed/feed-manager-magazin.xml
-https://sjeap.github.io/web-feed/feed-visualcapitalist.xml
-https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml
-https://sjeap.github.io/web-feed/feed-seekingalpha-notable-calls.xml
-```
+Abonnement-Backup aus Twine (`backups/twine_backup.opml`). ★ = aus diesem Repo.
+Die Tabelle wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
+
+<!-- OPML:START -->
+| Titel | Feed |
+| --- | --- |
+| CNN Fear & Greed Index ★ | `https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml` |
+| Golem.de - Wissenschaft | `https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0` |
+| iNTELLiGENT iNVESTiEREN | `https://feeds.feedburner.com/IntelligentInvestieren` |
+| Manager Magazin – Der … im Überblick ★ | `https://sjeap.github.io/web-feed/feed-manager-magazin.xml` |
+| t3n.de - New Finance | `https://t3n.de/tag/finance/rss.xml` |
+| Visual Capitalist – Popular ★ | `https://sjeap.github.io/web-feed/feed-visualcapitalist.xml` |
+| tagesschau.de - die erste Adresse für Nachrichten und Information | `https://www.tagesschau.de/index~rss2.xmlInlandalle` |
+| Golem.de - Open Source | `https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0` |
+<!-- OPML:END -->
 
 <!-- ACKNOWLEDGMENTS:START -->
 ## Acknowledgments & References
@@ -131,22 +142,22 @@ https://sjeap.github.io/web-feed/feed-seekingalpha-notable-calls.xml
 Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und Quellen.
 
 ### Inspirierende Projekte
-- [feedmaker (kevinschaul)](https://github.com/kevinschaul/feedmaker) – Inspiration für die Feed-Generierung
-- [feedmaker (Hipska)](https://github.com/Hipska/feedmaker) – Inspiration für die Feed-Generierung
-- [feedmaker (williamkray)](https://github.com/williamkray/feedmaker) – Inspiration für die Feed-Generierung
+- <a href="https://github.com/kevinschaul/feedmaker" target="_blank" rel="noopener noreferrer">feedmaker (kevinschaul)</a> – Inspiration für die Feed-Generierung
+- <a href="https://github.com/Hipska/feedmaker" target="_blank" rel="noopener noreferrer">feedmaker (Hipska)</a> – Inspiration für die Feed-Generierung
+- <a href="https://github.com/williamkray/feedmaker" target="_blank" rel="noopener noreferrer">feedmaker (williamkray)</a> – Inspiration für die Feed-Generierung
 
 ### Websites
-- [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst (Referenz)
-- [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst (Referenz)
-- [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API (Referenz)
+- <a href="https://feed43.com/" target="_blank" rel="noopener noreferrer">Feed43</a> – Web-zu-RSS-Dienst (Referenz)
+- <a href="https://rsseverything.com/de" target="_blank" rel="noopener noreferrer">RSS Everything</a> – Web-zu-RSS-Dienst (Referenz)
+- <a href="https://fetchrss.com/developers" target="_blank" rel="noopener noreferrer">FetchRSS – Developers</a> – Web-zu-RSS-Dienst / API (Referenz)
 
 ### Apps
-- [Twine](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader) (Sasikanth Miriyampalli) ⭐
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) (NoNonsenseApps)
-- [FeedFlow](https://play.google.com/store/apps/details?id=com.prof18.feedflow) (Marco Gomiero)
-- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) (DevHD)
-- [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader) (QMS Apps)
-- [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
+- <a href="https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader" target="_blank" rel="noopener noreferrer">Twine</a> (Sasikanth Miriyampalli) ⭐
+- <a href="https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play" target="_blank" rel="noopener noreferrer">Feeder</a> (NoNonsenseApps)
+- <a href="https://play.google.com/store/apps/details?id=com.prof18.feedflow" target="_blank" rel="noopener noreferrer">FeedFlow</a> (Marco Gomiero)
+- <a href="https://play.google.com/store/apps/details?id=com.devhd.feedly" target="_blank" rel="noopener noreferrer">Feedly</a> (DevHD)
+- <a href="https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader" target="_blank" rel="noopener noreferrer">Pluma</a> (QMS Apps)
+- <a href="https://play.google.com/store/apps/details?id=allen.town.focus.reader" target="_blank" rel="noopener noreferrer">FocusReader</a> (Focus App)
 
 ### Built with
 Node.js · Patchright (Stealth-Chromium) · GitHub Actions · GitHub Pages
