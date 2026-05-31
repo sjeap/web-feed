@@ -141,13 +141,51 @@ jobs:
             fs.writeFileSync("README.md", readme);
           '
 
+      # ── OPML-Backup-Tabelle aus backups/twine_backup.opml neu erzeugen ──
+      # Bei jedem Run: OPML parsen, Markdown-Tabelle zwischen den OPML-Markern
+      # ersetzen. Ändert sich die OPML (neue/entfernte Feeds), erzeugt das einen
+      # Diff → der Commit-Step unten pusht ihn. Fehlt die Datei, wird übersprungen.
+      - name: README mit OPML-Backup aktualisieren
+        run: |
+          node -e '
+            const fs = require("fs");
+            const file = "backups/twine_backup.opml";
+            const S = "<!-- OPML:START -->", E = "<!-- OPML:END -->";
+            let readme = fs.readFileSync("README.md", "utf8");
+            if (!readme.includes(S) || !readme.includes(E)) {
+              console.error("OPML-Marker im README nicht gefunden — Abbruch.");
+              process.exit(1);
+            }
+            if (!fs.existsSync(file)) {
+              console.log("Keine OPML unter " + file + " — uebersprungen.");
+              process.exit(0);
+            }
+            const dec = s => s.replace(/&amp;/g,"&").replace(/&lt;/g,"<")
+              .replace(/&gt;/g,">").replace(/&quot;/g,"\"").replace(/&#39;/g,"\x27").replace(/&apos;/g,"\x27");
+            const opml = fs.readFileSync(file, "utf8");
+            const rows = [];
+            for (const line of opml.split(/\r?\n/)) {
+              const u = line.match(/xmlUrl="([^"]+)"/);
+              if (!u) continue;
+              const t = line.match(/\btitle="([^"]*)"/) || line.match(/\btext="([^"]*)"/);
+              const url = dec(u[1]);
+              const title = dec(t ? t[1] : url);
+              const star = url.includes("sjeap.github.io/web-feed/") ? " \u2605" : "";
+              rows.push("| " + title + star + " | `" + url + "` |");
+            }
+            const table = ["| Titel | Feed |", "| --- | --- |"].concat(rows).join("\n");
+            readme = readme.replace(/<!-- OPML:START -->[\s\S]*<!-- OPML:END -->/, () => S + "\n" + table + "\n" + E);
+            fs.writeFileSync("README.md", readme);
+            console.log("OPML-Tabelle aktualisiert (" + rows.length + " Feeds).");
+          '
+
       - name: Commit README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --cached --quiet && echo "Keine README-Änderungen" && exit 0
-          git commit -m "docs: sync acknowledgments into README [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git commit -m "docs: sync acknowledgments + opml into README [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           # gleiche race-freie Push-Logik wie bei den Matrix-Jobs
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash origin main || exit 1
