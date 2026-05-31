@@ -170,11 +170,11 @@ jobs:
               const t = line.match(/\btitle="([^"]*)"/) || line.match(/\btext="([^"]*)"/);
               const url = dec(u[1]);
               const title = dec(t ? t[1] : url);
-              const star = url.includes("sjeap.github.io/web-feed/") ? " \u2605" : "";
-              rows.push("| " + title + star + " | `" + url + "` |");
+              const star = url.includes("sjeap.github.io/web-feed/") ? " \u2B50" : "";
+              rows.push("- [" + title + "](" + url + ")" + star);
             }
-            const table = ["| Titel | Feed |", "| --- | --- |"].concat(rows).join("\n");
-            readme = readme.replace(/<!-- OPML:START -->[\s\S]*<!-- OPML:END -->/, () => S + "\n" + table + "\n" + E);
+            const list = rows.join("\n");
+            readme = readme.replace(/<!-- OPML:START -->[\s\S]*<!-- OPML:END -->/, () => S + "\n" + list + "\n" + E);
             fs.writeFileSync("README.md", readme);
             console.log("OPML-Tabelle aktualisiert (" + rows.length + " Feeds).");
           '
