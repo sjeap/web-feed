@@ -121,7 +121,7 @@ Rebase-Retry race-frei. Ein separater `sync-readme`-Job spiegelt **nach** der Ma
 
 ## OPML Backup
 
-Abonnement-Backup aus Twine (`backups/twine_backup.opml`). ⭐ = aus diesem Repo.
+Abonnement-Backup aus Twine (`backups/twine_backup.opml`).
 Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 
 <!-- OPML:START -->
