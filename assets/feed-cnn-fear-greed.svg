@@ -32,7 +32,7 @@
   <text transform="rotate(0.00 340.00 120.00)" x="340.00" y="120.00" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#3a3a3a"><tspan x="340.00" dy="0">NEUTRAL</tspan></text>
   <text transform="rotate(27.00 444.42 145.07)" x="444.42" y="145.07" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#3a3a3a"><tspan x="444.42" dy="0">GREED</tspan></text>
   <text transform="rotate(67.50 552.49 261.98)" x="552.49" y="261.98" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#3a3a3a"><tspan x="552.49" dy="-7">EXTREME</tspan><tspan x="552.49" dy="14">GREED</tspan></text>
-  <line x1="340" y1="350" x2="420.53" y2="75.57" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="340" y1="350" x2="403.64" y2="71.17" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
   <circle cx="340" cy="350" r="48" fill="#ffffff"/>
-  <text x="340" y="350" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="#1a1a1a">59</text>
+  <text x="340" y="350" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="#1a1a1a">57</text>
 </svg>
