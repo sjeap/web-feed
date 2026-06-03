@@ -3,8 +3,8 @@
   <rect width="680" height="400" fill="#ffffff"/>
   <path d="M 50.00 350.00 A 290 290 0 0 1 134.94 144.94 L 219.79 229.79 A 170 170 0 0 0 170.00 350.00 Z" fill="#ebedf0"/>
   <path d="M 134.94 144.94 A 290 290 0 0 1 294.63 63.57 L 313.41 182.09 A 170 170 0 0 0 219.79 229.79 Z" fill="#ebedf0"/>
-  <path d="M 294.63 63.57 A 290 290 0 0 1 385.37 63.57 L 366.59 182.09 A 170 170 0 0 0 313.41 182.09 Z" fill="#ebedf0"/>
-  <path d="M 385.37 63.57 A 290 290 0 0 1 545.06 144.94 L 460.21 229.79 A 170 170 0 0 0 366.59 182.09 Z" fill="#9DDFC4"/>
+  <path d="M 294.63 63.57 A 290 290 0 0 1 385.37 63.57 L 366.59 182.09 A 170 170 0 0 0 313.41 182.09 Z" fill="#F5DC85"/>
+  <path d="M 385.37 63.57 A 290 290 0 0 1 545.06 144.94 L 460.21 229.79 A 170 170 0 0 0 366.59 182.09 Z" fill="#ebedf0"/>
   <path d="M 545.06 144.94 A 290 290 0 0 1 630.00 350.00 L 510.00 350.00 A 170 170 0 0 0 460.21 229.79 Z" fill="#ebedf0"/>
   <circle cx="209.63" cy="329.35" r="1.6" fill="#9aa0a6"/>
   <circle cx="214.46" cy="309.21" r="1.6" fill="#9aa0a6"/>
@@ -32,7 +32,7 @@
   <text transform="rotate(0.00 340.00 120.00)" x="340.00" y="120.00" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#3a3a3a"><tspan x="340.00" dy="0">NEUTRAL</tspan></text>
   <text transform="rotate(27.00 444.42 145.07)" x="444.42" y="145.07" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#3a3a3a"><tspan x="444.42" dy="0">GREED</tspan></text>
   <text transform="rotate(67.50 552.49 261.98)" x="552.49" y="261.98" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#3a3a3a"><tspan x="552.49" dy="-7">EXTREME</tspan><tspan x="552.49" dy="14">GREED</tspan></text>
-  <line x1="340" y1="350" x2="402.14" y2="70.83" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="340" y1="350" x2="376.61" y2="66.35" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
   <circle cx="340" cy="350" r="48" fill="#ffffff"/>
-  <text x="340" y="350" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="#1a1a1a">57</text>
+  <text x="340" y="350" text-anchor="middle" dominant-baseline="central" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" fill="#1a1a1a">54</text>
 </svg>
