@@ -48,23 +48,33 @@ jobs:
       # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
         id: scrape
-        run: node scraper.js ${{ matrix.site }}
-        continue-on-error: true
+        # Bricht NIE hart ab, sondern merkt sich nur den Exit-Code als Output
+        # (0 = ok, 2 = 0 Artikel). Dadurch entsteht kein eigenes Fehler-
+        # Annotation-Rauschen, und der Self-heal-Pfad bleibt möglich.
+        run: |
+          set +e
+          node scraper.js ${{ matrix.site }}
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          exit 0
 
-      # ── Schritt 2: Self-heal wenn Exit-Code 2 (0 Artikel) ──
+      # ── Schritt 2: Self-heal wenn Exit-Code != 0 (0 Artikel) ──
       #- name: Self-heal [${{ matrix.site }}]
-      #  if: steps.scrape.outcome == 'failure'
+      #  if: steps.scrape.outputs.code != '0'
       #  env:
       #    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       #  run: |
       #    echo "⚠️ Parse fehlgeschlagen — starte Self-heal für ${{ matrix.site }}..."
       #    node self-heal.js ${{ matrix.site }}
 
-      # ── Schritt 3: Scraper nochmal nach Patch ──
+      # ── Schritt 3: Scraper nochmal nach Patch (gleiche Code-Erfassung) ──
       #- name: Re-run scraper after heal [${{ matrix.site }}]
       #  id: rescrape
-      #  if: steps.scrape.outcome == 'failure'
-      #  run: node scraper.js ${{ matrix.site }}
+      #  if: steps.scrape.outputs.code != '0'
+      #  run: |
+      #    set +e
+      #    node scraper.js ${{ matrix.site }}
+      #    echo "code=$?" >> "$GITHUB_OUTPUT"
+      #    exit 0
 
       # ── Schritt 4: Commit & Push — robust für parallele Matrix-Jobs ──
       - name: Commit [${{ matrix.site }}]
@@ -108,28 +118,22 @@ jobs:
           echo "Push nach 5 Versuchen weiterhin fehlgeschlagen"
           exit 1
 
-      # ── Schritt 5: Fail-loud — Job sichtbar rot machen, wenn der Scrape
-      # endgültig fehlschlug (0 Artikel / Exit≠0). scraper.js schreibt dann KEIN
-      # XML (bestehender Feed bleibt unverändert) und beendet mit Exit-Code 2;
-      # ohne diesen Gate würde 'continue-on-error: true' den Job fälschlich grün
-      # lassen. 'fail-fast: false' sorgt dafür, dass nur dieser eine Matrix-Job
-      # rot wird. Self-heal-kompatibel: maßgeblich ist das Ergebnis des Re-Runs
-      # (rescrape), sobald Schritt 2+3 aktiviert sind — sonst das erste Scrape.
-      - name: Fail loud on empty scrape [${{ matrix.site }}]
+      # ── Schritt 5: Soft-Signal — markiert 0 Artikel als WARNUNG, ohne den
+      # Job fehlschlagen zu lassen. Liest den Exit-Code des (ggf. geheilten)
+      # Scrapes aus dem Step-Output. Bewusst KEIN 'exit 1' → der Lauf bleibt
+      # grün (keine Fehler-Mail, kein rotes X); die gelbe '::warning::'-
+      # Annotation ist im Actions-Tab sichtbar, falls man reinschaut. Maßgeblich
+      # ist der Re-Run (rescrape), sobald Schritt 2+3 aktiviert sind — sonst der
+      # erste Scrape.
+      - name: Warn on empty scrape [${{ matrix.site }}]
         if: always()
         run: |
-          RESCRAPE="${{ steps.rescrape.outcome }}"
-          SCRAPE="${{ steps.scrape.outcome }}"
-          if [ -n "$RESCRAPE" ] && [ "$RESCRAPE" != "skipped" ]; then
-            EFFECTIVE="$RESCRAPE"
+          CODE="${{ steps.rescrape.outputs.code || steps.scrape.outputs.code }}"
+          if [ -n "$CODE" ] && [ "$CODE" != "0" ]; then
+            echo "::warning title=Scrape fehlgeschlagen::[${{ matrix.site }}] 0 Artikel (Exit $CODE) - Feed NICHT aktualisiert, bestehender Feed bleibt unveraendert."
           else
-            EFFECTIVE="$SCRAPE"
+            echo "OK [${{ matrix.site }}] Scrape erfolgreich - Feed aktualisiert oder unveraendert."
           fi
-          if [ "$EFFECTIVE" = "failure" ]; then
-            echo "::error title=Scrape fehlgeschlagen::[${{ matrix.site }}] 0 Artikel / Exit != 0 - Feed NICHT aktualisiert, bestehender Feed bleibt unveraendert."
-            exit 1
-          fi
-          echo "OK [${{ matrix.site }}] Scrape erfolgreich - Feed aktualisiert oder unveraendert."
 
   # ── Eigener Job: README aus ACKNOWLEDGMENTS.md zusammensetzen ──
   # Läuft EINMAL nach allen Matrix-Jobs (needs: scrape). 'if: always()' sorgt
