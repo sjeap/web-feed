@@ -115,7 +115,7 @@ erneut. (Im Workflow aktuell auskommentiert.) Logik-Trennung: gepatcht wird nur
 
 Jede Quelle läuft als **eigener paralleler Job**. `fail-fast: false` → eine fehlschlagende
 Quelle blockiert die anderen nicht. Erzeugt ein Lauf **0 Artikel**, wird kein leerer Feed
-geschrieben; der betroffene Job schlägt dann **sichtbar fehl** und der zuletzt
+geschrieben; der Lauf vermerkt dies als **Warnung** (ohne fehlzuschlagen) und der zuletzt
 veröffentlichte Feed bleibt unverändert. Jeder Job committet nur seine eigenen Artefakte (XML
 + ggf. SVG); die Pfade kommen aus `sites.json` (`jq`). Parallele Pushes sind durch
 Rebase-Retry race-frei. Ein separater `sync-readme`-Job spiegelt **nach** der Matrix
