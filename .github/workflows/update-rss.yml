@@ -62,6 +62,7 @@ jobs:
 
       # ── Schritt 3: Scraper nochmal nach Patch ──
       #- name: Re-run scraper after heal [${{ matrix.site }}]
+      #  id: rescrape
       #  if: steps.scrape.outcome == 'failure'
       #  run: node scraper.js ${{ matrix.site }}
 
@@ -106,6 +107,29 @@ jobs:
           done
           echo "Push nach 5 Versuchen weiterhin fehlgeschlagen"
           exit 1
+
+      # ── Schritt 5: Fail-loud — Job sichtbar rot machen, wenn der Scrape
+      # endgültig fehlschlug (0 Artikel / Exit≠0). scraper.js schreibt dann KEIN
+      # XML (bestehender Feed bleibt unverändert) und beendet mit Exit-Code 2;
+      # ohne diesen Gate würde 'continue-on-error: true' den Job fälschlich grün
+      # lassen. 'fail-fast: false' sorgt dafür, dass nur dieser eine Matrix-Job
+      # rot wird. Self-heal-kompatibel: maßgeblich ist das Ergebnis des Re-Runs
+      # (rescrape), sobald Schritt 2+3 aktiviert sind — sonst das erste Scrape.
+      - name: Fail loud on empty scrape [${{ matrix.site }}]
+        if: always()
+        run: |
+          RESCRAPE="${{ steps.rescrape.outcome }}"
+          SCRAPE="${{ steps.scrape.outcome }}"
+          if [ -n "$RESCRAPE" ] && [ "$RESCRAPE" != "skipped" ]; then
+            EFFECTIVE="$RESCRAPE"
+          else
+            EFFECTIVE="$SCRAPE"
+          fi
+          if [ "$EFFECTIVE" = "failure" ]; then
+            echo "::error title=Scrape fehlgeschlagen::[${{ matrix.site }}] 0 Artikel / Exit != 0 - Feed NICHT aktualisiert, bestehender Feed bleibt unveraendert."
+            exit 1
+          fi
+          echo "OK [${{ matrix.site }}] Scrape erfolgreich - Feed aktualisiert oder unveraendert."
 
   # ── Eigener Job: README aus ACKNOWLEDGMENTS.md zusammensetzen ──
   # Läuft EINMAL nach allen Matrix-Jobs (needs: scrape). 'if: always()' sorgt
