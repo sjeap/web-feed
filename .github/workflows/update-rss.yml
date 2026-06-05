@@ -21,6 +21,7 @@ jobs:
           - cnn-fear-greed
           - visualcapitalist
           - seekingalpha-notable-calls
+          - tagesschau-topthemen
 
     steps:
       - name: Checkout
