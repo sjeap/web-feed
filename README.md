@@ -56,11 +56,26 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Lokal funktioniert es, in CI kommt nur die Challenge-Seite an. Sauberer Weg wäre der
   offizielle RSS-Feed.
 
+### `tagesschau-topthemen` → `feed-tagesschau-topthemen.xml`
+- **Engine:** `tagesschau-carousel` (JSON-im-HTML statt Teaser-Markup)
+- **Eigenheit:** Die Teaser der „LIVE UND TOPTHEMEN"-Box stehen **nicht** im sichtbaren
+  Markup, sondern als HTML-entity-kodiertes JSON im Attribut `data-v="…"` der
+  Vue-Instanz `data-v-type="Carousel"`. Der Parser dekodiert das JSON und iteriert
+  `sliderItems[]`; `teaserSplit`/`containerStart` greifen hier bewusst nicht. Der
+  Livestream-Teaser wird über `skipLabels` / `skipUrlPatterns` herausgefiltert.
+  Reiner HTTPS-Fetch (kein Browser nötig). GUID = Artikel-URL (kein Datums-Scoping,
+  die URLs sind eindeutig).
+- Lehre: wie bei `cnn-fear-greed` — client-seitig gerenderte Seiten lieber über ihre
+  eingebetteten/strukturierten Daten als über das gerenderte HTML angehen.
+
 ## Engines (in `scraper.js`)
 
 - **Default** — HTML laden, optional via `containerStart`/`containerEnd` zuschneiden, an
   `teaserSplit` in Items zerlegen, Titel/Datum/Link per Regex-Selektoren extrahieren.
 - **`cnn-fear-greed`** — JSON-API statt HTML; eigener Output inkl. Gauge-SVG.
+- **`tagesschau-carousel`** — liest die Teaser aus dem `data-v`-JSON der
+  Startseiten-Carousel-Instanz (per `carouselName` ausgewählt); filtert via
+  `skipLabels` / `skipUrlPatterns`. Reiner HTTPS-Fetch, kein Browser.
 - **`browser`** — Rendering via Patchright für JS-Seiten.
 
 `buildRss` unterstützt optional `descriptionHtml`, `guid` und `guidIsPermaLink`; `language`
@@ -134,6 +149,7 @@ Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 - [t3n.de - New Finance](https://t3n.de/tag/finance/rss.xml)
 - [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ⭐
 - [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
+- [tagesschau – LIVE und Topthemen](https://sjeap.github.io/web-feed/feed-tagesschau-topthemen.xml) ⭐
 - [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
 <!-- OPML:END -->
 

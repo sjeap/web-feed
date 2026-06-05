@@ -44,5 +44,16 @@
     "titleSelector": "<h2[^>]*>([\\s\\S]*?)<\\/h2>",
     "dateSelector": "<span class=\"mvp-cd-date[^\"]*\"[^>]*>([\\s\\S]*?)<\\/span>",
     "linkSelector": "href=\"([^\"]+)\""
+  },
+  {
+    "id": "tagesschau-topthemen",
+    "name": "tagesschau – LIVE und Topthemen",
+    "url": "https://www.tagesschau.de/",
+    "engine": "tagesschau-carousel",
+    "language": "de-DE",
+    "output": "feed-tagesschau-topthemen.xml",
+    "carouselName": "LIVE UND TOPTHEMEN",
+    "skipLabels": ["Livestream"],
+    "skipUrlPatterns": ["/multimedia/livestreams"]
   }
 ]

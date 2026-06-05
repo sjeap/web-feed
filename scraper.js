@@ -466,6 +466,95 @@ function buildCnnFearGreedItems(data, site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// tagesschau-Carousel (engine: "tagesschau-carousel")
+// Die Startseiten-Teaser stehen NICHT im sichtbaren Markup, sondern als
+// HTML-entity-kodiertes JSON im Attribut  data-v="..."  der Vue-Instanz
+// data-v-type="Carousel". teaserSplit/containerStart greifen hier nicht —
+// daher eigener Parser. Reiner HTTPS-Fetch (kein Browser): öffentliches
+// ARD-Angebot ohne Bot-Schutz auf Actions-IPs.
+//
+// Konfig (sites.json, alle optional):
+//   carouselName    : Name des Ziel-Carousels (default "LIVE UND TOPTHEMEN")
+//   skipLabels      : Labels die rausfliegen (default ["Livestream"])
+//   skipUrlPatterns : teaserUrl-Substrings die rausfliegen
+//                     (default ["/multimedia/livestreams"])
+// ─────────────────────────────────────────────────────────────────────
+
+// Alle data-v-Werte sind entity-kodiert → der Rohwert enthält keine echten
+// Anführungszeichen, daher ist [^"]+ als Capture sicher. Wir parsen ALLE
+// Blobs und wählen später per Name aus (robust gegen Attribut-Reihenfolge,
+// ignoriert z.B. data-v-type="Mubu" oder andere Carousels).
+function extractDataVObjects(html) {
+  const out = [];
+  const re  = /data-v="([^"]+)"/g;
+  let m;
+  while ((m = re.exec(html)) !== null) {
+    try { out.push(JSON.parse(decodeEntities(m[1]))); }
+    catch (e) { /* kein JSON-Objekt → überspringen */ }
+  }
+  return out;
+}
+
+function buildTagesschauCarouselItems(html, site) {
+  const carouselName = site.carouselName   || "LIVE UND TOPTHEMEN";
+  const skipLabels   = site.skipLabels      || ["Livestream"];
+  const skipUrlParts = site.skipUrlPatterns || ["/multimedia/livestreams"];
+
+  const objs     = extractDataVObjects(html);
+  const carousel = objs.find(o => o && o.name === carouselName && Array.isArray(o.sliderItems));
+  if (!carousel) {
+    const names = objs.map(o => o && o.name).filter(Boolean).join(", ") || "keine";
+    throw new Error(
+      `tagesschau-carousel: Carousel "${carouselName}" nicht gefunden (data-v-Namen: ${names})`
+    );
+  }
+
+  const items = [];
+  const seen  = new Set();
+
+  for (const it of carousel.sliderItems) {
+    if (!it || !it.headline || !it.teaserUrl) continue;
+    if (skipLabels.includes(it.label)) continue;
+    if (skipUrlParts.some(p => it.teaserUrl.includes(p))) continue;
+
+    const title = cleanText(it.headline);
+    if (!title || title.length < 10 || seen.has(title)) continue;
+    seen.add(title);
+
+    const link = it.teaserUrl.startsWith("http")
+      ? it.teaserUrl
+      : new URL(it.teaserUrl, site.url).href;
+
+    // pubDate aus eingebettetem Player-Meta: präzise Online-Zeit bevorzugen,
+    // sonst Sendezeit-Slot. parseFlexibleDate schluckt ISO 8601 (…Z / +0000).
+    const mc  = it.playerData && it.playerData.mc;
+    const tp  = mc && mc.pluginData && mc.pluginData["trackingPiano@all"];
+    const av  = tp && tp.avContent;
+    const iso = (av && (av["d:av_publication_time"] || av["d:av_original_air_time"]))
+              || (mc && mc.meta && mc.meta.broadcastedOnDateTime)
+              || null;
+    const pubDate = parseFlexibleDate(iso);
+
+    // Vorschaubild: posterImage liefert fertig aufgelöste URLs (kein
+    // {size}/{width}-Platzhalter wie in meta.images). JPG bevorzugen.
+    let imgSrc = null, imgAlt = title, mimeType = null;
+    const poster = it.posterImage;
+    if (poster) {
+      if      (poster.urlL || poster.urlM) { imgSrc = poster.urlL || poster.urlM; mimeType = "image/jpeg"; }
+      else if (poster.urlS)                { imgSrc = poster.urlS;                mimeType = "image/webp"; }
+      if (poster.altText) imgAlt = poster.altText;
+    }
+
+    // guid bewusst NICHT gesetzt → buildRss nutzt link als Permalink-GUID.
+    // Die Artikel-URL ist eindeutig/stabil; kein Datums-Scoping wie bei CNN.
+    items.push({ title, link, pubDate, imgSrc, imgAlt, mimeType });
+    if (items.length >= 30) break;
+  }
+
+  return items;
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Container-Slicing (neu in v4)
 // Grenzt das HTML auf einen bestimmten Bereich ein, BEVOR gesplittet wird.
 // Beide Argumente sind plain Strings (indexOf), keine Regex.
@@ -775,6 +864,22 @@ async function main() {
       const svgPath = path.join(__dirname, site.gaugeOutput);
       fs.writeFileSync(svgPath, svg, "utf8");
       console.log(`   🎨 Gauge-SVG geschrieben → ${site.gaugeOutput} (score=${Math.round(fng.score)}, rating=${fng.rating})`);
+    }
+  } else if (site.engine === "tagesschau-carousel") {
+    // ── Carousel-Pfad: HTML laden, Teaser aus data-v-JSON extrahieren
+    console.log(`   🌐 Fetching HTML: ${site.url}`);
+    const html = await fetchPage(site.url);
+    console.log(`   HTML geladen: ${html.length} Zeichen`);
+    items = buildTagesschauCarouselItems(html, site);
+
+    if (items.length === 0) {
+      fs.writeFileSync(
+        path.join(__dirname, `snapshot-${site.id}.txt`),
+        html.slice(0, 30000),
+        "utf8"
+      );
+      console.error(`PARSE_FAILED [${site.id}]: 0 Items — Snapshot gespeichert (snapshot-${site.id}.txt, ~30 KB)`);
+      process.exit(2);
     }
   } else {
     // ── Standard-Pfad: HTML laden + parsen
