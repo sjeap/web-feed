@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>tagesschau – LIVE und Topthemen</title>
+    <link>https://www.tagesschau.de/</link>
+    <description>tagesschau – LIVE und Topthemen</description>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 05 Jun 2026 08:29:36 GMT</lastBuildDate>
+    <atom:link href="https://sjeap.github.io/web-feed/feed-tagesschau-topthemen.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Andreas Bachmann, ARD Wien, zzt. Tivat, zum Westbalkangipfel</title>
+      <link>https://www.tagesschau.de/video/video-1593488.html</link>
+      <guid isPermaLink="true">https://www.tagesschau.de/video/video-1593488.html</guid>
+      <pubDate>Fri, 05 Jun 2026 10:17:02 GMT</pubDate>
+      <description><![CDATA[Andreas Bachmann, ARD Wien, zzt. Tivat, zum Westbalkangipfel]]></description>
+    </item>
+    <item>
+      <title>Polizei setzt Drohnen gegen Missachtung roter Ampeln ein</title>
+      <link>https://www.tagesschau.de/video/video-1593482.html</link>
+      <guid isPermaLink="true">https://www.tagesschau.de/video/video-1593482.html</guid>
+      <pubDate>Fri, 05 Jun 2026 10:10:10 GMT</pubDate>
+      <description><![CDATA[Polizei setzt Drohnen gegen Missachtung roter Ampeln ein]]></description>
+    </item>
+    <item>
+      <title>Warken legt Entwurf für Pflegereform vor</title>
+      <link>https://www.tagesschau.de/video/video-1593138.html</link>
+      <guid isPermaLink="true">https://www.tagesschau.de/video/video-1593138.html</guid>
+      <pubDate>Thu, 04 Jun 2026 18:59:46 GMT</pubDate>
+      <description><![CDATA[Warken legt Entwurf für Pflegereform vor]]></description>
+    </item>
+    <item>
+      <title>Verteidigungsfähigkeit Deutschlands wegen Reparaturstaus gefährdet</title>
+      <link>https://www.tagesschau.de/video/video-1593110.html</link>
+      <guid isPermaLink="true">https://www.tagesschau.de/video/video-1593110.html</guid>
+      <pubDate>Thu, 04 Jun 2026 18:16:34 GMT</pubDate>
+      <description><![CDATA[Verteidigungsfähigkeit Deutschlands wegen Reparaturstaus gefährdet]]></description>
+    </item>
+    <item>
+      <title>Trotz Kämpfen mit der Hisbollah wollen Israel und Libanon Waffenruhe erneuern</title>
+      <link>https://www.tagesschau.de/video/video-1593026.html</link>
+      <guid isPermaLink="true">https://www.tagesschau.de/video/video-1593026.html</guid>
+      <pubDate>Thu, 04 Jun 2026 16:27:05 GMT</pubDate>
+      <description><![CDATA[Trotz Kämpfen mit der Hisbollah wollen Israel und Libanon Waffenruhe erneuern]]></description>
+    </item>
+    <item>
+      <title>Auftritt von Russlands Präsidenten Putin auf Wirtschaftsforum in St. Petersburg</title>
+      <link>https://www.tagesschau.de/video/video-1593012.html</link>
+      <guid isPermaLink="true">https://www.tagesschau.de/video/video-1593012.html</guid>
+      <pubDate>Thu, 04 Jun 2026 16:05:32 GMT</pubDate>
+      <description><![CDATA[Auftritt von Russlands Präsidenten Putin auf Wirtschaftsforum in St. Petersburg]]></description>
+    </item>
+  </channel>
+</rss>
