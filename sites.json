@@ -54,6 +54,8 @@
     "output": "atom/feed-tagesschau-topthemen.xml",
     "carouselName": "LIVE UND TOPTHEMEN",
     "skipLabels": ["Livestream"],
-    "skipUrlPatterns": ["/multimedia/livestreams"]
+    "skipUrlPatterns": ["/multimedia/livestreams"],
+    "thumbWidth": 320,
+    "thumbVariant": "16x9-small"
   }
 ]

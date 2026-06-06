@@ -58,16 +58,14 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   offizielle RSS-Feed.
 
 ### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
-- **Engine:** `tagesschau-carousel` (JSON-im-HTML statt Teaser-Markup)
-- **Eigenheit:** Die Teaser der „LIVE UND TOPTHEMEN"-Box stehen **nicht** im sichtbaren
-  Markup, sondern als HTML-entity-kodiertes JSON im Attribut `data-v="…"` der
-  Vue-Instanz `data-v-type="Carousel"`. Der Parser dekodiert das JSON und iteriert
-  `sliderItems[]`; `teaserSplit`/`containerStart` greifen hier bewusst nicht. Der
-  Livestream-Teaser wird über `skipLabels` / `skipUrlPatterns` herausgefiltert.
-  Reiner HTTPS-Fetch (kein Browser nötig). Entry-`<id>` = Artikel-URL (kein Datums-Scoping,
-  die URLs sind eindeutig).
-- Lehre: wie bei `cnn-fear-greed` — client-seitig gerenderte Seiten lieber über ihre
-  eingebetteten/strukturierten Daten als über das gerenderte HTML angehen.
+- **Engine:** `tagesschau-carousel` — die „LIVE UND TOPTHEMEN"-Teaser stehen als
+  entity-kodiertes JSON im `data-v`-Attribut der Vue-`Carousel`-Instanz (nicht im Markup).
+  Der Parser iteriert `sliderItems[]`, filtert den Livestream via
+  `skipLabels`/`skipUrlPatterns`; reiner HTTPS-Fetch, Entry-`<id>` = Artikel-URL. Defekte
+  Entities in den Tracking-Blobs (`&qquot;`) werden vor `JSON.parse` repariert.
+- **Vorschaubild:** aus dem `meta.images`-Template gebaut — Größe/Variante via `thumbWidth`
+  (Default 320) / `thumbVariant` (`16x9-small`|`16x9-big`), JPG, `alt` = Schlagzeile,
+  Fallback `posterImage`.
 
 ## Engines (in `scraper.js`)
 
@@ -146,13 +144,14 @@ Abonnement-Backup aus Twine (`backup/twine_backup.opml`).
 Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 
 <!-- OPML:START -->
-- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml) ⭐
+- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml) ⭐
 - [Golem.de - Wissenschaft](https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0)
 - [iNTELLiGENT iNVESTiEREN](https://feeds.feedburner.com/IntelligentInvestieren)
-- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/feed-manager-magazin.xml) ⭐
+- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml) ⭐
 - [t3n.de - New Finance](https://t3n.de/tag/finance/rss.xml)
-- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ⭐
+- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml) ⭐
 - [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
+- [tagesschau – LIVE und Topthemen](https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml) ⭐
 - [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
 <!-- OPML:END -->
 

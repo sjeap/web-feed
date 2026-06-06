@@ -484,21 +484,74 @@ function buildCnnFearGreedItems(data, site) {
 // Anführungszeichen, daher ist [^"]+ als Capture sicher. Wir parsen ALLE
 // Blobs und wählen später per Name aus (robust gegen Attribut-Reihenfolge,
 // ignoriert z.B. data-v-type="Mubu" oder andere Carousels).
+//
+// Robustheit: tagesschau liefert in den (von uns ungenutzten) Tracking-Blobs
+// gelegentlich defekte Entities, z.B. verdoppeltes q in &qquot; statt &quot;.
+// Ein einziger solcher Defekt würde JSON.parse über den GESAMTEN Blob – und
+// damit das ganze Carousel – killen. Daher: bei Parse-Fehler ein gezielter
+// Reparaturversuch (&q{2,}uot; → &quot;), erst dann aufgeben.
 function extractDataVObjects(html) {
   const out = [];
   const re  = /data-v="([^"]+)"/g;
   let m;
   while ((m = re.exec(html)) !== null) {
-    try { out.push(JSON.parse(decodeEntities(m[1]))); }
-    catch (e) { /* kein JSON-Objekt → überspringen */ }
+    let obj;
+    try {
+      obj = JSON.parse(decodeEntities(m[1]));
+    } catch (e) {
+      const repaired = m[1].replace(/&q{2,}uot;/g, "&quot;");
+      if (repaired !== m[1]) {
+        try {
+          obj = JSON.parse(decodeEntities(repaired));
+          console.warn("   ⚠ data-v-Blob mit defektem Entity repariert (&q…uot; → &quot;)");
+        } catch (e2) { /* weiterhin kaputt → überspringen */ }
+      }
+    }
+    if (obj !== undefined) out.push(obj);
   }
   return out;
+}
+
+// Vorschaubild für ein Carousel-Item bestimmen.
+// 1) Bevorzugt das Preview-Template aus meta.images (kind:"preview", JPG) plus
+//    imageTemplateConfig → die Platzhalter {size}/{width} werden mit gewählter
+//    Variante/Breite gefüllt. Volle Auflösungs-Kontrolle, kein Zusatz-Request.
+// 2) Fallback: vorab aufgelöstes posterImage (JPG vor WebP).
+function pickTagesschauThumbnail(it, thumbWidth, thumbVariant) {
+  const mc     = it.playerData && it.playerData.mc;
+  const images = (mc && mc.meta && Array.isArray(mc.meta.images)) ? mc.meta.images : [];
+  const tmpl   = images.find(im => im && /\.jpe?g/i.test(im.url || ""))
+              || images.find(im => im && im.url);
+  const cfg    = it.playerData && it.playerData.pc && it.playerData.pc.generic
+              && it.playerData.pc.generic.imageTemplateConfig;
+
+  if (tmpl && tmpl.url && tmpl.url.includes("{size}") && cfg && Array.isArray(cfg.size)) {
+    const sizeEntry = cfg.size.find(s => s && (s.value || "").includes(thumbVariant)) || cfg.size[0];
+    if (sizeEntry && sizeEntry.value) {
+      // Breite an die vom CDN erlaubte Spanne klemmen (Minimum ~320).
+      let w = thumbWidth;
+      if (cfg.width && typeof cfg.width.min === "number") w = Math.max(w, cfg.width.min);
+      if (cfg.width && typeof cfg.width.max === "number") w = Math.min(w, cfg.width.max);
+      const url  = tmpl.url.replace("{size}", sizeEntry.value).replace("{width}", String(w));
+      const mime = /\.webp/i.test(url) ? "image/webp" : "image/jpeg";
+      return { imgSrc: url, mimeType: mime };
+    }
+  }
+
+  const p = it.posterImage;
+  if (p) {
+    if (p.urlL || p.urlM) return { imgSrc: p.urlL || p.urlM, mimeType: "image/jpeg" };
+    if (p.urlS)           return { imgSrc: p.urlS,           mimeType: "image/webp" };
+  }
+  return { imgSrc: null, mimeType: null };
 }
 
 function buildTagesschauCarouselItems(html, site) {
   const carouselName = site.carouselName   || "LIVE UND TOPTHEMEN";
   const skipLabels   = site.skipLabels      || ["Livestream"];
   const skipUrlParts = site.skipUrlPatterns || ["/multimedia/livestreams"];
+  const thumbWidth   = (typeof site.thumbWidth === "number") ? site.thumbWidth : 320;
+  const thumbVariant = site.thumbVariant || "16x9-small";
 
   const objs     = extractDataVObjects(html);
   const carousel = objs.find(o => o && o.name === carouselName && Array.isArray(o.sliderItems));
@@ -535,15 +588,10 @@ function buildTagesschauCarouselItems(html, site) {
               || null;
     const pubDate = parseFlexibleDate(iso);
 
-    // Vorschaubild: posterImage liefert fertig aufgelöste URLs (kein
-    // {size}/{width}-Platzhalter wie in meta.images). JPG bevorzugen.
-    let imgSrc = null, imgAlt = title, mimeType = null;
-    const poster = it.posterImage;
-    if (poster) {
-      if      (poster.urlL || poster.urlM) { imgSrc = poster.urlL || poster.urlM; mimeType = "image/jpeg"; }
-      else if (poster.urlS)                { imgSrc = poster.urlS;                mimeType = "image/webp"; }
-      if (poster.altText) imgAlt = poster.altText;
-    }
+    // Vorschaubild aus dem meta.images-Preview-Template bauen (Variante +
+    // Breite frei wählbar, kein Zusatz-Request); Fallback: posterImage.
+    const { imgSrc, mimeType } = pickTagesschauThumbnail(it, thumbWidth, thumbVariant);
+    const imgAlt = title;   // alt = Schlagzeile statt generischem "Sendungsbild"
 
     // guid bewusst NICHT gesetzt → buildAtom nutzt link als <id> (gültiges IRI).
     // Die Artikel-URL ist eindeutig/stabil; kein Datums-Scoping wie bei CNN.
