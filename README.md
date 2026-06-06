@@ -1,6 +1,6 @@
-# web-feed – RSS aus Web-Inhalten (Matrix-Setup)
+# web-feed – Atom aus Web-Inhalten (Matrix-Setup)
 
-Mehrere Quellen parallel scrapen via GitHub Actions Matrix, Ausgabe als RSS/XML,
+Mehrere Quellen parallel scrapen via GitHub Actions Matrix, Ausgabe als Atom/XML,
 veröffentlicht über GitHub Pages.
 
 ## Dateistruktur
@@ -11,10 +11,11 @@ web-feed/
 ├── self-heal.js            ← repariert kaputte Selektoren via Anthropic API
 ├── sites.json              ← zentrale Konfiguration aller Feeds (Single Source of Truth)
 ├── package.json            ← npm-Dependencies (z. B. Patchright); vom Workflow via npm install genutzt
-├── feed-*.xml              ← generierte Feeds (ein File pro Quelle)
-├── assets/                 ← generierte Zusatz-Artefakte (gaugeOutput)
+├── atom/                    ← generierte Feeds (ein File pro Quelle)
+│   └── feed-*.xml           ← z. B. feed-manager-magazin.xml
+├── asset/                  ← generierte Zusatz-Artefakte (gaugeOutput)
 │   └── *.svg               ← z. B. Gauge-SVG für cnn-fear-greed
-├── backups/                ← OPML-Exporte
+├── backup/                 ← OPML-Exporte
 │   └── twine_backup.opml   ← Twine-Abo-Backup (Quelle für den OPML-Abschnitt)
 ├── ACKNOWLEDGMENTS.md      ← Credits/Quellen (wird ins README gespiegelt)
 └── .github/workflows/
@@ -26,29 +27,29 @@ web-feed/
 Jeder Feed nutzt bewusst einen anderen Ansatz — abhängig davon, **wie die Quelle ihre
 Inhalte ausliefert**. Das ist der Kern des Projekts:
 
-### `manager-magazin` → `feed-manager-magazin.xml`
+### `manager-magazin` → `atom/feed-manager-magazin.xml`
 - **Engine:** Default (HTML + Regex)
 - **Eigenheit:** Einziger Feed mit `filter` — eine Titel-Regex (`Der .+ im Überblick`)
   behält nur die täglichen Überblicks-Artikel, alles andere wird verworfen.
 - Server-gerendertes HTML, `teaserSplit` an `<div class="teaser"`, klassenbasierte
   Selektoren, deutsche Datumsformate.
 
-### `visualcapitalist` → `feed-visualcapitalist.xml`
+### `visualcapitalist` → `atom/feed-visualcapitalist.xml`
 - **Engine:** Default (HTML + Regex) **mit** `containerStart` / `containerEnd`
 - **Eigenheit:** Die Seite mischt Hauptinhalt und Sidebar. `containerStart`/`End`
   schneiden den relevanten HTML-Bereich **vor** dem `teaserSplit` heraus, damit keine
   Sidebar-Teaser im Feed landen.
 - Englische Inhalte → `language: en-US`; englische/Ordinal-Datumsformate.
 
-### `cnn-fear-greed` → `feed-cnn-fear-greed.xml` (+ Gauge-SVG)
+### `cnn-fear-greed` → `atom/feed-cnn-fear-greed.xml` (+ Gauge-SVG)
 - **Engine:** `cnn-fear-greed` (JSON statt HTML)
 - **Eigenheit:** Kein HTML-Scraping — liest die öffentliche CNN-JSON-API direkt aus.
   Gibt Index-Wert/Rating, Put/Call-Rating und VIX-Rating aus, plus ein Gauge-SVG
-  (`gaugeOutput`). GUIDs sind **datumsbezogen**, damit Reader das tägliche Update erkennen.
+  (`gaugeOutput`). Entry-IDs (`<id>`) sind **datumsbezogen**, damit Reader das tägliche Update erkennen.
 - Lehre: client-seitig gerenderte Seiten besser über ihre JSON/API-Endpunkte als über
   HTML angehen.
 
-### `seekingalpha-notable-calls` → `feed-seekingalpha-notable-calls.xml`
+### `seekingalpha-notable-calls` → `atom/feed-seekingalpha-notable-calls.xml`
 - **Engine:** `browser` (Patchright Stealth-Chromium)
 - **Eigenheit:** JS-lastige Seite → Headless-Browser nötig (deshalb läuft der
   Chromium-Install-Step **nur** für diesen Feed).
@@ -56,14 +57,14 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Lokal funktioniert es, in CI kommt nur die Challenge-Seite an. Sauberer Weg wäre der
   offizielle RSS-Feed.
 
-### `tagesschau-topthemen` → `feed-tagesschau-topthemen.xml`
+### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
 - **Engine:** `tagesschau-carousel` (JSON-im-HTML statt Teaser-Markup)
 - **Eigenheit:** Die Teaser der „LIVE UND TOPTHEMEN"-Box stehen **nicht** im sichtbaren
   Markup, sondern als HTML-entity-kodiertes JSON im Attribut `data-v="…"` der
   Vue-Instanz `data-v-type="Carousel"`. Der Parser dekodiert das JSON und iteriert
   `sliderItems[]`; `teaserSplit`/`containerStart` greifen hier bewusst nicht. Der
   Livestream-Teaser wird über `skipLabels` / `skipUrlPatterns` herausgefiltert.
-  Reiner HTTPS-Fetch (kein Browser nötig). GUID = Artikel-URL (kein Datums-Scoping,
+  Reiner HTTPS-Fetch (kein Browser nötig). Entry-`<id>` = Artikel-URL (kein Datums-Scoping,
   die URLs sind eindeutig).
 - Lehre: wie bei `cnn-fear-greed` — client-seitig gerenderte Seiten lieber über ihre
   eingebetteten/strukturierten Daten als über das gerenderte HTML angehen.
@@ -78,9 +79,11 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   `skipLabels` / `skipUrlPatterns`. Reiner HTTPS-Fetch, kein Browser.
 - **`browser`** — Rendering via Patchright für JS-Seiten.
 
-`buildRss` unterstützt optional `descriptionHtml`, `guid` und `guidIsPermaLink`; `language`
-ist je Feed konfigurierbar (Default `de-DE`). Der Datumsparser deckt deutsche, englische
-(inkl. Ordinal), relative ("5 hours ago") und reine Uhrzeit-Formate ab.
+`buildAtom` (Atom 1.0 / RFC 4287) erzeugt `<feed>`/`<entry>`; optional `descriptionHtml`
+(→ `<content type="html">`) und `guid` (→ `<id>`); `language` wird zu `xml:lang` (Default
+`de-DE`). Datumsangaben werden nach RFC 3339 ausgegeben (`<updated>`/`<published>`); der
+Datumsparser deckt deutsche, englische (inkl. Ordinal), relative ("5 hours ago") und reine
+Uhrzeit-Formate ab.
 
 ## Neue Quelle hinzufügen
 
@@ -92,7 +95,7 @@ ist je Feed konfigurierbar (Default `de-DE`). Der Datumsparser deckt deutsche, e
   "name": "Meine Site – Titel",
   "url": "https://www.beispiel.de/news/",
   "filter": null,
-  "output": "feed-meine-site.xml",
+  "output": "atom/feed-meine-site.xml",
   "teaserSplit": "<article",
   "titleSelector": "<h2[^>]*>([\\s\\S]*?)<\\/h2>",
   "dateSelector": "<time[^>]*>([\\s\\S]*?)<\\/time>",
@@ -114,10 +117,11 @@ matrix:
     - cnn-fear-greed
     - visualcapitalist
     - seekingalpha-notable-calls
+    - tagesschau-topthemen
     - meine-site       # ← neu
 ```
 
-Das war es. Beim nächsten Run wird `feed-meine-site.xml` automatisch erstellt.
+Das war es. Beim nächsten Run wird `atom/feed-meine-site.xml` automatisch erstellt.
 
 ## Self-heal
 
@@ -138,17 +142,18 @@ Rebase-Retry race-frei. Ein separater `sync-readme`-Job spiegelt **nach** der Ma
 
 ## OPML Backup
 
-Abonnement-Backup aus Twine (`backups/twine_backup.opml`).
+Abonnement-Backup aus Twine (`backup/twine_backup.opml`).
 Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 
 <!-- OPML:START -->
-- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml) ⭐
+- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml) ⭐
 - [Golem.de - Wissenschaft](https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0)
 - [iNTELLiGENT iNVESTiEREN](https://feeds.feedburner.com/IntelligentInvestieren)
-- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/feed-manager-magazin.xml) ⭐
+- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml) ⭐
 - [t3n.de - New Finance](https://t3n.de/tag/finance/rss.xml)
-- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ⭐
+- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml) ⭐
 - [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
+- [tagesschau – LIVE und Topthemen](https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml) ⭐
 - [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
 <!-- OPML:END -->
 

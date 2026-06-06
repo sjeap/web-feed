@@ -2,7 +2,7 @@
   "name": "web-feed",
   "version": "1.0.0",
   "private": true,
-  "description": "RSS-Feed-Generator via Web-Scraping",
+  "description": "Atom-Feed-Generator via Web-Scraping",
   "dependencies": {
     "patchright": "^1.50.0"
   }

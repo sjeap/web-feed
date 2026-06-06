@@ -545,7 +545,7 @@ function buildTagesschauCarouselItems(html, site) {
       if (poster.altText) imgAlt = poster.altText;
     }
 
-    // guid bewusst NICHT gesetzt → buildRss nutzt link als Permalink-GUID.
+    // guid bewusst NICHT gesetzt → buildAtom nutzt link als <id> (gültiges IRI).
     // Die Artikel-URL ist eindeutig/stabil; kein Datums-Scoping wie bei CNN.
     items.push({ title, link, pubDate, imgSrc, imgAlt, mimeType });
     if (items.length >= 30) break;
@@ -788,7 +788,7 @@ function parseHeadlines(html, site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// RSS-Bau
+// Atom-Bau (Atom 1.0 / RFC 4287)
 // ─────────────────────────────────────────────────────────────────────
 function escapeXml(str) {
   return (str || "")
@@ -799,46 +799,66 @@ function escapeXml(str) {
     .replace(/'/g,  "&apos;");
 }
 
-function buildRss(items, site) {
-  const buildDate = new Date().toUTCString();
-  const selfUrl   = `${FEED_BASE_URL}${site.output}`;
+// Atom verlangt date-time nach RFC 3339. Akzeptiert RFC-822-Strings
+// (toUTCString), ISO-Strings oder Date; gibt "YYYY-MM-DDTHH:MM:SSZ" zurück.
+function toRfc3339(input) {
+  const d     = (input instanceof Date) ? input : new Date(input);
+  const valid = isNaN(d.getTime()) ? new Date() : d;
+  return valid.toISOString().replace(/\.\d{3}Z$/, "Z");
+}
 
-  const itemsXml = items.map(({ title, link, pubDate, imgSrc, imgAlt, guid, guidIsPermaLink, descriptionHtml, mimeType }) => {
-    const itemMime  = mimeType || "image/jpeg";
+function buildAtom(items, site) {
+  const lang    = site.language || "de-DE";
+  const selfUrl = `${FEED_BASE_URL}${site.output}`;
+
+  // Feed-<updated> = jüngstes Item-Datum, sonst jetzt.
+  let newest = 0;
+  for (const it of items) {
+    const t = Date.parse(it.pubDate);
+    if (!isNaN(t) && t > newest) newest = t;
+  }
+  const feedUpdated = toRfc3339(newest ? new Date(newest) : new Date());
+
+  const entriesXml = items.map(({ title, link, pubDate, imgSrc, imgAlt, guid, descriptionHtml, mimeType }) => {
+    const itemMime = mimeType || "image/jpeg";
+    const updated  = toRfc3339(pubDate);
+    const entryId  = guid || link;   // Artikel-URL ist ein gültiges IRI
+
+    // Atom: Bild als rel="enclosure"-Link (kein media:content nötig).
     const enclosure = imgSrc
-      ? `\n      <enclosure url="${escapeXml(imgSrc)}" type="${itemMime}" length="0"/>`
+      ? `\n      <link rel="enclosure" type="${itemMime}" href="${escapeXml(imgSrc)}"/>`
       : "";
-    const mediaContent = imgSrc
-      ? `\n      <media:content url="${escapeXml(imgSrc)}" medium="image" type="${itemMime}"><media:title>${escapeXml(imgAlt)}</media:title></media:content>`
-      : "";
-    const description = descriptionHtml
-      ? `<![CDATA[${descriptionHtml}]]>`
-      : imgSrc
-        ? `<![CDATA[<img src="${imgSrc}" alt="${imgAlt}"/><p>${escapeXml(title)}</p>]]>`
-        : `<![CDATA[${escapeXml(title)}]]>`;
-    const guidValue   = guid || link;
-    const isPermaLink = (guidIsPermaLink === false) ? "false" : "true";
+
+    let content = "";
+    if (descriptionHtml) {
+      content = `\n      <content type="html"><![CDATA[${descriptionHtml}]]></content>`;
+    } else if (imgSrc) {
+      content = `\n      <content type="html"><![CDATA[<img src="${imgSrc}" alt="${imgAlt || title}"/><p>${escapeXml(title)}</p>]]></content>`;
+    }
+
     return `
-    <item>
+    <entry>
       <title>${escapeXml(title)}</title>
-      <link>${escapeXml(link)}</link>
-      <guid isPermaLink="${isPermaLink}">${escapeXml(guidValue)}</guid>
-      <pubDate>${pubDate}</pubDate>
-      <description>${description}</description>${enclosure}${mediaContent}
-    </item>`;
+      <id>${escapeXml(entryId)}</id>
+      <link rel="alternate" href="${escapeXml(link)}"/>
+      <updated>${updated}</updated>
+      <published>${updated}</published>${enclosure}${content}
+    </entry>`;
   }).join("");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>${escapeXml(site.name)}</title>
-    <link>${escapeXml(site.url)}</link>
-    <description>${escapeXml(site.name)}</description>
-    <language>${escapeXml(site.language || "de-DE")}</language>
-    <lastBuildDate>${buildDate}</lastBuildDate>
-    <atom:link href="${selfUrl}" rel="self" type="application/rss+xml"/>${itemsXml}
-  </channel>
-</rss>`;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="${escapeXml(lang)}">
+  <title>${escapeXml(site.name)}</title>
+  <subtitle>${escapeXml(site.name)}</subtitle>
+  <id>${escapeXml(selfUrl)}</id>
+  <link rel="alternate" href="${escapeXml(site.url)}"/>
+  <link rel="self" type="application/atom+xml" href="${escapeXml(selfUrl)}"/>
+  <updated>${feedUpdated}</updated>
+  <author>
+    <name>${escapeXml(site.name)}</name>
+  </author>
+  <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>${entriesXml}
+</feed>`;
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -862,6 +882,7 @@ async function main() {
       const fng = data.fear_and_greed;
       const svg = renderGaugeSvg(fng.score, fng.rating);
       const svgPath = path.join(__dirname, site.gaugeOutput);
+      fs.mkdirSync(path.dirname(svgPath), { recursive: true });   // gaugeOutput-Ordner (z.B. asset/) anlegen
       fs.writeFileSync(svgPath, svg, "utf8");
       console.log(`   🎨 Gauge-SVG geschrieben → ${site.gaugeOutput} (score=${Math.round(fng.score)}, rating=${fng.rating})`);
     }
@@ -905,7 +926,8 @@ async function main() {
   }
 
   const outputFile = path.join(__dirname, site.output);
-  fs.writeFileSync(outputFile, buildRss(items, site), "utf8");
+  fs.mkdirSync(path.dirname(outputFile), { recursive: true });   // Output-Ordner (z.B. atom/) anlegen
+  fs.writeFileSync(outputFile, buildAtom(items, site), "utf8");
   console.log(`✅ [${site.id}] ${items.length} Item(s) → ${site.output}`);
   items.forEach(({ title }) => console.log(`   • ${title}`));
 }
