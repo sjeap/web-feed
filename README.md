@@ -146,14 +146,13 @@ Abonnement-Backup aus Twine (`backup/twine_backup.opml`).
 Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 
 <!-- OPML:START -->
-- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml) ⭐
+- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml) ⭐
 - [Golem.de - Wissenschaft](https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0)
 - [iNTELLiGENT iNVESTiEREN](https://feeds.feedburner.com/IntelligentInvestieren)
-- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml) ⭐
+- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/feed-manager-magazin.xml) ⭐
 - [t3n.de - New Finance](https://t3n.de/tag/finance/rss.xml)
-- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml) ⭐
+- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ⭐
 - [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
-- [tagesschau – LIVE und Topthemen](https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml) ⭐
 - [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
 <!-- OPML:END -->
 
