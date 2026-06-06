@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: Update Atom Feed
 
 on:
   schedule:
@@ -84,7 +84,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Pfade aus sites.json lesen (Single Source of Truth) — damit
           # 'output' und 'gaugeOutput' beliebig konfiguriert werden können
-          # (z.B. in einem assets/-Unterordner).
+          # (z.B. in einem asset/-Unterordner).
           SITE_ID="${{ matrix.site }}"
           OUT_XML=$(jq -r ".[] | select(.id==\"${SITE_ID}\") | .output // empty" sites.json)
           OUT_SVG=$(jq -r ".[] | select(.id==\"${SITE_ID}\") | .gaugeOutput // empty" sites.json)
@@ -170,7 +170,7 @@ jobs:
             fs.writeFileSync("README.md", readme);
           '
 
-      # ── OPML-Backup-Tabelle aus backups/twine_backup.opml neu erzeugen ──
+      # ── OPML-Backup-Tabelle aus backup/twine_backup.opml neu erzeugen ──
       # Bei jedem Run: OPML parsen, Markdown-Tabelle zwischen den OPML-Markern
       # ersetzen. Ändert sich die OPML (neue/entfernte Feeds), erzeugt das einen
       # Diff → der Commit-Step unten pusht ihn. Fehlt die Datei, wird übersprungen.
@@ -178,7 +178,7 @@ jobs:
         run: |
           node -e '
             const fs = require("fs");
-            const file = "backups/twine_backup.opml";
+            const file = "backup/twine_backup.opml";
             const S = "<!-- OPML:START -->", E = "<!-- OPML:END -->";
             let readme = fs.readFileSync("README.md", "utf8");
             if (!readme.includes(S) || !readme.includes(E)) {
