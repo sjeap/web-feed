@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-06T18:21:49Z</updated>
+  <updated>2026-06-07T09:30:37Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Japanische Regierungschefin Takaichi kündigt Verfassungsänderung an</title>
+      <id>https://www.tagesschau.de/video/video-1594484.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594484.html"/>
+      <updated>2026-06-07T09:21:19Z</updated>
+      <published>2026-06-07T09:21:19Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4cb742d7-2180-48ad-9d0a-1316a68e6f5d/AAABnqD1FCY/AAABnSSvsdE/16x9-small/sendungsbild-1745126.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4cb742d7-2180-48ad-9d0a-1316a68e6f5d/AAABnqD1FCY/AAABnSSvsdE/16x9-small/sendungsbild-1745126.jpg?width=320" alt="Japanische Regierungschefin Takaichi kündigt Verfassungsänderung an"/><p>Japanische Regierungschefin Takaichi kündigt Verfassungsänderung an</p>]]></content>
+    </entry>
+    <entry>
+      <title>Usbekistan wird bei asiatischen Touristen immer beliebter</title>
+      <id>https://www.tagesschau.de/video/video-1594486.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594486.html"/>
+      <updated>2026-06-07T09:30:37Z</updated>
+      <published>2026-06-07T09:30:37Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/28f7dc62-d80b-4053-87c6-628f89a1bd2f/AAABnqD9kzE/AAABnSSvsdE/16x9-small/sendungsbild-1745128.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/28f7dc62-d80b-4053-87c6-628f89a1bd2f/AAABnqD9kzE/AAABnSSvsdE/16x9-small/sendungsbild-1745128.jpg?width=320" alt="Usbekistan wird bei asiatischen Touristen immer beliebter"/><p>Usbekistan wird bei asiatischen Touristen immer beliebter</p>]]></content>
+    </entry>
+    <entry>
+      <title>Deutschland will EU-Entgelttransparenz-Richtlinie nachverhandeln</title>
+      <id>https://www.tagesschau.de/video/video-1594482.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594482.html"/>
+      <updated>2026-06-07T09:18:50Z</updated>
+      <published>2026-06-07T09:18:50Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3eb0ca05-fbc4-4404-b287-b895eb037266/AAABnqDyxwE/AAABnSSvsdE/16x9-small/sendungsbild-1745124.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3eb0ca05-fbc4-4404-b287-b895eb037266/AAABnqDyxwE/AAABnSSvsdE/16x9-small/sendungsbild-1745124.jpg?width=320" alt="Deutschland will EU-Entgelttransparenz-Richtlinie nachverhandeln"/><p>Deutschland will EU-Entgelttransparenz-Richtlinie nachverhandeln</p>]]></content>
+    </entry>
     <entry>
       <title>Feierlichkeiten zum &quot;Tag der Bundeswehr 2026&quot;</title>
       <id>https://www.tagesschau.de/video/video-1594054.html</id>
@@ -36,32 +63,5 @@
       <published>2026-06-06T09:36:02Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b27e0cb9-ecfe-4d66-a542-62a769655ac2/AAABnpvb6AE/AAABnSSvsdE/16x9-small/sendungsbild-1744756.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b27e0cb9-ecfe-4d66-a542-62a769655ac2/AAABnpvb6AE/AAABnSSvsdE/16x9-small/sendungsbild-1744756.jpg?width=320" alt="Trotz Waffenruhe greifen sich USA und Iran wieder gegenseitig an"/><p>Trotz Waffenruhe greifen sich USA und Iran wieder gegenseitig an</p>]]></content>
-    </entry>
-    <entry>
-      <title>Streit wegen Kushners Luxusprojekt in Albanien</title>
-      <id>https://www.tagesschau.de/video/video-1594010.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594010.html"/>
-      <updated>2026-06-06T09:44:05Z</updated>
-      <published>2026-06-06T09:44:05Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/08e0decb-7323-430e-ab91-9655e05508a1/AAABnpvjeAk/AAABnSSvsdE/16x9-small/sendungsbild-1744762.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/08e0decb-7323-430e-ab91-9655e05508a1/AAABnpvjeAk/AAABnSSvsdE/16x9-small/sendungsbild-1744762.jpg?width=320" alt="Streit wegen Kushners Luxusprojekt in Albanien"/><p>Streit wegen Kushners Luxusprojekt in Albanien</p>]]></content>
-    </entry>
-    <entry>
-      <title>Pflegereform von Ministerin Warken · Scharfe Kritik aus SPD und CSU I 5. Juni</title>
-      <id>https://www.tagesschau.de/video/video-1594198.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594198.html"/>
-      <updated>2026-06-06T18:21:49Z</updated>
-      <published>2026-06-06T18:21:49Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6398dcfa-58e2-4d48-a765-7cfdf5f21478/AAABnplnhKk/AAABnSSvsdE/16x9-small/ts-mediathek-pflege-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6398dcfa-58e2-4d48-a765-7cfdf5f21478/AAABnplnhKk/AAABnSSvsdE/16x9-small/ts-mediathek-pflege-100.jpg?width=320" alt="Pflegereform von Ministerin Warken · Scharfe Kritik aus SPD und CSU I 5. Juni"/><p>Pflegereform von Ministerin Warken · Scharfe Kritik aus SPD und CSU I 5. Juni</p>]]></content>
-    </entry>
-    <entry>
-      <title>Heinz Rothgang, Gesundheitsökonom, zu den Risiken der geplanten Pflegereform</title>
-      <id>https://www.tagesschau.de/video/video-1593706.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1593706.html"/>
-      <updated>2026-06-05T17:45:39Z</updated>
-      <published>2026-06-05T17:45:39Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dc1a4d8e-e02a-45bb-915a-9e855426c09e/AAABnph1wIM/AAABnSSvsdE/16x9-small/sendungsbild-1744524.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dc1a4d8e-e02a-45bb-915a-9e855426c09e/AAABnph1wIM/AAABnSSvsdE/16x9-small/sendungsbild-1744524.jpg?width=320" alt="Heinz Rothgang, Gesundheitsökonom, zu den Risiken der geplanten Pflegereform"/><p>Heinz Rothgang, Gesundheitsökonom, zu den Risiken der geplanten Pflegereform</p>]]></content>
     </entry>
 </feed>
