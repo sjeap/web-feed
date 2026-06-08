@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-07T12:45:52Z</updated>
+  <updated>2026-06-08T10:41:52Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Neue Eskalation in Nahost</title>
+      <id>https://www.tagesschau.de/video/video-1595022.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595022.html"/>
+      <updated>2026-06-08T10:41:52Z</updated>
+      <published>2026-06-08T10:41:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e7103594-8ecf-4aa3-ae40-6a2c8ef12e7c/AAABnqZlFc8/AAABnSSvsdE/16x9-small/sendungsbild-1745682.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e7103594-8ecf-4aa3-ae40-6a2c8ef12e7c/AAABnqZlFc8/AAABnSSvsdE/16x9-small/sendungsbild-1745682.jpg?width=320" alt="Neue Eskalation in Nahost"/><p>Neue Eskalation in Nahost</p>]]></content>
+    </entry>
+    <entry>
+      <title>Partei von Ministerpräsident Paschinjan gewinnt Wahl in Armenien</title>
+      <id>https://www.tagesschau.de/video/video-1595016.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595016.html"/>
+      <updated>2026-06-08T10:37:01Z</updated>
+      <published>2026-06-08T10:37:01Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/24ca37a5-94d4-4f38-816c-cb6ece387eb1/AAABnqZgufU/AAABnSSvsdE/16x9-small/sendungsbild-1745678.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/24ca37a5-94d4-4f38-816c-cb6ece387eb1/AAABnqZgufU/AAABnSSvsdE/16x9-small/sendungsbild-1745678.jpg?width=320" alt="Partei von Ministerpräsident Paschinjan gewinnt Wahl in Armenien"/><p>Partei von Ministerpräsident Paschinjan gewinnt Wahl in Armenien</p>]]></content>
+    </entry>
     <entry>
       <title>Mutmaßlicher Terroranschlag in Israel</title>
       <id>https://www.tagesschau.de/video/video-1594578.html</id>
@@ -45,23 +63,5 @@
       <published>2026-06-07T09:30:37Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/28f7dc62-d80b-4053-87c6-628f89a1bd2f/AAABnqD9kzE/AAABnSSvsdE/16x9-small/sendungsbild-1745128.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/28f7dc62-d80b-4053-87c6-628f89a1bd2f/AAABnqD9kzE/AAABnSSvsdE/16x9-small/sendungsbild-1745128.jpg?width=320" alt="Usbekistan wird bei asiatischen Touristen immer beliebter"/><p>Usbekistan wird bei asiatischen Touristen immer beliebter</p>]]></content>
-    </entry>
-    <entry>
-      <title>Deutschland will EU-Entgelttransparenz-Richtlinie nachverhandeln</title>
-      <id>https://www.tagesschau.de/video/video-1594482.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594482.html"/>
-      <updated>2026-06-07T09:18:50Z</updated>
-      <published>2026-06-07T09:18:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3eb0ca05-fbc4-4404-b287-b895eb037266/AAABnqDyxwE/AAABnSSvsdE/16x9-small/sendungsbild-1745124.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3eb0ca05-fbc4-4404-b287-b895eb037266/AAABnqDyxwE/AAABnSSvsdE/16x9-small/sendungsbild-1745124.jpg?width=320" alt="Deutschland will EU-Entgelttransparenz-Richtlinie nachverhandeln"/><p>Deutschland will EU-Entgelttransparenz-Richtlinie nachverhandeln</p>]]></content>
-    </entry>
-    <entry>
-      <title>Papst Leo XIV. gibt großen Fronleichnams-Gottesdienst in Madrid</title>
-      <id>https://www.tagesschau.de/video/video-1594512.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1594512.html"/>
-      <updated>2026-06-07T10:31:38Z</updated>
-      <published>2026-06-07T10:31:38Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/89689cd7-1085-4ed8-b873-ca9eef5e92b0/AAABnqE1btw/AAABnSSvsdE/16x9-small/sendungsbild-1745158.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/89689cd7-1085-4ed8-b873-ca9eef5e92b0/AAABnqE1btw/AAABnSSvsdE/16x9-small/sendungsbild-1745158.jpg?width=320" alt="Papst Leo XIV. gibt großen Fronleichnams-Gottesdienst in Madrid"/><p>Papst Leo XIV. gibt großen Fronleichnams-Gottesdienst in Madrid</p>]]></content>
     </entry>
 </feed>
