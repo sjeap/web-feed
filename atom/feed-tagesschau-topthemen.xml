@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-08T20:11:10Z</updated>
+  <updated>2026-06-08T20:49:09Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Israel und Iran · Eskalation vorerst abgewendet</title>
+      <id>https://www.tagesschau.de/video/video-1595478.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595478.html"/>
+      <updated>2026-06-08T20:49:09Z</updated>
+      <published>2026-06-08T20:49:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/889bd56d-696c-4336-a609-d7c03fad3abf/AAABnqh3ZW8/AAABnSSvsdE/16x9-small/08062026-topthema-iran-israel-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/889bd56d-696c-4336-a609-d7c03fad3abf/AAABnqh3ZW8/AAABnSSvsdE/16x9-small/08062026-topthema-iran-israel-100.jpg?width=320" alt="Israel und Iran · Eskalation vorerst abgewendet"/><p>Israel und Iran · Eskalation vorerst abgewendet</p>]]></content>
+    </entry>
     <entry>
       <title>Staatsmodernisierung · Schluss mit den Aktenbergen</title>
       <id>https://www.tagesschau.de/video/video-1595390.html</id>
@@ -54,14 +63,5 @@
       <published>2026-06-08T15:28:06Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/40de8150-d407-4d67-9270-4167f3f03d24/AAABnqdrOdw/AAABnSSvsdE/16x9-small/sendungsbild-1745852.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/40de8150-d407-4d67-9270-4167f3f03d24/AAABnqdrOdw/AAABnSSvsdE/16x9-small/sendungsbild-1745852.jpg?width=320" alt="Israel und Iran beenden gegenseitige Angriffe - Gabriele Dunkel, ARD Istanbul"/><p>Israel und Iran beenden gegenseitige Angriffe - Gabriele Dunkel, ARD Istanbul</p>]]></content>
-    </entry>
-    <entry>
-      <title>EU-Verteidigungsminister beraten zu Ukraine-Hilfe</title>
-      <id>https://www.tagesschau.de/video/video-1595188.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595188.html"/>
-      <updated>2026-06-08T15:10:04Z</updated>
-      <published>2026-06-08T15:10:04Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/483b4251-92b2-4058-944d-6fc49f99ba4f/AAABnqdauLE/AAABnSSvsdE/16x9-small/sendungsbild-1745844.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/483b4251-92b2-4058-944d-6fc49f99ba4f/AAABnqdauLE/AAABnSSvsdE/16x9-small/sendungsbild-1745844.jpg?width=320" alt="EU-Verteidigungsminister beraten zu Ukraine-Hilfe"/><p>EU-Verteidigungsminister beraten zu Ukraine-Hilfe</p>]]></content>
     </entry>
 </feed>
