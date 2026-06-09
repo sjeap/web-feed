@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-08T20:49:09Z</updated>
+  <updated>2026-06-09T15:17:51Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Björn Dake, ARD Tel Aviv, zur derzeitigen Lage im Nahen Osten</title>
+      <id>https://www.tagesschau.de/video/video-1595824.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595824.html"/>
+      <updated>2026-06-09T15:08:57Z</updated>
+      <published>2026-06-09T15:08:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/674aa392-e8a6-436b-b165-141f71942f9a/AAABnqyADWI/AAABnSSvsdE/16x9-small/sendungsbild-1746490.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/674aa392-e8a6-436b-b165-141f71942f9a/AAABnqyADWI/AAABnSSvsdE/16x9-small/sendungsbild-1746490.jpg?width=320" alt="Björn Dake, ARD Tel Aviv, zur derzeitigen Lage im Nahen Osten"/><p>Björn Dake, ARD Tel Aviv, zur derzeitigen Lage im Nahen Osten</p>]]></content>
+    </entry>
+    <entry>
+      <title>Suche nach Alternativen zum Kampfjet-Projekt FCAS</title>
+      <id>https://www.tagesschau.de/video/video-1595716.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595716.html"/>
+      <updated>2026-06-09T15:17:51Z</updated>
+      <published>2026-06-09T15:17:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f157b26e-bce2-464d-89ee-718d7b8dd855/AAABnqyHpAU/AAABnSSvsdE/16x9-small/sendungsbild-1746364.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f157b26e-bce2-464d-89ee-718d7b8dd855/AAABnqyHpAU/AAABnSSvsdE/16x9-small/sendungsbild-1746364.jpg?width=320" alt="Suche nach Alternativen zum Kampfjet-Projekt FCAS"/><p>Suche nach Alternativen zum Kampfjet-Projekt FCAS</p>]]></content>
+    </entry>
     <entry>
       <title>Israel und Iran · Eskalation vorerst abgewendet</title>
       <id>https://www.tagesschau.de/video/video-1595478.html</id>
@@ -45,23 +63,5 @@
       <published>2026-06-08T17:47:46Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3fa7a80f-1640-4312-9f7c-a59ffd21003d/AAABnqfrELc/AAABnSSvsdE/16x9-small/sendungsbild-1745976.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3fa7a80f-1640-4312-9f7c-a59ffd21003d/AAABnqfrELc/AAABnSSvsdE/16x9-small/sendungsbild-1745976.jpg?width=320" alt="Friedensforscher warnen vor "neuen Kriegsfürsten""/><p>Friedensforscher warnen vor &quot;neuen Kriegsfürsten&quot;</p>]]></content>
-    </entry>
-    <entry>
-      <title>Mehr digital und online - Fortschritte bei Staatsmodernisierung</title>
-      <id>https://www.tagesschau.de/video/video-1595250.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595250.html"/>
-      <updated>2026-06-08T16:27:28Z</updated>
-      <published>2026-06-08T16:27:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f38eafe3-b44d-4c68-ab0d-adc2a9adb6be/AAABnqehkXc/AAABnSSvsdE/16x9-small/sendungsbild-1745902.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f38eafe3-b44d-4c68-ab0d-adc2a9adb6be/AAABnqehkXc/AAABnSSvsdE/16x9-small/sendungsbild-1745902.jpg?width=320" alt="Mehr digital und online - Fortschritte bei Staatsmodernisierung"/><p>Mehr digital und online - Fortschritte bei Staatsmodernisierung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Israel und Iran beenden gegenseitige Angriffe - Gabriele Dunkel, ARD Istanbul</title>
-      <id>https://www.tagesschau.de/video/video-1595206.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595206.html"/>
-      <updated>2026-06-08T15:28:06Z</updated>
-      <published>2026-06-08T15:28:06Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/40de8150-d407-4d67-9270-4167f3f03d24/AAABnqdrOdw/AAABnSSvsdE/16x9-small/sendungsbild-1745852.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/40de8150-d407-4d67-9270-4167f3f03d24/AAABnqdrOdw/AAABnSSvsdE/16x9-small/sendungsbild-1745852.jpg?width=320" alt="Israel und Iran beenden gegenseitige Angriffe - Gabriele Dunkel, ARD Istanbul"/><p>Israel und Iran beenden gegenseitige Angriffe - Gabriele Dunkel, ARD Istanbul</p>]]></content>
     </entry>
 </feed>
