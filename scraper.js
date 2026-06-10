@@ -34,6 +34,7 @@ const zlib  = require("zlib");
 const fs    = require("fs");
 const path  = require("path");
 const os    = require("os");
+const crypto = require("crypto");
 const { URL } = require("url");
 
 const SITES_FILE    = path.join(__dirname, "sites.json");
@@ -417,14 +418,24 @@ function buildCnnFearGreedItems(data, site) {
   const tsDate = tsRaw ? new Date(typeof tsRaw === "number" ? tsRaw : tsRaw) : new Date();
   const validTs = !isNaN(tsDate.getTime());
   const pubDate = (validTs ? tsDate : new Date()).toUTCString();
-  const dayKey  = (validTs ? tsDate : new Date()).toISOString().slice(0, 10);
 
-  // GUID datumsabhängig, damit Reader täglich ein neues Item erkennen
-  const guid = `${site.url}#${dayKey}`;
+  // GUID inhaltsabhängig: kurzer Hash über die relevanten Werte (Score + die
+  // drei Ratings). Ändert sich die Lesung → neue <id> → Reader zeigt ein neues,
+  // ungelesenes Item (auch intraday); gleiche Lesung → gleiche <id> → kein
+  // Fehlalarm. (Vorher datumsbasiert: max. 1 neues Item/Tag, intraday unsichtbar.)
+  const contentSig = [
+    score,
+    (fng.rating || "").trim().toLowerCase(),
+    ((putCall && putCall.rating) || "").trim().toLowerCase(),
+    ((vix && vix.rating) || "").trim().toLowerCase(),
+  ].join("|");
+  const contentHash = crypto.createHash("sha1").update(contentSig).digest("hex").slice(0, 12);
+  const guid = `${site.url}#${contentHash}`;
 
-  // Gauge-Bild-URL (mit Cachebuster, damit Reader das aktualisierte SVG holen)
+  // Gauge-Bild-URL: Cachebuster ebenfalls am Inhalt, damit der Reader das SVG
+  // bei jeder Wert-Änderung neu lädt (nicht erst beim Datumswechsel).
   const gaugeUrl = site.gaugeOutput
-    ? `${FEED_BASE_URL}${site.gaugeOutput}?v=${dayKey}`
+    ? `${FEED_BASE_URL}${site.gaugeOutput}?v=${contentHash}`
     : null;
 
   const title = `Fear & Greed: ${score} (${ratingLabel}) // Put-Call Ratio: ${putCallLabel} // Market Volatility VIX: ${vixLabel}`;
