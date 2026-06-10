@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-10T17:24:57Z</updated>
+  <updated>2026-06-10T21:00:39Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ausschreitungen nach Messerangriff | 10. Juni 2026</title>
+      <id>https://www.tagesschau.de/video/video-1596652.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596652.html"/>
+      <updated>2026-06-10T21:00:39Z</updated>
+      <published>2026-06-10T21:00:39Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/38b0e8a9-8b7e-42e0-aab6-27bf803a12e9/AAABnrHGZkA/AAABnSSvsdE/16x9-small/tn-topthema-nk20-06102026-belfast-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/38b0e8a9-8b7e-42e0-aab6-27bf803a12e9/AAABnrHGZkA/AAABnSSvsdE/16x9-small/tn-topthema-nk20-06102026-belfast-100.jpg?width=320" alt="Ausschreitungen nach Messerangriff | 10. Juni 2026"/><p>Ausschreitungen nach Messerangriff | 10. Juni 2026</p>]]></content>
+    </entry>
     <entry>
       <title>Krankenkassenreform · Proteste gegen Sparpläne</title>
       <id>https://www.tagesschau.de/video/video-1596448.html</id>
@@ -54,14 +63,5 @@
       <published>2026-06-08T20:49:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/889bd56d-696c-4336-a609-d7c03fad3abf/AAABnqh3ZW8/AAABnSSvsdE/16x9-small/08062026-topthema-iran-israel-100.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/889bd56d-696c-4336-a609-d7c03fad3abf/AAABnqh3ZW8/AAABnSSvsdE/16x9-small/08062026-topthema-iran-israel-100.jpg?width=320" alt="Israel und Iran · Eskalation vorerst abgewendet"/><p>Israel und Iran · Eskalation vorerst abgewendet</p>]]></content>
-    </entry>
-    <entry>
-      <title>Staatsmodernisierung · Schluss mit den Aktenbergen</title>
-      <id>https://www.tagesschau.de/video/video-1595390.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595390.html"/>
-      <updated>2026-06-08T19:41:45Z</updated>
-      <published>2026-06-08T19:41:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a561949d-4ae9-4dbe-a8aa-156f40c18d22/AAABnqhO8xg/AAABnSSvsdE/16x9-small/15042025-berlin-akte-gericht-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a561949d-4ae9-4dbe-a8aa-156f40c18d22/AAABnqhO8xg/AAABnSSvsdE/16x9-small/15042025-berlin-akte-gericht-100.jpg?width=320" alt="Staatsmodernisierung · Schluss mit den Aktenbergen"/><p>Staatsmodernisierung · Schluss mit den Aktenbergen</p>]]></content>
     </entry>
 </feed>
