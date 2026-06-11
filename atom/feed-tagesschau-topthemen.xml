@@ -5,19 +5,55 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-10T21:00:39Z</updated>
+  <updated>2026-06-11T20:52:01Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ausschreitungen nach Messerangriff | 10. Juni 2026</title>
-      <id>https://www.tagesschau.de/video/video-1596652.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596652.html"/>
-      <updated>2026-06-10T21:00:39Z</updated>
-      <published>2026-06-10T21:00:39Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/38b0e8a9-8b7e-42e0-aab6-27bf803a12e9/AAABnrHGZkA/AAABnSSvsdE/16x9-small/tn-topthema-nk20-06102026-belfast-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/38b0e8a9-8b7e-42e0-aab6-27bf803a12e9/AAABnrHGZkA/AAABnSSvsdE/16x9-small/tn-topthema-nk20-06102026-belfast-100.jpg?width=320" alt="Ausschreitungen nach Messerangriff | 10. Juni 2026"/><p>Ausschreitungen nach Messerangriff | 10. Juni 2026</p>]]></content>
+      <title>WM-Eröffnung · Fußball-Euphorie und Proteste</title>
+      <id>https://www.tagesschau.de/video/video-1597252.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597252.html"/>
+      <updated>2026-06-11T20:52:01Z</updated>
+      <published>2026-06-11T20:52:01Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/12ec8804-f4c0-4039-a1a0-ce20b2fa0f52/AAABnrePoo8/AAABnSSvsdE/16x9-small/11062026-mexiko-fussball-wm-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/12ec8804-f4c0-4039-a1a0-ce20b2fa0f52/AAABnrePoo8/AAABnSSvsdE/16x9-small/11062026-mexiko-fussball-wm-100.jpg?width=320" alt="WM-Eröffnung · Fußball-Euphorie und Proteste"/><p>WM-Eröffnung · Fußball-Euphorie und Proteste</p>]]></content>
+    </entry>
+    <entry>
+      <title>Fußball-WM 2026 wird eröffnet</title>
+      <id>https://www.tagesschau.de/video/video-1597114.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597114.html"/>
+      <updated>2026-06-11T18:34:36Z</updated>
+      <published>2026-06-11T18:34:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d455ca72-1f6c-4267-97bc-a2418ef55369/AAABnreINLg/AAABnSSvsdE/16x9-small/sendungsbild-1747714.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d455ca72-1f6c-4267-97bc-a2418ef55369/AAABnreINLg/AAABnSSvsdE/16x9-small/sendungsbild-1747714.jpg?width=320" alt="Fußball-WM 2026 wird eröffnet"/><p>Fußball-WM 2026 wird eröffnet</p>]]></content>
+    </entry>
+    <entry>
+      <title>USA und Iran setzen Angriffe fort: Katharina Willinger, ARD Istanbul</title>
+      <id>https://www.tagesschau.de/video/video-1596980.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596980.html"/>
+      <updated>2026-06-11T15:32:57Z</updated>
+      <published>2026-06-11T15:32:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/14b02ce6-fa8f-4b72-9182-5f36d4d78f98/AAABnrbiixw/AAABnSSvsdE/16x9-small/sendungsbild-1747612.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/14b02ce6-fa8f-4b72-9182-5f36d4d78f98/AAABnrbiixw/AAABnSSvsdE/16x9-small/sendungsbild-1747612.jpg?width=320" alt="USA und Iran setzen Angriffe fort: Katharina Willinger, ARD Istanbul"/><p>USA und Iran setzen Angriffe fort: Katharina Willinger, ARD Istanbul</p>]]></content>
+    </entry>
+    <entry>
+      <title>Erneut rassistische Krawalle in Belfast</title>
+      <id>https://www.tagesschau.de/video/video-1596884.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596884.html"/>
+      <updated>2026-06-11T12:15:36Z</updated>
+      <published>2026-06-11T12:15:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/517c9604-21af-4aeb-b36e-15f329f3a7a8/AAABnrYt5J8/AAABnSSvsdE/16x9-small/sendungsbild-1747506.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/517c9604-21af-4aeb-b36e-15f329f3a7a8/AAABnrYt5J8/AAABnSSvsdE/16x9-small/sendungsbild-1747506.jpg?width=320" alt="Erneut rassistische Krawalle in Belfast"/><p>Erneut rassistische Krawalle in Belfast</p>]]></content>
+    </entry>
+    <entry>
+      <title>Debatte nach Regierungserklärung im Bundestag</title>
+      <id>https://www.tagesschau.de/video/video-1596910.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596910.html"/>
+      <updated>2026-06-11T13:08:50Z</updated>
+      <published>2026-06-11T13:08:50Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6858c16b-62dc-426a-af7f-628381725c94/AAABnrZeNVc/AAABnSSvsdE/16x9-small/sendungsbild-1747530.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6858c16b-62dc-426a-af7f-628381725c94/AAABnrZeNVc/AAABnSSvsdE/16x9-small/sendungsbild-1747530.jpg?width=320" alt="Debatte nach Regierungserklärung im Bundestag"/><p>Debatte nach Regierungserklärung im Bundestag</p>]]></content>
     </entry>
     <entry>
       <title>Krankenkassenreform · Proteste gegen Sparpläne</title>
@@ -27,41 +63,5 @@
       <published>2026-06-10T17:24:57Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a17115db-95fd-4f0a-a59c-0a5a37e5aee5/AAABnrIa3-o/AAABnSSvsdE/16x9-small/sp-nk16-gesundheitsministerkonferenz-100.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a17115db-95fd-4f0a-a59c-0a5a37e5aee5/AAABnrIa3-o/AAABnSSvsdE/16x9-small/sp-nk16-gesundheitsministerkonferenz-100.jpg?width=320" alt="Krankenkassenreform · Proteste gegen Sparpläne"/><p>Krankenkassenreform · Proteste gegen Sparpläne</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gescheiterter Corona-Masken-Deal</title>
-      <id>https://www.tagesschau.de/video/video-1596414.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596414.html"/>
-      <updated>2026-06-10T16:19:43Z</updated>
-      <published>2026-06-10T16:19:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/64c6621b-3fc0-42e7-9ca2-bc2ca142f221/AAABnrG3vj0/AAABnSSvsdE/16x9-small/spahn-668.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/64c6621b-3fc0-42e7-9ca2-bc2ca142f221/AAABnrG3vj0/AAABnSSvsdE/16x9-small/spahn-668.jpg?width=320" alt="Gescheiterter Corona-Masken-Deal"/><p>Gescheiterter Corona-Masken-Deal</p>]]></content>
-    </entry>
-    <entry>
-      <title>Björn Dake, ARD Tel Aviv, zur derzeitigen Lage im Nahen Osten</title>
-      <id>https://www.tagesschau.de/video/video-1595824.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595824.html"/>
-      <updated>2026-06-09T15:08:57Z</updated>
-      <published>2026-06-09T15:08:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/674aa392-e8a6-436b-b165-141f71942f9a/AAABnqyADWI/AAABnSSvsdE/16x9-small/sendungsbild-1746490.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/674aa392-e8a6-436b-b165-141f71942f9a/AAABnqyADWI/AAABnSSvsdE/16x9-small/sendungsbild-1746490.jpg?width=320" alt="Björn Dake, ARD Tel Aviv, zur derzeitigen Lage im Nahen Osten"/><p>Björn Dake, ARD Tel Aviv, zur derzeitigen Lage im Nahen Osten</p>]]></content>
-    </entry>
-    <entry>
-      <title>Suche nach Alternativen zum Kampfjet-Projekt FCAS</title>
-      <id>https://www.tagesschau.de/video/video-1595716.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595716.html"/>
-      <updated>2026-06-09T15:17:51Z</updated>
-      <published>2026-06-09T15:17:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f157b26e-bce2-464d-89ee-718d7b8dd855/AAABnqyHpAU/AAABnSSvsdE/16x9-small/sendungsbild-1746364.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f157b26e-bce2-464d-89ee-718d7b8dd855/AAABnqyHpAU/AAABnSSvsdE/16x9-small/sendungsbild-1746364.jpg?width=320" alt="Suche nach Alternativen zum Kampfjet-Projekt FCAS"/><p>Suche nach Alternativen zum Kampfjet-Projekt FCAS</p>]]></content>
-    </entry>
-    <entry>
-      <title>Israel und Iran · Eskalation vorerst abgewendet</title>
-      <id>https://www.tagesschau.de/video/video-1595478.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1595478.html"/>
-      <updated>2026-06-08T20:49:09Z</updated>
-      <published>2026-06-08T20:49:09Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/889bd56d-696c-4336-a609-d7c03fad3abf/AAABnqh3ZW8/AAABnSSvsdE/16x9-small/08062026-topthema-iran-israel-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/889bd56d-696c-4336-a609-d7c03fad3abf/AAABnqh3ZW8/AAABnSSvsdE/16x9-small/08062026-topthema-iran-israel-100.jpg?width=320" alt="Israel und Iran · Eskalation vorerst abgewendet"/><p>Israel und Iran · Eskalation vorerst abgewendet</p>]]></content>
     </entry>
 </feed>
