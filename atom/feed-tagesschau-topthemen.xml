@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-11T20:52:01Z</updated>
+  <updated>2026-06-12T10:33:36Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>US-Präsident Trump verzichtet vorerst auf neue Angriffe gegen Iran</title>
+      <id>https://www.tagesschau.de/video/video-1597390.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597390.html"/>
+      <updated>2026-06-12T10:33:36Z</updated>
+      <published>2026-06-12T10:33:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cf482a3c-6b4b-40de-979d-aa37bfbd62d5/AAABnrr3DWE/AAABnSSvsdE/16x9-small/sendungsbild-1748044.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cf482a3c-6b4b-40de-979d-aa37bfbd62d5/AAABnrr3DWE/AAABnSSvsdE/16x9-small/sendungsbild-1748044.jpg?width=320" alt="US-Präsident Trump verzichtet vorerst auf neue Angriffe gegen Iran"/><p>US-Präsident Trump verzichtet vorerst auf neue Angriffe gegen Iran</p>]]></content>
+    </entry>
+    <entry>
+      <title>Verschärfte Migrationsregeln: Neues EU-Asylsystem in Kraft</title>
+      <id>https://www.tagesschau.de/video/video-1597388.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597388.html"/>
+      <updated>2026-06-12T10:24:55Z</updated>
+      <published>2026-06-12T10:24:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8812711d-6ab1-4d3d-a52c-e90425841aa7/AAABnrrvFM4/AAABnSSvsdE/16x9-small/sendungsbild-1748034.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8812711d-6ab1-4d3d-a52c-e90425841aa7/AAABnrrvFM4/AAABnSSvsdE/16x9-small/sendungsbild-1748034.jpg?width=320" alt="Verschärfte Migrationsregeln: Neues EU-Asylsystem in Kraft"/><p>Verschärfte Migrationsregeln: Neues EU-Asylsystem in Kraft</p>]]></content>
+    </entry>
     <entry>
       <title>WM-Eröffnung · Fußball-Euphorie und Proteste</title>
       <id>https://www.tagesschau.de/video/video-1597252.html</id>
@@ -45,23 +63,5 @@
       <published>2026-06-11T12:15:36Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/517c9604-21af-4aeb-b36e-15f329f3a7a8/AAABnrYt5J8/AAABnSSvsdE/16x9-small/sendungsbild-1747506.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/517c9604-21af-4aeb-b36e-15f329f3a7a8/AAABnrYt5J8/AAABnSSvsdE/16x9-small/sendungsbild-1747506.jpg?width=320" alt="Erneut rassistische Krawalle in Belfast"/><p>Erneut rassistische Krawalle in Belfast</p>]]></content>
-    </entry>
-    <entry>
-      <title>Debatte nach Regierungserklärung im Bundestag</title>
-      <id>https://www.tagesschau.de/video/video-1596910.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596910.html"/>
-      <updated>2026-06-11T13:08:50Z</updated>
-      <published>2026-06-11T13:08:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6858c16b-62dc-426a-af7f-628381725c94/AAABnrZeNVc/AAABnSSvsdE/16x9-small/sendungsbild-1747530.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6858c16b-62dc-426a-af7f-628381725c94/AAABnrZeNVc/AAABnSSvsdE/16x9-small/sendungsbild-1747530.jpg?width=320" alt="Debatte nach Regierungserklärung im Bundestag"/><p>Debatte nach Regierungserklärung im Bundestag</p>]]></content>
-    </entry>
-    <entry>
-      <title>Krankenkassenreform · Proteste gegen Sparpläne</title>
-      <id>https://www.tagesschau.de/video/video-1596448.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1596448.html"/>
-      <updated>2026-06-10T17:24:57Z</updated>
-      <published>2026-06-10T17:24:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a17115db-95fd-4f0a-a59c-0a5a37e5aee5/AAABnrIa3-o/AAABnSSvsdE/16x9-small/sp-nk16-gesundheitsministerkonferenz-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a17115db-95fd-4f0a-a59c-0a5a37e5aee5/AAABnrIa3-o/AAABnSSvsdE/16x9-small/sp-nk16-gesundheitsministerkonferenz-100.jpg?width=320" alt="Krankenkassenreform · Proteste gegen Sparpläne"/><p>Krankenkassenreform · Proteste gegen Sparpläne</p>]]></content>
     </entry>
 </feed>
