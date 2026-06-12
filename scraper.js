@@ -465,7 +465,10 @@ function buildCnnFearGreedItems(data, site) {
 
   return [{
     title,
-    link:    site.url,
+    // Link trägt denselben Inhalts-Hash als Fragment: Reader, die über den
+    // <link> deduplizieren (statt über die <id>), erkennen so eine Änderung.
+    // Das Fragment ändert das Ziel nicht (CNN ignoriert es).
+    link:    `${site.url}#${contentHash}`,
     pubDate,
     imgSrc:  gaugeUrl,
     imgAlt:  title,
