@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-12T19:34:39Z</updated>
+  <updated>2026-06-12T21:03:53Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Offenbar Friedensabkommen zwischen USA und Iran</title>
+      <id>https://www.tagesschau.de/video/video-1597860.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597860.html"/>
+      <updated>2026-06-12T21:03:53Z</updated>
+      <published>2026-06-12T21:03:53Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/76f0e4b2-7ba9-4ccf-9536-6b8564522da6/AAABnr032cI/AAABnSSvsdE/16x9-small/12062026-topthema-usa-iran-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/76f0e4b2-7ba9-4ccf-9536-6b8564522da6/AAABnr032cI/AAABnSSvsdE/16x9-small/12062026-topthema-usa-iran-100.jpg?width=320" alt="Offenbar Friedensabkommen zwischen USA und Iran"/><p>Offenbar Friedensabkommen zwischen USA und Iran</p>]]></content>
+    </entry>
     <entry>
       <title>GEAS · EU verschärft ihr Asylrecht</title>
       <id>https://www.tagesschau.de/video/video-1597738.html</id>
@@ -54,14 +63,5 @@
       <published>2026-06-12T12:32:21Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3d45f384-04cd-4d97-a313-f4e6e7a3dc45/AAABnrtjxUo/AAABnSSvsdE/16x9-small/sendungsbild-1748132.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3d45f384-04cd-4d97-a313-f4e6e7a3dc45/AAABnrtjxUo/AAABnSSvsdE/16x9-small/sendungsbild-1748132.jpg?width=320" alt="Christoph Mestmacher, ARD Berlin, zu den Beratungen des Bundestags über geplante Gesundheitsreform"/><p>Christoph Mestmacher, ARD Berlin, zu den Beratungen des Bundestags über geplante Gesundheitsreform</p>]]></content>
-    </entry>
-    <entry>
-      <title>Stephan Stuchlik, ARD Brüssel, zzt. Nikosia/Zypern, mit Informationen zum neuen EU-Asylsystem</title>
-      <id>https://www.tagesschau.de/video/video-1597440.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597440.html"/>
-      <updated>2026-06-12T11:10:08Z</updated>
-      <published>2026-06-12T11:10:08Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8070d519-9d2b-4df8-8224-1ed984697f3a/AAABnrsYeVA/AAABnSSvsdE/16x9-small/sendungsbild-1748078.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8070d519-9d2b-4df8-8224-1ed984697f3a/AAABnrsYeVA/AAABnSSvsdE/16x9-small/sendungsbild-1748078.jpg?width=320" alt="Stephan Stuchlik, ARD Brüssel, zzt. Nikosia/Zypern, mit Informationen zum neuen EU-Asylsystem"/><p>Stephan Stuchlik, ARD Brüssel, zzt. Nikosia/Zypern, mit Informationen zum neuen EU-Asylsystem</p>]]></content>
     </entry>
 </feed>
