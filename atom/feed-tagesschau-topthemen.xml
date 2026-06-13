@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-12T21:03:53Z</updated>
+  <updated>2026-06-13T17:37:54Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Anordnung der US-Regierung: Anthropic sperrt Zugang zu KI-Modellen</title>
+      <id>https://www.tagesschau.de/video/video-1598106.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1598106.html"/>
+      <updated>2026-06-13T17:37:54Z</updated>
+      <published>2026-06-13T17:37:54Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ffdd65d5-98d9-41df-a213-51bc475981c6/AAABnsGhnBM/AAABnSSvsdE/16x9-small/sendungsbild-1748724.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ffdd65d5-98d9-41df-a213-51bc475981c6/AAABnsGhnBM/AAABnSSvsdE/16x9-small/sendungsbild-1748724.jpg?width=320" alt="Anordnung der US-Regierung: Anthropic sperrt Zugang zu KI-Modellen"/><p>Anordnung der US-Regierung: Anthropic sperrt Zugang zu KI-Modellen</p>]]></content>
+    </entry>
+    <entry>
+      <title>CDU tagt vor Landtagswahl in Sachsen-Anhalt</title>
+      <id>https://www.tagesschau.de/video/video-1598040.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1598040.html"/>
+      <updated>2026-06-13T14:54:56Z</updated>
+      <published>2026-06-13T14:54:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c9a607dd-face-4ab6-877f-56b1183a6c2a/AAABnsEMtds/AAABnSSvsdE/16x9-small/cdu-504.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c9a607dd-face-4ab6-877f-56b1183a6c2a/AAABnsEMtds/AAABnSSvsdE/16x9-small/cdu-504.jpg?width=320" alt="CDU tagt vor Landtagswahl in Sachsen-Anhalt"/><p>CDU tagt vor Landtagswahl in Sachsen-Anhalt</p>]]></content>
+    </entry>
+    <entry>
+      <title>100 Jahre Kruger-Nationalpark</title>
+      <id>https://www.tagesschau.de/video/video-1597996.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597996.html"/>
+      <updated>2026-06-13T10:46:22Z</updated>
+      <published>2026-06-13T10:46:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/437b5231-6c9a-4611-a69a-968611bba5c6/AAABnsAhi70/AAABnSSvsdE/16x9-small/sendungsbild-1748594.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/437b5231-6c9a-4611-a69a-968611bba5c6/AAABnsAhi70/AAABnSSvsdE/16x9-small/sendungsbild-1748594.jpg?width=320" alt="100 Jahre Kruger-Nationalpark"/><p>100 Jahre Kruger-Nationalpark</p>]]></content>
+    </entry>
     <entry>
       <title>Offenbar Friedensabkommen zwischen USA und Iran</title>
       <id>https://www.tagesschau.de/video/video-1597860.html</id>
@@ -36,32 +63,5 @@
       <published>2026-06-12T16:44:11Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/31acfec4-b73b-45d9-99ab-f99ac463bb9f/AAABm9BNpqs/AAABnSSvsdE/16x9-small/hubig-116.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/31acfec4-b73b-45d9-99ab-f99ac463bb9f/AAABm9BNpqs/AAABnSSvsdE/16x9-small/hubig-116.jpg?width=320" alt="Änderungen des Sexualstrafrechts"/><p>Änderungen des Sexualstrafrechts</p>]]></content>
-    </entry>
-    <entry>
-      <title>Hamburger Flughafen · Sicherheitsbereich geräumt</title>
-      <id>https://www.tagesschau.de/video/video-1597578.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597578.html"/>
-      <updated>2026-06-12T15:59:09Z</updated>
-      <published>2026-06-12T15:59:09Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c949a4b4-a8ca-4359-9d80-ef9e1e84e210/AAABnrv3D7Y/AAABnSSvsdE/16x9-small/12062026-hamburg-flughafen-lage-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c949a4b4-a8ca-4359-9d80-ef9e1e84e210/AAABnrv3D7Y/AAABnSSvsdE/16x9-small/12062026-hamburg-flughafen-lage-100.jpg?width=320" alt="Hamburger Flughafen · Sicherheitsbereich geräumt"/><p>Hamburger Flughafen · Sicherheitsbereich geräumt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ina Ruck, ARD Warschau, zum neuen EU-Asylsystem und zu Polens Sonderregelung</title>
-      <id>https://www.tagesschau.de/video/video-1597472.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597472.html"/>
-      <updated>2026-06-12T12:44:46Z</updated>
-      <published>2026-06-12T12:44:46Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/871dda4a-7e35-495d-9bea-2bfe3508b8db/AAABnrtvJZA/AAABnSSvsdE/16x9-small/sendungsbild-1748142.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/871dda4a-7e35-495d-9bea-2bfe3508b8db/AAABnrtvJZA/AAABnSSvsdE/16x9-small/sendungsbild-1748142.jpg?width=320" alt="Ina Ruck, ARD Warschau, zum neuen EU-Asylsystem und zu Polens Sonderregelung"/><p>Ina Ruck, ARD Warschau, zum neuen EU-Asylsystem und zu Polens Sonderregelung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Christoph Mestmacher, ARD Berlin, zu den Beratungen des Bundestags über geplante Gesundheitsreform</title>
-      <id>https://www.tagesschau.de/video/video-1597460.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1597460.html"/>
-      <updated>2026-06-12T12:32:21Z</updated>
-      <published>2026-06-12T12:32:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3d45f384-04cd-4d97-a313-f4e6e7a3dc45/AAABnrtjxUo/AAABnSSvsdE/16x9-small/sendungsbild-1748132.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3d45f384-04cd-4d97-a313-f4e6e7a3dc45/AAABnrtjxUo/AAABnSSvsdE/16x9-small/sendungsbild-1748132.jpg?width=320" alt="Christoph Mestmacher, ARD Berlin, zu den Beratungen des Bundestags über geplante Gesundheitsreform"/><p>Christoph Mestmacher, ARD Berlin, zu den Beratungen des Bundestags über geplante Gesundheitsreform</p>]]></content>
     </entry>
 </feed>
