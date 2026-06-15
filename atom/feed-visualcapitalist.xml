@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-05-29T00:00:00Z</updated>
+  <updated>2026-06-11T00:00:00Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
@@ -20,15 +20,6 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Americas-Highest-Paying-Jobs_shareable_May19-80x80.webp" alt="Horizontal bar chart showing the highest-paying jobs in America."/><p>Ranked: The 30 Highest-Paying Jobs in America</p>]]></content>
     </entry>
     <entry>
-      <title>Mapped: America’s Most-Spoken Languages After English and Spanish</title>
-      <id>https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/"/>
-      <updated>2026-05-17T00:00:00Z</updated>
-      <published>2026-05-17T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/mostspokenlanguages-share-80x80.webp" alt="See the most-spoken languages in America besides English and Spanish, based on U.S. Census data."/><p>Mapped: America’s Most-Spoken Languages After English and Spanish</p>]]></content>
-    </entry>
-    <entry>
       <title>Ranked: The World’s Most &amp; Least Free Countries</title>
       <id>https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/</id>
       <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/"/>
@@ -36,15 +27,6 @@
       <published>2026-05-23T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp" alt="Ranking of the world&#039;s freest and least free countries per Freedom House."/><p>Ranked: The World’s Most &amp; Least Free Countries</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ranked: Countries With the Highest Water Use Per Person</title>
-      <id>https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-with-the-highest-water-use-per-person/"/>
-      <updated>2026-05-16T00:00:00Z</updated>
-      <published>2026-05-16T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Heaviest-Water-Users_Shareable_05122026-80x80.webp" alt="Bar chart showing which countries have the highest water usage per person, led by Turkmenistan, Montenegro, and New Zealand."/><p>Ranked: Countries With the Highest Water Use Per Person</p>]]></content>
     </entry>
     <entry>
       <title>Ranked: Who Controls the World’s Uranium Supply?</title>
@@ -63,5 +45,23 @@
       <published>2026-05-21T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Global-Economic-Growth-Forecast_Shareable2_05052026-80x80.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Global-Economic-Growth-Forecast_Shareable2_05052026-80x80.webp" alt="Graphic showing the world&#039;s 15 largest economies by nominal GDP in 2026, 2028, and 2031."/><p>Ranked: The World’s Biggest Economies by 2031</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: The Hardest Languages for English Speakers to Learn</title>
+      <id>https://www.visualcapitalist.com/cp/ranked-the-hardest-languages-for-english-speakers-to-learn/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/cp/ranked-the-hardest-languages-for-english-speakers-to-learn/"/>
+      <updated>2026-05-30T00:00:00Z</updated>
+      <published>2026-05-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/language-difficulty-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/language-difficulty-80x80.webp" alt="Ranked: The Hardest Languages for English Speakers to Learn"/><p>Ranked: The Hardest Languages for English Speakers to Learn</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: Where Electricity Costs the Most and Least</title>
+      <id>https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/"/>
+      <updated>2026-06-11T00:00:00Z</updated>
+      <published>2026-06-11T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp" alt="Europe dominates the world’s highest-cost electricity markets."/><p>Ranked: Where Electricity Costs the Most and Least</p>]]></content>
     </entry>
 </feed>
