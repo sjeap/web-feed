@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-16T19:13:44Z</updated>
+  <updated>2026-06-17T10:45:16Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Pläne der AfD für einen Verwaltungsumbau in Sachsen-Anhalt</title>
+      <id>https://www.tagesschau.de/video/video-1599954.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1599954.html"/>
+      <updated>2026-06-17T10:45:16Z</updated>
+      <published>2026-06-17T10:45:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a6a67790-0e57-43e4-a0fb-2788ae3c3bf3/AAABntTBgdc/AAABnSSvsdE/16x9-small/sendungsbild-1750740.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a6a67790-0e57-43e4-a0fb-2788ae3c3bf3/AAABntTBgdc/AAABnSSvsdE/16x9-small/sendungsbild-1750740.jpg?width=320" alt="Pläne der AfD für einen Verwaltungsumbau in Sachsen-Anhalt"/><p>Pläne der AfD für einen Verwaltungsumbau in Sachsen-Anhalt</p>]]></content>
+    </entry>
+    <entry>
+      <title>G7-Gipfel im französischen Évian geht zu Ende</title>
+      <id>https://www.tagesschau.de/video/video-1599936.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1599936.html"/>
+      <updated>2026-06-17T10:30:23Z</updated>
+      <published>2026-06-17T10:30:23Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a8ef00ca-343d-47b5-8313-9a5117f6d741/AAABntSz4SQ/AAABnSSvsdE/16x9-small/sendungsbild-1750726.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a8ef00ca-343d-47b5-8313-9a5117f6d741/AAABntSz4SQ/AAABnSSvsdE/16x9-small/sendungsbild-1750726.jpg?width=320" alt="G7-Gipfel im französischen Évian geht zu Ende"/><p>G7-Gipfel im französischen Évian geht zu Ende</p>]]></content>
+    </entry>
     <entry>
       <title>Dagmar Berghoff als erste Sprecherin vor 50 Jahren bei der tagesschau</title>
       <id>https://www.tagesschau.de/video/video-1599620.html</id>
@@ -45,23 +63,5 @@
       <published>2026-06-16T18:10:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dcec66f4-f05d-41e4-b1f8-e3066319f5a2/AAABntEygVc/AAABnSSvsdE/16x9-small/sendungsbild-1750326.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dcec66f4-f05d-41e4-b1f8-e3066319f5a2/AAABntEygVc/AAABnSSvsdE/16x9-small/sendungsbild-1750326.jpg?width=320" alt="Zehn Jahre Brexit: Junge Leute wollen zurück in die EU"/><p>Zehn Jahre Brexit: Junge Leute wollen zurück in die EU</p>]]></content>
-    </entry>
-    <entry>
-      <title>Castor-Transport trifft in Brunsbüttel ein</title>
-      <id>https://www.tagesschau.de/video/video-1599444.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1599444.html"/>
-      <updated>2026-06-16T13:24:08Z</updated>
-      <published>2026-06-16T13:24:08Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/03b81515-f62d-45ff-8927-68647c7b9847/AAABngK7UK0/AAABnSSvsdE/16x9-small/wdr-die-castorbehaelter-lagern-seit-jahren-in-dem-zwischenlager-in-juelich-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/03b81515-f62d-45ff-8927-68647c7b9847/AAABngK7UK0/AAABnSSvsdE/16x9-small/wdr-die-castorbehaelter-lagern-seit-jahren-in-dem-zwischenlager-in-juelich-100.jpg?width=320" alt="Castor-Transport trifft in Brunsbüttel ein"/><p>Castor-Transport trifft in Brunsbüttel ein</p>]]></content>
-    </entry>
-    <entry>
-      <title>G7-Gipfel in Frankreich</title>
-      <id>https://www.tagesschau.de/video/video-1599406.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1599406.html"/>
-      <updated>2026-06-16T11:07:13Z</updated>
-      <published>2026-06-16T11:07:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2ccd1e2b-e13f-42f2-a423-683a734a4926/AAABns-ufv8/AAABnSSvsdE/16x9-small/sendungsbild-1749966.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2ccd1e2b-e13f-42f2-a423-683a734a4926/AAABns-ufv8/AAABnSSvsdE/16x9-small/sendungsbild-1749966.jpg?width=320" alt="G7-Gipfel in Frankreich"/><p>G7-Gipfel in Frankreich</p>]]></content>
     </entry>
 </feed>
