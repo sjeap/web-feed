@@ -5,20 +5,11 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-06-11T00:00:00Z</updated>
+  <updated>2026-06-13T00:00:00Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
-    <entry>
-      <title>Ranked: The 30 Highest-Paying Jobs in America</title>
-      <id>https://www.visualcapitalist.com/ranked-the-30-highest-paying-jobs-in-america/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-30-highest-paying-jobs-in-america/"/>
-      <updated>2026-05-20T00:00:00Z</updated>
-      <published>2026-05-20T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Americas-Highest-Paying-Jobs_shareable_May19-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Americas-Highest-Paying-Jobs_shareable_May19-80x80.webp" alt="Horizontal bar chart showing the highest-paying jobs in America."/><p>Ranked: The 30 Highest-Paying Jobs in America</p>]]></content>
-    </entry>
     <entry>
       <title>Ranked: The World’s Most &amp; Least Free Countries</title>
       <id>https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/</id>
@@ -63,5 +54,14 @@
       <published>2026-06-11T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp" alt="Europe dominates the world’s highest-cost electricity markets."/><p>Ranked: Where Electricity Costs the Most and Least</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: Which Countries Americans Like Most—and Least</title>
+      <id>https://www.visualcapitalist.com/ranked-the-countries-americans-like-most-and-least/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-countries-americans-like-most-and-least/"/>
+      <updated>2026-06-13T00:00:00Z</updated>
+      <published>2026-06-13T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/AmericasFavoriteCountries_Share3-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/AmericasFavoriteCountries_Share3-80x80.webp" alt="Bar chart showing America&#039;s favorability rating of 21 key nations in 2026."/><p>Ranked: Which Countries Americans Like Most—and Least</p>]]></content>
     </entry>
 </feed>
