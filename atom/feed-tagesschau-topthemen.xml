@@ -5,11 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-17T17:35:11Z</updated>
+  <updated>2026-06-18T10:50:57Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Treffen der NATO-Verteidigungsminister: T. Hassel, ARD Brüssel</title>
+      <id>https://www.tagesschau.de/video/video-1600518.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600518.html"/>
+      <updated>2026-06-18T10:39:41Z</updated>
+      <published>2026-06-18T10:39:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7efd2777-09f2-4ef6-87e2-5703ae9489d8/AAABntnixAA/AAABnSSvsdE/16x9-small/sendungsbild-1751284.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7efd2777-09f2-4ef6-87e2-5703ae9489d8/AAABntnixAA/AAABnSSvsdE/16x9-small/sendungsbild-1751284.jpg?width=320" alt="Treffen der NATO-Verteidigungsminister: T. Hassel, ARD Brüssel"/><p>Treffen der NATO-Verteidigungsminister: T. Hassel, ARD Brüssel</p>]]></content>
+    </entry>
+    <entry>
+      <title>G7-Staaten ziehen positives Fazit nach Gipfeltreffen</title>
+      <id>https://www.tagesschau.de/video/video-1600520.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600520.html"/>
+      <updated>2026-06-18T10:50:57Z</updated>
+      <published>2026-06-18T10:50:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/66bfd748-f9fa-4602-aec3-1518011444d1/AAABntntFas/AAABnSSvsdE/16x9-small/sendungsbild-1751294.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/66bfd748-f9fa-4602-aec3-1518011444d1/AAABntntFas/AAABnSSvsdE/16x9-small/sendungsbild-1751294.jpg?width=320" alt="G7-Staaten ziehen positives Fazit nach Gipfeltreffen"/><p>G7-Staaten ziehen positives Fazit nach Gipfeltreffen</p>]]></content>
+    </entry>
+    <entry>
+      <title>USA und Iran unterzeichnen Rahmenabkommen</title>
+      <id>https://www.tagesschau.de/video/video-1600522.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600522.html"/>
+      <updated>2026-06-18T10:44:36Z</updated>
+      <published>2026-06-18T10:44:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7d4ea02e-68af-4d0d-b926-5585ecfe485a/AAABntnnN4I/AAABnSSvsdE/16x9-small/sendungsbild-1751286.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7d4ea02e-68af-4d0d-b926-5585ecfe485a/AAABntnnN4I/AAABnSSvsdE/16x9-small/sendungsbild-1751286.jpg?width=320" alt="USA und Iran unterzeichnen Rahmenabkommen"/><p>USA und Iran unterzeichnen Rahmenabkommen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Die Ergebnisse des G7-Gipfels | 17. Juni</title>
+      <id>https://www.tagesschau.de/video/video-1600352.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600352.html"/>
+      <updated>2026-06-17T20:48:23Z</updated>
+      <published>2026-06-17T20:48:23Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2655d3e8-f348-4560-bb51-1f2476de5d46/AAABntbpvf0/AAABnSSvsdE/16x9-small/topthema-g7-evian-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2655d3e8-f348-4560-bb51-1f2476de5d46/AAABntbpvf0/AAABnSSvsdE/16x9-small/topthema-g7-evian-100.jpg?width=320" alt="Die Ergebnisse des G7-Gipfels | 17. Juni"/><p>Die Ergebnisse des G7-Gipfels | 17. Juni</p>]]></content>
+    </entry>
     <entry>
       <title>Bundeskanzler Merz mit Fazit zum G7 Gipfel</title>
       <id>https://www.tagesschau.de/video/video-1600176.html</id>
@@ -20,15 +56,6 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7cb99954-c9b2-451b-983e-6cf24260a1af/AAABntY428M/AAABnSSvsdE/16x9-small/merz-g7-interview-preiss-100.jpg?width=320" alt="Bundeskanzler Merz mit Fazit zum G7 Gipfel"/><p>Bundeskanzler Merz mit Fazit zum G7 Gipfel</p>]]></content>
     </entry>
     <entry>
-      <title>Christian Feld, ARD Brüssel, zur Lockerung der EU-Regeln für Gentechnik</title>
-      <id>https://www.tagesschau.de/video/video-1600096.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600096.html"/>
-      <updated>2026-06-17T15:19:06Z</updated>
-      <published>2026-06-17T15:19:06Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/98934143-ee7f-40d9-a5df-a6aaacfa772c/AAABntW8N5Q/AAABnSSvsdE/16x9-small/sendungsbild-1750862.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/98934143-ee7f-40d9-a5df-a6aaacfa772c/AAABntW8N5Q/AAABnSSvsdE/16x9-small/sendungsbild-1750862.jpg?width=320" alt="Christian Feld, ARD Brüssel, zur Lockerung der EU-Regeln für Gentechnik"/><p>Christian Feld, ARD Brüssel, zur Lockerung der EU-Regeln für Gentechnik</p>]]></content>
-    </entry>
-    <entry>
       <title>Bundeskanzler Merz zieht nach G7-Gipfel Bilanz</title>
       <id>https://www.tagesschau.de/video/video-1600108.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/video/video-1600108.html"/>
@@ -36,32 +63,5 @@
       <published>2026-06-17T16:07:30Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/291bfb94-91fc-41fd-9093-d3b9dff81738/AAABntXWt6U/AAABnSSvsdE/16x9-small/sendungsbild-1750878.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/291bfb94-91fc-41fd-9093-d3b9dff81738/AAABntXWt6U/AAABnSSvsdE/16x9-small/sendungsbild-1750878.jpg?width=320" alt="Bundeskanzler Merz zieht nach G7-Gipfel Bilanz"/><p>Bundeskanzler Merz zieht nach G7-Gipfel Bilanz</p>]]></content>
-    </entry>
-    <entry>
-      <title>Abschluss des G7-Gipfels</title>
-      <id>https://www.tagesschau.de/video/video-1600060.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600060.html"/>
-      <updated>2026-06-17T14:24:28Z</updated>
-      <published>2026-06-17T14:24:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2467f0c4-2e98-4fe4-9ff9-6cf2c533d476/AAABntXiYwI/AAABnSSvsdE/16x9-small/sendungsbild-1750832.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2467f0c4-2e98-4fe4-9ff9-6cf2c533d476/AAABntXiYwI/AAABnSSvsdE/16x9-small/sendungsbild-1750832.jpg?width=320" alt="Abschluss des G7-Gipfels"/><p>Abschluss des G7-Gipfels</p>]]></content>
-    </entry>
-    <entry>
-      <title>Größte deutsche Solarthermie-Anlage in Leipzig</title>
-      <id>https://www.tagesschau.de/video/video-1600066.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600066.html"/>
-      <updated>2026-06-17T14:31:12Z</updated>
-      <published>2026-06-17T14:31:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ead4c526-1e1d-4a2b-b724-1daf7a267c9a/AAABntWQVus/AAABnSSvsdE/16x9-small/sendungsbild-1750838.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ead4c526-1e1d-4a2b-b724-1daf7a267c9a/AAABntWQVus/AAABnSSvsdE/16x9-small/sendungsbild-1750838.jpg?width=320" alt="Größte deutsche Solarthermie-Anlage in Leipzig"/><p>Größte deutsche Solarthermie-Anlage in Leipzig</p>]]></content>
-    </entry>
-    <entry>
-      <title>Antisemitismus-Beauftragter der Bundesregierung Klein stellt Bericht für 2025 vor</title>
-      <id>https://www.tagesschau.de/video/video-1599992.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1599992.html"/>
-      <updated>2026-06-17T11:52:45Z</updated>
-      <published>2026-06-17T11:52:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f67fa0ee-4199-4353-9ca9-db52321f6355/AAABntT_Tlk/AAABnSSvsdE/16x9-small/sendungsbild-1750772.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f67fa0ee-4199-4353-9ca9-db52321f6355/AAABntT_Tlk/AAABnSSvsdE/16x9-small/sendungsbild-1750772.jpg?width=320" alt="Antisemitismus-Beauftragter der Bundesregierung Klein stellt Bericht für 2025 vor"/><p>Antisemitismus-Beauftragter der Bundesregierung Klein stellt Bericht für 2025 vor</p>]]></content>
     </entry>
 </feed>
