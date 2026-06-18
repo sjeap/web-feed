@@ -5,28 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-18T10:50:57Z</updated>
+  <updated>2026-06-18T19:50:31Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Treffen der NATO-Verteidigungsminister: T. Hassel, ARD Brüssel</title>
-      <id>https://www.tagesschau.de/video/video-1600518.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600518.html"/>
-      <updated>2026-06-18T10:39:41Z</updated>
-      <published>2026-06-18T10:39:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7efd2777-09f2-4ef6-87e2-5703ae9489d8/AAABntnixAA/AAABnSSvsdE/16x9-small/sendungsbild-1751284.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7efd2777-09f2-4ef6-87e2-5703ae9489d8/AAABntnixAA/AAABnSSvsdE/16x9-small/sendungsbild-1751284.jpg?width=320" alt="Treffen der NATO-Verteidigungsminister: T. Hassel, ARD Brüssel"/><p>Treffen der NATO-Verteidigungsminister: T. Hassel, ARD Brüssel</p>]]></content>
+      <title>Absichtserklärung · USA und Iran wollen Krieg beenden</title>
+      <id>https://www.tagesschau.de/video/video-1600764.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600764.html"/>
+      <updated>2026-06-18T19:02:24Z</updated>
+      <published>2026-06-18T19:02:24Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b89310c1-8a1a-4027-b50f-2ad66cc5ea0e/AAABntuXopg/AAABnSSvsdE/16x9-small/trump-5056.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b89310c1-8a1a-4027-b50f-2ad66cc5ea0e/AAABntuXopg/AAABnSSvsdE/16x9-small/trump-5056.jpg?width=320" alt="Absichtserklärung · USA und Iran wollen Krieg beenden"/><p>Absichtserklärung · USA und Iran wollen Krieg beenden</p>]]></content>
     </entry>
     <entry>
-      <title>G7-Staaten ziehen positives Fazit nach Gipfeltreffen</title>
-      <id>https://www.tagesschau.de/video/video-1600520.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600520.html"/>
-      <updated>2026-06-18T10:50:57Z</updated>
-      <published>2026-06-18T10:50:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/66bfd748-f9fa-4602-aec3-1518011444d1/AAABntntFas/AAABnSSvsdE/16x9-small/sendungsbild-1751294.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/66bfd748-f9fa-4602-aec3-1518011444d1/AAABntntFas/AAABnSSvsdE/16x9-small/sendungsbild-1751294.jpg?width=320" alt="G7-Staaten ziehen positives Fazit nach Gipfeltreffen"/><p>G7-Staaten ziehen positives Fazit nach Gipfeltreffen</p>]]></content>
+      <title>Pflegende Angehörige fürchten um Rente</title>
+      <id>https://www.tagesschau.de/video/video-1600832.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600832.html"/>
+      <updated>2026-06-18T19:50:31Z</updated>
+      <published>2026-06-18T19:50:31Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c74becb4-5a80-4b29-baa7-3c14f4377c41/AAABnp0SwIo/AAABnSSvsdE/16x9-small/pflege-angehoerige-102.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c74becb4-5a80-4b29-baa7-3c14f4377c41/AAABnp0SwIo/AAABnSSvsdE/16x9-small/pflege-angehoerige-102.jpg?width=320" alt="Pflegende Angehörige fürchten um Rente"/><p>Pflegende Angehörige fürchten um Rente</p>]]></content>
+    </entry>
+    <entry>
+      <title>Vor NATO-Gipfel in der Türkei: Gespräche über höhere Wehrfähigkeit</title>
+      <id>https://www.tagesschau.de/video/video-1600680.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600680.html"/>
+      <updated>2026-06-18T16:51:33Z</updated>
+      <published>2026-06-18T16:51:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/37d59718-5b07-4fb0-b808-f93064b1b066/AAABnts3HY0/AAABnSSvsdE/16x9-small/sendungsbild-1751492.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/37d59718-5b07-4fb0-b808-f93064b1b066/AAABnts3HY0/AAABnSSvsdE/16x9-small/sendungsbild-1751492.jpg?width=320" alt="Vor NATO-Gipfel in der Türkei: Gespräche über höhere Wehrfähigkeit"/><p>Vor NATO-Gipfel in der Türkei: Gespräche über höhere Wehrfähigkeit</p>]]></content>
+    </entry>
+    <entry>
+      <title>Vorbereitung auf die Hitzewelle</title>
+      <id>https://www.tagesschau.de/video/video-1600538.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600538.html"/>
+      <updated>2026-06-18T11:00:40Z</updated>
+      <published>2026-06-18T11:00:40Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/acddc226-d5ea-440f-b521-3ba5a18c3c20/AAABntn14Og/AAABnSSvsdE/16x9-small/sendungsbild-1751302.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/acddc226-d5ea-440f-b521-3ba5a18c3c20/AAABntn14Og/AAABnSSvsdE/16x9-small/sendungsbild-1751302.jpg?width=320" alt="Vorbereitung auf die Hitzewelle"/><p>Vorbereitung auf die Hitzewelle</p>]]></content>
     </entry>
     <entry>
       <title>USA und Iran unterzeichnen Rahmenabkommen</title>
@@ -38,30 +56,12 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7d4ea02e-68af-4d0d-b926-5585ecfe485a/AAABntnnN4I/AAABnSSvsdE/16x9-small/sendungsbild-1751286.jpg?width=320" alt="USA und Iran unterzeichnen Rahmenabkommen"/><p>USA und Iran unterzeichnen Rahmenabkommen</p>]]></content>
     </entry>
     <entry>
-      <title>Die Ergebnisse des G7-Gipfels | 17. Juni</title>
-      <id>https://www.tagesschau.de/video/video-1600352.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600352.html"/>
-      <updated>2026-06-17T20:48:23Z</updated>
-      <published>2026-06-17T20:48:23Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2655d3e8-f348-4560-bb51-1f2476de5d46/AAABntbpvf0/AAABnSSvsdE/16x9-small/topthema-g7-evian-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2655d3e8-f348-4560-bb51-1f2476de5d46/AAABntbpvf0/AAABnSSvsdE/16x9-small/topthema-g7-evian-100.jpg?width=320" alt="Die Ergebnisse des G7-Gipfels | 17. Juni"/><p>Die Ergebnisse des G7-Gipfels | 17. Juni</p>]]></content>
-    </entry>
-    <entry>
-      <title>Bundeskanzler Merz mit Fazit zum G7 Gipfel</title>
-      <id>https://www.tagesschau.de/video/video-1600176.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600176.html"/>
-      <updated>2026-06-17T17:35:11Z</updated>
-      <published>2026-06-17T17:35:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7cb99954-c9b2-451b-983e-6cf24260a1af/AAABntY428M/AAABnSSvsdE/16x9-small/merz-g7-interview-preiss-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7cb99954-c9b2-451b-983e-6cf24260a1af/AAABntY428M/AAABnSSvsdE/16x9-small/merz-g7-interview-preiss-100.jpg?width=320" alt="Bundeskanzler Merz mit Fazit zum G7 Gipfel"/><p>Bundeskanzler Merz mit Fazit zum G7 Gipfel</p>]]></content>
-    </entry>
-    <entry>
-      <title>Bundeskanzler Merz zieht nach G7-Gipfel Bilanz</title>
-      <id>https://www.tagesschau.de/video/video-1600108.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600108.html"/>
-      <updated>2026-06-17T16:07:30Z</updated>
-      <published>2026-06-17T16:07:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/291bfb94-91fc-41fd-9093-d3b9dff81738/AAABntXWt6U/AAABnSSvsdE/16x9-small/sendungsbild-1750878.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/291bfb94-91fc-41fd-9093-d3b9dff81738/AAABntXWt6U/AAABnSSvsdE/16x9-small/sendungsbild-1750878.jpg?width=320" alt="Bundeskanzler Merz zieht nach G7-Gipfel Bilanz"/><p>Bundeskanzler Merz zieht nach G7-Gipfel Bilanz</p>]]></content>
+      <title>G7-Staaten ziehen positives Fazit nach Gipfeltreffen</title>
+      <id>https://www.tagesschau.de/video/video-1600520.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600520.html"/>
+      <updated>2026-06-18T10:50:57Z</updated>
+      <published>2026-06-18T10:50:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/66bfd748-f9fa-4602-aec3-1518011444d1/AAABntntFas/AAABnSSvsdE/16x9-small/sendungsbild-1751294.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/66bfd748-f9fa-4602-aec3-1518011444d1/AAABntntFas/AAABnSSvsdE/16x9-small/sendungsbild-1751294.jpg?width=320" alt="G7-Staaten ziehen positives Fazit nach Gipfeltreffen"/><p>G7-Staaten ziehen positives Fazit nach Gipfeltreffen</p>]]></content>
     </entry>
 </feed>
