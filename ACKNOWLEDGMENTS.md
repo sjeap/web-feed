@@ -14,6 +14,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst (Referenz)
 - [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst (Referenz)
 - [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API (Referenz)
+- [ScrapingBee](https://www.scrapingbee.com/) – Web-Scraping-API mit Cloudflare-Bypass (Managed Proxy / JS-Rendering), genutzt für `visualcapitalist`
 
 ### Apps
 - [Twine](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader) (Sasikanth Miriyampalli) ⭐
@@ -24,7 +25,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
 
 ### Built with
-Node.js · Patchright (Stealth-Chromium) · GitHub Actions · GitHub Pages
+Node.js · Patchright (Stealth-Chromium) · [ScrapingBee](https://www.scrapingbee.com/) · GitHub Actions · GitHub Pages
 
 ---
 

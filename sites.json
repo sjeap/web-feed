@@ -38,6 +38,12 @@
     "url": "https://www.visualcapitalist.com/",
     "filter": null,
     "output": "atom/feed-visualcapitalist.xml",
+    "engine": "scrapingbee",
+    "scrapingbee": {
+      "render_js": true,
+      "premium_proxy": false,
+      "country_code": "us"
+    },
     "containerStart": "class=\"mvp-feat5-side-list",
     "containerEnd": "<!--mvp-feat5-side-list-->",
     "teaserSplit": "class=\"mvp-feat1-list-cont",

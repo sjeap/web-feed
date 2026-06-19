@@ -69,20 +69,10 @@ function fetchPageHttps(url, redirectCount = 0) {
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
           "(KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "Accept":
-          "text/html,application/xhtml+xml,application/xml;q=0.9," +
-          "image/avif,image/webp,image/apng,*/*;q=0.8," +
-          "application/signed-exchange;v=b3;q=0.7",
-        "Accept-Language":           "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
-        "Accept-Encoding":           "gzip, deflate, br",
-        "Upgrade-Insecure-Requests": "1",
-        "Sec-Fetch-Dest":            "document",
-        "Sec-Fetch-Mode":            "navigate",
-        "Sec-Fetch-Site":            "none",
-        "Sec-Fetch-User":            "?1",
-        "sec-ch-ua":                 '"Chromium";v="149", "Google Chrome";v="149", "Not?A_Brand";v="99"',
-        "sec-ch-ua-mobile":          "?0",
-        "sec-ch-ua-platform":        '"Windows"',
+        "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control":   "no-cache",
       },
     };
 
@@ -126,9 +116,8 @@ async function fetchPageBrowser(url) {
     viewport:   { width: 1366, height: 768 },
     locale:     "en-US",
     timezoneId: "America/New_York",
-    userAgent:
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
-      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    // Kein userAgent-Override: Patchright nutzt die native UA des gebündelten
+    // Chromium — immer selbstkonsistent mit Engine/Client-Hints, kein alternder String.
     extraHTTPHeaders: {
       "Accept-Language": "en-US,en;q=0.9",
     },
@@ -166,12 +155,54 @@ async function fetchPageBrowser(url) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// Engine 3: ScrapingBee (Managed Cloudflare-Bypass via API)
+// Holt die Ziel-URL über die ScrapingBee-API und liefert das (ggf. via
+// Headless-Browser gerenderte) HTML zurück. Das Parsing bleibt der
+// Standard-Pfad (parseHeadlines) — nur der Transport ändert sich.
+// API-Key NICHT committen: kommt aus process.env.SCRAPINGBEE_API_KEY
+// (GitHub-Actions-Secret). Per-Site-Optionen in sites.json unter "scrapingbee":
+//   render_js (default true) · premium_proxy (default false) ·
+//   stealth_proxy (default false) · country_code (optional)
+// Credit-Kosten/Request: render_js 5 · +premium_proxy 25 · stealth ~75.
+// ─────────────────────────────────────────────────────────────────────
+function fetchPageScrapingBee(url) {
+  const apiKey = process.env.SCRAPINGBEE_API_KEY;
+  if (!apiKey) {
+    return Promise.reject(
+      new Error("SCRAPINGBEE_API_KEY fehlt — als GitHub-Actions-Secret/Env setzen")
+    );
+  }
+
+  const opts   = site.scrapingbee || {};
+  const params = new URLSearchParams({
+    api_key:       apiKey,
+    url,
+    render_js:     String(opts.render_js     !== false),  // default true
+    premium_proxy: String(opts.premium_proxy === true),   // default false
+    stealth_proxy: String(opts.stealth_proxy === true),   // default false
+  });
+  if (opts.country_code) params.set("country_code", opts.country_code);
+
+  const apiUrl  = `https://app.scrapingbee.com/api/v1/?${params.toString()}`;
+  const credits = opts.stealth_proxy ? "~75" : opts.premium_proxy ? "25" : "5";
+  console.log(
+    `   🐝 Engine: ScrapingBee (render_js=${params.get("render_js")}, ` +
+    `premium=${params.get("premium_proxy")}, stealth=${params.get("stealth_proxy")}` +
+    `${opts.country_code ? `, country=${opts.country_code}` : ""}) ≈${credits} Credits`
+  );
+
+  // Key aus etwaigen Fehlermeldungen scrubben — Logs sind im public Repo sichtbar.
+  return fetchPageHttps(apiUrl).catch((err) => {
+    throw new Error(String(err.message).split(apiKey).join("***"));
+  });
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Engine-Dispatcher
 // ─────────────────────────────────────────────────────────────────────
 async function fetchPage(url) {
-  if (site.engine === "browser") {
-    return fetchPageBrowser(url);
-  }
+  if (site.engine === "browser")     return fetchPageBrowser(url);
+  if (site.engine === "scrapingbee") return fetchPageScrapingBee(url);
   return fetchPageHttps(url);
 }
 
@@ -475,10 +506,7 @@ function buildCnnFearGreedItems(data, site) {
 
   return [{
     title,
-    // Link trägt denselben Inhalts-Hash als Fragment: Reader, die über den
-    // <link> deduplizieren (statt über die <id>), erkennen so eine Änderung.
-    // Das Fragment ändert das Ziel nicht (CNN ignoriert es).
-    link:    `${site.url}#${contentHash}`,
+    link:    site.url,
     pubDate,
     imgSrc:  gaugeUrl,
     imgAlt:  title,
