@@ -155,54 +155,12 @@ async function fetchPageBrowser(url) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Engine 3: ScrapingBee (Managed Cloudflare-Bypass via API)
-// Holt die Ziel-URL über die ScrapingBee-API und liefert das (ggf. via
-// Headless-Browser gerenderte) HTML zurück. Das Parsing bleibt der
-// Standard-Pfad (parseHeadlines) — nur der Transport ändert sich.
-// API-Key NICHT committen: kommt aus process.env.SCRAPINGBEE_API_KEY
-// (GitHub-Actions-Secret). Per-Site-Optionen in sites.json unter "scrapingbee":
-//   render_js (default true) · premium_proxy (default false) ·
-//   stealth_proxy (default false) · country_code (optional)
-// Credit-Kosten/Request: render_js 5 · +premium_proxy 25 · stealth ~75.
-// ─────────────────────────────────────────────────────────────────────
-function fetchPageScrapingBee(url) {
-  const apiKey = process.env.SCRAPINGBEE_API_KEY;
-  if (!apiKey) {
-    return Promise.reject(
-      new Error("SCRAPINGBEE_API_KEY fehlt — als GitHub-Actions-Secret/Env setzen")
-    );
-  }
-
-  const opts   = site.scrapingbee || {};
-  const params = new URLSearchParams({
-    api_key:       apiKey,
-    url,
-    render_js:     String(opts.render_js     !== false),  // default true
-    premium_proxy: String(opts.premium_proxy === true),   // default false
-    stealth_proxy: String(opts.stealth_proxy === true),   // default false
-  });
-  if (opts.country_code) params.set("country_code", opts.country_code);
-
-  const apiUrl  = `https://app.scrapingbee.com/api/v1/?${params.toString()}`;
-  const credits = opts.stealth_proxy ? "~75" : opts.premium_proxy ? "25" : "5";
-  console.log(
-    `   🐝 Engine: ScrapingBee (render_js=${params.get("render_js")}, ` +
-    `premium=${params.get("premium_proxy")}, stealth=${params.get("stealth_proxy")}` +
-    `${opts.country_code ? `, country=${opts.country_code}` : ""}) ≈${credits} Credits`
-  );
-
-  // Key aus etwaigen Fehlermeldungen scrubben — Logs sind im public Repo sichtbar.
-  return fetchPageHttps(apiUrl).catch((err) => {
-    throw new Error(String(err.message).split(apiKey).join("***"));
-  });
-}
-
-// ─────────────────────────────────────────────────────────────────────
 // Engine-Dispatcher
 // ─────────────────────────────────────────────────────────────────────
 async function fetchPage(url) {
-  if (site.engine === "browser")     return fetchPageBrowser(url);
-  if (site.engine === "scrapingbee") return fetchPageScrapingBee(url);
+  if (site.engine === "browser") {
+    return fetchPageBrowser(url);
+  }
   return fetchPageHttps(url);
 }
 

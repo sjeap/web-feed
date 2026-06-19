@@ -35,15 +35,11 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Selektoren, deutsche Datumsformate.
 
 ### `visualcapitalist` → `atom/feed-visualcapitalist.xml`
-- **Engine:** `scrapingbee` (Transport) **+** Default-Parsing mit `containerStart` / `containerEnd`
+- **Engine:** Default (HTML + Regex) **mit** `containerStart` / `containerEnd`
 - **Eigenheit:** Die Seite mischt Hauptinhalt und Sidebar. `containerStart`/`End`
   schneiden den relevanten HTML-Bereich **vor** dem `teaserSplit` heraus, damit keine
   Sidebar-Teaser im Feed landen.
-- **Bekanntes Problem:** Cloudflare blockt direkte Fetches vom Actions-Runner (HTTP 403 via
-  TLS/HTTP2-Fingerprinting — Header-Spoofing reicht nicht). Deshalb läuft der Abruf über die
-  ScrapingBee-API; das Container-/Regex-Parsing bleibt unverändert. ScrapingBee-Free ist ein
-  einmaliges 1.000-Credit-Trial, kein Dauer-Gratiskontingent — bei Erschöpfung zahlen oder Feed entfernen.
-- Englische Inhalte; englische/Ordinal-Datumsformate.
+- Englische Inhalte → `language: en-US`; englische/Ordinal-Datumsformate.
 
 ### `cnn-fear-greed` → `atom/feed-cnn-fear-greed.xml` (+ Gauge-SVG)
 - **Engine:** `cnn-fear-greed` (JSON statt HTML)
@@ -80,11 +76,6 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Startseiten-Carousel-Instanz (per `carouselName` ausgewählt); filtert via
   `skipLabels` / `skipUrlPatterns`. Reiner HTTPS-Fetch, kein Browser.
 - **`browser`** — Rendering via Patchright für JS-Seiten.
-- **`scrapingbee`** — holt die Seite über die [ScrapingBee](https://www.scrapingbee.com/)-API
-  (Managed Proxy + optionales JS-Rendering), um Cloudflare-Bot-Schutz zu umgehen; das Parsing
-  bleibt der Default-Pfad. API-Key via `SCRAPINGBEE_API_KEY` (Actions-Secret). Per-Site-Optionen
-  unter `scrapingbee` in `sites.json`: `render_js` (Default true), `premium_proxy`,
-  `stealth_proxy`, `country_code`.
 
 `buildAtom` (Atom 1.0 / RFC 4287) erzeugt `<feed>`/`<entry>`; optional `descriptionHtml`
 (→ `<content type="html">`) und `guid` (→ `<id>`); `language` wird zu `xml:lang` (Default
@@ -180,7 +171,6 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst (Referenz)
 - [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst (Referenz)
 - [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API (Referenz)
-- [ScrapingBee](https://www.scrapingbee.com/) – Web-Scraping-API mit Cloudflare-Bypass (Managed Proxy / JS-Rendering), genutzt für `visualcapitalist`
 
 ### Apps
 - [Twine](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader) (Sasikanth Miriyampalli) ⭐
@@ -191,7 +181,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
 
 ### Built with
-Node.js · Patchright (Stealth-Chromium) · [ScrapingBee](https://www.scrapingbee.com/) · GitHub Actions · GitHub Pages
+Node.js · Patchright (Stealth-Chromium) · GitHub Actions · GitHub Pages
 
 ---
 
