@@ -49,6 +49,8 @@ jobs:
       # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
         id: scrape
+        env:
+          SCRAPINGBEE_API_KEY: ${{ secrets.SCRAPINGBEE_API_KEY }}
         # Bricht NIE hart ab, sondern merkt sich nur den Exit-Code als Output
         # (0 = ok, 2 = 0 Artikel). Dadurch entsteht kein eigenes Fehler-
         # Annotation-Rauschen, und der Self-heal-Pfad bleibt möglich.
