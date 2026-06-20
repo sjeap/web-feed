@@ -11,15 +11,6 @@
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ranked: The World’s Most &amp; Least Free Countries</title>
-      <id>https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-freest-countries-in-the-world/"/>
-      <updated>2026-05-23T00:00:00Z</updated>
-      <published>2026-05-23T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Most-v-Least-Free-Countries_04-share-80x80.webp" alt="Ranking of the world&#039;s freest and least free countries per Freedom House."/><p>Ranked: The World’s Most &amp; Least Free Countries</p>]]></content>
-    </entry>
-    <entry>
       <title>Ranked: Who Controls the World’s Uranium Supply?</title>
       <id>https://www.visualcapitalist.com/ranked-who-controls-the-worlds-uranium-supply/</id>
       <link rel="alternate" href="https://www.visualcapitalist.com/ranked-who-controls-the-worlds-uranium-supply/"/>
@@ -47,6 +38,15 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp" alt="Europe dominates the world’s highest-cost electricity markets."/><p>Ranked: Where Electricity Costs the Most and Least</p>]]></content>
     </entry>
     <entry>
+      <title>Ranked: The Countries Where $1,000 Takes the Longest to Earn</title>
+      <id>https://www.visualcapitalist.com/ranked-countries-where-1000-takes-longest-to-earn/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-where-1000-takes-longest-to-earn/"/>
+      <updated>2026-06-17T00:00:00Z</updated>
+      <published>2026-06-17T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Hours-of-Work-for-1000-by-Country_shareable_Jun8-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Hours-of-Work-for-1000-by-Country_shareable_Jun8-80x80.webp" alt="Chart showing the number of working hours needed to earn $1,000 across OECD countries in 2023, based on PPP-adjusted wages and annual hours worked."/><p>Ranked: The Countries Where $1,000 Takes the Longest to Earn</p>]]></content>
+    </entry>
+    <entry>
       <title>Ranked: Which Countries Americans Like Most—and Least</title>
       <id>https://www.visualcapitalist.com/ranked-the-countries-americans-like-most-and-least/</id>
       <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-countries-americans-like-most-and-least/"/>
@@ -56,12 +56,12 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/AmericasFavoriteCountries_Share3-80x80.webp" alt="Bar chart showing America&#039;s favorability rating of 21 key nations in 2026."/><p>Ranked: Which Countries Americans Like Most—and Least</p>]]></content>
     </entry>
     <entry>
-      <title>Ranked: The Countries Where $1,000 Takes the Longest to Earn</title>
-      <id>https://www.visualcapitalist.com/ranked-countries-where-1000-takes-longest-to-earn/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-where-1000-takes-longest-to-earn/"/>
-      <updated>2026-06-17T00:00:00Z</updated>
-      <published>2026-06-17T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Hours-of-Work-for-1000-by-Country_shareable_Jun8-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Hours-of-Work-for-1000-by-Country_shareable_Jun8-80x80.webp" alt="Chart showing the number of working hours needed to earn $1,000 across OECD countries in 2023, based on PPP-adjusted wages and annual hours worked."/><p>Ranked: The Countries Where $1,000 Takes the Longest to Earn</p>]]></content>
+      <title>Ranked: The Countries Investors Trust Most in 2026</title>
+      <id>https://www.visualcapitalist.com/ranked-the-worlds-top-economies-for-global-investment-in-2026/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-worlds-top-economies-for-global-investment-in-2026/"/>
+      <updated>2026-05-26T00:00:00Z</updated>
+      <published>2026-05-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/The-Top-Economies-for-Global-Investment_shareable1_May5-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/The-Top-Economies-for-Global-Investment_shareable1_May5-80x80.webp" alt="Column graphic ranking showing the top countries for FDI investment in 2026 compared to 2016."/><p>Ranked: The Countries Investors Trust Most in 2026</p>]]></content>
     </entry>
 </feed>
