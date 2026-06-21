@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-19T16:31:02Z</updated>
+  <updated>2026-06-21T10:17:49Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Neue Doppelspitze der Linkspartei gewählt</title>
+      <id>https://www.tagesschau.de/video/video-1601910.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1601910.html"/>
+      <updated>2026-06-21T10:17:49Z</updated>
+      <published>2026-06-21T10:17:49Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/40bb9e3b-83b6-4f10-a0f6-ed75baea8def/AAABnulBaJo/AAABnSSvsdE/16x9-small/sendungsbild-1752620.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/40bb9e3b-83b6-4f10-a0f6-ed75baea8def/AAABnulBaJo/AAABnSSvsdE/16x9-small/sendungsbild-1752620.jpg?width=320" alt="Neue Doppelspitze der Linkspartei gewählt"/><p>Neue Doppelspitze der Linkspartei gewählt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Heiner Hoffmann, ARD Kairo, zur erneuten Sperrung der Straße von Hormus</title>
+      <id>https://www.tagesschau.de/video/video-1601844.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1601844.html"/>
+      <updated>2026-06-21T01:36:44Z</updated>
+      <published>2026-06-21T01:36:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/05baf01d-81dd-446b-badd-12aa77a0e389/AAABnudkxLg/AAABnSSvsdE/16x9-small/sendungsbild-1752516.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/05baf01d-81dd-446b-badd-12aa77a0e389/AAABnudkxLg/AAABnSSvsdE/16x9-small/sendungsbild-1752516.jpg?width=320" alt="Heiner Hoffmann, ARD Kairo, zur erneuten Sperrung der Straße von Hormus"/><p>Heiner Hoffmann, ARD Kairo, zur erneuten Sperrung der Straße von Hormus</p>]]></content>
+    </entry>
+    <entry>
+      <title>Kerstin Palzer, ARD Berlin, zur neuen Parteispitze der Linkspartei</title>
+      <id>https://www.tagesschau.de/video/video-1601842.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1601842.html"/>
+      <updated>2026-06-21T01:28:35Z</updated>
+      <published>2026-06-21T01:28:35Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cc71857e-ffd3-4748-bfdd-0d0fd98380e5/AAABnuddTaY/AAABnSSvsdE/16x9-small/sendungsbild-1752512.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cc71857e-ffd3-4748-bfdd-0d0fd98380e5/AAABnuddTaY/AAABnSSvsdE/16x9-small/sendungsbild-1752512.jpg?width=320" alt="Kerstin Palzer, ARD Berlin, zur neuen Parteispitze der Linkspartei"/><p>Kerstin Palzer, ARD Berlin, zur neuen Parteispitze der Linkspartei</p>]]></content>
+    </entry>
     <entry>
       <title>Claudia Traidl-Hoffmann, Umweltmedizinerin Uni Augsburg, über Hitzeschutz für Obdachlose, Kinder und Senioren</title>
       <id>https://www.tagesschau.de/video/video-1601258.html</id>
@@ -36,32 +63,5 @@
       <published>2026-06-19T14:55:23Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3b1c3248-941e-48a3-85f6-08aff78e2604/AAABnt_zPGQ/AAABnSSvsdE/16x9-small/sendungsbild-1751944.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3b1c3248-941e-48a3-85f6-08aff78e2604/AAABnt_zPGQ/AAABnSSvsdE/16x9-small/sendungsbild-1751944.jpg?width=320" alt="Haushaltsberatungen auf EU-Gipfel in Brüssel"/><p>Haushaltsberatungen auf EU-Gipfel in Brüssel</p>]]></content>
-    </entry>
-    <entry>
-      <title>Wahl des neuen Vorsitzenden auf Parteitag der Linken in Potsdam</title>
-      <id>https://www.tagesschau.de/video/video-1601204.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1601204.html"/>
-      <updated>2026-06-19T14:59:59Z</updated>
-      <published>2026-06-19T14:59:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c01620de-7b0c-4086-b7fb-bcb442aaeaea/AAABnt_3XI8/AAABnSSvsdE/16x9-small/sendungsbild-1751946.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c01620de-7b0c-4086-b7fb-bcb442aaeaea/AAABnt_3XI8/AAABnSSvsdE/16x9-small/sendungsbild-1751946.jpg?width=320" alt="Wahl des neuen Vorsitzenden auf Parteitag der Linken in Potsdam"/><p>Wahl des neuen Vorsitzenden auf Parteitag der Linken in Potsdam</p>]]></content>
-    </entry>
-    <entry>
-      <title>EU verlängert Sanktionen gegen Russland um ein Jahr</title>
-      <id>https://www.tagesschau.de/video/video-1601078.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1601078.html"/>
-      <updated>2026-06-19T10:17:23Z</updated>
-      <published>2026-06-19T10:17:23Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/147f44c2-1f88-47bf-bd71-afff9d20c946/AAABnt70tJY/AAABnSSvsdE/16x9-small/sendungsbild-1751860.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/147f44c2-1f88-47bf-bd71-afff9d20c946/AAABnt70tJY/AAABnSSvsdE/16x9-small/sendungsbild-1751860.jpg?width=320" alt="EU verlängert Sanktionen gegen Russland um ein Jahr"/><p>EU verlängert Sanktionen gegen Russland um ein Jahr</p>]]></content>
-    </entry>
-    <entry>
-      <title>Absichtserklärung · USA und Iran wollen Krieg beenden</title>
-      <id>https://www.tagesschau.de/video/video-1600764.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1600764.html"/>
-      <updated>2026-06-18T19:02:24Z</updated>
-      <published>2026-06-18T19:02:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b89310c1-8a1a-4027-b50f-2ad66cc5ea0e/AAABnt5gu7s/AAABnSSvsdE/16x9-small/trump-5056.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b89310c1-8a1a-4027-b50f-2ad66cc5ea0e/AAABnt5gu7s/AAABnSSvsdE/16x9-small/trump-5056.jpg?width=320" alt="Absichtserklärung · USA und Iran wollen Krieg beenden"/><p>Absichtserklärung · USA und Iran wollen Krieg beenden</p>]]></content>
     </entry>
 </feed>
