@@ -5,17 +5,26 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml</id>
   <link rel="alternate" href="https://www.manager-magazin.de/schlagzeilen/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml"/>
-  <updated>2026-06-24T07:58:30Z</updated>
+  <updated>2026-06-24T18:16:20Z</updated>
   <author>
     <name>Manager Magazin – Der … im Überblick</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Der Mittwoch im Überblick Kalshis Milliardenwette, Kahlschlag bei Flink Von Tim Spark 16.32 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</title>
+      <id>https://www.manager-magazin.de/ueber-uns/rheinmetall-mit-kurssturz-und-das-neue-ding-am-wetthimmel-das-war-der-mittwoch-24-6-2026-a-0df08122-1664-488a-b5a1-156fd225573c</id>
+      <link rel="alternate" href="https://www.manager-magazin.de/ueber-uns/rheinmetall-mit-kurssturz-und-das-neue-ding-am-wetthimmel-das-war-der-mittwoch-24-6-2026-a-0df08122-1664-488a-b5a1-156fd225573c"/>
+      <updated>2026-06-24T18:16:20Z</updated>
+      <published>2026-06-24T18:16:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.prod.www.manager-magazin.de/images/bf1aa3e5-ee67-4a56-bf4f-b18655e20252_w56_r1_fpx52.59_fpy44.88.jpg"/>
+      <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/bf1aa3e5-ee67-4a56-bf4f-b18655e20252_w56_r1_fpx52.59_fpy44.88.jpg" alt="Tim Spark"/><p>Der Mittwoch im Überblick Kalshis Milliardenwette, Kahlschlag bei Flink Von Tim Spark 16.32 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</p>]]></content>
+    </entry>
+    <entry>
       <title>Der Dienstag im Überblick ZF will Schadensersatz, Deutschland droht Stagflation Von Claudia Witte 23. Juni, 16.35 Uhr &amp;bull; Über uns &amp;bull; 3 Min Zur Merkliste hinzufügen</title>
       <id>https://www.manager-magazin.de/ueber-uns/zf-friedrichshafen-burda-stagflation-spacex-das-war-dienstag-23-6-2026-a-6678cfc5-20b5-4511-98ee-2d5154a27799</id>
       <link rel="alternate" href="https://www.manager-magazin.de/ueber-uns/zf-friedrichshafen-burda-stagflation-spacex-das-war-dienstag-23-6-2026-a-6678cfc5-20b5-4511-98ee-2d5154a27799"/>
-      <updated>2026-06-24T07:58:30Z</updated>
-      <published>2026-06-24T07:58:30Z</published>
+      <updated>2026-06-24T18:16:20Z</updated>
+      <published>2026-06-24T18:16:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.prod.www.manager-magazin.de/images/29db56c5-8e04-47f5-a85a-1dfa101802ad_w56_r1_fpx47_fpy51.jpg"/>
       <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/29db56c5-8e04-47f5-a85a-1dfa101802ad_w56_r1_fpx47_fpy51.jpg" alt="Claudia Witte"/><p>Der Dienstag im Überblick ZF will Schadensersatz, Deutschland droht Stagflation Von Claudia Witte 23. Juni, 16.35 Uhr &amp;bull; Über uns &amp;bull; 3 Min Zur Merkliste hinzufügen</p>]]></content>
     </entry>
@@ -23,8 +32,8 @@
       <title>Der Montag im Überblick Rennen um die Siemens-Nachfolge, Rettungsplan für RAG-Stiftung Von Julia Wehmeier 22. Juni, 16.50 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</title>
       <id>https://www.manager-magazin.de/ueber-uns/siemens-rag-stiftung-eurobike-wolfgang-porsche-das-war-montag-22-6-2026-a-e2a97408-241f-4667-9bbb-221e21ede6ed</id>
       <link rel="alternate" href="https://www.manager-magazin.de/ueber-uns/siemens-rag-stiftung-eurobike-wolfgang-porsche-das-war-montag-22-6-2026-a-e2a97408-241f-4667-9bbb-221e21ede6ed"/>
-      <updated>2026-06-24T07:58:30Z</updated>
-      <published>2026-06-24T07:58:30Z</published>
+      <updated>2026-06-24T18:16:20Z</updated>
+      <published>2026-06-24T18:16:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.prod.www.manager-magazin.de/images/06126400-370d-473d-89cd-3591fee2f053_w56_r1_fpx51_fpy48.jpg"/>
       <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/06126400-370d-473d-89cd-3591fee2f053_w56_r1_fpx51_fpy48.jpg" alt="Julia Wehmeier"/><p>Der Montag im Überblick Rennen um die Siemens-Nachfolge, Rettungsplan für RAG-Stiftung Von Julia Wehmeier 22. Juni, 16.50 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</p>]]></content>
     </entry>
