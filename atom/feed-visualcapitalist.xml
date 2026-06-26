@@ -11,15 +11,6 @@
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ranked: Who Controls the World’s Uranium Supply?</title>
-      <id>https://www.visualcapitalist.com/ranked-who-controls-the-worlds-uranium-supply/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-who-controls-the-worlds-uranium-supply/"/>
-      <updated>2026-05-29T00:00:00Z</updated>
-      <published>2026-05-29T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Uranium-Production_Shareable-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Uranium-Production_Shareable-80x80.webp" alt="Ranked: The world’s largest uranium producers, led by Kazakhstan, as U.S. production begins to rebound."/><p>Ranked: Who Controls the World’s Uranium Supply?</p>]]></content>
-    </entry>
-    <entry>
       <title>Ranked: How 45 Countries View America</title>
       <id>https://www.visualcapitalist.com/ranked-how-45-countries-view-america/</id>
       <link rel="alternate" href="https://www.visualcapitalist.com/ranked-how-45-countries-view-america/"/>
@@ -63,5 +54,14 @@
       <published>2026-05-30T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/language-difficulty-80x80.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/language-difficulty-80x80.webp" alt="Ranked: The Hardest Languages for English Speakers to Learn"/><p>Ranked: The Hardest Languages for English Speakers to Learn</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: Where Electricity Costs the Most and Least</title>
+      <id>https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/"/>
+      <updated>2026-06-11T00:00:00Z</updated>
+      <published>2026-06-11T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp" alt="Europe dominates the world’s highest-cost electricity markets."/><p>Ranked: Where Electricity Costs the Most and Least</p>]]></content>
     </entry>
 </feed>
