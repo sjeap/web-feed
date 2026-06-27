@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-26T17:37:43Z</updated>
+  <updated>2026-06-27T18:10:02Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Gefahren durch Rekordtemperaturen</title>
+      <id>https://www.tagesschau.de/video/video-1605538.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1605538.html"/>
+      <updated>2026-06-27T18:10:02Z</updated>
+      <published>2026-06-27T18:10:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/311395b0-3510-4829-b867-440ef5e10527/AAABnwnYUJA/AAABnSSvsdE/16x9-small/sendungsbild-1755994.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/311395b0-3510-4829-b867-440ef5e10527/AAABnwnYUJA/AAABnSSvsdE/16x9-small/sendungsbild-1755994.jpg?width=320" alt="Gefahren durch Rekordtemperaturen"/><p>Gefahren durch Rekordtemperaturen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Pride-Parade in Budapest nach Regierungswechsel in Ungarn</title>
+      <id>https://www.tagesschau.de/video/video-1605510.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1605510.html"/>
+      <updated>2026-06-27T17:31:50Z</updated>
+      <published>2026-06-27T17:31:50Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/62ed49e6-6990-48ee-9278-5afba21a9ee9/AAABnwmzrN4/AAABnSSvsdE/16x9-small/sendungsbild-1755966.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/62ed49e6-6990-48ee-9278-5afba21a9ee9/AAABnwmzrN4/AAABnSSvsdE/16x9-small/sendungsbild-1755966.jpg?width=320" alt="Pride-Parade in Budapest nach Regierungswechsel in Ungarn"/><p>Pride-Parade in Budapest nach Regierungswechsel in Ungarn</p>]]></content>
+    </entry>
     <entry>
       <title>Zahl der Toten nach dem Erdbeben in Venezuela steigt</title>
       <id>https://www.tagesschau.de/video/video-1605108.html</id>
@@ -45,23 +63,5 @@
       <published>2026-06-26T14:52:23Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a5cd18d1-e20f-43f8-b037-b437ef8d7582/AAABnwP81Wo/AAABnSSvsdE/16x9-small/sendungsbild-1755460.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a5cd18d1-e20f-43f8-b037-b437ef8d7582/AAABnwP81Wo/AAABnSSvsdE/16x9-small/sendungsbild-1755460.jpg?width=320" alt="Hitzewelle in Deutschland: Temperaturen von mehr als 40 Grad erwartet"/><p>Hitzewelle in Deutschland: Temperaturen von mehr als 40 Grad erwartet</p>]]></content>
-    </entry>
-    <entry>
-      <title>Tim Staeger, ARD-Wetterkompetenzzentrum, über die anhaltende Hitzewelle in Deutschland</title>
-      <id>https://www.tagesschau.de/video/video-1604836.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1604836.html"/>
-      <updated>2026-06-26T10:51:16Z</updated>
-      <published>2026-06-26T10:51:16Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/55220bd1-be34-4f47-924e-3b834b34040c/AAABnwMgQAM/AAABnSSvsdE/16x9-small/sendungsbild-1755324.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/55220bd1-be34-4f47-924e-3b834b34040c/AAABnwMgQAM/AAABnSSvsdE/16x9-small/sendungsbild-1755324.jpg?width=320" alt="Tim Staeger, ARD-Wetterkompetenzzentrum, über die anhaltende Hitzewelle in Deutschland"/><p>Tim Staeger, ARD-Wetterkompetenzzentrum, über die anhaltende Hitzewelle in Deutschland</p>]]></content>
-    </entry>
-    <entry>
-      <title>Weltweite Hilfe auf dem Weg nach Venezuela</title>
-      <id>https://www.tagesschau.de/video/video-1604876.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1604876.html"/>
-      <updated>2026-06-26T11:03:10Z</updated>
-      <published>2026-06-26T11:03:10Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e9c21da7-cd14-4555-9c65-54cf719d8d5f/AAABnwMrBqc/AAABnSSvsdE/16x9-small/sendungsbild-1755334.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e9c21da7-cd14-4555-9c65-54cf719d8d5f/AAABnwMrBqc/AAABnSSvsdE/16x9-small/sendungsbild-1755334.jpg?width=320" alt="Weltweite Hilfe auf dem Weg nach Venezuela"/><p>Weltweite Hilfe auf dem Weg nach Venezuela</p>]]></content>
     </entry>
 </feed>
