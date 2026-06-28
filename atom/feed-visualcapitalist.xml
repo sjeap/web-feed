@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-06-21T00:00:00Z</updated>
+  <updated>2026-06-26T00:00:00Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
@@ -29,6 +29,15 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/The-CIties-With-the-Most-Billionaries-in-2026_shareable2_Jun16.jpg-80x80.webp" alt="This visualization ranks the cities with the most billionaires in 2026, based on the latest Hurun Global Rich List."/><p>Ranked: The World’s Top Billionaire Cities in 2026</p>]]></content>
     </entry>
     <entry>
+      <title>Ranked: Countries with the Largest Currency Reserves</title>
+      <id>https://www.visualcapitalist.com/ranked-countries-with-the-largest-currency-reserves/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-with-the-largest-currency-reserves/"/>
+      <updated>2026-06-25T00:00:00Z</updated>
+      <published>2026-06-25T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Countries-with-the-Largest-Currency-Reserves_shareable2_Jun5-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Countries-with-the-Largest-Currency-Reserves_shareable2_Jun5-80x80.webp" alt="Ranking of countries with the largest foreign exchange reserves, showing China, Japan, India, and other top reserve holders based on IMF data."/><p>Ranked: Countries with the Largest Currency Reserves</p>]]></content>
+    </entry>
+    <entry>
       <title>Ranked: The Countries That Brew the Most Beer</title>
       <id>https://www.visualcapitalist.com/countries-that-brew-the-most-beer-ranking/</id>
       <link rel="alternate" href="https://www.visualcapitalist.com/countries-that-brew-the-most-beer-ranking/"/>
@@ -47,21 +56,12 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/howcountriesareprecieved-share-80x80.webp" alt="Graphic ranking countries based on their global perceptions."/><p>Ranked: The World’s Most and Least Liked Countries</p>]]></content>
     </entry>
     <entry>
-      <title>Ranked: The Hardest Languages for English Speakers to Learn</title>
-      <id>https://www.visualcapitalist.com/cp/ranked-the-hardest-languages-for-english-speakers-to-learn/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/cp/ranked-the-hardest-languages-for-english-speakers-to-learn/"/>
-      <updated>2026-05-30T00:00:00Z</updated>
-      <published>2026-05-30T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/language-difficulty-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/language-difficulty-80x80.webp" alt="Ranked: The Hardest Languages for English Speakers to Learn"/><p>Ranked: The Hardest Languages for English Speakers to Learn</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ranked: Where Electricity Costs the Most and Least</title>
-      <id>https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/electricity-costs-most-and-least-by-country/"/>
-      <updated>2026-06-11T00:00:00Z</updated>
-      <published>2026-06-11T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Electricity-Prices-Around-the-World_Shareable_06052025-1-80x80.webp" alt="Europe dominates the world’s highest-cost electricity markets."/><p>Ranked: Where Electricity Costs the Most and Least</p>]]></content>
+      <title>Ranked: U.S. Cities by Family Income Needed to Live Comfortably</title>
+      <id>https://www.visualcapitalist.com/u-s-cities-by-family-income-needed-to-live-comfortably/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/u-s-cities-by-family-income-needed-to-live-comfortably/"/>
+      <updated>2026-06-26T00:00:00Z</updated>
+      <published>2026-06-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Family-Income-Needed-to-Live-Comfortably-in-U.S.-Cities-Bar-Chart_shareable_Jun24-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Family-Income-Needed-to-Live-Comfortably-in-U.S.-Cities-Bar-Chart_shareable_Jun24-80x80.webp" alt="Discover the salary needed to live comfortably in major U.S. cities."/><p>Ranked: U.S. Cities by Family Income Needed to Live Comfortably</p>]]></content>
     </entry>
 </feed>
