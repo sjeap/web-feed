@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-06-29T10:47:36Z</updated>
+  <updated>2026-06-29T17:42:21Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Israelische Menschenrechtsorganisation kritisiert Regierung und Armee</title>
+      <id>https://www.tagesschau.de/video/video-1606450.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1606450.html"/>
+      <updated>2026-06-29T17:42:21Z</updated>
+      <published>2026-06-29T17:42:21Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cdd12057-e0bd-4ef4-9fd4-8d9ca8aca24f/AAABnxQLQ-E/AAABnSSvsdE/16x9-small/sendungsbild-1756752.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cdd12057-e0bd-4ef4-9fd4-8d9ca8aca24f/AAABnxQLQ-E/AAABnSSvsdE/16x9-small/sendungsbild-1756752.jpg?width=320" alt="Israelische Menschenrechtsorganisation kritisiert Regierung und Armee"/><p>Israelische Menschenrechtsorganisation kritisiert Regierung und Armee</p>]]></content>
+    </entry>
+    <entry>
+      <title>Tödliche Schüsse und Festnahmen in Stade: Rafael Hein, NDR</title>
+      <id>https://www.tagesschau.de/video/video-1606408.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1606408.html"/>
+      <updated>2026-06-29T16:42:56Z</updated>
+      <published>2026-06-29T16:42:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6c6565fb-645d-4794-ba46-1b0feb6e6688/AAABnxPUqwg/AAABnSSvsdE/16x9-small/sendungsbild-1756732.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6c6565fb-645d-4794-ba46-1b0feb6e6688/AAABnxPUqwg/AAABnSSvsdE/16x9-small/sendungsbild-1756732.jpg?width=320" alt="Tödliche Schüsse und Festnahmen in Stade: Rafael Hein, NDR"/><p>Tödliche Schüsse und Festnahmen in Stade: Rafael Hein, NDR</p>]]></content>
+    </entry>
+    <entry>
+      <title>Belgien muss Entschädigung für koloniales Unrecht zahlen</title>
+      <id>https://www.tagesschau.de/video/video-1606342.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1606342.html"/>
+      <updated>2026-06-29T14:55:50Z</updated>
+      <published>2026-06-29T14:55:50Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c28335af-8093-480b-8cf6-c5c4e6b2a3ea/AAABnxNzNr4/AAABnSSvsdE/16x9-small/sendungsbild-1756682.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c28335af-8093-480b-8cf6-c5c4e6b2a3ea/AAABnxNzNr4/AAABnSSvsdE/16x9-small/sendungsbild-1756682.jpg?width=320" alt="Belgien muss Entschädigung für koloniales Unrecht zahlen"/><p>Belgien muss Entschädigung für koloniales Unrecht zahlen</p>]]></content>
+    </entry>
     <entry>
       <title>Koalitionsgipfel im Kanzleramt zu Reformvorhaben</title>
       <id>https://www.tagesschau.de/video/video-1606262.html</id>
@@ -36,32 +63,5 @@
       <published>2026-06-28T17:38:55Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/109b13fe-02c8-484b-a7ac-8b32f79749dc/AAABnw7iEXE/AAABnSSvsdE/16x9-small/sendungsbild-1756316.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/109b13fe-02c8-484b-a7ac-8b32f79749dc/AAABnw7iEXE/AAABnSSvsdE/16x9-small/sendungsbild-1756316.jpg?width=320" alt="Kritik an Rettungsarbeiten bei Brandunglück in Crans-Montana"/><p>Kritik an Rettungsarbeiten bei Brandunglück in Crans-Montana</p>]]></content>
-    </entry>
-    <entry>
-      <title>Unwetter und Extremtemperaturen: Waldbrand in Gohrischheide</title>
-      <id>https://www.tagesschau.de/video/video-1605944.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1605944.html"/>
-      <updated>2026-06-28T17:27:51Z</updated>
-      <published>2026-06-28T17:27:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c33f6f37-fdb9-45e8-a740-a41153d374d7/AAABnw7XgeY/AAABnSSvsdE/16x9-small/sendungsbild-1756314.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c33f6f37-fdb9-45e8-a740-a41153d374d7/AAABnw7XgeY/AAABnSSvsdE/16x9-small/sendungsbild-1756314.jpg?width=320" alt="Unwetter und Extremtemperaturen: Waldbrand in Gohrischheide"/><p>Unwetter und Extremtemperaturen: Waldbrand in Gohrischheide</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nach verheerenden Erdbeben in Venezuela: Weiter Suche nach Überlebenden</title>
-      <id>https://www.tagesschau.de/video/video-1605942.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1605942.html"/>
-      <updated>2026-06-28T17:24:14Z</updated>
-      <published>2026-06-28T17:24:14Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d746f1eb-4189-4dbf-a9af-c069cb81c6c7/AAABnw7UuIQ/AAABnSSvsdE/16x9-small/sendungsbild-1756312.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d746f1eb-4189-4dbf-a9af-c069cb81c6c7/AAABnw7UuIQ/AAABnSSvsdE/16x9-small/sendungsbild-1756312.jpg?width=320" alt="Nach verheerenden Erdbeben in Venezuela: Weiter Suche nach Überlebenden"/><p>Nach verheerenden Erdbeben in Venezuela: Weiter Suche nach Überlebenden</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gefahren durch Rekordtemperaturen</title>
-      <id>https://www.tagesschau.de/video/video-1605538.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1605538.html"/>
-      <updated>2026-06-27T18:10:02Z</updated>
-      <published>2026-06-27T18:10:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/311395b0-3510-4829-b867-440ef5e10527/AAABnwnYUJA/AAABnSSvsdE/16x9-small/sendungsbild-1755994.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/311395b0-3510-4829-b867-440ef5e10527/AAABnwnYUJA/AAABnSSvsdE/16x9-small/sendungsbild-1755994.jpg?width=320" alt="Gefahren durch Rekordtemperaturen"/><p>Gefahren durch Rekordtemperaturen</p>]]></content>
     </entry>
 </feed>
