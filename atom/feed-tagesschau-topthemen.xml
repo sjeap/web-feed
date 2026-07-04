@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-03T18:51:59Z</updated>
+  <updated>2026-07-04T09:11:45Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Aktivisten blockieren mehrere Zufahrtsstraßen zum AfD-Bundesparteitag in Erfurt</title>
+      <id>https://www.tagesschau.de/video/video-1609108.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609108.html"/>
+      <updated>2026-07-04T09:11:45Z</updated>
+      <published>2026-07-04T09:11:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/097aca39-2f11-4926-a476-9aed5dc63e20/AAABnyv3_qo/AAABnSSvsdE/16x9-small/sendungsbild-1759234.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/097aca39-2f11-4926-a476-9aed5dc63e20/AAABnyv3_qo/AAABnSSvsdE/16x9-small/sendungsbild-1759234.jpg?width=320" alt="Aktivisten blockieren mehrere Zufahrtsstraßen zum AfD-Bundesparteitag in Erfurt"/><p>Aktivisten blockieren mehrere Zufahrtsstraßen zum AfD-Bundesparteitag in Erfurt</p>]]></content>
+    </entry>
     <entry>
       <title>Proteste gegen Bundesparteitag der AfD: Polizei setzt tausende Beamte in Erfurt ein</title>
       <id>https://www.tagesschau.de/video/video-1608816.html</id>
@@ -54,14 +63,5 @@
       <published>2026-07-03T11:22:30Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a6e846b2-60bc-4a63-9550-8799dd1a3da2/AAABnydJOKo/AAABnSSvsdE/16x9-small/sendungsbild-1758776.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a6e846b2-60bc-4a63-9550-8799dd1a3da2/AAABnydJOKo/AAABnSSvsdE/16x9-small/sendungsbild-1758776.jpg?width=320" alt=""Heftig umstritten", C. Mestmacher, ARD Berlin, zur Reform der Krankschreibung"/><p>&quot;Heftig umstritten&quot;, C. Mestmacher, ARD Berlin, zur Reform der Krankschreibung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Hochzeitsgerüchte um Taylor Swift und Travis Kelce</title>
-      <id>https://www.tagesschau.de/video/video-1608538.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1608538.html"/>
-      <updated>2026-07-03T10:46:40Z</updated>
-      <published>2026-07-03T10:46:40Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e5ef8620-f48a-402f-8816-acdebfc062b6/AAABnycn-Yw/AAABnSSvsdE/16x9-small/sendungsbild-1758750.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e5ef8620-f48a-402f-8816-acdebfc062b6/AAABnycn-Yw/AAABnSSvsdE/16x9-small/sendungsbild-1758750.jpg?width=320" alt="Hochzeitsgerüchte um Taylor Swift und Travis Kelce"/><p>Hochzeitsgerüchte um Taylor Swift und Travis Kelce</p>]]></content>
     </entry>
 </feed>
