@@ -39,12 +39,21 @@ jobs:
         run: npm install
 
       # ── Chromium-Binary für patchright ──
-      # Nur für Sites mit engine: "browser" in sites.json. Spart bei den anderen
-      # Sites ~60s pro Run. --with-deps installiert nötige Ubuntu-System-Libs
+      # Nur für Sites mit engine: "browser" in sites.json (Single Source of
+      # Truth) — Engine wird per jq ausgelesen, nicht als Site-ID hartkodiert.
+      # So bekommt jede künftige Browser-Site automatisch Chromium, ohne dass
+      # dieser Workflow angefasst werden muss. Spart bei den übrigen Sites ~60s
+      # pro Run. --with-deps installiert nötige Ubuntu-System-Libs
       # (libnss3, libatk-bridge, etc.).
       - name: Install Chromium [${{ matrix.site }}]
-        if: matrix.site == 'seekingalpha-notable-calls'
-        run: npx patchright install --with-deps chromium
+        run: |
+          ENGINE=$(jq -r ".[] | select(.id==\"${{ matrix.site }}\") | .engine // empty" sites.json)
+          if [ "$ENGINE" = "browser" ]; then
+            echo "engine=browser → installiere Chromium für ${{ matrix.site }}"
+            npx patchright install --with-deps chromium
+          else
+            echo "engine='${ENGINE:-<none>}' → kein Browser nötig, Chromium-Install übersprungen"
+          fi
 
       # ── Schritt 1: Scraper ausführen ──
       - name: Run scraper [${{ matrix.site }}]
