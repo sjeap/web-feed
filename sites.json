@@ -36,6 +36,7 @@
     "id": "visualcapitalist",
     "name": "Visual Capitalist – Popular",
     "url": "https://www.visualcapitalist.com/",
+    "engine": "browser",
     "filter": null,
     "output": "atom/feed-visualcapitalist.xml",
     "containerStart": "class=\"mvp-feat5-side-list",

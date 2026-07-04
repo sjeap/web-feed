@@ -462,9 +462,17 @@ function buildCnnFearGreedItems(data, site) {
     `</table>` +
     `<p style="color:#94a3b8;font-size:12px;margin:10px 0 0 0;font-family:-apple-system,system-ui,sans-serif;">via CNN Business</p>`;
 
+  // <link rel="alternate"> trägt DENSELBEN Content-Hash wie die <id>. Grund:
+  // manche Feed-Reader (u.a. die genutzte Android-App) dedupen auf <link>,
+  // nicht auf <id>. Bliebe der Link die blanke site.url, wäre er über alle
+  // Runs identisch → der Reader erkennt kein neues Item, wenn sich Score oder
+  // eines der drei Ratings ändert. Mit Fragment ändert sich der Link exakt dann,
+  // wenn sich contentHash ändert → neues, ungelesenes Item (auch intraday).
+  // Der Fragment-Teil (#hash) wird vom CNN-Server ignoriert; der Klick landet
+  // weiterhin auf der normalen Fear-&-Greed-Seite.
   return [{
     title,
-    link:    site.url,
+    link:    guid,   // = `${site.url}#${contentHash}` (identisch zur <id>)
     pubDate,
     imgSrc:  gaugeUrl,
     imgAlt:  title,
