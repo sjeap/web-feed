@@ -22,6 +22,7 @@ jobs:
           - visualcapitalist
           - seekingalpha-notable-calls
           - tagesschau-topthemen
+          - marketscreener
 
     steps:
       - name: Checkout
