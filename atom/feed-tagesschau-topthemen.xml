@@ -5,11 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-04T14:24:30Z</updated>
+  <updated>2026-07-05T09:38:30Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Feiern zum Unabhängigkeitstag in den USA wegen Unwettern und Hitze unterbrochen</title>
+      <id>https://www.tagesschau.de/video/video-1609562.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609562.html"/>
+      <updated>2026-07-05T09:20:13Z</updated>
+      <published>2026-07-05T09:20:13Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6bb3fae4-abc7-486d-bc79-9d52e8c3445f/AAABnzEmH3c/AAABnSSvsdE/16x9-small/sendungsbild-1759626.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6bb3fae4-abc7-486d-bc79-9d52e8c3445f/AAABnzEmH3c/AAABnSSvsdE/16x9-small/sendungsbild-1759626.jpg?width=320" alt="Feiern zum Unabhängigkeitstag in den USA wegen Unwettern und Hitze unterbrochen"/><p>Feiern zum Unabhängigkeitstag in den USA wegen Unwettern und Hitze unterbrochen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nach Erdbeben in Venezuela liegt Zahl der Toten mittlerweile bei fast 3000</title>
+      <id>https://www.tagesschau.de/video/video-1609558.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609558.html"/>
+      <updated>2026-07-05T09:23:38Z</updated>
+      <published>2026-07-05T09:23:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7b7b6db2-f346-48d3-91d5-bc57682a400d/AAABnzEpPpc/AAABnSSvsdE/16x9-small/sendungsbild-1759628.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7b7b6db2-f346-48d3-91d5-bc57682a400d/AAABnzEpPpc/AAABnSSvsdE/16x9-small/sendungsbild-1759628.jpg?width=320" alt="Nach Erdbeben in Venezuela liegt Zahl der Toten mittlerweile bei fast 3000"/><p>Nach Erdbeben in Venezuela liegt Zahl der Toten mittlerweile bei fast 3000</p>]]></content>
+    </entry>
+    <entry>
+      <title>In Erfurt setzt die AfD ihren Bundesparteitag fort</title>
+      <id>https://www.tagesschau.de/video/video-1609572.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609572.html"/>
+      <updated>2026-07-05T09:28:51Z</updated>
+      <published>2026-07-05T09:28:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b2d90353-1d92-4cb7-92c9-06b402346931/AAABnzEuCa8/AAABnSSvsdE/16x9-small/sendungsbild-1759634.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b2d90353-1d92-4cb7-92c9-06b402346931/AAABnzEuCa8/AAABnSSvsdE/16x9-small/sendungsbild-1759634.jpg?width=320" alt="In Erfurt setzt die AfD ihren Bundesparteitag fort"/><p>In Erfurt setzt die AfD ihren Bundesparteitag fort</p>]]></content>
+    </entry>
+    <entry>
+      <title>Sexarbeit im ukrainischen Frontgebiet</title>
+      <id>https://www.tagesschau.de/video/video-1609582.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609582.html"/>
+      <updated>2026-07-05T09:38:30Z</updated>
+      <published>2026-07-05T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cce8f651-ff44-4525-9e97-b705855718ad/AAABnzE227I/AAABnSSvsdE/16x9-small/sendungsbild-1759638.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cce8f651-ff44-4525-9e97-b705855718ad/AAABnzE227I/AAABnSSvsdE/16x9-small/sendungsbild-1759638.jpg?width=320" alt="Sexarbeit im ukrainischen Frontgebiet"/><p>Sexarbeit im ukrainischen Frontgebiet</p>]]></content>
+    </entry>
     <entry>
       <title>AfD-Chefs Weidel und Chrupalla werden von Delegierten im Amt bestätigt</title>
       <id>https://www.tagesschau.de/video/video-1609250.html</id>
@@ -27,41 +63,5 @@
       <published>2026-07-04T13:17:32Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0cf28f44-35c8-4c59-9e4d-1dd34c4a3e35/AAABnyzZCVk/AAABnSSvsdE/16x9-small/sendungsbild-1759346.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0cf28f44-35c8-4c59-9e4d-1dd34c4a3e35/AAABnyzZCVk/AAABnSSvsdE/16x9-small/sendungsbild-1759346.jpg?width=320" alt="Laut Polizei bleibt Lage rund um AfD-Bundesparteitag in Erfurt dynamisch"/><p>Laut Polizei bleibt Lage rund um AfD-Bundesparteitag in Erfurt dynamisch</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gedenken an ertrunkene Geflüchtete: Papst Leo XIV. besucht Lampedusa</title>
-      <id>https://www.tagesschau.de/video/video-1609138.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609138.html"/>
-      <updated>2026-07-04T10:20:41Z</updated>
-      <published>2026-07-04T10:20:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5c4d1222-fa96-4f14-ab0d-9898ea571623/AAABnyw3H5w/AAABnSSvsdE/16x9-small/sendungsbild-1759286.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5c4d1222-fa96-4f14-ab0d-9898ea571623/AAABnyw3H5w/AAABnSSvsdE/16x9-small/sendungsbild-1759286.jpg?width=320" alt="Gedenken an ertrunkene Geflüchtete: Papst Leo XIV. besucht Lampedusa"/><p>Gedenken an ertrunkene Geflüchtete: Papst Leo XIV. besucht Lampedusa</p>]]></content>
-    </entry>
-    <entry>
-      <title>Aktivisten blockieren mehrere Zufahrtsstraßen zum AfD-Bundesparteitag in Erfurt</title>
-      <id>https://www.tagesschau.de/video/video-1609108.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609108.html"/>
-      <updated>2026-07-04T09:11:45Z</updated>
-      <published>2026-07-04T09:11:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/097aca39-2f11-4926-a476-9aed5dc63e20/AAABnyv3_qo/AAABnSSvsdE/16x9-small/sendungsbild-1759234.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/097aca39-2f11-4926-a476-9aed5dc63e20/AAABnyv3_qo/AAABnSSvsdE/16x9-small/sendungsbild-1759234.jpg?width=320" alt="Aktivisten blockieren mehrere Zufahrtsstraßen zum AfD-Bundesparteitag in Erfurt"/><p>Aktivisten blockieren mehrere Zufahrtsstraßen zum AfD-Bundesparteitag in Erfurt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Schülerzeitung aus dem Schulzentrum Wittenburg macht TV-Beitrag</title>
-      <id>https://www.tagesschau.de/video/video-1609118.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609118.html"/>
-      <updated>2026-07-04T09:40:34Z</updated>
-      <published>2026-07-04T09:40:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e4e9f359-c63a-4964-8b90-d843ffef1c7b/AAABnywSY30/AAABnSSvsdE/16x9-small/sendungsbild-1759254.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e4e9f359-c63a-4964-8b90-d843ffef1c7b/AAABnywSY30/AAABnSSvsdE/16x9-small/sendungsbild-1759254.jpg?width=320" alt="Schülerzeitung aus dem Schulzentrum Wittenburg macht TV-Beitrag"/><p>Schülerzeitung aus dem Schulzentrum Wittenburg macht TV-Beitrag</p>]]></content>
-    </entry>
-    <entry>
-      <title>Proteste gegen Bundesparteitag der AfD: Polizei setzt tausende Beamte in Erfurt ein</title>
-      <id>https://www.tagesschau.de/video/video-1608816.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1608816.html"/>
-      <updated>2026-07-03T18:51:59Z</updated>
-      <published>2026-07-03T18:51:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5e55b1fb-3fa0-4b48-a016-8615742a62a3/AAABnyjk1iw/AAABnSSvsdE/16x9-small/sendungsbild-1758966.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5e55b1fb-3fa0-4b48-a016-8615742a62a3/AAABnyjk1iw/AAABnSSvsdE/16x9-small/sendungsbild-1758966.jpg?width=320" alt="Proteste gegen Bundesparteitag der AfD: Polizei setzt tausende Beamte in Erfurt ein"/><p>Proteste gegen Bundesparteitag der AfD: Polizei setzt tausende Beamte in Erfurt ein</p>]]></content>
     </entry>
 </feed>
