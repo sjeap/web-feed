@@ -67,6 +67,16 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   (Default 320) / `thumbVariant` (`16x9-small`|`16x9-big`), JPG, `alt` = Schlagzeile,
   Fallback `posterImage`.
 
+### `marketscreener` → `atom/feed-marketscreener.xml`
+- **Engine:** Default (HTML + Regex), aber **drei Quellen in einem Feed**
+- **Eigenheit:** Einziger Feed mit dem optionalen `urls`-Array (Schwerpunkte, ETF, Aktien).
+  Alle drei Sub-Seiten werden nacheinander geladen und geparst, dann **über alle Quellen
+  hinweg dedupliziert** (nach Link, dann Titel), nach Datum sortiert und auf 30 Items
+  gekappt. `url` bleibt die kanonische Seite (Feed-`alternate`-Link + Basis für relative
+  Links); die eigentlichen Scrape-Ziele stehen in `urls`.
+- Deutsches Datumsformat „Am 03. Juli 2026 um 17:13 Uhr"; Artikel-Links sind root-relativ
+  (`/boerse-nachrichten/…`) und werden gegen die jeweilige Quell-URL absolut aufgelöst.
+
 ## Engines (in `scraper.js`)
 
 - **Default** — HTML laden, optional via `containerStart`/`containerEnd` zuschneiden, an
@@ -102,9 +112,14 @@ Uhrzeit-Formate ab.
 ```
 
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
-`engine`, `filter`, `containerStart`/`containerEnd`, `language`, `gaugeOutput` — ohne
+`engine`, `filter`, `containerStart`/`containerEnd`, `language`, `gaugeOutput`, `urls` — ohne
 `engine`-Feld läuft die Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem
 HTML-Quelltext der Seite ab (Strg+U im Browser).
+
+Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
+aggregiert**: jede URL wird mit denselben Selektoren geparst, die Ergebnisse werden über alle
+Quellen dedupliziert (Link, dann Titel), nach Datum sortiert und auf 30 Items gekappt. Ohne
+`urls` bleibt es beim Single-URL-Verhalten via `url` (siehe `marketscreener`).
 
 ### Schritt 2 — Eintrag in `update-rss.yml`
 
@@ -116,6 +131,7 @@ matrix:
     - visualcapitalist
     - seekingalpha-notable-calls
     - tagesschau-topthemen
+    - marketscreener
     - meine-site       # ← neu
 ```
 

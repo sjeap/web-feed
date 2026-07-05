@@ -58,5 +58,22 @@
     "skipUrlPatterns": ["/multimedia/livestreams"],
     "thumbWidth": 320,
     "thumbVariant": "16x9-small"
+  },
+  {
+    "id": "marketscreener",
+    "name": "MarketScreener – Börsenanalyse",
+    "url": "https://de.marketscreener.com/boersenanalyse/",
+    "urls": [
+      "https://de.marketscreener.com/boersenanalyse/schwerpunkte/",
+      "https://de.marketscreener.com/boersenanalyse/ETF/",
+      "https://de.marketscreener.com/boersenanalyse/aktien/"
+    ],
+    "language": "de-DE",
+    "filter": null,
+    "output": "atom/feed-marketscreener.xml",
+    "teaserSplit": "class=\"mb-10 pb-10 border-bottom\"",
+    "titleSelector": "<p class=\"txt-s4 txt-overflow-3 my-0\"><b>([\\s\\S]*?)<\\/b>",
+    "dateSelector": "<span class=\"txt-s1\">([\\s\\S]*?)<\\/span>",
+    "linkSelector": "href=\"(/boerse-nachrichten/[^\"]+)\""
   }
 ]

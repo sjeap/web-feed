@@ -772,6 +772,17 @@ function parseFlexibleDate(str) {
     }
   }
 
+  // ── Deutsch mit Jahr: "Am 03. Juli 2026 um 17:13 Uhr" (führendes "Am" optional)
+  //    Monatsname mit Umlauten (März) explizit erfasst, da \w kein "ä" matcht.
+  const deFull = s.match(/(\d{1,2})\.\s+([A-Za-zÄÖÜäöüß]+)\s+(\d{4})\s+um\s+(\d{1,2}):(\d{2})/i);
+  if (deFull) {
+    const [, day, monthName, year, hour, min] = deFull;
+    const month = months[monthName];
+    if (month) {
+      return new Date(+year, month - 1, +day, +hour, +min).toUTCString();
+    }
+  }
+
   // ── ISO/RFC fallback
   const iso = Date.parse(s);
   if (!isNaN(iso)) return new Date(iso).toUTCString();
@@ -782,7 +793,7 @@ function parseFlexibleDate(str) {
 // ─────────────────────────────────────────────────────────────────────
 // Haupt-Parser
 // ─────────────────────────────────────────────────────────────────────
-function parseHeadlines(html, site) {
+function parseHeadlines(html, site, baseUrl = site.url) {
   const items = [];
   const seen  = new Set();
 
@@ -827,8 +838,8 @@ function parseHeadlines(html, site) {
     const fullLink  = rawLink
       ? rawLink.startsWith("http")
         ? rawLink
-        : new URL(rawLink, site.url).href
-      : site.url;
+        : new URL(rawLink, baseUrl).href
+      : baseUrl;
 
     const dateStr = extractText(block, site.dateSelector);
     const pubDate = parseFlexibleDate(dateStr);
@@ -969,16 +980,44 @@ async function main() {
       process.exit(2);
     }
   } else {
-    // ── Standard-Pfad: HTML laden + parsen
-    console.log(`   🌐 Fetching HTML: ${site.url}`);
-    const html = await fetchPage(site.url);
-    console.log(`   HTML geladen: ${html.length} Zeichen`);
-    items = parseHeadlines(html, site);
+    // ── Standard-Pfad: eine oder mehrere Quell-URLs laden + parsen
+    //    Optionales Feld `urls` (Array) → aggregiert mehrere Quellen zu EINEM Feed.
+    //    Ohne `urls` bleibt das Verhalten identisch (Single-URL via site.url).
+    const sourceUrls = Array.isArray(site.urls) && site.urls.length ? site.urls : [site.url];
+    const merged = [];
+    let lastHtml = "";
+
+    for (const srcUrl of sourceUrls) {
+      console.log(`   🌐 Fetching HTML: ${srcUrl}`);
+      const html = await fetchPage(srcUrl);
+      lastHtml = html;
+      console.log(`   HTML geladen: ${html.length} Zeichen`);
+      const part = parseHeadlines(html, site, srcUrl);
+      console.log(`   → ${part.length} Item(s) aus ${srcUrl}`);
+      merged.push(...part);
+    }
+
+    // Cross-Source-Dedup (Link zuerst, dann Titel), neueste zuerst sortiert, Cap 30.
+    const seenLink  = new Set();
+    const seenTitle = new Set();
+    items = [];
+    for (const it of merged) {
+      if (seenLink.has(it.link) || seenTitle.has(it.title)) continue;
+      seenLink.add(it.link);
+      seenTitle.add(it.title);
+      items.push(it);
+    }
+    items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
+    if (items.length > 30) items = items.slice(0, 30);
+
+    if (sourceUrls.length > 1) {
+      console.log(`   🧩 Aggregiert: ${merged.length} → ${items.length} Item(s) (dedupliziert, sortiert)`);
+    }
 
     if (items.length === 0) {
       fs.writeFileSync(
         path.join(__dirname, `snapshot-${site.id}.txt`),
-        html.slice(0, 30000),
+        lastHtml.slice(0, 30000),
         "utf8"
       );
       console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert (snapshot-${site.id}.txt, ~30 KB)`);
