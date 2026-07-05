@@ -63,6 +63,7 @@
     "id": "marketscreener",
     "name": "MarketScreener – Börsenanalyse",
     "url": "https://de.marketscreener.com/boersenanalyse/",
+    "engine": "browser",
     "urls": [
       "https://de.marketscreener.com/boersenanalyse/schwerpunkte/",
       "https://de.marketscreener.com/boersenanalyse/ETF/",
