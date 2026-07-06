@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-05T17:10:03Z</updated>
+  <updated>2026-07-06T10:32:15Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Vizekanzler Klingbeil verteidigt Reformvorhaben der Koalition im ARD-Sommerinterview</title>
+      <id>https://www.tagesschau.de/video/video-1609998.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609998.html"/>
+      <updated>2026-07-06T10:32:15Z</updated>
+      <published>2026-07-06T10:32:15Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cb178866-bcac-4751-b0c4-8dfb6fd99aaa/AAABnzaObMc/AAABnSSvsdE/16x9-small/sendungsbild-1760020.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cb178866-bcac-4751-b0c4-8dfb6fd99aaa/AAABnzaObMc/AAABnSSvsdE/16x9-small/sendungsbild-1760020.jpg?width=320" alt="Vizekanzler Klingbeil verteidigt Reformvorhaben der Koalition im ARD-Sommerinterview"/><p>Vizekanzler Klingbeil verteidigt Reformvorhaben der Koalition im ARD-Sommerinterview</p>]]></content>
+    </entry>
     <entry>
       <title>Verkauf von Alkohol jetzt auch am Sonntag in Finnland</title>
       <id>https://www.tagesschau.de/video/video-1609694.html</id>
@@ -18,15 +27,6 @@
       <published>2026-07-05T17:10:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2de79c1a-3e47-4ec0-852e-60d003286099/AAABnzLUSZ0/AAABnSSvsdE/16x9-small/sendungsbild-1759760.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2de79c1a-3e47-4ec0-852e-60d003286099/AAABnzLUSZ0/AAABnSSvsdE/16x9-small/sendungsbild-1759760.jpg?width=320" alt="Verkauf von Alkohol jetzt auch am Sonntag in Finnland"/><p>Verkauf von Alkohol jetzt auch am Sonntag in Finnland</p>]]></content>
-    </entry>
-    <entry>
-      <title>Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt</title>
-      <id>https://www.tagesschau.de/video/video-1609664.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609664.html"/>
-      <updated>2026-07-05T16:25:12Z</updated>
-      <published>2026-07-05T16:25:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6f3dbcc9-782f-4d18-a1b5-7bf900dc8b1f/AAABnzKrNz0/AAABnSSvsdE/16x9-small/sendungsbild-1759742.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6f3dbcc9-782f-4d18-a1b5-7bf900dc8b1f/AAABnzKrNz0/AAABnSSvsdE/16x9-small/sendungsbild-1759742.jpg?width=320" alt="Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt"/><p>Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt</p>]]></content>
     </entry>
     <entry>
       <title>USA feiern 250. Jahrestag ihrer Unabhängigkeit: US-Präsident Trump hält Rede</title>
@@ -38,6 +38,15 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/09816074-a154-4de8-8d43-3324c1c7f009/AAABnzLKAJg/AAABnSSvsdE/16x9-small/sendungsbild-1759756.jpg?width=320" alt="USA feiern 250. Jahrestag ihrer Unabhängigkeit: US-Präsident Trump hält Rede"/><p>USA feiern 250. Jahrestag ihrer Unabhängigkeit: US-Präsident Trump hält Rede</p>]]></content>
     </entry>
     <entry>
+      <title>Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt</title>
+      <id>https://www.tagesschau.de/video/video-1609664.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609664.html"/>
+      <updated>2026-07-05T16:25:12Z</updated>
+      <published>2026-07-05T16:25:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6f3dbcc9-782f-4d18-a1b5-7bf900dc8b1f/AAABnzKrNz0/AAABnSSvsdE/16x9-small/sendungsbild-1759742.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6f3dbcc9-782f-4d18-a1b5-7bf900dc8b1f/AAABnzKrNz0/AAABnSSvsdE/16x9-small/sendungsbild-1759742.jpg?width=320" alt="Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt"/><p>Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt</p>]]></content>
+    </entry>
+    <entry>
       <title>AfD-Bundesparteitag geht in den zweiten Tag</title>
       <id>https://www.tagesschau.de/video/video-1609612.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/video/video-1609612.html"/>
@@ -47,21 +56,12 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/caec875e-f91f-453b-ab3e-efc39a86bfac/AAABnzFkVL8/AAABnSSvsdE/16x9-small/sendungsbild-1759664.jpg?width=320" alt="AfD-Bundesparteitag geht in den zweiten Tag"/><p>AfD-Bundesparteitag geht in den zweiten Tag</p>]]></content>
     </entry>
     <entry>
-      <title>In Erfurt setzt die AfD ihren Bundesparteitag fort</title>
-      <id>https://www.tagesschau.de/video/video-1609572.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609572.html"/>
-      <updated>2026-07-05T09:28:51Z</updated>
-      <published>2026-07-05T09:28:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b2d90353-1d92-4cb7-92c9-06b402346931/AAABnzEuCa8/AAABnSSvsdE/16x9-small/sendungsbild-1759634.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b2d90353-1d92-4cb7-92c9-06b402346931/AAABnzEuCa8/AAABnSSvsdE/16x9-small/sendungsbild-1759634.jpg?width=320" alt="In Erfurt setzt die AfD ihren Bundesparteitag fort"/><p>In Erfurt setzt die AfD ihren Bundesparteitag fort</p>]]></content>
-    </entry>
-    <entry>
-      <title>Sexarbeit im ukrainischen Frontgebiet</title>
-      <id>https://www.tagesschau.de/video/video-1609582.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609582.html"/>
-      <updated>2026-07-05T09:38:30Z</updated>
-      <published>2026-07-05T09:38:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cce8f651-ff44-4525-9e97-b705855718ad/AAABnzE227I/AAABnSSvsdE/16x9-small/sendungsbild-1759638.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cce8f651-ff44-4525-9e97-b705855718ad/AAABnzE227I/AAABnSSvsdE/16x9-small/sendungsbild-1759638.jpg?width=320" alt="Sexarbeit im ukrainischen Frontgebiet"/><p>Sexarbeit im ukrainischen Frontgebiet</p>]]></content>
+      <title>Feiern zum Unabhängigkeitstag in den USA wegen Unwettern und Hitze unterbrochen</title>
+      <id>https://www.tagesschau.de/video/video-1609562.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1609562.html"/>
+      <updated>2026-07-05T09:20:13Z</updated>
+      <published>2026-07-05T09:20:13Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6bb3fae4-abc7-486d-bc79-9d52e8c3445f/AAABnzEmH3c/AAABnSSvsdE/16x9-small/sendungsbild-1759626.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6bb3fae4-abc7-486d-bc79-9d52e8c3445f/AAABnzEmH3c/AAABnSSvsdE/16x9-small/sendungsbild-1759626.jpg?width=320" alt="Feiern zum Unabhängigkeitstag in den USA wegen Unwettern und Hitze unterbrochen"/><p>Feiern zum Unabhängigkeitstag in den USA wegen Unwettern und Hitze unterbrochen</p>]]></content>
     </entry>
 </feed>
