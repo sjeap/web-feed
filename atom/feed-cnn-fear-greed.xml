@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml</id>
   <link rel="alternate" href="https://edition.cnn.com/markets/fear-and-greed"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml"/>
-  <updated>2026-07-08T17:54:25Z</updated>
+  <updated>2026-07-09T07:52:16Z</updated>
   <author>
     <name>CNN Fear &amp; Greed Index</name>
   </author>
@@ -14,8 +14,8 @@
       <title>Fear &amp; Greed: 42 (Fear) // Put-Call Ratio: Neutral // Market Volatility VIX: Neutral</title>
       <id>https://edition.cnn.com/markets/fear-and-greed#5ec4af382b18</id>
       <link rel="alternate" href="https://edition.cnn.com/markets/fear-and-greed#5ec4af382b18"/>
-      <updated>2026-07-08T17:54:25Z</updated>
-      <published>2026-07-08T17:54:25Z</published>
+      <updated>2026-07-09T07:52:16Z</updated>
+      <published>2026-07-09T07:52:16Z</published>
       <link rel="enclosure" type="image/svg+xml" href="https://sjeap.github.io/web-feed/asset/feed-cnn-fear-greed.svg?v=5ec4af382b18"/>
       <content type="html"><![CDATA[<p style="margin:0 0 12px 0;"><img src="https://sjeap.github.io/web-feed/asset/feed-cnn-fear-greed.svg?v=5ec4af382b18" alt="Fear &amp; Greed: 42 (Fear) // Put-Call Ratio: Neutral // Market Volatility VIX: Neutral" width="660" style="max-width:100%;height:auto;display:block;"/></p><h2 style="margin:0 0 8px 0;font-family:-apple-system,system-ui,sans-serif;font-size:20px;">Fear &amp; Greed Index: <span style="color:#F5B97F;">42 — Fear</span></h2><table cellpadding="6" cellspacing="0" border="0" style="font-family:-apple-system,system-ui,sans-serif;font-size:14px;border-collapse:collapse;"><tr><td style="color:#64748b;padding:4px 12px 4px 0;">5-day average put/call ratio</td><td style="font-weight:600;">Neutral</td></tr><tr><td style="color:#64748b;padding:4px 12px 4px 0;">VIX and its 50-day moving average</td><td style="font-weight:600;">Neutral</td></tr></table><p style="color:#94a3b8;font-size:12px;margin:10px 0 0 0;font-family:-apple-system,system-ui,sans-serif;">via CNN Business</p>]]></content>
     </entry>
