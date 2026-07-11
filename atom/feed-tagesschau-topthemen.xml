@@ -5,11 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-10T15:00:27Z</updated>
+  <updated>2026-07-11T17:36:19Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Parteitag der AfD Sachsen-Anhalt</title>
+      <id>https://www.tagesschau.de/video/video-1613046.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1613046.html"/>
+      <updated>2026-07-11T17:36:19Z</updated>
+      <published>2026-07-11T17:36:19Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6ab900d4-0e31-4311-8970-0adb43050bc5/AAABn1HSeEI/AAABnSSvsdE/16x9-small/sendungsbild-1763102.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6ab900d4-0e31-4311-8970-0adb43050bc5/AAABn1HSeEI/AAABnSSvsdE/16x9-small/sendungsbild-1763102.jpg?width=320" alt="Parteitag der AfD Sachsen-Anhalt"/><p>Parteitag der AfD Sachsen-Anhalt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nikolaus Neumaier, ARD Istanbul, zur Forderung der USA an Iran</title>
+      <id>https://www.tagesschau.de/video/video-1612924.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612924.html"/>
+      <updated>2026-07-11T11:53:12Z</updated>
+      <published>2026-07-11T11:53:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e8c8549c-4d02-45cd-a31a-b3f779b7aa56/AAABn1CYVjA/AAABnSSvsdE/16x9-small/sendungsbild-1762916.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e8c8549c-4d02-45cd-a31a-b3f779b7aa56/AAABn1CYVjA/AAABnSSvsdE/16x9-small/sendungsbild-1762916.jpg?width=320" alt="Nikolaus Neumaier, ARD Istanbul, zur Forderung der USA an Iran"/><p>Nikolaus Neumaier, ARD Istanbul, zur Forderung der USA an Iran</p>]]></content>
+    </entry>
+    <entry>
+      <title>AfD will bei Landesparteitag in Magdeburg 100-Tage-Programm vorstellen</title>
+      <id>https://www.tagesschau.de/video/video-1612910.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612910.html"/>
+      <updated>2026-07-11T11:01:29Z</updated>
+      <published>2026-07-11T11:01:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9d30938a-5673-496c-ae66-36fbe8c93699/AAABn1Bo-_I/AAABnSSvsdE/16x9-small/sendungsbild-1762900.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9d30938a-5673-496c-ae66-36fbe8c93699/AAABn1Bo-_I/AAABnSSvsdE/16x9-small/sendungsbild-1762900.jpg?width=320" alt="AfD will bei Landesparteitag in Magdeburg 100-Tage-Programm vorstellen"/><p>AfD will bei Landesparteitag in Magdeburg 100-Tage-Programm vorstellen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Politikwissenschafter Albrecht von Lucke zur Bilanz der Koalition vor Sommerpause</title>
+      <id>https://www.tagesschau.de/video/video-1612878.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612878.html"/>
+      <updated>2026-07-11T09:29:19Z</updated>
+      <published>2026-07-11T09:29:19Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/920f9b8e-e3c0-4aa0-9078-e82550688eb4/AAABn1AUm_4/AAABnSSvsdE/16x9-small/sendungsbild-1762842.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/920f9b8e-e3c0-4aa0-9078-e82550688eb4/AAABn1AUm_4/AAABnSSvsdE/16x9-small/sendungsbild-1762842.jpg?width=320" alt="Politikwissenschafter Albrecht von Lucke zur Bilanz der Koalition vor Sommerpause"/><p>Politikwissenschafter Albrecht von Lucke zur Bilanz der Koalition vor Sommerpause</p>]]></content>
+    </entry>
     <entry>
       <title>Neues Bundespolizeigesetz soll Kriminalitätsbekämpfung verbessern</title>
       <id>https://www.tagesschau.de/video/video-1612500.html</id>
@@ -27,41 +63,5 @@
       <published>2026-07-10T14:21:59Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dfc0073c-c704-4221-8d8b-311cea7e7000/AAABn0v582c/AAABnSSvsdE/16x9-small/sendungsbild-1762474.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dfc0073c-c704-4221-8d8b-311cea7e7000/AAABn0v582c/AAABnSSvsdE/16x9-small/sendungsbild-1762474.jpg?width=320" alt="Christian Feld, ARD Brüssel, über Einordnung der EU-Kommission zur Suchtgefahr bei Meta"/><p>Christian Feld, ARD Brüssel, über Einordnung der EU-Kommission zur Suchtgefahr bei Meta</p>]]></content>
-    </entry>
-    <entry>
-      <title>Bundestag stimmt für Sparmaßnahmen bei der gesetzlichen Krankenversicherung</title>
-      <id>https://www.tagesschau.de/video/video-1612480.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612480.html"/>
-      <updated>2026-07-10T14:16:39Z</updated>
-      <published>2026-07-10T14:16:39Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3901d962-b203-4378-8247-a7e5e5fe001e/AAABn0v1TFs/AAABnSSvsdE/16x9-small/sendungsbild-1762464.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3901d962-b203-4378-8247-a7e5e5fe001e/AAABn0v1TFs/AAABnSSvsdE/16x9-small/sendungsbild-1762464.jpg?width=320" alt="Bundestag stimmt für Sparmaßnahmen bei der gesetzlichen Krankenversicherung"/><p>Bundestag stimmt für Sparmaßnahmen bei der gesetzlichen Krankenversicherung</p>]]></content>
-    </entry>
-    <entry>
-      <title>C. Mestmacher, ARD Berlin, über die Bundestagszustimmung zum Krankenkassen-Sparpaket</title>
-      <id>https://www.tagesschau.de/video/video-1612414.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612414.html"/>
-      <updated>2026-07-10T11:45:55Z</updated>
-      <published>2026-07-10T11:45:55Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e72c116d-878e-46f1-98b5-31b12f861e3f/AAABn0trSi4/AAABnSSvsdE/16x9-small/sendungsbild-1762350.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e72c116d-878e-46f1-98b5-31b12f861e3f/AAABn0trSi4/AAABnSSvsdE/16x9-small/sendungsbild-1762350.jpg?width=320" alt="C. Mestmacher, ARD Berlin, über die Bundestagszustimmung zum Krankenkassen-Sparpaket"/><p>C. Mestmacher, ARD Berlin, über die Bundestagszustimmung zum Krankenkassen-Sparpaket</p>]]></content>
-    </entry>
-    <entry>
-      <title>Torben Hildebrandt, NDR, zu unkonkreten Sparplänen bei VW</title>
-      <id>https://www.tagesschau.de/video/video-1612392.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612392.html"/>
-      <updated>2026-07-10T11:08:40Z</updated>
-      <published>2026-07-10T11:08:40Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/aac129da-fa96-42f3-86ba-d73c76b9fbcf/AAABn0tI5xs/AAABnSSvsdE/16x9-small/sendungsbild-1762340.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/aac129da-fa96-42f3-86ba-d73c76b9fbcf/AAABn0tI5xs/AAABnSSvsdE/16x9-small/sendungsbild-1762340.jpg?width=320" alt="Torben Hildebrandt, NDR, zu unkonkreten Sparplänen bei VW"/><p>Torben Hildebrandt, NDR, zu unkonkreten Sparplänen bei VW</p>]]></content>
-    </entry>
-    <entry>
-      <title>VW in der Krise: Aufsichtsrat berät über Sparmaßnahmen</title>
-      <id>https://www.tagesschau.de/video/video-1611966.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1611966.html"/>
-      <updated>2026-07-09T17:10:00Z</updated>
-      <published>2026-07-09T17:10:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/42f6f07a-f37f-4917-bb8e-6cae47de84a0/AAABn0dtoV8/AAABnSSvsdE/16x9-small/sendungsbild-1761940.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/42f6f07a-f37f-4917-bb8e-6cae47de84a0/AAABn0dtoV8/AAABnSSvsdE/16x9-small/sendungsbild-1761940.jpg?width=320" alt="VW in der Krise: Aufsichtsrat berät über Sparmaßnahmen"/><p>VW in der Krise: Aufsichtsrat berät über Sparmaßnahmen</p>]]></content>
     </entry>
 </feed>
