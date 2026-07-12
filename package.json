@@ -4,6 +4,7 @@
   "private": true,
   "description": "Atom-Feed-Generator via Web-Scraping",
   "dependencies": {
-    "patchright": "^1.50.0"
+    "patchright": "^1.50.0",
+    "https-proxy-agent": "^7.0.0"
   }
 }

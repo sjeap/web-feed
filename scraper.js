@@ -55,21 +55,23 @@ if (!site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Residential-Proxy (DataImpulse) — nur für Feeds mit `"proxy": true`
+// Residential-Proxy (DataImpulse) — gilt GLOBAL für alle Feeds
 // ─────────────────────────────────────────────────────────────────────
+// Alle Feeds laufen über die Residential-IP (per-Feed abschaltbar via
+// "proxy": false). Wirkt in beiden Engines: Browser (Patchright-`proxy:`) und
+// HTTPS/JSON (https-proxy-agent, CONNECT-Tunnel).
 // Pro Prozess-Lauf EINE Session-ID → DataImpulse hält dafür ~30 Min dieselbe
 // Pool-IP. Da jeder Matrix-Job und jeder Cron-Zyklus ein eigener Prozess ist,
-// bekommt jeder Scrape eine andere IP, bleibt aber innerhalb des Laufs stabil
-// (alle Sub-URLs eines Feeds teilen sich eine IP → wirkt wie ein echter Leser).
+// bekommt jeder Scrape eine andere IP, bleibt aber innerhalb des Laufs stabil.
 const PROXY_SESSION = crypto.randomBytes(6).toString("hex");
 
 function buildProxyConfig() {
-  if (!site.proxy) return null;
+  if (site.proxy === false) return null;   // explizites Opt-out pro Feed
 
   const user = process.env.DATAIMPULSE_USER;
   const pass = process.env.DATAIMPULSE_PASS;
   if (!user || !pass) {
-    console.log("   ⚠ site.proxy gesetzt, aber DATAIMPULSE_USER/PASS fehlen – fahre OHNE Proxy fort");
+    console.log("   ⚠ DATAIMPULSE_USER/PASS fehlen – Feed läuft OHNE Proxy (direkt)");
     return null;
   }
 
@@ -88,6 +90,21 @@ function buildProxyConfig() {
     // fürs Logging (ohne Credentials):
     _label: `${site.proxyCountry ? "cr." + site.proxyCountry + ", " : ""}sessid.${PROXY_SESSION}`,
   };
+}
+
+// Einmal pro Prozess: Proxy-Config + HTTPS-Agent (CONNECT-Tunnel für HTTPS/JSON).
+const PROXY = buildProxyConfig();
+let HTTPS_PROXY_AGENT = null;
+if (PROXY) {
+  try {
+    const { HttpsProxyAgent } = require("https-proxy-agent");
+    const auth = Buffer.from(`${PROXY.username}:${PROXY.password}`).toString("base64");
+    HTTPS_PROXY_AGENT = new HttpsProxyAgent(PROXY.server, {
+      headers: { "Proxy-Authorization": `Basic ${auth}` },
+    });
+  } catch (e) {
+    console.log(`   ⚠ https-proxy-agent nicht verfügbar (${e.message}) – HTTPS-Feeds laufen direkt`);
+  }
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -111,6 +128,15 @@ function fetchPageHttps(url, redirectCount = 0) {
         "Cache-Control":   "no-cache",
       },
     };
+
+    // Residential-Proxy (CONNECT-Tunnel) für HTTPS; http-URLs bleiben direkt.
+    if (HTTPS_PROXY_AGENT && u.protocol === "https:") {
+      options.agent = HTTPS_PROXY_AGENT;
+      if (!fetchPageHttps._logged) {
+        console.log(`   🔒 Proxy aktiv (DataImpulse, ${PROXY._label})`);
+        fetchPageHttps._logged = true;
+      }
+    }
 
     lib.get(url, options, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
@@ -222,7 +248,7 @@ async function fetchPageBrowser(url, proxyConfig = null) {
 // ─────────────────────────────────────────────────────────────────────
 async function fetchPage(url) {
   if (site.engine === "browser") {
-    return fetchPageBrowser(url, buildProxyConfig());
+    return fetchPageBrowser(url, PROXY);
   }
   return fetchPageHttps(url);
 }

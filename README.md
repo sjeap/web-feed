@@ -68,10 +68,10 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Fallback `posterImage`.
 
 ### `marketscreener` → `atom/feed-marketscreener.xml`
-- **Engine:** `browser` (Patchright) **+ Residential-Proxy** — die GitHub-Actions-
-  Datacenter-IPs sind hart geblockt (Antwort ~320 Zeichen), was auch Patchright allein nicht
-  löst. Läuft daher über DataImpulse (`"proxy": true`, `proxyCountry: "de"`); siehe
-  [Residential-Proxy](#residential-proxy-dataimpulse).
+- **Engine:** Default (HTTPS) **über Residential-Proxy** (`proxyCountry: "de"`). MarketScreener
+  steht hinter **Akamai Bot Manager**; der Headless-Browser wurde geblockt, ein schlichter
+  HTTPS-Client mit sauberer Wohn-IP hat bessere Chancen (Versuch — Akamai fingerprintet auch
+  TLS, Erfolg nicht garantiert). Siehe [Residential-Proxy](#residential-proxy-dataimpulse).
 - **Eigenheit:** Einziger Feed mit dem optionalen `urls`-Array (Schwerpunkte, ETF, Aktien):
   drei Sub-Seiten, ein Feed. Ergebnisse werden über alle Quellen dedupliziert (Link, dann
   Titel), nach Datum sortiert, auf 30 gekappt. `url` bleibt die kanonische Seite; die
@@ -85,8 +85,8 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 - **`tagesschau-carousel`** — liest die Teaser aus dem `data-v`-JSON der
   Startseiten-Carousel-Instanz (per `carouselName` ausgewählt); filtert via
   `skipLabels` / `skipUrlPatterns`. Reiner HTTPS-Fetch, kein Browser.
-- **`browser`** — Rendering via Patchright für JS-Seiten. Optional über einen Residential-
-  Proxy (`"proxy": true`), wenn die Seite Datacenter-IPs hart blockt (siehe unten).
+- **`browser`** — Rendering via Patchright für JS-Seiten. Läuft wie alle Feeds über den
+  Residential-Proxy (siehe unten), inkl. Bild/Font/Media-Blocking.
 
 `buildAtom` (Atom 1.0 / RFC 4287) erzeugt `<feed>`/`<entry>`; optional `descriptionHtml`
 (→ `<content type="html">`) und `guid` (→ `<id>`); `language` wird zu `xml:lang` (Default
@@ -114,9 +114,9 @@ Uhrzeit-Formate ab.
 
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
 `engine`, `filter`, `containerStart`/`containerEnd`, `language`, `gaugeOutput`, `urls`,
-`proxy`/`proxyCountry`/`proxyLocale`/`proxyTimezone` — ohne `engine`-Feld läuft die
-Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext der Seite ab
-(Strg+U im Browser).
+`proxy: false` (Proxy-Opt-out; Proxy ist global an), `proxyCountry`/`proxyLocale`/
+`proxyTimezone` — ohne `engine`-Feld läuft die Default-Engine (HTML + Regex). Die Selektoren
+leitest du aus dem HTML-Quelltext der Seite ab (Strg+U im Browser).
 
 Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
 aggregiert**: jede URL wird mit denselben Selektoren geparst, die Ergebnisse werden über alle
@@ -141,21 +141,27 @@ Das war es. Beim nächsten Run wird `atom/feed-meine-site.xml` automatisch erste
 
 ## Residential-Proxy (DataImpulse)
 
-Manche Seiten blocken die Datacenter-IPs der GitHub-Runner hart (IP-Reputation, ~320-Zeichen-
-Stub). Lösung: die Browser-Engine über einen Residential-Proxy leiten — **pro Feed** via
-`"proxy": true` in `sites.json` (nur `engine: "browser"`); optional `proxyCountry` (kostenlos),
-`proxyLocale`/`proxyTimezone` (geo-konsistent).
+**Alle Feeds** laufen über die Residential-IP — greift in beiden Engines: Browser (Patchright
+`proxy:`) und HTTPS/JSON (`https-proxy-agent`, CONNECT-Tunnel; `fetchJsonApi` nutzt intern den
+HTTPS-Fetcher). Per Feed abschaltbar mit `"proxy": false`. Optional `proxyCountry` (kostenloses
+Country-Targeting, z. B. `"de"` bei `marketscreener`); `proxyLocale`/`proxyTimezone` wirken nur
+in der Browser-Engine (geo-konsistente Locale/Zeitzone).
 
 **Credentials** als zwei GitHub-Secrets (Settings → Secrets and variables → Actions), nie im
-Code: `DATAIMPULSE_USER`, `DATAIMPULSE_PASS`. Getrennt, weil Patchright User/Passwort separat
-erwartet und den Username pro Lauf um die Session ergänzt. Host/Port (`gw.dataimpulse.com:823`)
-stehen im Code (per Env überschreibbar). Fehlen die Secrets, läuft der Scraper **ohne** Proxy
-weiter (Warnung statt Abbruch).
+Code: `DATAIMPULSE_USER`, `DATAIMPULSE_PASS`. Getrennt, weil User/Passwort separat gebraucht
+werden und der Username pro Lauf um die Session ergänzt wird. Host/Port
+(`gw.dataimpulse.com:823`) stehen im Code (per Env überschreibbar). Fehlen die Secrets, läuft
+**direkt** ohne Proxy (Warnung statt Abbruch).
 
 Pro Lauf wird eine zufällige `sessid` an den Username gehängt (`login__cr.de;sessid.<hex>`) →
 DataImpulse hält dafür ~30 Min dieselbe IP: **jeder Cron-Scrape eine andere IP**, im Lauf
-stabil. Bei aktivem Proxy werden Bilder/Fonts/Media abgebrochen (~80–90 % weniger Traffic); so
-reicht das $5-/5-GB-Guthaben (nicht verfallend) über Jahre.
+stabil. In der Browser-Engine werden zusätzlich Bilder/Fonts/Media abgebrochen (~80–90 %
+weniger Traffic). HTTPS/JSON-Feeds sind ohnehin winzig; so reicht das $5-/5-GB-Guthaben (nicht
+verfallend) über Jahre.
+
+> Hinweis: Kommerzielle Anti-Bot-Systeme (z. B. **PerimeterX** bei SeekingAlpha, **Akamai Bot
+> Manager** bei MarketScreener) fingerprinten Browser/TLS und werden vom Residential-Proxy
+> allein **nicht** zuverlässig umgangen.
 
 ## Self-heal
 

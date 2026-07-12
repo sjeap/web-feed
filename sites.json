@@ -63,11 +63,7 @@
     "id": "marketscreener",
     "name": "MarketScreener – Börsenanalyse",
     "url": "https://de.marketscreener.com/boersenanalyse/",
-    "engine": "browser",
-    "proxy": true,
     "proxyCountry": "de",
-    "proxyLocale": "de-DE",
-    "proxyTimezone": "Europe/Berlin",
     "urls": [
       "https://de.marketscreener.com/boersenanalyse/schwerpunkte/",
       "https://de.marketscreener.com/boersenanalyse/ETF/",
