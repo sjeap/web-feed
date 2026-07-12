@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-11T17:36:19Z</updated>
+  <updated>2026-07-12T16:33:36Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Uwe Lueb, ARD Istanbul, zur Situation an der Straße von Hormus nach neuen Angriffen zwischen USA und Iran</title>
+      <id>https://www.tagesschau.de/video/video-1613382.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1613382.html"/>
+      <updated>2026-07-12T16:33:36Z</updated>
+      <published>2026-07-12T16:33:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/78e9788f-8b46-4404-8aa7-b11b3ba4b89d/AAABn1a_Zjk/AAABnSSvsdE/16x9-small/sendungsbild-1763458.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/78e9788f-8b46-4404-8aa7-b11b3ba4b89d/AAABn1a_Zjk/AAABnSSvsdE/16x9-small/sendungsbild-1763458.jpg?width=320" alt="Uwe Lueb, ARD Istanbul, zur Situation an der Straße von Hormus nach neuen Angriffen zwischen USA und Iran"/><p>Uwe Lueb, ARD Istanbul, zur Situation an der Straße von Hormus nach neuen Angriffen zwischen USA und Iran</p>]]></content>
+    </entry>
+    <entry>
+      <title>Neue Angriffe trotz Gesprächen zwischen USA und Iran</title>
+      <id>https://www.tagesschau.de/video/video-1613356.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1613356.html"/>
+      <updated>2026-07-12T15:20:57Z</updated>
+      <published>2026-07-12T15:20:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e5068bc9-c800-494e-97fb-2d2bc5816bed/AAABn1Z86dQ/AAABnSSvsdE/16x9-small/sendungsbild-1763436.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e5068bc9-c800-494e-97fb-2d2bc5816bed/AAABn1Z86dQ/AAABnSSvsdE/16x9-small/sendungsbild-1763436.jpg?width=320" alt="Neue Angriffe trotz Gesprächen zwischen USA und Iran"/><p>Neue Angriffe trotz Gesprächen zwischen USA und Iran</p>]]></content>
+    </entry>
     <entry>
       <title>Parteitag der AfD Sachsen-Anhalt</title>
       <id>https://www.tagesschau.de/video/video-1613046.html</id>
@@ -45,23 +63,5 @@
       <published>2026-07-11T09:29:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/920f9b8e-e3c0-4aa0-9078-e82550688eb4/AAABn1AUm_4/AAABnSSvsdE/16x9-small/sendungsbild-1762842.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/920f9b8e-e3c0-4aa0-9078-e82550688eb4/AAABn1AUm_4/AAABnSSvsdE/16x9-small/sendungsbild-1762842.jpg?width=320" alt="Politikwissenschafter Albrecht von Lucke zur Bilanz der Koalition vor Sommerpause"/><p>Politikwissenschafter Albrecht von Lucke zur Bilanz der Koalition vor Sommerpause</p>]]></content>
-    </entry>
-    <entry>
-      <title>Neues Bundespolizeigesetz soll Kriminalitätsbekämpfung verbessern</title>
-      <id>https://www.tagesschau.de/video/video-1612500.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612500.html"/>
-      <updated>2026-07-10T15:00:27Z</updated>
-      <published>2026-07-10T15:00:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/23302cb4-a301-42e0-a0a5-271cc3e8f46f/AAABn0vp0QI/AAABnSSvsdE/16x9-small/swr-56392.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/23302cb4-a301-42e0-a0a5-271cc3e8f46f/AAABn0vp0QI/AAABnSSvsdE/16x9-small/swr-56392.jpg?width=320" alt="Neues Bundespolizeigesetz soll Kriminalitätsbekämpfung verbessern"/><p>Neues Bundespolizeigesetz soll Kriminalitätsbekämpfung verbessern</p>]]></content>
-    </entry>
-    <entry>
-      <title>Christian Feld, ARD Brüssel, über Einordnung der EU-Kommission zur Suchtgefahr bei Meta</title>
-      <id>https://www.tagesschau.de/video/video-1612482.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612482.html"/>
-      <updated>2026-07-10T14:21:59Z</updated>
-      <published>2026-07-10T14:21:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dfc0073c-c704-4221-8d8b-311cea7e7000/AAABn0v582c/AAABnSSvsdE/16x9-small/sendungsbild-1762474.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dfc0073c-c704-4221-8d8b-311cea7e7000/AAABn0v582c/AAABnSSvsdE/16x9-small/sendungsbild-1762474.jpg?width=320" alt="Christian Feld, ARD Brüssel, über Einordnung der EU-Kommission zur Suchtgefahr bei Meta"/><p>Christian Feld, ARD Brüssel, über Einordnung der EU-Kommission zur Suchtgefahr bei Meta</p>]]></content>
     </entry>
 </feed>
