@@ -141,34 +141,21 @@ Das war es. Beim nächsten Run wird `atom/feed-meine-site.xml` automatisch erste
 
 ## Residential-Proxy (DataImpulse)
 
-Manche Seiten (z. B. MarketScreener) blocken die Datacenter-IPs der GitHub-Actions-Runner
-hart — kein Header-/Fingerprint-Problem, sondern IP-Reputation. Patchright allein hilft dann
-nicht; die Antwort bleibt ein ~320-Zeichen-Stub. Lösung: die Browser-Engine über einen
-Residential-Proxy leiten. Aktiviert wird das **pro Feed** mit `"proxy": true` in `sites.json`
-(nur `engine: "browser"`-Feeds); optional `proxyCountry` (kostenloses Country-Targeting, z. B.
-`"de"`), `proxyLocale`/`proxyTimezone` halten Locale/Zeitzone geo-konsistent.
+Manche Seiten blocken die Datacenter-IPs der GitHub-Runner hart (IP-Reputation, ~320-Zeichen-
+Stub). Lösung: die Browser-Engine über einen Residential-Proxy leiten — **pro Feed** via
+`"proxy": true` in `sites.json` (nur `engine: "browser"`); optional `proxyCountry` (kostenlos),
+`proxyLocale`/`proxyTimezone` (geo-konsistent).
 
-**Credentials** liegen als **zwei GitHub-Secrets** vor (Repo → Settings → Secrets and
-variables → Actions), nie im Code — Public-Repo ist dafür unerheblich:
+**Credentials** als zwei GitHub-Secrets (Settings → Secrets and variables → Actions), nie im
+Code: `DATAIMPULSE_USER`, `DATAIMPULSE_PASS`. Getrennt, weil Patchright User/Passwort separat
+erwartet und den Username pro Lauf um die Session ergänzt. Host/Port (`gw.dataimpulse.com:823`)
+stehen im Code (per Env überschreibbar). Fehlen die Secrets, läuft der Scraper **ohne** Proxy
+weiter (Warnung statt Abbruch).
 
-- `DATAIMPULSE_USER` — DataImpulse-Login
-- `DATAIMPULSE_PASS` — DataImpulse-Passwort
-
-Getrennt statt einer Proxy-URL, weil Patchright/Playwright Username/Passwort separat erwartet
-(Credentials in der Server-URL werden ignoriert) und der Username pro Lauf um die Session
-ergänzt wird. Host/Port (`gw.dataimpulse.com:823`) sind nicht geheim und im Code hinterlegt
-(per `DATAIMPULSE_HOST`/`DATAIMPULSE_PORT` überschreibbar). Fehlen die Secrets, läuft der
-Scraper **ohne** Proxy weiter (Warnung statt Abbruch).
-
-**IP-Rotation:** Pro Prozess-Lauf wird eine zufällige Session-ID erzeugt und als
-`login__cr.de;sessid.<hex>` an den Username gehängt. DataImpulse hält dafür ~30 Min dieselbe
-Pool-IP → **jeder Cron-Scrape nutzt eine andere IP**, innerhalb eines Laufs aber stabil (alle
-Sub-URLs eines Feeds teilen sich eine IP, wirkt wie ein realer Leser).
-
-**Traffic-Sparen:** Bei aktivem Proxy werden Bilder/Fonts/Media im Browser abgebrochen
-(`route.abort()`) → ~80–90 % weniger bezahlter Traffic. HTML/CSS/JS/XHR bleiben; die
-Bild-Extraktion liest ohnehin das `<img src>` aus dem Quelltext, nicht die Bytes. Bei ~0,3 GB
-Rohvolumen/Monat reicht das $5-/5-GB-Guthaben (nicht verfallend) so über Jahre.
+Pro Lauf wird eine zufällige `sessid` an den Username gehängt (`login__cr.de;sessid.<hex>`) →
+DataImpulse hält dafür ~30 Min dieselbe IP: **jeder Cron-Scrape eine andere IP**, im Lauf
+stabil. Bei aktivem Proxy werden Bilder/Fonts/Media abgebrochen (~80–90 % weniger Traffic); so
+reicht das $5-/5-GB-Guthaben (nicht verfallend) über Jahre.
 
 ## Self-heal
 
@@ -230,7 +217,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
 
 ### Built with
-Node.js · Patchright (Stealth-Chromium) · GitHub Actions · GitHub Pages
+Node.js · Patchright (Stealth-Chromium) · DataImpulse (Residential-Proxy) · GitHub Actions · GitHub Pages
 
 ---
 

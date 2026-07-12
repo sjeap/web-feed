@@ -24,7 +24,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
 
 ### Built with
-Node.js · Patchright (Stealth-Chromium) · GitHub Actions · GitHub Pages
+Node.js · Patchright (Stealth-Chromium) · DataImpulse (Residential-Proxy) · GitHub Actions · GitHub Pages
 
 ---
 

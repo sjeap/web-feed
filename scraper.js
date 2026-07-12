@@ -189,7 +189,7 @@ async function fetchPageBrowser(url, proxyConfig = null) {
       });
     }
 
-    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 90000 });
     await page.waitForTimeout(8000);
 
     try {
@@ -1051,13 +1051,19 @@ async function main() {
     let lastHtml = "";
 
     for (const srcUrl of sourceUrls) {
-      console.log(`   🌐 Fetching HTML: ${srcUrl}`);
-      const html = await fetchPage(srcUrl);
-      lastHtml = html;
-      console.log(`   HTML geladen: ${html.length} Zeichen`);
-      const part = parseHeadlines(html, site, srcUrl);
-      console.log(`   → ${part.length} Item(s) aus ${srcUrl}`);
-      merged.push(...part);
+      try {
+        console.log(`   🌐 Fetching HTML: ${srcUrl}`);
+        const html = await fetchPage(srcUrl);
+        lastHtml = html;
+        console.log(`   HTML geladen: ${html.length} Zeichen`);
+        const part = parseHeadlines(html, site, srcUrl);
+        console.log(`   → ${part.length} Item(s) aus ${srcUrl}`);
+        merged.push(...part);
+      } catch (err) {
+        // Einzelne Quelle (Timeout, tote Proxy-Exit-IP, Netzfehler) darf den
+        // gesamten Feed-Lauf NICHT abbrechen — überspringen und weitermachen.
+        console.error(`   ⚠ Quelle übersprungen (${srcUrl}): ${err.message}`);
+      }
     }
 
     // Cross-Source-Dedup (Link zuerst, dann Titel), neueste zuerst sortiert, Cap 30.
