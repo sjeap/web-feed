@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-12T18:16:15Z</updated>
+  <updated>2026-07-12T20:01:00Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Le Pen beginnt mit Wahlkampf in Frankreich</title>
+      <id>https://www.tagesschau.de/video/video-1613530.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1613530.html"/>
+      <updated>2026-07-12T20:01:00Z</updated>
+      <published>2026-07-12T20:01:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a55bcc6b-d0a9-49e2-8209-6c9381db0865/AAABn1d9TZk/AAABnSSvsdE/16x9-small/sendungsbild-1763530.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a55bcc6b-d0a9-49e2-8209-6c9381db0865/AAABn1d9TZk/AAABnSSvsdE/16x9-small/sendungsbild-1763530.jpg?width=320" alt="Le Pen beginnt mit Wahlkampf in Frankreich"/><p>Le Pen beginnt mit Wahlkampf in Frankreich</p>]]></content>
+    </entry>
     <entry>
       <title>Überschattet von Streit mit der Ukraine: Polen gedenkt der Opfer des &quot;Blutsonntags&quot;</title>
       <id>https://www.tagesschau.de/video/video-1613404.html</id>
@@ -54,14 +63,5 @@
       <published>2026-07-11T17:36:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6ab900d4-0e31-4311-8970-0adb43050bc5/AAABn1HSeEI/AAABnSSvsdE/16x9-small/sendungsbild-1763102.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6ab900d4-0e31-4311-8970-0adb43050bc5/AAABn1HSeEI/AAABnSSvsdE/16x9-small/sendungsbild-1763102.jpg?width=320" alt="Parteitag der AfD Sachsen-Anhalt"/><p>Parteitag der AfD Sachsen-Anhalt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nikolaus Neumaier, ARD Istanbul, zur Forderung der USA an Iran</title>
-      <id>https://www.tagesschau.de/video/video-1612924.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1612924.html"/>
-      <updated>2026-07-11T11:53:12Z</updated>
-      <published>2026-07-11T11:53:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e8c8549c-4d02-45cd-a31a-b3f779b7aa56/AAABn1CYVjA/AAABnSSvsdE/16x9-small/sendungsbild-1762916.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e8c8549c-4d02-45cd-a31a-b3f779b7aa56/AAABn1CYVjA/AAABnSSvsdE/16x9-small/sendungsbild-1762916.jpg?width=320" alt="Nikolaus Neumaier, ARD Istanbul, zur Forderung der USA an Iran"/><p>Nikolaus Neumaier, ARD Istanbul, zur Forderung der USA an Iran</p>]]></content>
     </entry>
 </feed>
