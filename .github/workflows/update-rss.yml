@@ -62,6 +62,11 @@ jobs:
         # Bricht NIE hart ab, sondern merkt sich nur den Exit-Code als Output
         # (0 = ok, 2 = 0 Artikel). Dadurch entsteht kein eigenes Fehler-
         # Annotation-Rauschen, und der Self-heal-Pfad bleibt möglich.
+        # DataImpulse-Credentials: nur Feeds mit "proxy": true in sites.json
+        # nutzen sie; fehlen die Secrets, läuft der Scraper ohne Proxy weiter.
+        env:
+          DATAIMPULSE_USER: ${{ secrets.DATAIMPULSE_USER }}
+          DATAIMPULSE_PASS: ${{ secrets.DATAIMPULSE_PASS }}
         run: |
           set +e
           node scraper.js ${{ matrix.site }}
