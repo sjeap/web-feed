@@ -68,7 +68,10 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Fallback `posterImage`.
 
 ### `marketscreener` → `atom/feed-marketscreener.xml`
-- **Engine:** `browser` (Patchright) — reiner HTTPS-Fetch liefert 403 (Fingerprint-Block).
+- **Engine:** `browser` (Patchright) **+ Residential-Proxy** — die GitHub-Actions-
+  Datacenter-IPs sind hart geblockt (Antwort ~320 Zeichen), was auch Patchright allein nicht
+  löst. Läuft daher über DataImpulse (`"proxy": true`, `proxyCountry: "de"`); siehe
+  [Residential-Proxy](#residential-proxy-dataimpulse).
 - **Eigenheit:** Einziger Feed mit dem optionalen `urls`-Array (Schwerpunkte, ETF, Aktien):
   drei Sub-Seiten, ein Feed. Ergebnisse werden über alle Quellen dedupliziert (Link, dann
   Titel), nach Datum sortiert, auf 30 gekappt. `url` bleibt die kanonische Seite; die
@@ -82,7 +85,8 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 - **`tagesschau-carousel`** — liest die Teaser aus dem `data-v`-JSON der
   Startseiten-Carousel-Instanz (per `carouselName` ausgewählt); filtert via
   `skipLabels` / `skipUrlPatterns`. Reiner HTTPS-Fetch, kein Browser.
-- **`browser`** — Rendering via Patchright für JS-Seiten.
+- **`browser`** — Rendering via Patchright für JS-Seiten. Optional über einen Residential-
+  Proxy (`"proxy": true`), wenn die Seite Datacenter-IPs hart blockt (siehe unten).
 
 `buildAtom` (Atom 1.0 / RFC 4287) erzeugt `<feed>`/`<entry>`; optional `descriptionHtml`
 (→ `<content type="html">`) und `guid` (→ `<id>`); `language` wird zu `xml:lang` (Default
@@ -109,9 +113,10 @@ Uhrzeit-Formate ab.
 ```
 
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
-`engine`, `filter`, `containerStart`/`containerEnd`, `language`, `gaugeOutput`, `urls` — ohne
-`engine`-Feld läuft die Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem
-HTML-Quelltext der Seite ab (Strg+U im Browser).
+`engine`, `filter`, `containerStart`/`containerEnd`, `language`, `gaugeOutput`, `urls`,
+`proxy`/`proxyCountry`/`proxyLocale`/`proxyTimezone` — ohne `engine`-Feld läuft die
+Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext der Seite ab
+(Strg+U im Browser).
 
 Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
 aggregiert**: jede URL wird mit denselben Selektoren geparst, die Ergebnisse werden über alle
@@ -133,6 +138,37 @@ matrix:
 ```
 
 Das war es. Beim nächsten Run wird `atom/feed-meine-site.xml` automatisch erstellt.
+
+## Residential-Proxy (DataImpulse)
+
+Manche Seiten (z. B. MarketScreener) blocken die Datacenter-IPs der GitHub-Actions-Runner
+hart — kein Header-/Fingerprint-Problem, sondern IP-Reputation. Patchright allein hilft dann
+nicht; die Antwort bleibt ein ~320-Zeichen-Stub. Lösung: die Browser-Engine über einen
+Residential-Proxy leiten. Aktiviert wird das **pro Feed** mit `"proxy": true` in `sites.json`
+(nur `engine: "browser"`-Feeds); optional `proxyCountry` (kostenloses Country-Targeting, z. B.
+`"de"`), `proxyLocale`/`proxyTimezone` halten Locale/Zeitzone geo-konsistent.
+
+**Credentials** liegen als **zwei GitHub-Secrets** vor (Repo → Settings → Secrets and
+variables → Actions), nie im Code — Public-Repo ist dafür unerheblich:
+
+- `DATAIMPULSE_USER` — DataImpulse-Login
+- `DATAIMPULSE_PASS` — DataImpulse-Passwort
+
+Getrennt statt einer Proxy-URL, weil Patchright/Playwright Username/Passwort separat erwartet
+(Credentials in der Server-URL werden ignoriert) und der Username pro Lauf um die Session
+ergänzt wird. Host/Port (`gw.dataimpulse.com:823`) sind nicht geheim und im Code hinterlegt
+(per `DATAIMPULSE_HOST`/`DATAIMPULSE_PORT` überschreibbar). Fehlen die Secrets, läuft der
+Scraper **ohne** Proxy weiter (Warnung statt Abbruch).
+
+**IP-Rotation:** Pro Prozess-Lauf wird eine zufällige Session-ID erzeugt und als
+`login__cr.de;sessid.<hex>` an den Username gehängt. DataImpulse hält dafür ~30 Min dieselbe
+Pool-IP → **jeder Cron-Scrape nutzt eine andere IP**, innerhalb eines Laufs aber stabil (alle
+Sub-URLs eines Feeds teilen sich eine IP, wirkt wie ein realer Leser).
+
+**Traffic-Sparen:** Bei aktivem Proxy werden Bilder/Fonts/Media im Browser abgebrochen
+(`route.abort()`) → ~80–90 % weniger bezahlter Traffic. HTML/CSS/JS/XHR bleiben; die
+Bild-Extraktion liest ohnehin das `<img src>` aus dem Quelltext, nicht die Bytes. Bei ~0,3 GB
+Rohvolumen/Monat reicht das $5-/5-GB-Guthaben (nicht verfallend) so über Jahre.
 
 ## Self-heal
 

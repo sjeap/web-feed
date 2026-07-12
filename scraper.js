@@ -55,6 +55,42 @@ if (!site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// Residential-Proxy (DataImpulse) — nur für Feeds mit `"proxy": true`
+// ─────────────────────────────────────────────────────────────────────
+// Pro Prozess-Lauf EINE Session-ID → DataImpulse hält dafür ~30 Min dieselbe
+// Pool-IP. Da jeder Matrix-Job und jeder Cron-Zyklus ein eigener Prozess ist,
+// bekommt jeder Scrape eine andere IP, bleibt aber innerhalb des Laufs stabil
+// (alle Sub-URLs eines Feeds teilen sich eine IP → wirkt wie ein echter Leser).
+const PROXY_SESSION = crypto.randomBytes(6).toString("hex");
+
+function buildProxyConfig() {
+  if (!site.proxy) return null;
+
+  const user = process.env.DATAIMPULSE_USER;
+  const pass = process.env.DATAIMPULSE_PASS;
+  if (!user || !pass) {
+    console.log("   ⚠ site.proxy gesetzt, aber DATAIMPULSE_USER/PASS fehlen – fahre OHNE Proxy fort");
+    return null;
+  }
+
+  const host = process.env.DATAIMPULSE_HOST || "gw.dataimpulse.com";
+  const port = process.env.DATAIMPULSE_PORT || "823";
+
+  // Username-Parameter nach "__": optionales Country (kostenlos) + Sticky-Session.
+  const params = [];
+  if (site.proxyCountry) params.push(`cr.${site.proxyCountry}`);
+  params.push(`sessid.${PROXY_SESSION}`);
+
+  return {
+    server:   `http://${host}:${port}`,
+    username: `${user}__${params.join(";")}`,
+    password: pass,
+    // fürs Logging (ohne Credentials):
+    _label: `${site.proxyCountry ? "cr." + site.proxyCountry + ", " : ""}sessid.${PROXY_SESSION}`,
+  };
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Engine 1: HTTPS (lightweight, default)
 // ─────────────────────────────────────────────────────────────────────
 function fetchPageHttps(url, redirectCount = 0) {
@@ -105,26 +141,53 @@ function fetchPageHttps(url, redirectCount = 0) {
 // ─────────────────────────────────────────────────────────────────────
 // Engine 2: Patchright Chromium (stealth, für Cloudflare-protected Seiten)
 // ─────────────────────────────────────────────────────────────────────
-async function fetchPageBrowser(url) {
+async function fetchPageBrowser(url, proxyConfig = null) {
   console.log("   🌐 Engine: Patchright Chromium (Stealth-Modus)");
   const { chromium } = require("patchright");
 
   const userDataDir = fs.mkdtempSync(path.join(os.tmpdir(), "patchright-"));
 
-  const context = await chromium.launchPersistentContext(userDataDir, {
+  // Locale/Timezone geo-konsistent zum Proxy-Land halten (Fingerprint-Konflikte
+  // vermeiden); Defaults unverändert, wenn nichts gesetzt ist.
+  const locale     = site.proxyLocale   || "en-US";
+  const timezoneId = site.proxyTimezone || "America/New_York";
+  const acceptLang = `${locale},${locale.split("-")[0]};q=0.9`;
+
+  const launchOpts = {
     headless:   true,
     viewport:   { width: 1366, height: 768 },
-    locale:     "en-US",
-    timezoneId: "America/New_York",
+    locale,
+    timezoneId,
     // Kein userAgent-Override: Patchright nutzt die native UA des gebündelten
     // Chromium — immer selbstkonsistent mit Engine/Client-Hints, kein alternder String.
     extraHTTPHeaders: {
-      "Accept-Language": "en-US,en;q=0.9",
+      "Accept-Language": acceptLang,
     },
-  });
+  };
+  if (proxyConfig) {
+    launchOpts.proxy = {
+      server:   proxyConfig.server,
+      username: proxyConfig.username,
+      password: proxyConfig.password,
+    };
+    console.log(`   🔒 Proxy aktiv (DataImpulse, ${proxyConfig._label})`);
+  }
+
+  const context = await chromium.launchPersistentContext(userDataDir, launchOpts);
 
   try {
     const page = await context.newPage();
+
+    // Bei Proxy-Nutzung Bild/Font/Media abbrechen → ~80–90 % weniger bezahlter
+    // Traffic. HTML/CSS/JS/XHR bleiben, d. h. JS-gerenderte Inhalte und die
+    // <img>-Tags (für die Bild-Extraktion aus dem Quelltext) sind unberührt.
+    if (proxyConfig) {
+      await page.route("**/*", (route) => {
+        const t = route.request().resourceType();
+        if (t === "image" || t === "media" || t === "font") return route.abort();
+        return route.continue();
+      });
+    }
 
     await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForTimeout(8000);
@@ -159,7 +222,7 @@ async function fetchPageBrowser(url) {
 // ─────────────────────────────────────────────────────────────────────
 async function fetchPage(url) {
   if (site.engine === "browser") {
-    return fetchPageBrowser(url);
+    return fetchPageBrowser(url, buildProxyConfig());
   }
   return fetchPageHttps(url);
 }
