@@ -73,12 +73,6 @@ jobs:
           echo "code=$?" >> "$GITHUB_OUTPUT"
           exit 0
           
-          # tmp>
-          - name: Snapshot anzeigen [${{ matrix.site }}]
-          if: always()
-          run: cat "snapshot-${{ matrix.site }}.txt" 2>/dev/null || echo "kein Snapshot"
-          # tmp<
-
       # ── Schritt 2: Self-heal wenn Exit-Code != 0 (0 Artikel) ──
       #- name: Self-heal [${{ matrix.site }}]
       #  if: steps.scrape.outputs.code != '0'
@@ -97,6 +91,11 @@ jobs:
       #    node scraper.js ${{ matrix.site }}
       #    echo "code=$?" >> "$GITHUB_OUTPUT"
       #    exit 0
+
+      # ── Debug: Snapshot ausgeben (falls 0 Items → snapshot-<id>.txt) ──
+      - name: Snapshot anzeigen [${{ matrix.site }}]
+        if: always()
+        run: cat "snapshot-${{ matrix.site }}.txt" 2>/dev/null || echo "kein Snapshot"
 
       # ── Schritt 4: Commit & Push — robust für parallele Matrix-Jobs ──
       - name: Commit [${{ matrix.site }}]
