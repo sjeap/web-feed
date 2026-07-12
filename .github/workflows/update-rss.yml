@@ -241,3 +241,8 @@ jobs:
           done
           echo "Push nach 5 Versuchen weiterhin fehlgeschlagen"
           exit 1
+          
+          - name: Snapshot anzeigen [${{ matrix.site }}]
+          if: always()
+          run: cat "snapshot-${{ matrix.site }}.txt" 2>/dev/null || echo "kein Snapshot"
+          
