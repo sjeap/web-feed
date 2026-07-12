@@ -72,6 +72,12 @@ jobs:
           node scraper.js ${{ matrix.site }}
           echo "code=$?" >> "$GITHUB_OUTPUT"
           exit 0
+          
+          # tmp>
+          - name: Snapshot anzeigen [${{ matrix.site }}]
+          if: always()
+          run: cat "snapshot-${{ matrix.site }}.txt" 2>/dev/null || echo "kein Snapshot"
+          # tmp<
 
       # ── Schritt 2: Self-heal wenn Exit-Code != 0 (0 Artikel) ──
       #- name: Self-heal [${{ matrix.site }}]
@@ -241,8 +247,4 @@ jobs:
           done
           echo "Push nach 5 Versuchen weiterhin fehlgeschlagen"
           exit 1
-          
-          - name: Snapshot anzeigen [${{ matrix.site }}]
-          if: always()
-          run: cat "snapshot-${{ matrix.site }}.txt" 2>/dev/null || echo "kein Snapshot"
           
