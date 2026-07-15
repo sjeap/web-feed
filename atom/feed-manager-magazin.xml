@@ -5,26 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml</id>
   <link rel="alternate" href="https://www.manager-magazin.de/schlagzeilen/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml"/>
-  <updated>2026-07-15T06:35:08Z</updated>
+  <updated>2026-07-15T17:45:38Z</updated>
   <author>
     <name>Manager Magazin – Der … im Überblick</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Der Dienstag im Überblick Einblicke in den VW-Masterplan, Zoff um Zeppelin-Zulage Von Kai Lange 14. Juli, 17.45 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</title>
+      <title>Der Mittwoch im Überblick Beben bei Berenberg, Milliarden für PayPal Von Mirjam Hecking 19.03 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</title>
+      <id>https://www.manager-magazin.de/ueber-uns/beben-bei-der-berenberg-bank-milliarden-fuer-paypal-kurseinbruch-bei-ibm-das-war-mittwoch-15-07-2026-a-b8d1e507-f131-4453-b5ed-a2cdaa1b3b82</id>
+      <link rel="alternate" href="https://www.manager-magazin.de/ueber-uns/beben-bei-der-berenberg-bank-milliarden-fuer-paypal-kurseinbruch-bei-ibm-das-war-mittwoch-15-07-2026-a-b8d1e507-f131-4453-b5ed-a2cdaa1b3b82"/>
+      <updated>2026-07-15T17:45:38Z</updated>
+      <published>2026-07-15T17:45:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.prod.www.manager-magazin.de/images/0796c8ab-2113-4b8a-aaaf-9e00ccc69dec_w56_r1_fpx48.96_fpy44.99.jpg"/>
+      <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/0796c8ab-2113-4b8a-aaaf-9e00ccc69dec_w56_r1_fpx48.96_fpy44.99.jpg" alt="Mirjam Hecking"/><p>Der Mittwoch im Überblick Beben bei Berenberg, Milliarden für PayPal Von Mirjam Hecking 19.03 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Der Dienstag im Überblick VWs Masterplan und Kloppos Kohle Von Kai Lange 14. Juli, 17.45 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</title>
       <id>https://www.manager-magazin.de/ueber-uns/vw-masterplan-klopps-millionendeals-hilfreiche-headhunter-zoff-bei-zf-um-zeppelin-zulage-das-war-dienstag-14-07-2026-a-2c1d8a3b-e036-4432-bca1-dfea80893f00</id>
       <link rel="alternate" href="https://www.manager-magazin.de/ueber-uns/vw-masterplan-klopps-millionendeals-hilfreiche-headhunter-zoff-bei-zf-um-zeppelin-zulage-das-war-dienstag-14-07-2026-a-2c1d8a3b-e036-4432-bca1-dfea80893f00"/>
-      <updated>2026-07-15T06:35:08Z</updated>
-      <published>2026-07-15T06:35:08Z</published>
+      <updated>2026-07-15T17:45:38Z</updated>
+      <published>2026-07-15T17:45:38Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.prod.www.manager-magazin.de/images/c5b9d9e0-afd7-4c89-a829-8af9be1828aa_w56_r1_fpx53_fpy49.jpg"/>
-      <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/c5b9d9e0-afd7-4c89-a829-8af9be1828aa_w56_r1_fpx53_fpy49.jpg" alt="Kai Lange"/><p>Der Dienstag im Überblick Einblicke in den VW-Masterplan, Zoff um Zeppelin-Zulage Von Kai Lange 14. Juli, 17.45 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/c5b9d9e0-afd7-4c89-a829-8af9be1828aa_w56_r1_fpx53_fpy49.jpg" alt="Kai Lange"/><p>Der Dienstag im Überblick VWs Masterplan und Kloppos Kohle Von Kai Lange 14. Juli, 17.45 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</p>]]></content>
     </entry>
     <entry>
       <title>Der Montag im Überblick Pillen für High Performer, Fast Food für alle Von Claudia Witte 13. Juli, 17.07 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</title>
       <id>https://www.manager-magazin.de/ueber-uns/performance-booster-engel-voelkers-wechselt-ceo-aus-fast-food-fuer-die-massen-das-war-montag-13-07-2026-a-96766dc0-1ec4-47e7-8a51-9251e5c82862</id>
       <link rel="alternate" href="https://www.manager-magazin.de/ueber-uns/performance-booster-engel-voelkers-wechselt-ceo-aus-fast-food-fuer-die-massen-das-war-montag-13-07-2026-a-96766dc0-1ec4-47e7-8a51-9251e5c82862"/>
-      <updated>2026-07-15T06:35:08Z</updated>
-      <published>2026-07-15T06:35:08Z</published>
+      <updated>2026-07-15T17:45:38Z</updated>
+      <published>2026-07-15T17:45:38Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.prod.www.manager-magazin.de/images/29db56c5-8e04-47f5-a85a-1dfa101802ad_w56_r1_fpx47_fpy51.jpg"/>
       <content type="html"><![CDATA[<img src="https://cdn.prod.www.manager-magazin.de/images/29db56c5-8e04-47f5-a85a-1dfa101802ad_w56_r1_fpx47_fpy51.jpg" alt="Claudia Witte"/><p>Der Montag im Überblick Pillen für High Performer, Fast Food für alle Von Claudia Witte 13. Juli, 17.07 Uhr &amp;bull; Über uns &amp;bull; 4 Min Zur Merkliste hinzufügen</p>]]></content>
     </entry>
