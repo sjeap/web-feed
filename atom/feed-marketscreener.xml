@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml</id>
   <link rel="alternate" href="https://de.marketscreener.com/boersenanalyse/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml"/>
-  <updated>2026-07-14T17:06:00Z</updated>
+  <updated>2026-07-15T08:31:00Z</updated>
   <author>
     <name>MarketScreener – Börsenanalyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Morning Meeting: Inflation? Welche Inflation?</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/morning-meeting-inflation-welche-inflation-ce7f5eddde8bf022</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/morning-meeting-inflation-welche-inflation-ce7f5eddde8bf022"/>
+      <updated>2026-07-15T08:31:00Z</updated>
+      <published>2026-07-15T08:31:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-06-16T110642Z_1_LYNXMPEM5F0UB_RTROPTP_4_G7-SUMMIT.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-06-16T110642Z_1_LYNXMPEM5F0UB_RTROPTP_4_G7-SUMMIT.JPG" alt="Morning Meeting:  Inflation? Welche Inflation?"/><p>Morning Meeting: Inflation? Welche Inflation?</p>]]></content>
+    </entry>
     <entry>
       <title>Wohin führt KI Pharma langfristig?</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/wohin-fuehrt-ki-pharma-langfristig-ce7f5eddd888fe2c</id>
@@ -270,14 +279,5 @@
       <published>2026-07-09T12:15:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4334379_800.png"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4334379_800.png" alt="Die Ruhe vor dem Sturm"/><p>Die Ruhe vor dem Sturm</p>]]></content>
-    </entry>
-    <entry>
-      <title>US-Staatsanleihen bekommen neue Konkurrenz</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/us-staatsanleihen-bekommen-neue-konkurrenz-ce7f5ed9d08af626</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/us-staatsanleihen-bekommen-neue-konkurrenz-ce7f5ed9d08af626"/>
-      <updated>2026-07-09T12:04:00Z</updated>
-      <published>2026-07-09T12:04:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2025-05-06T164120Z_1_LYNXMPEL450UO_RTROPTP_4_USA-TRUMP-TARIFFS-BESSENT.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2025-05-06T164120Z_1_LYNXMPEL450UO_RTROPTP_4_USA-TRUMP-TARIFFS-BESSENT.JPG" alt="US-Staatsanleihen bekommen neue Konkurrenz"/><p>US-Staatsanleihen bekommen neue Konkurrenz</p>]]></content>
     </entry>
 </feed>
