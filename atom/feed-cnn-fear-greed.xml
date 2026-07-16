@@ -5,18 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml</id>
   <link rel="alternate" href="https://edition.cnn.com/markets/fear-and-greed"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml"/>
-  <updated>2026-07-15T17:38:52Z</updated>
+  <updated>2026-07-16T00:00:00Z</updated>
   <author>
     <name>CNN Fear &amp; Greed Index</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Fear &amp; Greed: 45 (Neutral) // Put-Call Ratio: Greed // Market Volatility VIX: Neutral</title>
-      <id>https://edition.cnn.com/markets/fear-and-greed#8419fac9f4d6</id>
-      <link rel="alternate" href="https://edition.cnn.com/markets/fear-and-greed#8419fac9f4d6"/>
-      <updated>2026-07-15T17:38:52Z</updated>
-      <published>2026-07-15T17:38:52Z</published>
-      <link rel="enclosure" type="image/svg+xml" href="https://sjeap.github.io/web-feed/asset/feed-cnn-fear-greed.svg?v=8419fac9f4d6"/>
-      <content type="html"><![CDATA[<p style="margin:0 0 12px 0;"><img src="https://sjeap.github.io/web-feed/asset/feed-cnn-fear-greed.svg?v=8419fac9f4d6" alt="Fear &amp; Greed: 45 (Neutral) // Put-Call Ratio: Greed // Market Volatility VIX: Neutral" width="660" style="max-width:100%;height:auto;display:block;"/></p><h2 style="margin:0 0 8px 0;font-family:-apple-system,system-ui,sans-serif;font-size:20px;">Fear &amp; Greed Index: <span style="color:#F5DC85;">45 — Neutral</span></h2><table cellpadding="6" cellspacing="0" border="0" style="font-family:-apple-system,system-ui,sans-serif;font-size:14px;border-collapse:collapse;"><tr><td style="color:#64748b;padding:4px 12px 4px 0;">5-day average put/call ratio</td><td style="font-weight:600;">Greed</td></tr><tr><td style="color:#64748b;padding:4px 12px 4px 0;">VIX and its 50-day moving average</td><td style="font-weight:600;">Neutral</td></tr></table><p style="color:#94a3b8;font-size:12px;margin:10px 0 0 0;font-family:-apple-system,system-ui,sans-serif;">via CNN Business</p>]]></content>
+      <title>Fear &amp; Greed: 46 (Neutral) // Put-Call Ratio: Neutral // Market Volatility VIX: Neutral</title>
+      <id>https://edition.cnn.com/markets/fear-and-greed#81a2257c8e7f</id>
+      <link rel="alternate" href="https://edition.cnn.com/markets/fear-and-greed#81a2257c8e7f"/>
+      <updated>2026-07-16T00:00:00Z</updated>
+      <published>2026-07-16T00:00:00Z</published>
+      <link rel="enclosure" type="image/svg+xml" href="https://sjeap.github.io/web-feed/asset/feed-cnn-fear-greed.svg?v=81a2257c8e7f"/>
+      <content type="html"><![CDATA[<p style="margin:0 0 12px 0;"><img src="https://sjeap.github.io/web-feed/asset/feed-cnn-fear-greed.svg?v=81a2257c8e7f" alt="Fear &amp; Greed: 46 (Neutral) // Put-Call Ratio: Neutral // Market Volatility VIX: Neutral" width="660" style="max-width:100%;height:auto;display:block;"/></p><h2 style="margin:0 0 8px 0;font-family:-apple-system,system-ui,sans-serif;font-size:20px;">Fear &amp; Greed Index: <span style="color:#F5DC85;">46 — Neutral</span></h2><table cellpadding="6" cellspacing="0" border="0" style="font-family:-apple-system,system-ui,sans-serif;font-size:14px;border-collapse:collapse;"><tr><td style="color:#64748b;padding:4px 12px 4px 0;">5-day average put/call ratio</td><td style="font-weight:600;">Neutral</td></tr><tr><td style="color:#64748b;padding:4px 12px 4px 0;">VIX and its 50-day moving average</td><td style="font-weight:600;">Neutral</td></tr></table><p style="color:#94a3b8;font-size:12px;margin:10px 0 0 0;font-family:-apple-system,system-ui,sans-serif;">via CNN Business</p>]]></content>
     </entry>
 </feed>
