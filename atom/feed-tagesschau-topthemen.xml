@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-16T19:32:42Z</updated>
+  <updated>2026-07-16T20:46:17Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Sohn von Leihmutter · Kritik an Jens Spahn</title>
+      <id>https://www.tagesschau.de/video/video-1615958.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1615958.html"/>
+      <updated>2026-07-16T20:46:17Z</updated>
+      <published>2026-07-16T20:46:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/123db204-504c-4186-b26a-cdaaaa46dce3/AAABn2wtYlw/AAABnSSvsdE/16x9-small/16072026-topthema-leihmutter-spahn-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/123db204-504c-4186-b26a-cdaaaa46dce3/AAABn2wtYlw/AAABnSSvsdE/16x9-small/16072026-topthema-leihmutter-spahn-100.jpg?width=320" alt="Sohn von Leihmutter · Kritik an Jens Spahn"/><p>Sohn von Leihmutter · Kritik an Jens Spahn</p>]]></content>
+    </entry>
+    <entry>
+      <title>Philipp Jahn, WDR, zum Treffen von Macron und Merz</title>
+      <id>https://www.tagesschau.de/video/video-1615916.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1615916.html"/>
+      <updated>2026-07-16T20:01:59Z</updated>
+      <published>2026-07-16T20:01:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/636e7581-7489-4ac7-b17e-413ea3ab055e/AAABn2wXl5o/AAABnSSvsdE/16x9-small/sendungsbild-1765810.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/636e7581-7489-4ac7-b17e-413ea3ab055e/AAABn2wXl5o/AAABnSSvsdE/16x9-small/sendungsbild-1765810.jpg?width=320" alt="Philipp Jahn, WDR, zum Treffen von Macron und Merz"/><p>Philipp Jahn, WDR, zum Treffen von Macron und Merz</p>]]></content>
+    </entry>
     <entry>
       <title>Vaterschaft von Spahn löst Diskussion über Leihmutterschaft aus</title>
       <id>https://www.tagesschau.de/video/video-1615800.html</id>
@@ -29,15 +47,6 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b1d62b3d-3621-43cf-b042-2fa14c3a24c8/AAABn2uSyqY/AAABnSSvsdE/16x9-small/sendungsbild-1765726.jpg?width=320" alt="Proteste in der Ukraine gegen Entlassung von Verteidigungsminister Fedorow"/><p>Proteste in der Ukraine gegen Entlassung von Verteidigungsminister Fedorow</p>]]></content>
     </entry>
     <entry>
-      <title>Friedrich Leist, NDR, zum Brand in Müritz-Nationalpark</title>
-      <id>https://www.tagesschau.de/video/video-1615708.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1615708.html"/>
-      <updated>2026-07-16T16:39:15Z</updated>
-      <published>2026-07-16T16:39:15Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d624d1ae-a929-4239-bd85-c62f0a23489d/AAABn2teABc/AAABnSSvsdE/16x9-small/sendungsbild-1765708.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d624d1ae-a929-4239-bd85-c62f0a23489d/AAABn2teABc/AAABnSSvsdE/16x9-small/sendungsbild-1765708.jpg?width=320" alt="Friedrich Leist, NDR, zum Brand in Müritz-Nationalpark"/><p>Friedrich Leist, NDR, zum Brand in Müritz-Nationalpark</p>]]></content>
-    </entry>
-    <entry>
       <title>Beratungen über schärfere Regeln in der EU-Migrationspolitik</title>
       <id>https://www.tagesschau.de/video/video-1615714.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/video/video-1615714.html"/>
@@ -47,21 +56,12 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/239bacb4-e078-442c-bf7f-3d5d36cf0911/AAABn2ts6D4/AAABnSSvsdE/16x9-small/sendungsbild-1765710.jpg?width=320" alt="Beratungen über schärfere Regeln in der EU-Migrationspolitik"/><p>Beratungen über schärfere Regeln in der EU-Migrationspolitik</p>]]></content>
     </entry>
     <entry>
-      <title>Verena Schälter, ARD Rom, zum Urteil nach Brückeneinsturz in Genua vor acht Jahren</title>
-      <id>https://www.tagesschau.de/video/video-1615668.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1615668.html"/>
-      <updated>2026-07-16T15:34:34Z</updated>
-      <published>2026-07-16T15:34:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6ce0265a-2e91-4248-9eeb-bb3bbabc3665/AAABn2siyoM/AAABnSSvsdE/16x9-small/sendungsbild-1765680.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6ce0265a-2e91-4248-9eeb-bb3bbabc3665/AAABn2siyoM/AAABnSSvsdE/16x9-small/sendungsbild-1765680.jpg?width=320" alt="Verena Schälter, ARD Rom, zum Urteil nach Brückeneinsturz in Genua vor acht Jahren"/><p>Verena Schälter, ARD Rom, zum Urteil nach Brückeneinsturz in Genua vor acht Jahren</p>]]></content>
-    </entry>
-    <entry>
-      <title>Bundesregierung stellt Aktionsplan gegen Steuerbetrug vor</title>
-      <id>https://www.tagesschau.de/video/video-1615644.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1615644.html"/>
-      <updated>2026-07-16T14:31:00Z</updated>
-      <published>2026-07-16T14:31:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d24944a7-fd72-4275-a06f-0079032adf4c/AAABn2romeQ/AAABnSSvsdE/16x9-small/sendungsbild-1765644.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d24944a7-fd72-4275-a06f-0079032adf4c/AAABn2romeQ/AAABnSSvsdE/16x9-small/sendungsbild-1765644.jpg?width=320" alt="Bundesregierung stellt Aktionsplan gegen Steuerbetrug vor"/><p>Bundesregierung stellt Aktionsplan gegen Steuerbetrug vor</p>]]></content>
+      <title>Friedrich Leist, NDR, zum Brand in Müritz-Nationalpark</title>
+      <id>https://www.tagesschau.de/video/video-1615708.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1615708.html"/>
+      <updated>2026-07-16T16:39:15Z</updated>
+      <published>2026-07-16T16:39:15Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d624d1ae-a929-4239-bd85-c62f0a23489d/AAABn2teABc/AAABnSSvsdE/16x9-small/sendungsbild-1765708.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d624d1ae-a929-4239-bd85-c62f0a23489d/AAABn2teABc/AAABnSSvsdE/16x9-small/sendungsbild-1765708.jpg?width=320" alt="Friedrich Leist, NDR, zum Brand in Müritz-Nationalpark"/><p>Friedrich Leist, NDR, zum Brand in Müritz-Nationalpark</p>]]></content>
     </entry>
 </feed>
