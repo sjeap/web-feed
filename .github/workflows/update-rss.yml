@@ -228,9 +228,10 @@ jobs:
             console.log("OPML-Tabelle aktualisiert (" + rows.length + " Feeds).");
           '
 
-      # ── Ticker-Watchlist-Tabelle aus sites.json (tickers[]) neu erzeugen ──
-      # Findet die Site mit tickers[]+tickerTemplate und rendert die Markdown-
-      # Tabelle zwischen den TICKERS-Markern. sites.json ist Single Source of
+      # ── Ticker-Watchlist-Array aus sites.json (tickers[]) neu erzeugen ──
+      # Findet die Site mit tickers[]+tickerTemplate und rendert die alphabetisch
+      # sortierte Code-Liste als json-Array zwischen den TICKERS-Markern (5 Leer-
+      # zeichen eingerückt = unter Punkt iii). sites.json ist Single Source of
       # Truth; ändert sich das tickers-Array, entsteht ein Diff → Commit-Step
       # unten pusht ihn. Fehlen Marker/tickers, wird übersprungen (kein Abbruch).
       - name: README mit Ticker-Watchlist aktualisieren
@@ -246,18 +247,14 @@ jobs:
             const sites = JSON.parse(fs.readFileSync("sites.json", "utf8"));
             const site = sites.find(s => Array.isArray(s.tickers) && s.tickers.length && s.tickerTemplate);
             if (!site) { console.log("Keine tickers in sites.json — uebersprungen."); process.exit(0); }
-            const bt = String.fromCharCode(96);
-            const rows = site.tickers.map(function (code) {
-              const c = String(code).trim();
-              const url = site.tickerTemplate.replace(/\{code\}/g, c);
-              const label = url.split("/").slice(-2).join("/");
-              return "| " + bt + c + bt + " | [" + bt + label + bt + "](" + url + ") |";
-            });
-            const table = ["| Ticker | SeekingAlpha combined-Feed |", "|--------|----------------------------|"].concat(rows).join("\n");
-            const block = S + "\n" + table + "\n" + E;
+            const codes = site.tickers.map(function (c) { return String(c).trim(); }).filter(Boolean).sort();
+            const arr = "[" + codes.map(function (c) { return "\"" + c + "\""; }).join(", ") + "]";
+            const IND = "     ";
+            const fence = String.fromCharCode(96).repeat(3);
+            const block = S + "\n" + IND + fence + "json\n" + IND + arr + "\n" + IND + fence + "\n" + IND + E;
             readme = readme.replace(/<!-- TICKERS:START -->[\s\S]*<!-- TICKERS:END -->/, function () { return block; });
             fs.writeFileSync("README.md", readme);
-            console.log("TICKERS-Tabelle aktualisiert (" + rows.length + " Ticker).");
+            console.log("TICKERS-Array aktualisiert (" + codes.length + " Ticker).");
           '
 
       - name: Commit README
