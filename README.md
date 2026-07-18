@@ -76,28 +76,10 @@ folgende Tabelle wird beim Workflow-Run automatisch daraus gespiegelt (Schema pr
 `https://seekingalpha.com/api/sa/combined/{code}.xml`):
 
 <!-- TICKERS:START -->
-| Ticker | SeekingAlpha combined-Feed |
-|--------|----------------------------|
-| `AIQUY` | [`combined/AIQUY.xml`](https://seekingalpha.com/api/sa/combined/AIQUY.xml) |
-| `DHR` | [`combined/DHR.xml`](https://seekingalpha.com/api/sa/combined/DHR.xml) |
-| `SE` | [`combined/SE.xml`](https://seekingalpha.com/api/sa/combined/SE.xml) |
-| `TEM` | [`combined/TEM.xml`](https://seekingalpha.com/api/sa/combined/TEM.xml) |
-| `BNPQF` | [`combined/BNPQF.xml`](https://seekingalpha.com/api/sa/combined/BNPQF.xml) |
-| `ENLAY` | [`combined/ENLAY.xml`](https://seekingalpha.com/api/sa/combined/ENLAY.xml) |
-| `MUTRF` | [`combined/MUTRF.xml`](https://seekingalpha.com/api/sa/combined/MUTRF.xml) |
-| `RIO` | [`combined/RIO.xml`](https://seekingalpha.com/api/sa/combined/RIO.xml) |
-| `VWAGY` | [`combined/VWAGY.xml`](https://seekingalpha.com/api/sa/combined/VWAGY.xml) |
-| `CLLKF` | [`combined/CLLKF.xml`](https://seekingalpha.com/api/sa/combined/CLLKF.xml) |
-| `CHUEF` | [`combined/CHUEF.xml`](https://seekingalpha.com/api/sa/combined/CHUEF.xml) |
-| `JOBY` | [`combined/JOBY.xml`](https://seekingalpha.com/api/sa/combined/JOBY.xml) |
-| `LILMF` | [`combined/LILMF.xml`](https://seekingalpha.com/api/sa/combined/LILMF.xml) |
-| `PCELF` | [`combined/PCELF.xml`](https://seekingalpha.com/api/sa/combined/PCELF.xml) |
-| `ASML` | [`combined/ASML.xml`](https://seekingalpha.com/api/sa/combined/ASML.xml) |
-| `LIN` | [`combined/LIN.xml`](https://seekingalpha.com/api/sa/combined/LIN.xml) |
-| `TSM` | [`combined/TSM.xml`](https://seekingalpha.com/api/sa/combined/TSM.xml) |
-| `TMO` | [`combined/TMO.xml`](https://seekingalpha.com/api/sa/combined/TMO.xml) |
-| `NEXPF` | [`combined/NEXPF.xml`](https://seekingalpha.com/api/sa/combined/NEXPF.xml) |
-<!-- TICKERS:END -->
+     ```json
+     ["AIQUY", "ASML", "BNPQF", "CHUEF", "CLLKF", "DHR", "ENLAY", "JOBY", "LILMF", "LIN", "MUTRF", "NEXPF", "PCELF", "RIO", "SE", "TEM", "TMO", "TSM", "VWAGY"]
+     ```
+     <!-- TICKERS:END -->
 
 ### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
 - **Engine:** `tagesschau-carousel` — die „LIVE UND TOPTHEMEN"-Teaser stehen als
