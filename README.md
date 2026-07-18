@@ -62,6 +62,12 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   2. `tag/etf-portfolio-strategy.xml` — Tag-Feed (RSS, `engine: https`, `parser: rss`).
   3. je ein SeekingAlpha-**combined**-Feed pro Ticker der Watchlist unten (RSS, `https`,
      `parser: rss`), Schema `https://seekingalpha.com/api/sa/combined/{code}.xml`.
+
+     <!-- TICKERS:START -->
+     ```json
+     ["AIQUY", "ASML", "BNPQF", "CHUEF", "CLLKF", "DHR", "ENLAY", "JOBY", "LILMF", "LIN", "MUTRF", "NEXPF", "PCELF", "RIO", "SE", "TEM", "TMO", "TSM", "VWAGY"]
+     ```
+     <!-- TICKERS:END -->
 - **Engines gemischt:** Die HTML-Quelle braucht den Headless-Browser (deshalb läuft der
   Chromium-Install-Step für diesen Feed); die RSS-Quellen laufen als schlanker HTTPS-Fetch
   über den Residential-Proxy. Pro-Quelle-Fehlertoleranz: eine blockte/timeoutende Quelle
@@ -70,34 +76,6 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Datacenter-/CI-IPs. Der Residential-Proxy verbessert die IP-Reputation, aber PerimeterX
   fingerprintet auch TLS/Browser — Erfolg (v. a. für die HTML-Quelle) nicht garantiert. Die
   RSS-Endpunkte sind der „sauberere Weg", können aber ebenfalls geblockt werden.
-
-**Ticker-Watchlist** — Quelle der Wahrheit ist das `tickers`-Array in `sites.json`; die
-folgende Tabelle wird beim Workflow-Run automatisch daraus gespiegelt (Schema pro Code:
-`https://seekingalpha.com/api/sa/combined/{code}.xml`):
-
-<!-- TICKERS:START -->
-| Ticker | SeekingAlpha combined-Feed |
-|--------|----------------------------|
-| `AIQUY` | [`combined/AIQUY.xml`](https://seekingalpha.com/api/sa/combined/AIQUY.xml) |
-| `DHR` | [`combined/DHR.xml`](https://seekingalpha.com/api/sa/combined/DHR.xml) |
-| `SE` | [`combined/SE.xml`](https://seekingalpha.com/api/sa/combined/SE.xml) |
-| `TEM` | [`combined/TEM.xml`](https://seekingalpha.com/api/sa/combined/TEM.xml) |
-| `BNPQF` | [`combined/BNPQF.xml`](https://seekingalpha.com/api/sa/combined/BNPQF.xml) |
-| `ENLAY` | [`combined/ENLAY.xml`](https://seekingalpha.com/api/sa/combined/ENLAY.xml) |
-| `MUTRF` | [`combined/MUTRF.xml`](https://seekingalpha.com/api/sa/combined/MUTRF.xml) |
-| `RIO` | [`combined/RIO.xml`](https://seekingalpha.com/api/sa/combined/RIO.xml) |
-| `VWAGY` | [`combined/VWAGY.xml`](https://seekingalpha.com/api/sa/combined/VWAGY.xml) |
-| `CLLKF` | [`combined/CLLKF.xml`](https://seekingalpha.com/api/sa/combined/CLLKF.xml) |
-| `CHUEF` | [`combined/CHUEF.xml`](https://seekingalpha.com/api/sa/combined/CHUEF.xml) |
-| `JOBY` | [`combined/JOBY.xml`](https://seekingalpha.com/api/sa/combined/JOBY.xml) |
-| `LILMF` | [`combined/LILMF.xml`](https://seekingalpha.com/api/sa/combined/LILMF.xml) |
-| `PCELF` | [`combined/PCELF.xml`](https://seekingalpha.com/api/sa/combined/PCELF.xml) |
-| `ASML` | [`combined/ASML.xml`](https://seekingalpha.com/api/sa/combined/ASML.xml) |
-| `LIN` | [`combined/LIN.xml`](https://seekingalpha.com/api/sa/combined/LIN.xml) |
-| `TSM` | [`combined/TSM.xml`](https://seekingalpha.com/api/sa/combined/TSM.xml) |
-| `TMO` | [`combined/TMO.xml`](https://seekingalpha.com/api/sa/combined/TMO.xml) |
-| `NEXPF` | [`combined/NEXPF.xml`](https://seekingalpha.com/api/sa/combined/NEXPF.xml) |
-<!-- TICKERS:END -->
 
 ### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
 - **Engine:** `tagesschau-carousel` — die „LIVE UND TOPTHEMEN"-Teaser stehen als
@@ -191,7 +169,8 @@ Für viele gleichartige Feed-Quellen gibt es die **Ticker-Expansion**: `tickers`
 Codes) + `tickerTemplate` (URL mit `{code}`-Platzhalter) erzeugen je Code eine zusätzliche
 Quelle (Default `tickerEngine: "https"`, `tickerParser: "rss"`). Beispiel `seekingalpha`:
 `tickerTemplate: "https://seekingalpha.com/api/sa/combined/{code}.xml"`. Das `tickers`-Array
-ist die Single Source of Truth; die Watchlist-Tabelle im README wird daraus gespiegelt.
+ist die Single Source of Truth; die alphabetisch sortierte Watchlist-Liste im README wird
+daraus gespiegelt.
 
 ### Schritt 2 — Eintrag in `update-rss.yml`
 
