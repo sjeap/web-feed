@@ -30,7 +30,15 @@
     "titleSelector": "<h[23][^>]*>([\\s\\S]*?)<\\/h[23]>",
     "dateSelector": "<time[^>]*datetime=\"([^\"]+)\"",
     "linkSelector": "href=\"(/news/[^\"]+)\"",
-    "engine": "browser"
+    "engine": "browser",
+    "urls": [
+      "https://seekingalpha.com/market-news/notable-calls",
+      { "url": "https://seekingalpha.com/tag/etf-portfolio-strategy.xml", "engine": "https", "parser": "rss" }
+    ],
+    "tickers": ["AIQUY", "DHR", "SE", "TEM", "BNPQF", "ENLAY", "MUTRF", "RIO", "VWAGY", "CLLKF", "CHUEF", "JOBY", "LILMF", "PCELF", "ASML", "LIN", "TSM", "TMO", "NEXPF"],
+    "tickerTemplate": "https://seekingalpha.com/api/sa/combined/{code}.xml",
+    "tickerEngine": "https",
+    "tickerParser": "rss"
   },
   {
     "id": "visualcapitalist",
@@ -44,7 +52,11 @@
     "teaserSplit": "class=\"mvp-feat1-list-cont",
     "titleSelector": "<h2[^>]*>([\\s\\S]*?)<\\/h2>",
     "dateSelector": "<span class=\"mvp-cd-date[^\"]*\"[^>]*>([\\s\\S]*?)<\\/span>",
-    "linkSelector": "href=\"([^\"]+)\""
+    "linkSelector": "href=\"([^\"]+)\"",
+    "urls": [
+      "https://www.visualcapitalist.com/",
+      { "url": "https://www.visualcapitalist.com/tag/featured/feed/", "engine": "https", "parser": "rss" }
+    ]
   },
   {
     "id": "tagesschau-topthemen",
@@ -71,6 +83,7 @@
     ],
     "language": "de-DE",
     "filter": null,
+    "excludeIf": "alphavalue",
     "output": "atom/feed-marketscreener.xml",
     "teaserSplit": "class=\"mb-10 pb-10 border-bottom\"",
     "titleSelector": "<p class=\"txt-s4 txt-overflow-3 my-0\"><b>([\\s\\S]*?)<\\/b>",

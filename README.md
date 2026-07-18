@@ -35,11 +35,17 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Selektoren, deutsche Datumsformate.
 
 ### `visualcapitalist` → `atom/feed-visualcapitalist.xml`
-- **Engine:** Default (HTML + Regex) **mit** `containerStart` / `containerEnd`
-- **Eigenheit:** Die Seite mischt Hauptinhalt und Sidebar. `containerStart`/`End`
-  schneiden den relevanten HTML-Bereich **vor** dem `teaserSplit` heraus, damit keine
-  Sidebar-Teaser im Feed landen.
+- **Aggregiert zwei Quellen** in EINEN Feed (dedupliziert über Link/Titel, sortiert, Cap 25):
+  1. Startseite (HTML, `engine: browser`) — `containerStart`/`containerEnd` schneiden den
+     relevanten HTML-Bereich **vor** dem `teaserSplit` heraus, damit keine Sidebar-Teaser
+     im Feed landen.
+  2. `tag/featured/feed/` — der WordPress-RSS-Feed (RSS, `engine: https`, `parser: rss`).
+     Läuft als schlanker HTTPS-Fetch über den Residential-Proxy und umgeht damit die
+     Cloudflare-Browser-Route; das Bild kommt aus `media:content`/`enclosure` bzw.
+     `content:encoded`.
 - Englische Inhalte → `language: en-US`; englische/Ordinal-Datumsformate.
+- Pro-Quelle-Fehlertoleranz: fällt eine Quelle (Cloudflare-Block/Timeout) aus, baut der Feed
+  aus der anderen.
 
 ### `cnn-fear-greed` → `atom/feed-cnn-fear-greed.xml` (+ Gauge-SVG)
 - **Engine:** `cnn-fear-greed` (JSON statt HTML)
@@ -50,12 +56,48 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   HTML angehen.
 
 ### `seekingalpha-notable-calls` → `atom/feed-seekingalpha-notable-calls.xml`
-- **Engine:** `browser` (Patchright Stealth-Chromium)
-- **Eigenheit:** JS-lastige Seite → Headless-Browser nötig (deshalb läuft der
-  Chromium-Install-Step **nur** für diesen Feed).
-- **Bekanntes Problem:** Cloudflare blockt GitHub-Actions-Runner-IPs (Azure-Datacenter).
-  Lokal funktioniert es, in CI kommt nur die Challenge-Seite an. Sauberer Weg wäre der
-  offizielle RSS-Feed.
+- **Aggregiert mehrere Quellen** in EINEN Feed (dedupliziert über Link/Titel, nach Datum
+  sortiert, auf 25 Items gekappt):
+  1. `market-news/notable-calls` — die ursprüngliche JS-Seite (HTML, `engine: browser`).
+  2. `tag/etf-portfolio-strategy.xml` — Tag-Feed (RSS, `engine: https`, `parser: rss`).
+  3. je ein SeekingAlpha-**combined**-Feed pro Ticker der Watchlist unten (RSS, `https`,
+     `parser: rss`), Schema `https://seekingalpha.com/api/sa/combined/{code}.xml`.
+- **Engines gemischt:** Die HTML-Quelle braucht den Headless-Browser (deshalb läuft der
+  Chromium-Install-Step für diesen Feed); die RSS-Quellen laufen als schlanker HTTPS-Fetch
+  über den Residential-Proxy. Pro-Quelle-Fehlertoleranz: eine blockte/timeoutende Quelle
+  wird übersprungen, der Feed baut aus dem Rest.
+- **Bekanntes Problem:** SeekingAlpha steht hinter **PerimeterX** (HUMAN Security) und blockt
+  Datacenter-/CI-IPs. Der Residential-Proxy verbessert die IP-Reputation, aber PerimeterX
+  fingerprintet auch TLS/Browser — Erfolg (v. a. für die HTML-Quelle) nicht garantiert. Die
+  RSS-Endpunkte sind der „sauberere Weg", können aber ebenfalls geblockt werden.
+
+**Ticker-Watchlist** — Quelle der Wahrheit ist das `tickers`-Array in `sites.json`; die
+folgende Tabelle wird beim Workflow-Run automatisch daraus gespiegelt (Schema pro Code:
+`https://seekingalpha.com/api/sa/combined/{code}.xml`):
+
+<!-- TICKERS:START -->
+| Ticker | SeekingAlpha combined-Feed |
+|--------|----------------------------|
+| `AIQUY` | [`combined/AIQUY.xml`](https://seekingalpha.com/api/sa/combined/AIQUY.xml) |
+| `DHR` | [`combined/DHR.xml`](https://seekingalpha.com/api/sa/combined/DHR.xml) |
+| `SE` | [`combined/SE.xml`](https://seekingalpha.com/api/sa/combined/SE.xml) |
+| `TEM` | [`combined/TEM.xml`](https://seekingalpha.com/api/sa/combined/TEM.xml) |
+| `BNPQF` | [`combined/BNPQF.xml`](https://seekingalpha.com/api/sa/combined/BNPQF.xml) |
+| `ENLAY` | [`combined/ENLAY.xml`](https://seekingalpha.com/api/sa/combined/ENLAY.xml) |
+| `MUTRF` | [`combined/MUTRF.xml`](https://seekingalpha.com/api/sa/combined/MUTRF.xml) |
+| `RIO` | [`combined/RIO.xml`](https://seekingalpha.com/api/sa/combined/RIO.xml) |
+| `VWAGY` | [`combined/VWAGY.xml`](https://seekingalpha.com/api/sa/combined/VWAGY.xml) |
+| `CLLKF` | [`combined/CLLKF.xml`](https://seekingalpha.com/api/sa/combined/CLLKF.xml) |
+| `CHUEF` | [`combined/CHUEF.xml`](https://seekingalpha.com/api/sa/combined/CHUEF.xml) |
+| `JOBY` | [`combined/JOBY.xml`](https://seekingalpha.com/api/sa/combined/JOBY.xml) |
+| `LILMF` | [`combined/LILMF.xml`](https://seekingalpha.com/api/sa/combined/LILMF.xml) |
+| `PCELF` | [`combined/PCELF.xml`](https://seekingalpha.com/api/sa/combined/PCELF.xml) |
+| `ASML` | [`combined/ASML.xml`](https://seekingalpha.com/api/sa/combined/ASML.xml) |
+| `LIN` | [`combined/LIN.xml`](https://seekingalpha.com/api/sa/combined/LIN.xml) |
+| `TSM` | [`combined/TSM.xml`](https://seekingalpha.com/api/sa/combined/TSM.xml) |
+| `TMO` | [`combined/TMO.xml`](https://seekingalpha.com/api/sa/combined/TMO.xml) |
+| `NEXPF` | [`combined/NEXPF.xml`](https://seekingalpha.com/api/sa/combined/NEXPF.xml) |
+<!-- TICKERS:END -->
 
 ### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
 - **Engine:** `tagesschau-carousel` — die „LIVE UND TOPTHEMEN"-Teaser stehen als
@@ -74,8 +116,11 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   TLS, Erfolg nicht garantiert). Siehe [Residential-Proxy](#residential-proxy-dataimpulse).
 - **Eigenheit:** Einziger Feed mit dem optionalen `urls`-Array (Schwerpunkte, ETF, Aktien):
   drei Sub-Seiten, ein Feed. Ergebnisse werden über alle Quellen dedupliziert (Link, dann
-  Titel), nach Datum sortiert, auf 30 gekappt. `url` bleibt die kanonische Seite; die
+  Titel), nach Datum sortiert, auf 25 gekappt. `url` bleibt die kanonische Seite; die
   Scrape-Ziele stehen in `urls`. Deutsches Datum „Am 03. Juli 2026 um 17:13 Uhr".
+- **Quellen-Filter:** `excludeIf: "alphavalue"` verwirft alle Items mit dem „AlphaValue"-Label
+  (Provider-Icon rechts neben dem Timestamp). Items ohne Label oder mit anderer Quelle (z. B.
+  MarketScreener/Zonebourse) bleiben.
 
 ## Engines (in `scraper.js`)
 
@@ -87,6 +132,13 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   `skipLabels` / `skipUrlPatterns`. Reiner HTTPS-Fetch, kein Browser.
 - **`browser`** — Rendering via Patchright für JS-Seiten. Läuft wie alle Feeds über den
   Residential-Proxy (siehe unten), inkl. Bild/Font/Media-Blocking.
+
+**Engine vs. Parser:** `engine` bestimmt den **Transport** (schlanker HTTPS-Fetch vs.
+Patchright-Browser), `parser` die **Interpretation** der Antwort: `html` (Default) =
+`teaserSplit` + Regex-Selektoren, `rss` = RSS-2.0-/Atom-Parser für echte Feed-Endpunkte
+(`…/x.xml`; liest `<item>`/`<entry>`, CDATA-fest, zieht Titel/Link/Datum/GUID/Bild aus
+`media:content`/`enclosure`/`<img>`). Beides ist pro Quelle wählbar (siehe unten), sodass ein
+Feed HTML- und RSS-Quellen mischen kann (`seekingalpha`).
 
 `buildAtom` (Atom 1.0 / RFC 4287) erzeugt `<feed>`/`<entry>`; optional `descriptionHtml`
 (→ `<content type="html">`) und `guid` (→ `<id>`); `language` wird zu `xml:lang` (Default
@@ -113,15 +165,33 @@ Uhrzeit-Formate ab.
 ```
 
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
-`engine`, `filter`, `containerStart`/`containerEnd`, `language`, `gaugeOutput`, `urls`,
-`proxy: false` (Proxy-Opt-out; Proxy ist global an), `proxyCountry`/`proxyLocale`/
-`proxyTimezone` — ohne `engine`-Feld läuft die Default-Engine (HTML + Regex). Die Selektoren
-leitest du aus dem HTML-Quelltext der Seite ab (Strg+U im Browser).
+`engine`, `parser`, `filter`, `excludeIf`, `containerStart`/`containerEnd`, `language`,
+`gaugeOutput`, `urls`, `tickers`/`tickerTemplate`, `proxy: false` (Proxy-Opt-out; Proxy ist
+global an), `proxyCountry`/`proxyLocale`/`proxyTimezone` — ohne `engine`-Feld läuft die
+Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext der Seite ab
+(Strg+U im Browser).
+
+`filter` und `excludeIf` sind komplementär: `filter` ist eine **Whitelist** auf den Titel
+(nur Treffer bleiben), `excludeIf` eine **Blacklist** gegen das **rohe Block-HTML** (Treffer
+fliegen raus). Weil `excludeIf` den ganzen Block sieht — nicht nur den Titel — greift es auch
+bei Markern, die außerhalb des Titels stehen, z. B. einem Quellen-/Provider-Label neben dem
+Timestamp (bei `marketscreener` das „AlphaValue"-Label). Beide Regexes matchen case-insensitive.
 
 Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
-aggregiert**: jede URL wird mit denselben Selektoren geparst, die Ergebnisse werden über alle
-Quellen dedupliziert (Link, dann Titel), nach Datum sortiert und auf 30 Items gekappt. Ohne
-`urls` bleibt es beim Single-URL-Verhalten via `url` (siehe `marketscreener`).
+aggregiert**: jede URL wird geparst, die Ergebnisse werden über alle Quellen dedupliziert
+(Link, dann Titel), nach Datum sortiert und auf 25 Items gekappt. Ohne `urls` bleibt es beim
+Single-URL-Verhalten via `url` (siehe `marketscreener`).
+
+Ein `urls`-Eintrag darf ein **String** sein (nutzt `engine`/`parser` der Site) oder ein
+**Objekt** `{ "url", "engine"?, "parser"? }` mit Per-Quelle-Overrides. So mischt ein Feed
+HTML- und RSS-Quellen mit unterschiedlichem Transport — z. B. `seekingalpha`: die HTML-Seite
+via `engine: browser`, die Feed-Endpunkte via `engine: https` + `parser: rss`.
+
+Für viele gleichartige Feed-Quellen gibt es die **Ticker-Expansion**: `tickers` (Array von
+Codes) + `tickerTemplate` (URL mit `{code}`-Platzhalter) erzeugen je Code eine zusätzliche
+Quelle (Default `tickerEngine: "https"`, `tickerParser: "rss"`). Beispiel `seekingalpha`:
+`tickerTemplate: "https://seekingalpha.com/api/sa/combined/{code}.xml"`. Das `tickers`-Array
+ist die Single Source of Truth; die Watchlist-Tabelle im README wird daraus gespiegelt.
 
 ### Schritt 2 — Eintrag in `update-rss.yml`
 
@@ -210,9 +280,9 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [rss-ticker (marcus-crane)](https://github.com/marcus-crane/rss-ticker) – RSS-Ticker für den Linux-Desktop (Feed-Konsument, Python)
 
 ### Websites
-- [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst (Referenz)
-- [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst (Referenz)
-- [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API (Referenz)
+- [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst
+- [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst
+- [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API
 
 ### Apps
 - [Twine](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader) (Sasikanth Miriyampalli) ⭐
@@ -223,7 +293,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
 
 ### Built with
-Node.js · Patchright (Stealth-Chromium) · DataImpulse (Residential-Proxy) · GitHub Actions · GitHub Pages
+Node.js · Patchright (Stealth-Chromium) · [DataImpulse](https://app.dataimpulse.com/sign-in) (Residential-Proxy) · GitHub Actions · GitHub Pages
 
 ---
 

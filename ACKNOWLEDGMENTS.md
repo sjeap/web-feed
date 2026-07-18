@@ -11,9 +11,9 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [rss-ticker (marcus-crane)](https://github.com/marcus-crane/rss-ticker) – RSS-Ticker für den Linux-Desktop (Feed-Konsument, Python)
 
 ### Websites
-- [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst (Referenz)
-- [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst (Referenz)
-- [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API (Referenz)
+- [Feed43](https://feed43.com/) – Web-zu-RSS-Dienst
+- [RSS Everything](https://rsseverything.com/de) – Web-zu-RSS-Dienst
+- [FetchRSS – Developers](https://fetchrss.com/developers) – Web-zu-RSS-Dienst / API
 
 ### Apps
 - [Twine](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader) (Sasikanth Miriyampalli) ⭐
@@ -24,7 +24,7 @@ Dieses Projekt wurde inspiriert von und referenziert die folgenden Arbeiten und 
 - [FocusReader](https://play.google.com/store/apps/details?id=allen.town.focus.reader) (Focus App)
 
 ### Built with
-Node.js · Patchright (Stealth-Chromium) · DataImpulse (Residential-Proxy) · GitHub Actions · GitHub Pages
+Node.js · Patchright (Stealth-Chromium) · [DataImpulse](https://app.dataimpulse.com/sign-in) (Residential-Proxy) · GitHub Actions · GitHub Pages
 
 ---
 

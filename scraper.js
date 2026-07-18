@@ -2,6 +2,24 @@
  * scraper.js — Matrix-fähig (robuste Variante, v4)
  * Aufruf: node scraper.js <site-id>
  *
+ * Neu in v4.3:
+ *  • Item-Cap pro Feed/Quelle 30 → 25.
+ *  • RSS-Bild-Fallback durchsucht auch content:encoded (WordPress-Feeds).
+ *
+ * Neu in v4.2:
+ *  • RSS/Atom-Parser (`parser: "rss"`) für echte Feed-Endpunkte (…/x.xml).
+ *  • `urls[]`-Einträge dürfen Objekte sein: { url, engine?, parser? } → in EINEM
+ *    Feed lassen sich HTML- (browser) und RSS-Quellen (https) mischen.
+ *  • `tickers[]` + `tickerTemplate` ("…/{code}.xml") expandieren Codes zu vielen
+ *    gleichartigen Feed-Quellen (Default engine "https", parser "rss").
+ *  • fetchPage(url, engineOverride): Engine pro Quelle wählbar.
+ *
+ * Neu in v4.1:
+ *  • Optionales Feld `excludeIf` in sites.json (Blacklist-Gegenstück zu `filter`)
+ *    → verwirft ein Item, wenn die Regex im ROHEN Block-HTML matcht (nicht nur
+ *    im Titel). Für Marker neben dem Timestamp, z. B. das "AlphaValue"-Label
+ *    bei marketscreener.
+ *
  * Neu in v4:
  *  • Optionale Felder `containerStart` / `containerEnd` in sites.json
  *    → grenzen das HTML vor dem teaserSplit auf einen bestimmten Bereich ein
@@ -245,9 +263,13 @@ async function fetchPageBrowser(url, proxyConfig = null) {
 
 // ─────────────────────────────────────────────────────────────────────
 // Engine-Dispatcher
+// engineOverride erlaubt es, pro Quelle eine andere Engine zu wählen als die
+// Site-Default-Engine (z. B. HTML-Seite via "browser", RSS-Feeds via "https"
+// im selben Feed). Ohne Override gilt site.engine wie bisher.
 // ─────────────────────────────────────────────────────────────────────
-async function fetchPage(url) {
-  if (site.engine === "browser") {
+async function fetchPage(url, engineOverride) {
+  const engine = engineOverride || site.engine;
+  if (engine === "browser") {
     return fetchPageBrowser(url, PROXY);
   }
   return fetchPageHttps(url);
@@ -703,7 +725,7 @@ function buildTagesschauCarouselItems(html, site) {
     // guid bewusst NICHT gesetzt → buildAtom nutzt link als <id> (gültiges IRI).
     // Die Artikel-URL ist eindeutig/stabil; kein Datums-Scoping wie bei CNN.
     items.push({ title, link, pubDate, imgSrc, imgAlt, mimeType });
-    if (items.length >= 30) break;
+    if (items.length >= 25) break;
   }
 
   return items;
@@ -895,6 +917,7 @@ function parseHeadlines(html, site, baseUrl = site.url) {
     blocks:     Math.max(0, parts.length - 1),
     titleFound: 0,
     filtered:   0,
+    excluded:   0,
     deduped:    0,
   };
 
@@ -902,6 +925,17 @@ function parseHeadlines(html, site, baseUrl = site.url) {
   if (site.filter) {
     try { filterRegex = new RegExp(site.filter, "i"); }
     catch (e) { console.error(`   ⚠ Ungültiger Filter "${site.filter}": ${e.message}`); }
+  }
+
+  // Gegenstück zu `filter` (Whitelist auf den Titel): `excludeIf` ist eine
+  // Blacklist-Regex, die gegen das ROHE Block-HTML getestet wird — nicht nur
+  // gegen den Titel. Damit lassen sich Items anhand von Markern aussortieren,
+  // die nicht im Titel stehen, z. B. das Quellen-/Provider-Label neben dem
+  // Timestamp (bei marketscreener das "AlphaValue"-Label). Case-insensitive.
+  let excludeRegex = null;
+  if (site.excludeIf) {
+    try { excludeRegex = new RegExp(site.excludeIf, "i"); }
+    catch (e) { console.error(`   ⚠ Ungültiges excludeIf "${site.excludeIf}": ${e.message}`); }
   }
 
   for (let i = 1; i < parts.length; i++) {
@@ -913,6 +947,12 @@ function parseHeadlines(html, site, baseUrl = site.url) {
 
     if (filterRegex && !filterRegex.test(title)) {
       stats.filtered++;
+      continue;
+    }
+
+    // Ausschluss anhand des rohen Block-HTMLs (z. B. Quellen-Label "AlphaValue").
+    if (excludeRegex && excludeRegex.test(block)) {
+      stats.excluded++;
       continue;
     }
 
@@ -943,14 +983,189 @@ function parseHeadlines(html, site, baseUrl = site.url) {
       imgAlt:  imgAlt || title,
     });
 
-    if (items.length >= 30) break;
+    if (items.length >= 25) break;
   }
 
   console.log(
     `   📊 Stats: ${stats.blocks} Blöcke · ${stats.titleFound} Titel · ` +
-    `${stats.filtered} per Filter · ${stats.deduped} Duplikate · ${items.length} Items`
+    `${stats.filtered} per Filter · ${stats.excluded} per excludeIf · ` +
+    `${stats.deduped} Duplikate · ${items.length} Items`
   );
   return items;
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// RSS/Atom-Feed-Parser (parser: "rss")
+// Für echte Feed-Endpunkte (…/x.xml). Liest <item> (RSS 2.0) ODER <entry>
+// (Atom), robust gegen CDATA und Namespaces (media:content, dc:date …).
+// Gibt dieselbe Item-Form wie parseHeadlines zurück; teilt Datum-Parser,
+// Filter, excludeIf und die Item-Form, damit die Aggregation in main()
+// beide Quelltypen gleich behandeln kann.
+// ─────────────────────────────────────────────────────────────────────
+function unwrapCdata(s) {
+  return (s || "").replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1");
+}
+
+// Innentext des ERSTEN <tag …>…</tag> (Namespace-Präfix wie media: erlaubt).
+function feedField(block, tag) {
+  const re = new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tag}>`, "i");
+  const m = re.exec(block);
+  return m ? m[1] : null;
+}
+
+// Attributwert des ERSTEN <tag … attr="…" …> (offen oder self-closing).
+function feedAttr(block, tag, attr) {
+  const re = new RegExp(`<${tag}\\b[^>]*?\\b${attr}="([^"]+)"[^>]*>`, "i");
+  const m = re.exec(block);
+  return m ? m[1] : null;
+}
+
+function parseFeedXml(xml, site, baseUrl) {
+  const items = [];
+  const seen  = new Set();
+
+  // RSS <item> bevorzugt; ohne Treffer Atom <entry>. parts[0] = Kanal-Header
+  // (vor dem ersten Eintrag) und wird übersprungen.
+  let tag   = "item";
+  let parts = xml.split(/<item\b/i);
+  if (parts.length < 2) { tag = "entry"; parts = xml.split(/<entry\b/i); }
+
+  let filterRegex = null;
+  if (site.filter) {
+    try { filterRegex = new RegExp(site.filter, "i"); }
+    catch (e) { console.error(`   ⚠ Ungültiger Filter "${site.filter}": ${e.message}`); }
+  }
+  let excludeRegex = null;
+  if (site.excludeIf) {
+    try { excludeRegex = new RegExp(site.excludeIf, "i"); }
+    catch (e) { console.error(`   ⚠ Ungültiges excludeIf "${site.excludeIf}": ${e.message}`); }
+  }
+
+  const stats = {
+    blocks:     Math.max(0, parts.length - 1),
+    titleFound: 0,
+    filtered:   0,
+    excluded:   0,
+    deduped:    0,
+  };
+
+  for (let i = 1; i < parts.length; i++) {
+    const block = "<" + tag + parts[i];   // führenden Tag wiederherstellen
+
+    const title = cleanText(unwrapCdata(feedField(block, "title")));
+    if (!title || title.length < 3) continue;
+    stats.titleFound++;
+
+    if (filterRegex && !filterRegex.test(title)) { stats.filtered++; continue; }
+    if (excludeRegex && excludeRegex.test(block)) { stats.excluded++; continue; }
+
+    // Link: RSS <link>text</link> ODER Atom <link … href="…"/> (rel="alternate"
+    // bevorzugt, sonst erster href). Relative Links gegen baseUrl auflösen.
+    let rawLink = unwrapCdata(feedField(block, "link"));
+    rawLink = rawLink ? rawLink.trim() : null;
+    if (!rawLink) {
+      const alt = /<link\b[^>]*\brel="alternate"[^>]*\bhref="([^"]+)"/i.exec(block)
+               || /<link\b[^>]*\bhref="([^"]+)"[^>]*\brel="alternate"/i.exec(block);
+      rawLink = alt ? alt[1] : feedAttr(block, "link", "href");
+    }
+    const fullLink = rawLink
+      ? (rawLink.startsWith("http") ? rawLink : new URL(rawLink, baseUrl).href)
+      : baseUrl;
+
+    if (seen.has(fullLink)) { stats.deduped++; continue; }
+    seen.add(fullLink);
+
+    // Datum: RSS <pubDate>, Atom <published>/<updated>, sonst <dc:date>.
+    const dateStr =
+      cleanText(feedField(block, "pubDate"))   ||
+      cleanText(feedField(block, "published")) ||
+      cleanText(feedField(block, "updated"))   ||
+      cleanText(feedField(block, "dc:date"));
+    const pubDate = parseFlexibleDate(dateStr);
+
+    // Stabile ID: RSS <guid>, Atom <id>, sonst Link.
+    const guid =
+      cleanText(unwrapCdata(feedField(block, "guid"))) ||
+      cleanText(unwrapCdata(feedField(block, "id")))   ||
+      fullLink;
+
+    // Bild: media:content / media:thumbnail / enclosure, sonst erstes <img> in
+    // description|content.
+    let imgSrc =
+      feedAttr(block, "media:content",   "url") ||
+      feedAttr(block, "media:thumbnail", "url") ||
+      feedAttr(block, "enclosure",       "url") || null;
+    if (!imgSrc) {
+      // description enthält bei manchen Feeds nur einen Text-Auszug; das Bild
+      // steckt dann in content:encoded (WordPress) oder content. Der Reihe nach
+      // durchsuchen, bis ein <img> gefunden ist (single- oder double-quoted src).
+      const bodies = [
+        feedField(block, "description"),
+        feedField(block, "content:encoded"),
+        feedField(block, "content"),
+      ];
+      for (const raw of bodies) {
+        if (!raw) continue;
+        const m = /<img\b[^>]*\bsrc=["']([^"']+)["']/i.exec(unwrapCdata(raw));
+        if (m) { imgSrc = m[1]; break; }
+      }
+    }
+
+    items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt: title, guid });
+    if (items.length >= 25) break;
+  }
+
+  console.log(
+    `   📊 RSS-Stats (<${tag}>): ${stats.blocks} Blöcke · ${stats.titleFound} Titel · ` +
+    `${stats.filtered} per Filter · ${stats.excluded} per excludeIf · ` +
+    `${stats.deduped} Duplikate · ${items.length} Items`
+  );
+  return items;
+}
+
+// ─────────────────────────────────────────────────────────────────────
+// Quell-Liste bauen (verallgemeinert das marketscreener-`urls`-Schema)
+// Jede Quelle wird zu { url, engine, parser } normalisiert:
+//   • site.urls[]  — Eintrag = String  → { engine: site.engine, parser: "html" }
+//                    Eintrag = Objekt  → { url, engine?, parser? } (Overrides)
+//   • site.tickers[] + site.tickerTemplate — Convenience für viele gleichartige
+//     Feed-Quellen: jeder Code wird per {code}-Platzhalter zu einer URL
+//     expandiert (Default engine "https", parser "rss").
+//   • ohne beides: Fallback auf die Einzel-`url` (parser "html").
+// Backward-compatible: reine String-`urls` (marketscreener) verhalten sich
+// exakt wie zuvor.
+// ─────────────────────────────────────────────────────────────────────
+function buildSourceList(site) {
+  const list = [];
+
+  const raw = Array.isArray(site.urls) && site.urls.length ? site.urls : [site.url];
+  for (const entry of raw) {
+    if (typeof entry === "string") {
+      list.push({ url: entry, engine: site.engine, parser: site.parser || "html" });
+    } else if (entry && entry.url) {
+      list.push({
+        url:    entry.url,
+        engine: entry.engine || site.engine,
+        parser: entry.parser || site.parser || "html",
+      });
+    }
+  }
+
+  if (Array.isArray(site.tickers) && site.tickers.length && site.tickerTemplate) {
+    const engine = site.tickerEngine || "https";
+    const parser = site.tickerParser || "rss";
+    for (const code of site.tickers) {
+      const c = String(code).trim();
+      if (!c) continue;
+      list.push({
+        url:    site.tickerTemplate.replace(/\{code\}/g, encodeURIComponent(c)),
+        engine,
+        parser,
+      });
+    }
+  }
+
+  return list;
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -1069,30 +1284,35 @@ async function main() {
       process.exit(2);
     }
   } else {
-    // ── Standard-Pfad: eine oder mehrere Quell-URLs laden + parsen
-    //    Optionales Feld `urls` (Array) → aggregiert mehrere Quellen zu EINEM Feed.
-    //    Ohne `urls` bleibt das Verhalten identisch (Single-URL via site.url).
-    const sourceUrls = Array.isArray(site.urls) && site.urls.length ? site.urls : [site.url];
-    const merged = [];
-    let lastHtml = "";
+    // ── Standard-Pfad: eine oder mehrere Quellen laden + parsen ──
+    //    Quellen kommen aus buildSourceList (verallgemeinertes `urls`-Schema +
+    //    optionale `tickers`-Expansion). Jede Quelle trägt ihre eigene Engine
+    //    (browser/https) und ihren Parser (html/rss) — so lassen sich in EINEM
+    //    Feed eine JS-HTML-Seite und viele RSS-Feeds mischen (seekingalpha).
+    //    Ohne `urls`/`tickers` bleibt es beim Single-URL-HTML-Verhalten.
+    const sources = buildSourceList(site);
+    const merged  = [];
+    let lastRaw   = "";
 
-    for (const srcUrl of sourceUrls) {
+    for (const src of sources) {
       try {
-        console.log(`   🌐 Fetching HTML: ${srcUrl}`);
-        const html = await fetchPage(srcUrl);
-        lastHtml = html;
-        console.log(`   HTML geladen: ${html.length} Zeichen`);
-        const part = parseHeadlines(html, site, srcUrl);
-        console.log(`   → ${part.length} Item(s) aus ${srcUrl}`);
+        console.log(`   🌐 Fetching [${src.engine || site.engine || "https"}/${src.parser}]: ${src.url}`);
+        const raw = await fetchPage(src.url, src.engine);
+        lastRaw = raw;
+        console.log(`   geladen: ${raw.length} Zeichen`);
+        const part = src.parser === "rss"
+          ? parseFeedXml(raw, site, src.url)
+          : parseHeadlines(raw, site, src.url);
+        console.log(`   → ${part.length} Item(s) aus ${src.url}`);
         merged.push(...part);
       } catch (err) {
-        // Einzelne Quelle (Timeout, tote Proxy-Exit-IP, Netzfehler) darf den
-        // gesamten Feed-Lauf NICHT abbrechen — überspringen und weitermachen.
-        console.error(`   ⚠ Quelle übersprungen (${srcUrl}): ${err.message}`);
+        // Einzelne Quelle (Timeout, tote Proxy-Exit-IP, Anti-Bot-Block, Netz-
+        // fehler) darf den gesamten Feed-Lauf NICHT abbrechen — überspringen.
+        console.error(`   ⚠ Quelle übersprungen (${src.url}): ${err.message}`);
       }
     }
 
-    // Cross-Source-Dedup (Link zuerst, dann Titel), neueste zuerst sortiert, Cap 30.
+    // Cross-Source-Dedup (Link zuerst, dann Titel), neueste zuerst sortiert, Cap 25.
     const seenLink  = new Set();
     const seenTitle = new Set();
     items = [];
@@ -1103,16 +1323,16 @@ async function main() {
       items.push(it);
     }
     items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
-    if (items.length > 30) items = items.slice(0, 30);
+    if (items.length > 25) items = items.slice(0, 25);
 
-    if (sourceUrls.length > 1) {
-      console.log(`   🧩 Aggregiert: ${merged.length} → ${items.length} Item(s) (dedupliziert, sortiert)`);
+    if (sources.length > 1) {
+      console.log(`   🧩 Aggregiert: ${sources.length} Quellen · ${merged.length} → ${items.length} Item(s) (dedupliziert, sortiert)`);
     }
 
     if (items.length === 0) {
       fs.writeFileSync(
         path.join(__dirname, `snapshot-${site.id}.txt`),
-        lastHtml.slice(0, 30000),
+        lastRaw.slice(0, 30000),
         "utf8"
       );
       console.error(`PARSE_FAILED [${site.id}]: 0 Artikel — Snapshot gespeichert (snapshot-${site.id}.txt, ~30 KB)`);
