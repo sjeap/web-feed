@@ -5,11 +5,56 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-18T17:57:50Z</updated>
+  <updated>2026-07-19T14:21:02Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Andreas Umland, Europäisches Politikinstitut Kiew, über den Druck auf die Ukraine</title>
+      <id>https://www.tagesschau.de/video/video-1617210.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1617210.html"/>
+      <updated>2026-07-19T14:21:02Z</updated>
+      <published>2026-07-19T14:21:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9bb09ac0-d7ff-4193-b1cc-147e02f864ed/AAABn3nf5Dw/AAABnSSvsdE/16x9-small/sendungsbild-1767052.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9bb09ac0-d7ff-4193-b1cc-147e02f864ed/AAABn3nf5Dw/AAABnSSvsdE/16x9-small/sendungsbild-1767052.jpg?width=320" alt="Andreas Umland, Europäisches Politikinstitut Kiew, über den Druck auf die Ukraine"/><p>Andreas Umland, Europäisches Politikinstitut Kiew, über den Druck auf die Ukraine</p>]]></content>
+    </entry>
+    <entry>
+      <title>Auswanderer aus Deutschland</title>
+      <id>https://www.tagesschau.de/video/video-1617154.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1617154.html"/>
+      <updated>2026-07-19T10:04:59Z</updated>
+      <published>2026-07-19T10:04:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0cde3926-937f-40bf-9b1f-29ec38b7951f/AAABn3loHH0/AAABnSSvsdE/16x9-small/sendungsbild-1766998.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0cde3926-937f-40bf-9b1f-29ec38b7951f/AAABn3loHH0/AAABnSSvsdE/16x9-small/sendungsbild-1766998.jpg?width=320" alt="Auswanderer aus Deutschland"/><p>Auswanderer aus Deutschland</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nachfolgedebatte nach Rücktritt von Spahn: Markus Preiß, ARD Berlin</title>
+      <id>https://www.tagesschau.de/video/video-1617144.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1617144.html"/>
+      <updated>2026-07-19T09:19:52Z</updated>
+      <published>2026-07-19T09:19:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/30a7ceaa-f156-4156-8985-71217f5dde2d/AAABn3k-yqc/AAABnSSvsdE/16x9-small/sendungsbild-1766974.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/30a7ceaa-f156-4156-8985-71217f5dde2d/AAABn3k-yqc/AAABnSSvsdE/16x9-small/sendungsbild-1766974.jpg?width=320" alt="Nachfolgedebatte nach Rücktritt von Spahn: Markus Preiß, ARD Berlin"/><p>Nachfolgedebatte nach Rücktritt von Spahn: Markus Preiß, ARD Berlin</p>]]></content>
+    </entry>
+    <entry>
+      <title>Steigende Gewaltbereitschaft bei Links- und Rechtsextremisten</title>
+      <id>https://www.tagesschau.de/video/video-1617146.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1617146.html"/>
+      <updated>2026-07-19T09:31:57Z</updated>
+      <published>2026-07-19T09:31:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/45461f68-c51f-4ea1-8986-7dfba465fe76/AAABn3lJ5h0/AAABnSSvsdE/16x9-small/sendungsbild-1766980.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/45461f68-c51f-4ea1-8986-7dfba465fe76/AAABn3lJ5h0/AAABnSSvsdE/16x9-small/sendungsbild-1766980.jpg?width=320" alt="Steigende Gewaltbereitschaft bei Links- und Rechtsextremisten"/><p>Steigende Gewaltbereitschaft bei Links- und Rechtsextremisten</p>]]></content>
+    </entry>
+    <entry>
+      <title>Griechenland zahlt Fangprämien für Kugelfisch</title>
+      <id>https://www.tagesschau.de/video/video-1617148.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1617148.html"/>
+      <updated>2026-07-19T09:39:00Z</updated>
+      <published>2026-07-19T09:39:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6b48be7a-519f-4944-a63b-9e5c99b82f86/AAABn3lQWpg/AAABnSSvsdE/16x9-small/sendungsbild-1766994.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6b48be7a-519f-4944-a63b-9e5c99b82f86/AAABn3lQWpg/AAABnSSvsdE/16x9-small/sendungsbild-1766994.jpg?width=320" alt="Griechenland zahlt Fangprämien für Kugelfisch"/><p>Griechenland zahlt Fangprämien für Kugelfisch</p>]]></content>
+    </entry>
     <entry>
       <title>Rücktritt von Unions-Fraktionschef Spahn nach Leihmutterschaft-Debatte</title>
       <id>https://www.tagesschau.de/video/video-1616888.html</id>
@@ -18,50 +63,5 @@
       <published>2026-07-18T17:24:44Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cf3826af-1f89-4d49-bd28-fbae4dc60288/AAABn3XUX9U/AAABnSSvsdE/16x9-small/sendungsbild-1766704.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cf3826af-1f89-4d49-bd28-fbae4dc60288/AAABn3XUX9U/AAABnSSvsdE/16x9-small/sendungsbild-1766704.jpg?width=320" alt="Rücktritt von Unions-Fraktionschef Spahn nach Leihmutterschaft-Debatte"/><p>Rücktritt von Unions-Fraktionschef Spahn nach Leihmutterschaft-Debatte</p>]]></content>
-    </entry>
-    <entry>
-      <title>Markus Preiß, ARD Berlin, mit Informationen zu Spahns Rücktritt</title>
-      <id>https://www.tagesschau.de/video/video-1616906.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1616906.html"/>
-      <updated>2026-07-18T17:57:50Z</updated>
-      <published>2026-07-18T17:57:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a7e61cf0-07d5-4ace-8371-ee3076d4268c/AAABn3Xyr2w/AAABnSSvsdE/16x9-small/sendungsbild-1766716.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a7e61cf0-07d5-4ace-8371-ee3076d4268c/AAABn3Xyr2w/AAABnSSvsdE/16x9-small/sendungsbild-1766716.jpg?width=320" alt="Markus Preiß, ARD Berlin, mit Informationen zu Spahns Rücktritt"/><p>Markus Preiß, ARD Berlin, mit Informationen zu Spahns Rücktritt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Unions-Fraktionschef Spahn tritt zurück</title>
-      <id>https://www.tagesschau.de/video/video-1616830.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1616830.html"/>
-      <updated>2026-07-18T15:07:01Z</updated>
-      <published>2026-07-18T15:07:01Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1f5e7071-1e81-4921-9003-ed4403d5421e/AAABn3VVPxM/AAABnSSvsdE/16x9-small/sendungsbild-1766648.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1f5e7071-1e81-4921-9003-ed4403d5421e/AAABn3VVPxM/AAABnSSvsdE/16x9-small/sendungsbild-1766648.jpg?width=320" alt="Unions-Fraktionschef Spahn tritt zurück"/><p>Unions-Fraktionschef Spahn tritt zurück</p>]]></content>
-    </entry>
-    <entry>
-      <title>Telefonschalte zu Oliver Lembcke, Politikwissenschaftler Ruhr-Universität Bochum, zum Rücktritt von Jens Spahn</title>
-      <id>https://www.tagesschau.de/video/video-1616832.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1616832.html"/>
-      <updated>2026-07-18T15:17:00Z</updated>
-      <published>2026-07-18T15:17:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1788495c-5356-40d4-9568-c87ae54cbb4b/AAABn3VfHhE/AAABnSSvsdE/16x9-small/sendungsbild-1766654.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1788495c-5356-40d4-9568-c87ae54cbb4b/AAABn3VfHhE/AAABnSSvsdE/16x9-small/sendungsbild-1766654.jpg?width=320" alt="Telefonschalte zu Oliver Lembcke, Politikwissenschaftler Ruhr-Universität Bochum, zum Rücktritt von Jens Spahn"/><p>Telefonschalte zu Oliver Lembcke, Politikwissenschaftler Ruhr-Universität Bochum, zum Rücktritt von Jens Spahn</p>]]></content>
-    </entry>
-    <entry>
-      <title>KI-Konferenz in Shanghai</title>
-      <id>https://www.tagesschau.de/video/video-1616732.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1616732.html"/>
-      <updated>2026-07-18T10:34:30Z</updated>
-      <published>2026-07-18T10:34:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3d27730e-1e89-49c6-841f-a1dcc4033535/AAABn3Rbt_c/AAABnSSvsdE/16x9-small/sendungsbild-1766526.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3d27730e-1e89-49c6-841f-a1dcc4033535/AAABn3Rbt_c/AAABnSSvsdE/16x9-small/sendungsbild-1766526.jpg?width=320" alt="KI-Konferenz in Shanghai"/><p>KI-Konferenz in Shanghai</p>]]></content>
-    </entry>
-    <entry>
-      <title>Trump zweifelt Sicherheit des US-Wahlsystems an und beschuldigt China</title>
-      <id>https://www.tagesschau.de/video/video-1616436.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1616436.html"/>
-      <updated>2026-07-17T18:38:32Z</updated>
-      <published>2026-07-17T18:38:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9c8ff405-b35f-4d4f-ad51-6136fee425e9/AAABn3DxkH0/AAABnSSvsdE/16x9-small/sendungsbild-1766278.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9c8ff405-b35f-4d4f-ad51-6136fee425e9/AAABn3DxkH0/AAABnSSvsdE/16x9-small/sendungsbild-1766278.jpg?width=320" alt="Trump zweifelt Sicherheit des US-Wahlsystems an und beschuldigt China"/><p>Trump zweifelt Sicherheit des US-Wahlsystems an und beschuldigt China</p>]]></content>
     </entry>
 </feed>
