@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml</id>
   <link rel="alternate" href="https://de.marketscreener.com/boersenanalyse/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml"/>
-  <updated>2026-07-17T11:11:00Z</updated>
+  <updated>2026-07-20T08:34:00Z</updated>
   <author>
     <name>MarketScreener – Börsenanalyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Morning Meeting: Ein Markt verliert die Orientierung</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/ein-markt-verliert-die-orientierung-ce7f51dad181f626</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/ein-markt-verliert-die-orientierung-ce7f51dad181f626"/>
+      <updated>2026-07-20T08:34:00Z</updated>
+      <published>2026-07-20T08:34:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_3394158_800.png"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_3394158_800.png" alt="Morning Meeting:  Ein Markt verliert die Orientierung"/><p>Morning Meeting: Ein Markt verliert die Orientierung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Börsen-Update der Woche: Kleines Sommertief bei Halbleitern</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/boersen-update-der-woche-kleines-sommertief-bei-halbleitern-ce7f51dadf8cf320</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/boersen-update-der-woche-kleines-sommertief-bei-halbleitern-ce7f51dadf8cf320"/>
+      <updated>2026-07-18T17:57:00Z</updated>
+      <published>2026-07-18T17:57:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4351903_800.png"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4351903_800.png" alt="Börsen-Update der Woche:  Kleines Sommertief bei Halbleitern"/><p>Börsen-Update der Woche: Kleines Sommertief bei Halbleitern</p>]]></content>
+    </entry>
     <entry>
       <title>Gewinn schwächelt, obwohl Sonys Kerngeschäft rund läuft</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/gewinn-schwaechelt-obwohl-sonys-kerngeschaeft-rund-laeuft-ce7f5ed3d088f524</id>
@@ -65,6 +83,15 @@
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4223258_800.png" alt="Das südkoreanische Aktienchaos"/><p>Das südkoreanische Aktienchaos</p>]]></content>
     </entry>
     <entry>
+      <title>US-Banken tanzen im Regen</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/us-banken-tanzen-im-regen-ce7f5ed2d18ff125</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/us-banken-tanzen-im-regen-ce7f5ed2d18ff125"/>
+      <updated>2026-07-16T10:38:00Z</updated>
+      <published>2026-07-16T10:38:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4346901_800.png"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4346901_800.png" alt="US-Banken tanzen im Regen"/><p>US-Banken tanzen im Regen</p>]]></content>
+    </entry>
+    <entry>
       <title>Der große Wettlauf um Kapital</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/der-grosse-wettlauf-um-kapital-ce7f5ed2d18df721</id>
       <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/der-grosse-wettlauf-um-kapital-ce7f5ed2d18df721"/>
@@ -110,42 +137,6 @@
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2025-10-20T182616Z_1_LYNXMPEL9J0SI_RTROPTP_4_AMAZON-OUTAGES-AWS.JPG" alt="Nach den Chips verlagert sich der KI-Wettlauf auf Strom und Wasser"/><p>Nach den Chips verlagert sich der KI-Wettlauf auf Strom und Wasser</p>]]></content>
     </entry>
     <entry>
-      <title>Können die neuen KI-Millionäre den Luxussektor an der Börse wiederbeleben?</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/koennen-die-neuen-ki-millionaere-den-luxussektor-an-der-boerse-wiederbeleben-ce7f5eddde8efe26</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/koennen-die-neuen-ki-millionaere-den-luxussektor-an-der-boerse-wiederbeleben-ce7f5eddde8efe26"/>
-      <updated>2026-07-15T09:32:00Z</updated>
-      <published>2026-07-15T09:32:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4341377_800.jpg"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4341377_800.jpg" alt="Können die neuen KI-Millionäre den Luxussektor an der Börse wiederbeleben?"/><p>Können die neuen KI-Millionäre den Luxussektor an der Börse wiederbeleben?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Christopher Waller - der Fed-Gouverneur, den man im Blick behalten sollte</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/christopher-waller-der-fed-gouverneur-den-man-im-blick-behalten-sollten-ce7f5eddde8dff25</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/christopher-waller-der-fed-gouverneur-den-man-im-blick-behalten-sollten-ce7f5eddde8dff25"/>
-      <updated>2026-07-15T08:56:00Z</updated>
-      <published>2026-07-15T08:56:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/reuters/2025-04/2025-04-14T170816Z_1_LYNXMPEL3D0T2_RTROPTP_4_USA-FED-WALLER.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/reuters/2025-04/2025-04-14T170816Z_1_LYNXMPEL3D0T2_RTROPTP_4_USA-FED-WALLER.JPG" alt="Christopher Waller - der Fed-Gouverneur, den man im Blick behalten sollte"/><p>Christopher Waller - der Fed-Gouverneur, den man im Blick behalten sollte</p>]]></content>
-    </entry>
-    <entry>
-      <title>Morning Meeting: Inflation? Welche Inflation?</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/morning-meeting-inflation-welche-inflation-ce7f5eddde8bf022</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/morning-meeting-inflation-welche-inflation-ce7f5eddde8bf022"/>
-      <updated>2026-07-15T08:31:00Z</updated>
-      <published>2026-07-15T08:31:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-06-16T110642Z_1_LYNXMPEM5F0UB_RTROPTP_4_G7-SUMMIT.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-06-16T110642Z_1_LYNXMPEM5F0UB_RTROPTP_4_G7-SUMMIT.JPG" alt="Morning Meeting:  Inflation? Welche Inflation?"/><p>Morning Meeting: Inflation? Welche Inflation?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Portfolio-Update: Die Märkte schalten zur Berichtssaison einen Gang höher</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/die-maerkte-schalten-zur-berichtssaison-einen-gang-hoeher-ce7f5edcde8ef725</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/die-maerkte-schalten-zur-berichtssaison-einen-gang-hoeher-ce7f5edcde8ef725"/>
-      <updated>2026-07-14T12:08:00Z</updated>
-      <published>2026-07-14T12:08:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/suivi_premium_de.png"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/suivi_premium_de.png" alt="Portfolio-Update:  Die Märkte schalten zur Berichtssaison einen Gang höher"/><p>Portfolio-Update: Die Märkte schalten zur Berichtssaison einen Gang höher</p>]]></content>
-    </entry>
-    <entry>
       <title>Der Chip-Impuls: Wird Advanced Packaging zum nächsten KI-Boom?</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/der-chip-impuls-wird-advanced-packaging-zum-naechsten-ki-boom-ce7f5edcdb8bf721</id>
       <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/der-chip-impuls-wird-advanced-packaging-zum-naechsten-ki-boom-ce7f5edcdb8bf721"/>
@@ -153,15 +144,6 @@
       <published>2026-07-13T18:40:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4337471_800.png"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4337471_800.png" alt="Der Chip-Impuls:  Wird Advanced Packaging zum nächsten KI-Boom?"/><p>Der Chip-Impuls: Wird Advanced Packaging zum nächsten KI-Boom?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Rohstoffe: Nahost bleibt im Fokus</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/rohstoffe-nahost-bleibt-im-fokus-ce7f5edcdb88f320</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/rohstoffe-nahost-bleibt-im-fokus-ce7f5edcdb88f320"/>
-      <updated>2026-07-13T18:32:00Z</updated>
-      <published>2026-07-13T18:32:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-03-05T015317Z_1_LYNXMPEM2403R_RTROPTP_4_IRAN-CRISIS-OIL.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-03-05T015317Z_1_LYNXMPEM2403R_RTROPTP_4_IRAN-CRISIS-OIL.JPG" alt="Rohstoffe:  Nahost bleibt im Fokus"/><p>Rohstoffe: Nahost bleibt im Fokus</p>]]></content>
     </entry>
     <entry>
       <title>Kann KI Südkorea zum Norwegen Asiens machen?</title>
@@ -234,5 +216,23 @@
       <published>2026-07-08T17:43:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4331937_800.jpg"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4331937_800.jpg" alt="Buy the rumor, sell the AI earnings?"/><p>Buy the rumor, sell the AI earnings?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Strategy gerät unter finanziellen Druck</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/strategy-geraet-unter-finanziellen-druck-ce7f5ed9db80ff21</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/strategy-geraet-unter-finanziellen-druck-ce7f5ed9db80ff21"/>
+      <updated>2026-07-08T17:30:00Z</updated>
+      <published>2026-07-08T17:30:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_3763833_800.png"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_3763833_800.png" alt="Strategy gerät unter finanziellen Druck"/><p>Strategy gerät unter finanziellen Druck</p>]]></content>
+    </entry>
+    <entry>
+      <title>Forvia: zu hart abgestraft oder strukturell zu anfällig?</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/forvia-zu-hart-abgestraft-oder-strukturell-zu-anfaellig-ce7f5ed9db80f521</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/forvia-zu-hart-abgestraft-oder-strukturell-zu-anfaellig-ce7f5ed9db80f521"/>
+      <updated>2026-07-08T17:17:00Z</updated>
+      <published>2026-07-08T17:17:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2025-07-28T050655Z_1_LYNXMPEL6R05H_RTROPTP_4_FORVIA-RESULTS.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2025-07-28T050655Z_1_LYNXMPEL6R05H_RTROPTP_4_FORVIA-RESULTS.JPG" alt="Forvia:  zu hart abgestraft oder strukturell zu anfällig?"/><p>Forvia: zu hart abgestraft oder strukturell zu anfällig?</p>]]></content>
     </entry>
 </feed>
