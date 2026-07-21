@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml</id>
   <link rel="alternate" href="https://de.marketscreener.com/boersenanalyse/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml"/>
-  <updated>2026-07-20T17:06:00Z</updated>
+  <updated>2026-07-21T08:33:00Z</updated>
   <author>
     <name>MarketScreener – Börsenanalyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Morning Meeting: Keine Sommerpause für die Geopolitik</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/keine-sommerpause-fuer-die-geopolitik-ce7f51dbde81f024</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/keine-sommerpause-fuer-die-geopolitik-ce7f51dbde81f024"/>
+      <updated>2026-07-21T08:33:00Z</updated>
+      <published>2026-07-21T08:33:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4356279_800.jpg"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4356279_800.jpg" alt="Morning Meeting:  Keine Sommerpause für die Geopolitik"/><p>Morning Meeting: Keine Sommerpause für die Geopolitik</p>]]></content>
+    </entry>
     <entry>
       <title>Der Tag, an dem X-FAB dank eines Tweets um 33% sprang…</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/der-tag-an-dem-x-fab-dank-eines-tweets-um-33-spranga--ce7f51dbda8bf024</id>
@@ -225,14 +234,5 @@
       <published>2026-07-13T18:28:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-01-14T062924Z_1_LYNXMPEM0D063_RTROPTP_4_BUSINESS-CURRENCY.JPG"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-01-14T062924Z_1_LYNXMPEM0D063_RTROPTP_4_BUSINESS-CURRENCY.JPG" alt="Kann KI Südkorea zum Norwegen Asiens machen?"/><p>Kann KI Südkorea zum Norwegen Asiens machen?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der MarketScreener-Mix: Trump - der Präsident als Trader?</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/der-marketscreener-mix-trump-der-praesident-als-trader-ce7f5edcd880f626</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/der-marketscreener-mix-trump-der-praesident-als-trader-ce7f5edcd880f626"/>
-      <updated>2026-07-13T17:57:00Z</updated>
-      <published>2026-07-13T17:57:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4336983_800.png"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4336983_800.png" alt="Der MarketScreener-Mix:  Trump - der Präsident als Trader?"/><p>Der MarketScreener-Mix: Trump - der Präsident als Trader?</p>]]></content>
     </entry>
 </feed>
