@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-21T18:39:06Z</updated>
+  <updated>2026-07-21T20:46:44Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Alkoholverbot an allen Bahnhöfen | 21. Juli</title>
+      <id>https://www.tagesschau.de/video/video-1618494.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1618494.html"/>
+      <updated>2026-07-21T20:46:44Z</updated>
+      <published>2026-07-21T20:46:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fc473d9a-d825-456d-97db-8e70255df802/AAABn4WwRnM/AAABnSSvsdE/16x9-small/21072026-topthema-alkoholverbot-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fc473d9a-d825-456d-97db-8e70255df802/AAABn4WwRnM/AAABnSSvsdE/16x9-small/21072026-topthema-alkoholverbot-100.jpg?width=320" alt="Alkoholverbot an allen Bahnhöfen | 21. Juli"/><p>Alkoholverbot an allen Bahnhöfen | 21. Juli</p>]]></content>
+    </entry>
     <entry>
       <title>Karl-Peter Naumann, Ehrenvorsitzender Fahrgastverband Pro Bahn, über das geplante Alkoholverbot an allen Bahnhöfen</title>
       <id>https://www.tagesschau.de/video/video-1618366.html</id>
@@ -54,14 +63,5 @@
       <published>2026-07-21T11:42:39Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/de3e92c5-ba1e-4c9b-87fe-c512df7a153d/AAABn4QORiU/AAABnSSvsdE/16x9-small/sendungsbild-1767956.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/de3e92c5-ba1e-4c9b-87fe-c512df7a153d/AAABn4QORiU/AAABnSSvsdE/16x9-small/sendungsbild-1767956.jpg?width=320" alt="Norwegens Gemeinden dürfen Tourismusabgabe einführen"/><p>Norwegens Gemeinden dürfen Tourismusabgabe einführen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Proteste in Italien nach dem Tod eines Einwanderers bei einem Polizeieinsatz</title>
-      <id>https://www.tagesschau.de/video/video-1618132.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1618132.html"/>
-      <updated>2026-07-21T11:36:53Z</updated>
-      <published>2026-07-21T11:36:53Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5b2d0431-829f-4ac2-a9f2-88ac35beeda6/AAABn4QI_4I/AAABnSSvsdE/16x9-small/sendungsbild-1767950.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5b2d0431-829f-4ac2-a9f2-88ac35beeda6/AAABn4QI_4I/AAABnSSvsdE/16x9-small/sendungsbild-1767950.jpg?width=320" alt="Proteste in Italien nach dem Tod eines Einwanderers bei einem Polizeieinsatz"/><p>Proteste in Italien nach dem Tod eines Einwanderers bei einem Polizeieinsatz</p>]]></content>
     </entry>
 </feed>
