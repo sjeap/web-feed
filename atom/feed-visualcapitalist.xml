@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-07-19T00:00:00Z</updated>
+  <updated>2026-07-21T00:00:00Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ranked: FIFA World Rankings After the 2026 Men’s World Cup</title>
+      <id>https://www.visualcapitalist.com/ranked-fifa-world-rankings-after-2026-world-cup/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-fifa-world-rankings-after-2026-world-cup/"/>
+      <updated>2026-07-21T00:00:00Z</updated>
+      <published>2026-07-21T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/FIFA-Rankings__Population_Shareable__07202026-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/FIFA-Rankings__Population_Shareable__07202026-80x80.webp" alt="Visualization showing the top international men's soccer teams as of the end of the 2026 World Cup."/><p>Ranked: FIFA World Rankings After the 2026 Men’s World Cup</p>]]></content>
+    </entry>
     <entry>
       <title>Ranked: The Countries Gaining and Losing the Most Tourists</title>
       <id>https://www.visualcapitalist.com/ranked-the-countries-gaining-and-losing-the-most-tourists/</id>
@@ -81,15 +90,6 @@
       <published>2026-06-26T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Family-Income-Needed-to-Live-Comfortably-in-U.S.-Cities-Bar-Chart_shareable_Jun24-80x80.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Family-Income-Needed-to-Live-Comfortably-in-U.S.-Cities-Bar-Chart_shareable_Jun24-80x80.webp" alt="Discover the salary needed to live comfortably in major U.S. cities."/><p>Ranked: U.S. Cities by Family Income Needed to Live Comfortably</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ranked: Countries with the Largest Currency Reserves</title>
-      <id>https://www.visualcapitalist.com/ranked-countries-with-the-largest-currency-reserves/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-with-the-largest-currency-reserves/"/>
-      <updated>2026-06-25T00:00:00Z</updated>
-      <published>2026-06-25T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Countries-with-the-Largest-Currency-Reserves_shareable2_Jun5-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/Countries-with-the-Largest-Currency-Reserves_shareable2_Jun5-80x80.webp" alt="Ranking of countries with the largest foreign exchange reserves, showing China, Japan, India, and other top reserve holders based on IMF data."/><p>Ranked: Countries with the Largest Currency Reserves</p>]]></content>
     </entry>
     <entry>
       <title>Mapped: Which Countries Hold the Biggest Mineral Reserves?</title>
