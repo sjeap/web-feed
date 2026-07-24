@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-23T16:23:24Z</updated>
+  <updated>2026-07-23T20:54:16Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Waldbrände in Südeuropa | 23. Juli</title>
+      <id>https://www.tagesschau.de/video/video-1619622.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619622.html"/>
+      <updated>2026-07-23T20:54:16Z</updated>
+      <published>2026-07-23T20:54:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/26c95ac2-864d-4c0c-be20-e976becf7b27/AAABn5BMYSA/AAABnSSvsdE/16x9-small/23072026-topthema-waldbrand-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/26c95ac2-864d-4c0c-be20-e976becf7b27/AAABn5BMYSA/AAABnSSvsdE/16x9-small/23072026-topthema-waldbrand-100.jpg?width=320" alt="Waldbrände in Südeuropa | 23. Juli"/><p>Waldbrände in Südeuropa | 23. Juli</p>]]></content>
+    </entry>
     <entry>
       <title>Huthi greifen Tanker an, USA und Saudi-Arabien unterzeichnen Atomabkommen</title>
       <id>https://www.tagesschau.de/video/video-1619366.html</id>
@@ -54,14 +63,5 @@
       <published>2026-07-23T12:34:21Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ea9c26fc-c9a2-4278-a92a-002064f01ed5/AAABn43_9Ic/AAABnSSvsdE/16x9-small/sendungsbild-1769006.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ea9c26fc-c9a2-4278-a92a-002064f01ed5/AAABn43_9Ic/AAABnSSvsdE/16x9-small/sendungsbild-1769006.jpg?width=320" alt="Benjamin Weber, ARD Istanbul, zzt. Teheran, über die erneuten US-Angriffe auf Iran"/><p>Benjamin Weber, ARD Istanbul, zzt. Teheran, über die erneuten US-Angriffe auf Iran</p>]]></content>
-    </entry>
-    <entry>
-      <title>KI-Hackerangriff · Eine neue Gefahr? | 22. Juli</title>
-      <id>https://www.tagesschau.de/video/video-1619032.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619032.html"/>
-      <updated>2026-07-22T20:47:34Z</updated>
-      <published>2026-07-22T20:47:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/97b5e7d5-52f0-4b4a-86e9-a58ffd0a34af/AAABn4rAqdc/AAABnSSvsdE/16x9-small/22072026-topthema-ki-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/97b5e7d5-52f0-4b4a-86e9-a58ffd0a34af/AAABn4rAqdc/AAABnSSvsdE/16x9-small/22072026-topthema-ki-100.jpg?width=320" alt="KI-Hackerangriff · Eine neue Gefahr? | 22. Juli"/><p>KI-Hackerangriff · Eine neue Gefahr? | 22. Juli</p>]]></content>
     </entry>
 </feed>
