@@ -5,11 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-23T20:54:16Z</updated>
+  <updated>2026-07-24T15:04:04Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Übung &quot;Pitch Black&quot;: Luftwaffe trainiert Nachtkämpfe in Australien</title>
+      <id>https://www.tagesschau.de/video/video-1619884.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619884.html"/>
+      <updated>2026-07-24T15:04:04Z</updated>
+      <published>2026-07-24T15:04:04Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9a645fab-51d7-48f1-bb4e-00b4d27f299b/AAABn5Q5unQ/AAABnSSvsdE/16x9-small/sendungsbild-1769782.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9a645fab-51d7-48f1-bb4e-00b4d27f299b/AAABn5Q5unQ/AAABnSSvsdE/16x9-small/sendungsbild-1769782.jpg?width=320" alt="Übung "Pitch Black": Luftwaffe trainiert Nachtkämpfe in Australien"/><p>Übung &quot;Pitch Black&quot;: Luftwaffe trainiert Nachtkämpfe in Australien</p>]]></content>
+    </entry>
+    <entry>
+      <title>Jürgen Klopp wird neuer Bundestrainer</title>
+      <id>https://www.tagesschau.de/video/video-1619882.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619882.html"/>
+      <updated>2026-07-24T15:00:51Z</updated>
+      <published>2026-07-24T15:00:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/11f0596b-121f-4bfd-b5a1-67b28a6117b1/AAABn5Q20fc/AAABnSSvsdE/16x9-small/sendungsbild-1769778.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/11f0596b-121f-4bfd-b5a1-67b28a6117b1/AAABn5Q20fc/AAABnSSvsdE/16x9-small/sendungsbild-1769778.jpg?width=320" alt="Jürgen Klopp wird neuer Bundestrainer"/><p>Jürgen Klopp wird neuer Bundestrainer</p>]]></content>
+    </entry>
+    <entry>
+      <title>Merz gibt Wechsel im Kabinett bekannt</title>
+      <id>https://www.tagesschau.de/video/video-1619764.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619764.html"/>
+      <updated>2026-07-24T10:36:44Z</updated>
+      <published>2026-07-24T10:36:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e3363c3e-2cb1-47f3-9a79-85e85d6c65ba/AAABn5NE_aM/AAABnSSvsdE/16x9-small/sendungsbild-1769654.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e3363c3e-2cb1-47f3-9a79-85e85d6c65ba/AAABn5NE_aM/AAABnSSvsdE/16x9-small/sendungsbild-1769654.jpg?width=320" alt="Merz gibt Wechsel im Kabinett bekannt"/><p>Merz gibt Wechsel im Kabinett bekannt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen</title>
+      <id>https://www.tagesschau.de/video/video-1619756.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619756.html"/>
+      <updated>2026-07-24T10:33:00Z</updated>
+      <published>2026-07-24T10:33:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3c03f147-041d-48e8-b541-5a3b3007688d/AAABn5NBiN8/AAABnSSvsdE/16x9-small/sendungsbild-1769650.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3c03f147-041d-48e8-b541-5a3b3007688d/AAABn5NBiN8/AAABnSSvsdE/16x9-small/sendungsbild-1769650.jpg?width=320" alt="Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen"/><p>Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen</p>]]></content>
+    </entry>
     <entry>
       <title>Waldbrände in Südeuropa | 23. Juli</title>
       <id>https://www.tagesschau.de/video/video-1619622.html</id>
@@ -27,41 +63,5 @@
       <published>2026-07-23T16:23:24Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/69cd71c1-04c3-43cc-8508-497a371a66d1/AAABn49b-K4/AAABnSSvsdE/16x9-small/sendungsbild-1769238.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/69cd71c1-04c3-43cc-8508-497a371a66d1/AAABn49b-K4/AAABnSSvsdE/16x9-small/sendungsbild-1769238.jpg?width=320" alt="Huthi greifen Tanker an, USA und Saudi-Arabien unterzeichnen Atomabkommen"/><p>Huthi greifen Tanker an, USA und Saudi-Arabien unterzeichnen Atomabkommen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Waldbrände in Frankreich und Spanien</title>
-      <id>https://www.tagesschau.de/video/video-1619312.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619312.html"/>
-      <updated>2026-07-23T14:33:06Z</updated>
-      <published>2026-07-23T14:33:06Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2c9f9387-b30d-4a1a-80ea-1bc13b5fb879/AAABn473CUA/AAABnSSvsdE/16x9-small/sendungsbild-1769168.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2c9f9387-b30d-4a1a-80ea-1bc13b5fb879/AAABn473CUA/AAABnSSvsdE/16x9-small/sendungsbild-1769168.jpg?width=320" alt="Waldbrände in Frankreich und Spanien"/><p>Waldbrände in Frankreich und Spanien</p>]]></content>
-    </entry>
-    <entry>
-      <title>Frank Bräutigam, SWR, zum Urteil des BVerfG zur Beratungszeit bei Gesetzgebung</title>
-      <id>https://www.tagesschau.de/video/video-1619258.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619258.html"/>
-      <updated>2026-07-23T12:39:45Z</updated>
-      <published>2026-07-23T12:39:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b4d2df0c-f899-4008-9a5b-adc1d6743d8f/AAABn46OcFg/AAABnSSvsdE/16x9-small/sendungsbild-1769072.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b4d2df0c-f899-4008-9a5b-adc1d6743d8f/AAABn46OcFg/AAABnSSvsdE/16x9-small/sendungsbild-1769072.jpg?width=320" alt="Frank Bräutigam, SWR, zum Urteil des BVerfG zur Beratungszeit bei Gesetzgebung"/><p>Frank Bräutigam, SWR, zum Urteil des BVerfG zur Beratungszeit bei Gesetzgebung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Folgen für die Wirtschaft durch Klimawandel und Extremwetterlagen</title>
-      <id>https://www.tagesschau.de/video/video-1619196.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619196.html"/>
-      <updated>2026-07-23T12:36:20Z</updated>
-      <published>2026-07-23T12:36:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a1d425dd-0c73-4272-9ee3-c1ddd2f6e04c/AAABn46MImY/AAABnSSvsdE/16x9-small/sendungsbild-1769034.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a1d425dd-0c73-4272-9ee3-c1ddd2f6e04c/AAABn46MImY/AAABnSSvsdE/16x9-small/sendungsbild-1769034.jpg?width=320" alt="Folgen für die Wirtschaft durch Klimawandel und Extremwetterlagen"/><p>Folgen für die Wirtschaft durch Klimawandel und Extremwetterlagen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Benjamin Weber, ARD Istanbul, zzt. Teheran, über die erneuten US-Angriffe auf Iran</title>
-      <id>https://www.tagesschau.de/video/video-1619174.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619174.html"/>
-      <updated>2026-07-23T12:34:21Z</updated>
-      <published>2026-07-23T12:34:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ea9c26fc-c9a2-4278-a92a-002064f01ed5/AAABn43_9Ic/AAABnSSvsdE/16x9-small/sendungsbild-1769006.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ea9c26fc-c9a2-4278-a92a-002064f01ed5/AAABn43_9Ic/AAABnSSvsdE/16x9-small/sendungsbild-1769006.jpg?width=320" alt="Benjamin Weber, ARD Istanbul, zzt. Teheran, über die erneuten US-Angriffe auf Iran"/><p>Benjamin Weber, ARD Istanbul, zzt. Teheran, über die erneuten US-Angriffe auf Iran</p>]]></content>
     </entry>
 </feed>
