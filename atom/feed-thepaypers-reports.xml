@@ -5,18 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-06-11T00:00:00Z</updated>
+  <updated>2026-06-17T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Global Fraud Trends 2026</title>
+      <id>https://thepaypers.com/fraud-and-fincrime/reports/global-fraud-trends-2026</id>
+      <link rel="alternate" href="https://thepaypers.com/fraud-and-fincrime/reports/global-fraud-trends-2026"/>
+      <updated>2026-06-17T00:00:00Z</updated>
+      <published>2026-06-17T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ravelin-report%20banner.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ravelin-report%20banner.png" alt="Global Fraud Trends 2026"/><p>Global Fraud Trends 2026</p>]]></content>
+    </entry>
+    <entry>
       <title>Agentic winners will be determined by Trust not Tech</title>
-      <id>https://thepaypers.com/reports</id>
-      <link rel="alternate" href="https://thepaypers.com/reports"/>
+      <id>https://thepaypers.com/payments/reports/agentic-winners-will-be-determined-by-trust-not-tech</id>
+      <link rel="alternate" href="https://thepaypers.com/payments/reports/agentic-winners-will-be-determined-by-trust-not-tech"/>
       <updated>2026-06-11T00:00:00Z</updated>
       <published>2026-06-11T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ecommpay_webinar_Agentic_June_2026.png"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ecommpay_webinar_Agentic_June_2026.png" alt="Agentic winners will be determined by Trust not Tech"/><p>Agentic winners will be determined by Trust not Tech</p>]]></content>
+    </entry>
+    <entry>
+      <title>The Payment Experience Revolution: Insights from B2B Buyers Across EMEA</title>
+      <id>https://thepaypers.com/payments/reports/the-payment-experience-revolution-insights-from-b2b-buyers-across-emea</id>
+      <link rel="alternate" href="https://thepaypers.com/payments/reports/the-payment-experience-revolution-insights-from-b2b-buyers-across-emea"/>
+      <updated>2026-05-21T00:00:00Z</updated>
+      <published>2026-05-21T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Trevipay_report_2026.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Trevipay_report_2026.png" alt="The Payment Experience Revolution: Insights from B2B Buyers Across EMEA"/><p>The Payment Experience Revolution: Insights from B2B Buyers Across EMEA</p>]]></content>
+    </entry>
+    <entry>
+      <title>Global Stablecoins Report 2026</title>
+      <id>https://thepaypers.com/crypto-web3-and-cbdc/reports/global-stablecoins-report-2026</id>
+      <link rel="alternate" href="https://thepaypers.com/crypto-web3-and-cbdc/reports/global-stablecoins-report-2026"/>
+      <updated>2026-03-25T00:00:00Z</updated>
+      <published>2026-03-25T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png" alt="Global Stablecoins Report 2026"/><p>Global Stablecoins Report 2026</p>]]></content>
+    </entry>
+    <entry>
+      <title>The guide to verifying identities around the world</title>
+      <id>https://thepaypers.com/fraud-and-fincrime/reports/the-guide-to-verifying-identities-around-the-world</id>
+      <link rel="alternate" href="https://thepaypers.com/fraud-and-fincrime/reports/the-guide-to-verifying-identities-around-the-world"/>
+      <updated>2025-10-31T00:00:00Z</updated>
+      <published>2025-10-31T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2025/VIATW_Persona_report.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2025/VIATW_Persona_report.png" alt="The guide to verifying identities around the world"/><p>The guide to verifying identities around the world</p>]]></content>
+    </entry>
+    <entry>
+      <title>Web 3 Payment Acceptance Report 2025</title>
+      <id>https://thepaypers.com/crypto-web3-and-cbdc/reports/web-3-payment-acceptance-report-2025</id>
+      <link rel="alternate" href="https://thepaypers.com/crypto-web3-and-cbdc/reports/web-3-payment-acceptance-report-2025"/>
+      <updated>2025-07-02T00:00:00Z</updated>
+      <published>2025-07-02T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/old/reports/crypto-report-2025-twitter-1024x512.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/old/reports/crypto-report-2025-twitter-1024x512.png" alt="Web 3 Payment Acceptance Report 2025"/><p>Web 3 Payment Acceptance Report 2025</p>]]></content>
     </entry>
 </feed>
