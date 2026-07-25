@@ -23,6 +23,9 @@ jobs:
           - seekingalpha-notable-calls
           - tagesschau-topthemen
           - marketscreener
+          - correctiv-faktencheck
+          - thepaypers-reports
+          - ad-magazin-smallspaces
 
     steps:
       - name: Checkout
