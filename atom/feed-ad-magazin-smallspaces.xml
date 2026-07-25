@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de-DE">
+  <title>AD Magazin – Small Spaces</title>
+  <subtitle>AD Magazin – Small Spaces</subtitle>
+  <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
+  <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
+  <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
+  <updated>2026-07-25T21:02:25Z</updated>
+  <author>
+    <name>AD Magazin – Small Spaces</name>
+  </author>
+  <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Kleine Wohnung in Madrid: So wurden dunkle 51 Quadratmeter zum minimalistischen Zuhause mit Industrial-Touch</title>
+      <id>https://www.ad-magazin.de/tag/smallspaces</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
+      <updated>2026-07-25T21:02:25Z</updated>
+      <published>2026-07-25T21:02:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a5dd5ba5275c9de66e485c1/1:1/w_354%2Cc_limit/04_AndreaOvando.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a5dd5ba5275c9de66e485c1/1:1/w_354%2Cc_limit/04_AndreaOvando.jpg" alt="Kleine Wohnung in Madrid: So wurden dunkle 51 Quadratmeter zum minimalistischen Zuhause mit Industrial-Touch"/><p>Kleine Wohnung in Madrid: So wurden dunkle 51 Quadratmeter zum minimalistischen Zuhause mit Industrial-Touch</p>]]></content>
+    </entry>
+</feed>
