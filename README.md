@@ -216,6 +216,9 @@ matrix:
     - seekingalpha-notable-calls
     - tagesschau-topthemen
     - marketscreener
+    - correctiv-faktencheck
+    - thepaypers-reports
+    - ad-magazin-smallspaces
     - meine-site       # ← neu
 ```
 
