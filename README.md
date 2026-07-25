@@ -98,6 +98,51 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   (Provider-Icon rechts neben dem Timestamp). Items ohne Label oder mit anderer Quelle (z. B.
   MarketScreener/Zonebourse) bleiben.
 
+### `correctiv-faktencheck` → `atom/feed-correctiv-faktencheck.xml`
+- **Engine:** Default (HTTPS) — die Übersichtsseite (`faktencheck/neueste-artikel/`) ist
+  server-gerendert (WordPress/Elementor, Theme `correctiv-theme`).
+- **Selektoren (gegen echtes DOM verifiziert):** Item-Klammer `teaserSplit` = `<a class="teaser__item`,
+  Titel `<h3 class="teaser__headline">`, Datum `<span class="teaser__date">` (`TT.MM.JJ`). `linkSelector`
+  matcht die Artikel-URL klassenunabhängig über das Datums-Pfadmuster (`…/JJJJ/MM/TT/slug/`) und greift so
+  für alle Ressorts (`/faktencheck/…`, `/faktencheck/<ressort>/…`, auch `/hybride-kriegsfuehrung/…`).
+- **Datumsparser erweitert:** `parseFlexibleDate` versteht jetzt das rein numerische Kurzformat
+  `23.07.26` / `23.07.2026` (2-stelliges Jahr → 2000+JJ); `Date.parse` konnte das vorher nicht.
+  Kollidiert nicht mit den Uhrzeit-/Monatsnamen-Formaten (getestet).
+
+### `thepaypers-reports` → `atom/feed-thepaypers-reports.xml`
+- **Engine:** `browser` (Patchright). Die Seite ist eine Nuxt/JS-App: das SSR-HTML enthält nur das
+  Flagship-Hero; die kuratierte Report-Liste (dein Screenshot) wird erst client-seitig gerendert — der
+  Headless-Browser rendert sie mit.
+- **Selektoren (gegen gerendertes DOM verifiziert):** Item-Klammer `teaserSplit` =
+  `<div class="py-4 border-b last:border-b-0">`, Titel ist ein **`<p class="… text-lg font-semibold">`**
+  (kein `<h>`!), Datum als Muster `TT Mon JJJJ` (z. B. `11 Jun 2026`). `linkSelector` matcht
+  `…/<kategorie>/reports/<slug>`; ein Negative-Lookahead schließt den `/register?return=…`-„Download
+  Report"-Link aus. Englische Inhalte → `language: en`.
+
+### `ad-magazin-smallspaces` → `atom/feed-ad-magazin-smallspaces.xml`
+- **Engine:** `browser` + Residential-Proxy (`proxyCountry: de`, geo-konsistente
+  `proxyLocale`/`proxyTimezone`). AD (Condé Nast, Copilot-CMS) ist JS-gerendert.
+- **Selektoren (gegen gerendertes DOM verifiziert):** Item-Klammer `teaserSplit` =
+  `summary-item summary-item--article` (stabile semantische Copilot-Klasse; die gehashten
+  `SummaryItemWrapper-xxxxx`-Klassen bewusst gemieden, da sie bei Redeploys wechseln), Titel
+  `<h… data-testid="SummaryItemHed">`, Link = absolute `…/artikel/…`-URL des Hed-Links.
+- **Datum via Detail-Fetch:** Das Tag-Listing enthält **kein** Datum (kein Timestamp, kein
+  Preload-JSON). Deshalb holt der Scraper es pro Artikel von der Artikelseite —
+  `detailDateSelector` liest die **ISO-`datetime`** des Publish-`<time>` aus dem Artikel-Header
+  (`ContentHeaderPublishDate…datetime="2026-07-24T14:17:28+02:00"`), also exakter Zeitstempel inkl.
+  Zeitzone, locale-unabhängig und auf das stabile `data-testid` gescoped (im Artikel nur 1× vorhanden).
+  `parseFlexibleDate` versteht daneben auch das deutsche Langformat `TT. Monat JJJJ` (`24. Juli 2026`)
+  als allgemeinen Fallback. Der Detail-Fetch läuft **nach** dem Cap (nur für die final ausgelieferten
+  Items) und pro-Artikel fault-isoliert. Das Datum ist server-gerendert (im View-Source vorhanden),
+  daher `detailEngine: "https"` — schlanke HTTPS-Fetches über die DE-Wohn-IP statt Browser; nur die
+  eine Listing-Seite braucht `engine: browser`. Bleibt eine Artikelseite trotzdem blockiert, liefert
+  ihr Detail-Fetch `null` → das jeweilige `pubDate` fällt auf „jetzt" zurück (Feed läuft weiter).
+- **Runtime-Vorbehalt (Bot-Block):** Die Selektoren stimmen; offen bleibt der **Zugriff**. AD ist
+  bot-geschützt und liefert Datacenter-/CI-IPs typischerweise eine Block-Seite (dieselbe Klasse wie
+  SeekingAlpha/MarketScreener). Patchright + Wohn-IP sind ein Versuch; bei Fingerprinting bleibt der
+  Feed leer (Exit 2 → Snapshot statt Fehlermail). Zuverlässig wäre eine ScrapingBee-Engine (in dieser
+  Version nicht verdrahtet).
+
 ## Engines (in `scraper.js`)
 
 - **Default** — HTML laden, optional via `containerStart`/`containerEnd` zuschneiden, an
@@ -143,7 +188,8 @@ Uhrzeit-Formate ab.
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
 `engine`, `parser`, `filter`, `excludeIf`, `containerStart`/`containerEnd`, `language`,
 `gaugeOutput`, `urls`, `tickers`/`tickerTemplate`, `proxy: false` (Proxy-Opt-out; Proxy ist
-global an), `proxyCountry`/`proxyLocale`/`proxyTimezone` — ohne `engine`-Feld läuft die
+global an), `proxyCountry`/`proxyLocale`/`proxyTimezone`, `detailDateSelector`/`detailEngine`
+(Datum von der Artikelseite nachladen, wenn es im Listing fehlt) — ohne `engine`-Feld läuft die
 Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext der Seite ab
 (Strg+U im Browser).
 

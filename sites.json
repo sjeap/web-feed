@@ -89,5 +89,47 @@
     "titleSelector": "<p class=\"txt-s4 txt-overflow-3 my-0\"><b>([\\s\\S]*?)<\\/b>",
     "dateSelector": "<span class=\"txt-s1\">([\\s\\S]*?)<\\/span>",
     "linkSelector": "href=\"(/boerse-nachrichten/[^\"]+)\""
+  },
+  {
+    "id": "correctiv-faktencheck",
+    "name": "CORRECTIV – Neueste Faktenchecks",
+    "url": "https://correctiv.org/faktencheck/neueste-artikel/",
+    "language": "de-DE",
+    "filter": null,
+    "output": "atom/feed-correctiv-faktencheck.xml",
+    "teaserSplit": "<a class=\"teaser__item",
+    "titleSelector": "<h[23][^>]*teaser__headline[^>]*>([\\s\\S]*?)<\\/h[23]>",
+    "dateSelector": "teaser__date\">([\\s\\S]*?)<\\/span>",
+    "linkSelector": "href=\"(https://correctiv\\.org/[a-z0-9/-]*\\d{4}/\\d{2}/\\d{2}/[^\"]+)\""
+  },
+  {
+    "id": "thepaypers-reports",
+    "name": "The Paypers – Reports",
+    "url": "https://thepaypers.com/reports",
+    "engine": "browser",
+    "language": "en",
+    "filter": null,
+    "output": "atom/feed-thepaypers-reports.xml",
+    "teaserSplit": "<div class=\"py-4 border-b last:border-b-0\"",
+    "titleSelector": "<p[^>]*text-lg font-semibold[^>]*>([\\s\\S]*?)<\\/p>",
+    "dateSelector": "(\\d{1,2}\\s+[A-Za-z]{3,9}\\s+\\d{4})",
+    "linkSelector": "href=\"(https://thepaypers\\.com/(?!register)[^\"]*/reports/[^\"]+)\""
+  },
+  {
+    "id": "ad-magazin-smallspaces",
+    "name": "AD Magazin – Small Spaces",
+    "url": "https://www.ad-magazin.de/tag/smallspaces",
+    "engine": "browser",
+    "proxyCountry": "de",
+    "proxyLocale": "de-DE",
+    "proxyTimezone": "Europe/Berlin",
+    "language": "de-DE",
+    "filter": null,
+    "output": "atom/feed-ad-magazin-smallspaces.xml",
+    "teaserSplit": "summary-item summary-item--article",
+    "titleSelector": "data-testid=\"SummaryItemHed\">([\\s\\S]*?)<\\/h[23]>",
+    "linkSelector": "href=\"(https://www\\.ad-magazin\\.de/artikel/[^\"]+)\"",
+    "detailEngine": "https",
+    "detailDateSelector": "ContentHeaderPublishDate[^>]*datetime=\"([^\"]+)\""
   }
 ]

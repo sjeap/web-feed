@@ -2,6 +2,15 @@
  * scraper.js — Matrix-fähig (robuste Variante, v4)
  * Aufruf: node scraper.js <site-id>
  *
+ * Neu in v6:
+ *  • Optionale Detail-Anreicherung: fehlt das Datum im Listing, holt der Scraper
+ *    es von der Artikelseite. Felder `detailDateSelector` (Regex, Gruppe 1) und
+ *    optional `detailEngine`. Browser-Detail-Fetch nutzt EINEN Kontext für alle
+ *    Artikel (fetchDetailsBrowser); pro-URL fault-isoliert. Läuft nach dem Cap,
+ *    d. h. nur für final ausgelieferte Items.
+ *  • parseFlexibleDate versteht zusätzlich das deutsche Langformat OHNE Uhrzeit
+ *    ("24. Juli 2026", TT. Monat JJJJ).
+ *
  * Neu in v4.3:
  *  • Item-Cap pro Feed/Quelle 30 → 25.
  *  • RSS-Bild-Fallback durchsucht auch content:encoded (WordPress-Feeds).
@@ -25,8 +34,9 @@
  *    → grenzen das HTML vor dem teaserSplit auf einen bestimmten Bereich ein
  *    (z. B. nur die "Popular"-Sidebar einer Themenseite)
  *  • parseFlexibleDate (vorher parseGermanDate) versteht jetzt zusätzlich
- *    englische Formate ("8th Apr, 2026", "Apr 8, 2026") und relative
- *    Formate ("5 hours ago", "2 days ago", "3 weeks ago")
+ *    englische Formate ("8th Apr, 2026", "Apr 8, 2026"), relative Formate
+ *    ("5 hours ago", "2 days ago", "3 weeks ago") und rein numerische deutsche
+ *    Kurzformate ("23.07.26", "23.07.2026")
  *
  * Aus v3:
  *  • Browser-Engine nutzt Patchright (Stealth-Playwright-Fork)
@@ -184,29 +194,20 @@ function fetchPageHttps(url, redirectCount = 0) {
 
 // ─────────────────────────────────────────────────────────────────────
 // Engine 2: Patchright Chromium (stealth, für Cloudflare-protected Seiten)
-// ─────────────────────────────────────────────────────────────────────
-async function fetchPageBrowser(url, proxyConfig = null) {
-  console.log("   🌐 Engine: Patchright Chromium (Stealth-Modus)");
-  const { chromium } = require("patchright");
-
-  const userDataDir = fs.mkdtempSync(path.join(os.tmpdir(), "patchright-"));
-
-  // Locale/Timezone geo-konsistent zum Proxy-Land halten (Fingerprint-Konflikte
-  // vermeiden); Defaults unverändert, wenn nichts gesetzt ist.
+// Gemeinsame Patchright-Launch-Optionen (geo-konsistente Locale/Timezone zum
+// Proxy-Land, Proxy optional). Von fetchPageBrowser UND fetchDetailsBrowser genutzt.
+function buildBrowserLaunchOpts(proxyConfig) {
   const locale     = site.proxyLocale   || "en-US";
   const timezoneId = site.proxyTimezone || "America/New_York";
   const acceptLang = `${locale},${locale.split("-")[0]};q=0.9`;
-
   const launchOpts = {
-    headless:   true,
-    viewport:   { width: 1366, height: 768 },
+    headless: true,
+    viewport: { width: 1366, height: 768 },
     locale,
     timezoneId,
     // Kein userAgent-Override: Patchright nutzt die native UA des gebündelten
     // Chromium — immer selbstkonsistent mit Engine/Client-Hints, kein alternder String.
-    extraHTTPHeaders: {
-      "Accept-Language": acceptLang,
-    },
+    extraHTTPHeaders: { "Accept-Language": acceptLang },
   };
   if (proxyConfig) {
     launchOpts.proxy = {
@@ -214,6 +215,19 @@ async function fetchPageBrowser(url, proxyConfig = null) {
       username: proxyConfig.username,
       password: proxyConfig.password,
     };
+  }
+  return launchOpts;
+}
+
+// ─────────────────────────────────────────────────────────────────────
+async function fetchPageBrowser(url, proxyConfig = null) {
+  console.log("   🌐 Engine: Patchright Chromium (Stealth-Modus)");
+  const { chromium } = require("patchright");
+
+  const userDataDir = fs.mkdtempSync(path.join(os.tmpdir(), "patchright-"));
+
+  const launchOpts = buildBrowserLaunchOpts(proxyConfig);
+  if (proxyConfig) {
     console.log(`   🔒 Proxy aktiv (DataImpulse, ${proxyConfig._label})`);
   }
 
@@ -262,11 +276,58 @@ async function fetchPageBrowser(url, proxyConfig = null) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Engine-Dispatcher
-// engineOverride erlaubt es, pro Quelle eine andere Engine zu wählen als die
-// Site-Default-Engine (z. B. HTML-Seite via "browser", RSS-Feeds via "https"
-// im selben Feed). Ohne Override gilt site.engine wie bisher.
+// Detail-Anreicherung: HTML mehrerer Artikelseiten holen (z. B. um das
+// Veröffentlichungsdatum von der Artikelseite zu lesen, wenn es im Listing
+// fehlt — AD/Condé-Nast). Browser-Variante nutzt EINEN persistenten Kontext
+// für alle URLs (nur ein Chromium-Start statt einem pro Artikel) und rendert
+// bewusst schlank (kürzeres Warten, Bild/Font/Media geblockt). Pro-URL fault-
+// isoliert: eine geblockte/kaputte Seite liefert null, andere laufen weiter.
 // ─────────────────────────────────────────────────────────────────────
+async function fetchDetailsBrowser(urls, proxyConfig = null) {
+  const out = new Map();
+  if (!urls.length) return out;
+  console.log(`   🌐 Detail-Engine: Patchright (1 Kontext, ${urls.length} Seiten)`);
+  const { chromium } = require("patchright");
+  const userDataDir = fs.mkdtempSync(path.join(os.tmpdir(), "patchright-det-"));
+  const context = await chromium.launchPersistentContext(userDataDir, buildBrowserLaunchOpts(proxyConfig));
+  try {
+    const page = await context.newPage();
+    if (proxyConfig) {
+      await page.route("**/*", (route) => {
+        const t = route.request().resourceType();
+        if (t === "image" || t === "media" || t === "font") return route.abort();
+        return route.continue();
+      });
+    }
+    for (const url of urls) {
+      try {
+        await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
+        await page.waitForTimeout(2000);   // Header/Datum ist SSR → kurzes Warten genügt
+        out.set(url, await page.content());
+      } catch (e) {
+        console.error(`   ⚠ Detail-Fetch übersprungen (${url}): ${e.message}`);
+        out.set(url, null);
+      }
+    }
+  } finally {
+    await context.close();
+    try { fs.rmSync(userDataDir, { recursive: true, force: true }); } catch (e) {}
+  }
+  return out;
+}
+
+async function fetchDetails(urls, engine, proxyConfig = null) {
+  if (engine === "browser") return fetchDetailsBrowser(urls, proxyConfig);
+  // HTTPS: sequenziell, pro-URL fault-isoliert.
+  const out = new Map();
+  for (const url of urls) {
+    try { out.set(url, await fetchPageHttps(url)); }
+    catch (e) { console.error(`   ⚠ Detail-Fetch übersprungen (${url}): ${e.message}`); out.set(url, null); }
+  }
+  return out;
+}
+
+
 async function fetchPage(url, engineOverride) {
   const engine = engineOverride || site.engine;
   if (engine === "browser") {
@@ -894,6 +955,33 @@ function parseFlexibleDate(str) {
     }
   }
 
+  // ── Deutsch lang OHNE Uhrzeit: "24. Juli 2026" (TT. Monat JJJJ), optional mit
+  //    Wochentag/Präfix davor. Copilot-Artikelseiten (AD) nutzen dieses Format im
+  //    Header. NACH der "um HH:MM Uhr"-Variante platziert, damit diese Vorrang hat.
+  const deLong = s.match(/(\d{1,2})\.\s+([A-Za-zÄÖÜäöüß]+)\s+(\d{4})/);
+  if (deLong) {
+    const month = months[deLong[2]];
+    if (month) {
+      return new Date(+deLong[3], month - 1, +deLong[1]).toUTCString();
+    }
+  }
+
+  // ── Deutsch numerisch kurz: "23.07.26" / "23.07.2026" (DD.MM.YY[YY])
+  //    correctiv (und andere) listen Datumsangaben so; Date.parse versteht das
+  //    Format nicht (liefert NaN). 2-stelliges Jahr → 2000+YY. Keine Kollision
+  //    mit den Uhrzeit-/Monatsnamen-Varianten oben: die enthalten "Uhr" bzw.
+  //    einen Monatsnamen, diese Variante ist rein numerisch mit drei Gruppen.
+  const deNum = s.match(/\b(\d{1,2})\.(\d{1,2})\.(\d{2}|\d{4})\b/);
+  if (deNum) {
+    const day   = +deNum[1];
+    const month = +deNum[2];
+    const year  = deNum[3].length === 2 ? 2000 + (+deNum[3]) : +deNum[3];
+    if (month >= 1 && month <= 12 && day >= 1 && day <= 31) {
+      const d2 = new Date(year, month - 1, day);
+      if (!isNaN(d2.getTime())) return d2.toUTCString();
+    }
+  }
+
   // ── ISO/RFC fallback
   const iso = Date.parse(s);
   if (!isNaN(iso)) return new Date(iso).toUTCString();
@@ -1324,6 +1412,25 @@ async function main() {
     }
     items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
     if (items.length > 25) items = items.slice(0, 25);
+
+    // Optionale Detail-Anreicherung: Datum von der Artikelseite holen, wenn es im
+    // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH dem Cap → nur für die final
+    // ausgelieferten Items wird ein Zweit-Fetch gemacht. Pro-Item fault-isoliert;
+    // schlägt der Detail-Fetch fehl (Block/Timeout), bleibt das bisherige pubDate.
+    if (site.detailDateSelector && items.length) {
+      const dEngine = site.detailEngine || site.engine || "https";
+      console.log(`   🔎 Detail-Fetch fürs Datum: ${items.length} Artikel (engine=${dEngine})`);
+      const htmlByUrl = await fetchDetails(items.map(it => it.link), dEngine, PROXY);
+      let updated = 0;
+      for (const it of items) {
+        const dhtml = htmlByUrl.get(it.link);
+        if (!dhtml) continue;
+        const ds = extractText(dhtml, site.detailDateSelector);
+        if (ds) { it.pubDate = parseFlexibleDate(ds); updated++; }
+      }
+      items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
+      console.log(`   📅 Detail-Datum gesetzt: ${updated}/${items.length}`);
+    }
 
     if (sources.length > 1) {
       console.log(`   🧩 Aggregiert: ${sources.length} Quellen · ${merged.length} → ${items.length} Item(s) (dedupliziert, sortiert)`);
