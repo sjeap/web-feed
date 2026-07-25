@@ -1,1 +1,238 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de-DE">
+  <title>CORRECTIV – Neueste Faktenchecks</title>
+  <subtitle>CORRECTIV – Neueste Faktenchecks</subtitle>
+  <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
+  <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
+  <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
+  <updated>2026-07-25T21:01:45Z</updated>
+  <author>
+    <name>CORRECTIV – Neueste Faktenchecks</name>
+  </author>
+  <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Luxushotels: Keine Hinweise, dass Albanien Land an Israel verkauft</title>
+      <id>https://correctiv.org/faktencheck/hintergrund/2026/07/15/luxushotels-keine-hinweise-dass-albanien-land-an-israel-verkauft/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/07/15/luxushotels-keine-hinweise-dass-albanien-land-an-israel-verkauft/"/>
+      <updated>2026-07-25T21:01:45Z</updated>
+      <published>2026-07-25T21:01:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/kushner-albanien-trump-sazan-israel-scaled-e1784041395910.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/kushner-albanien-trump-sazan-israel-scaled-e1784041395910.jpg" alt="Nahe dem Gebiet Zvërnec, das neben der Insel Sazan im Zentrum der Proteste steht, versammeln sich Protestierende"/><p>Luxushotels: Keine Hinweise, dass Albanien Land an Israel verkauft</p>]]></content>
+    </entry>
+    <entry>
+      <title>Deutschlandfahne verboten? Beiträgen zu viralem Video fehlt Kontext</title>
+      <id>https://correctiv.org/faktencheck/hintergrund/2026/06/30/deutschlandfahne-verboten-beitraegen-zu-viralem-video-fehlt-kontext/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/06/30/deutschlandfahne-verboten-beitraegen-zu-viralem-video-fehlt-kontext/"/>
+      <updated>2026-07-25T21:01:45Z</updated>
+      <published>2026-07-25T21:01:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/fussball-wm-berlin-fahnen-e1782816647654.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/fussball-wm-berlin-fahnen-e1782816647654.jpg" alt="Deutschlandfahne verboten? Beiträgen zu viralem Video fehlt Kontext"/><p>Deutschlandfahne verboten? Beiträgen zu viralem Video fehlt Kontext</p>]]></content>
+    </entry>
+    <entry>
+      <title>„In Ihre Wohnung“: Artikel über neue Befugnisse für Verfassungsschutz ist KI-Fake</title>
+      <id>https://correctiv.org/faktencheck/gesellschaft/2026/07/24/zeitungsartikel-verfassungsschutz-ki-fake/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/gesellschaft/2026/07/24/zeitungsartikel-verfassungsschutz-ki-fake/"/>
+      <updated>2026-07-24T00:00:00Z</updated>
+      <published>2026-07-24T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/Archivbild-Alexander-Dobrindt-Picture-Alliance-20260715-scaled-e1784886731669.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/Archivbild-Alexander-Dobrindt-Picture-Alliance-20260715-scaled-e1784886731669.jpg" alt="Alexander Dobrindt auf dem Weg zu einer Pressekonferenz"/><p>„In Ihre Wohnung“: Artikel über neue Befugnisse für Verfassungsschutz ist KI-Fake</p>]]></content>
+    </entry>
+    <entry>
+      <title>Video zeigt kein Schreddern von AfD-Stimmen, sondern gefälschte Briefwahlunterlagen</title>
+      <id>https://correctiv.org/faktencheck/2026/07/23/video-zeigt-kein-schreddern-von-afd-stimmen-sondern-gefaelschte-briefwahlunterlagen/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/23/video-zeigt-kein-schreddern-von-afd-stimmen-sondern-gefaelschte-briefwahlunterlagen/"/>
+      <updated>2026-07-23T00:00:00Z</updated>
+      <published>2026-07-23T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/briefwahl-landtagswahlen-afd-schredder-wahlbetrug-scaled-e1784803812970.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/briefwahl-landtagswahlen-afd-schredder-wahlbetrug-scaled-e1784803812970.jpeg" alt="Zur Briefwahl kursieren immer wieder Falschinformationen (Foto: Thomas Frey / DPA / Picture Alliance)"/><p>Video zeigt kein Schreddern von AfD-Stimmen, sondern gefälschte Briefwahlunterlagen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Video eines brennenden Sendemastes in Indien hat keinen Bezug zu 5G</title>
+      <id>https://correctiv.org/faktencheck/2026/07/22/video-eines-brennenden-sendemastes-in-indien-hat-keinen-bezug-zu-5g/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/22/video-eines-brennenden-sendemastes-in-indien-hat-keinen-bezug-zu-5g/"/>
+      <updated>2026-07-22T00:00:00Z</updated>
+      <published>2026-07-22T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/Mobilfunkmast-Indien-Neu-Delhi.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/Mobilfunkmast-Indien-Neu-Delhi.jpg" alt="Video eines brennenden Sendemastes in Indien hat keinen Bezug zu 5G"/><p>Video eines brennenden Sendemastes in Indien hat keinen Bezug zu 5G</p>]]></content>
+    </entry>
+    <entry>
+      <title>Angeblicher Sturm in München: Tiktok-Profile nutzen alte Aufnahmen für Reichweite</title>
+      <id>https://correctiv.org/faktencheck/2026/07/21/angeblicher-sturm-in-muenchen-tiktok-profile-nutzen-alte-aufnahmen-fuer-reichweite/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/21/angeblicher-sturm-in-muenchen-tiktok-profile-nutzen-alte-aufnahmen-fuer-reichweite/"/>
+      <updated>2026-07-21T00:00:00Z</updated>
+      <published>2026-07-21T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/605064074-scaled.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/605064074-scaled.jpg" alt="Angeblicher Sturm in München: Tiktok-Profile nutzen alte Aufnahmen für Reichweite"/><p>Angeblicher Sturm in München: Tiktok-Profile nutzen alte Aufnahmen für Reichweite</p>]]></content>
+    </entry>
+    <entry>
+      <title>Gerüchtekiller #14: Können beim Schielen die Augen stehen bleiben?</title>
+      <id>https://correctiv.org/faktencheck/2026/07/17/geruechtekiller-14-koennen-beim-schielen-die-augen-stehen-bleiben/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/17/geruechtekiller-14-koennen-beim-schielen-die-augen-stehen-bleiben/"/>
+      <updated>2026-07-17T00:00:00Z</updated>
+      <published>2026-07-17T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/pezibear-child-827487-1-scaled-e1784272235768.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/pezibear-child-827487-1-scaled-e1784272235768.jpg" alt="Gerüchtekiller #14: Können beim Schielen die Augen stehen bleiben?"/><p>Gerüchtekiller #14: Können beim Schielen die Augen stehen bleiben?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nein, Hans-Werner Sinn wurde nicht nach einer ZDF-Sendung festgenommen</title>
+      <id>https://correctiv.org/faktencheck/2026/07/16/nein-hans-werner-sinn-wurde-nicht-nach-einer-zdf-sendung-festgenommen/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/16/nein-hans-werner-sinn-wurde-nicht-nach-einer-zdf-sendung-festgenommen/"/>
+      <updated>2026-07-16T00:00:00Z</updated>
+      <published>2026-07-16T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/tinywow_559850222_90851897-scaled-e1784215237837.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/tinywow_559850222_90851897-scaled-e1784215237837.jpg" alt="Nein, Hans-Werner Sinn wurde nicht nach einer ZDF-Sendung festgenommen"/><p>Nein, Hans-Werner Sinn wurde nicht nach einer ZDF-Sendung festgenommen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Tagesschau-Beitrag zu angeblicher Drohung Netanjahus ist eine Fälschung</title>
+      <id>https://correctiv.org/faktencheck/2026/07/16/tagesschau-beitrag-zu-angeblicher-drohung-netanjahus-ist-eine-faelschung/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/16/tagesschau-beitrag-zu-angeblicher-drohung-netanjahus-ist-eine-faelschung/"/>
+      <updated>2026-07-16T00:00:00Z</updated>
+      <published>2026-07-16T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/tiktok-netanjahu-ard-rbb-scaled-e1784210223713.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/tiktok-netanjahu-ard-rbb-scaled-e1784210223713.jpg" alt="Auf Tiktok kursiert ein Deepfake der ARD-Nachrichtensprecherin Romy Hiller. Ähnliche Fälschungen gab es dort bereits von ZDF-Moderator Christian Sievers."/><p>Tagesschau-Beitrag zu angeblicher Drohung Netanjahus ist eine Fälschung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Angebliches Ukraine-Werbeplakat in Indien ist eine Fälschung</title>
+      <id>https://correctiv.org/faktencheck/2026/07/16/angebliches-ukraine-werbeplakat-in-indien-ist-eine-faelschung/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/16/angebliches-ukraine-werbeplakat-in-indien-ist-eine-faelschung/"/>
+      <updated>2026-07-16T00:00:00Z</updated>
+      <published>2026-07-16T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/werbeplakat-indien-ukraine-faktencheck-e1784208669752.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/werbeplakat-indien-ukraine-faktencheck-e1784208669752.jpg" alt="Premierminister Narendra Modi und Präsident Wolodymyr Selenskyj im Profil geben sich die Hand"/><p>Angebliches Ukraine-Werbeplakat in Indien ist eine Fälschung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Gerüchtekiller #13: Hilft Spucke gegen juckende Mückenstiche?</title>
+      <id>https://correctiv.org/faktencheck/2026/07/15/geruechtekiller-13-hilft-spucke-gegen-juckende-mueckenstiche/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/15/geruechtekiller-13-hilft-spucke-gegen-juckende-mueckenstiche/"/>
+      <updated>2026-07-15T00:00:00Z</updated>
+      <published>2026-07-15T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/mikuaalto-mosquito-6396370-1-scaled-e1784129103310.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/mikuaalto-mosquito-6396370-1-scaled-e1784129103310.jpg" alt="Stechmücke auf einem menschlichen Arm"/><p>Gerüchtekiller #13: Hilft Spucke gegen juckende Mückenstiche?</p>]]></content>
+    </entry>
+    <entry>
+      <title>„Massenproteste am Kanzleramt“: Angeblicher Medienbericht ist KI-Fake</title>
+      <id>https://correctiv.org/faktencheck/2026/07/15/massenproteste-am-kanzleramt-angeblicher-medienbericht-ist-ki-fake/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/15/massenproteste-am-kanzleramt-angeblicher-medienbericht-ist-ki-fake/"/>
+      <updated>2026-07-15T00:00:00Z</updated>
+      <published>2026-07-15T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/kanzleramt-protest-juni-ki.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/kanzleramt-protest-juni-ki.jpg" alt="„Massenproteste am Kanzleramt“: Angeblicher Medienbericht ist KI-Fake"/><p>„Massenproteste am Kanzleramt“: Angeblicher Medienbericht ist KI-Fake</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ampel vor Berliner Club „Wilde Renate“ nicht wegen Juni-Hitze geschmolzen</title>
+      <id>https://correctiv.org/faktencheck/2026/07/06/ampel-vor-berliner-club-wilde-renate-nicht-wegen-juni-hitze-geschmolzen/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/06/ampel-vor-berliner-club-wilde-renate-nicht-wegen-juni-hitze-geschmolzen/"/>
+      <updated>2026-07-06T00:00:00Z</updated>
+      <published>2026-07-06T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/ampel-feuer-wilde-renate-club-berlin-hitze-juni-2026-scaled-e1783332220222.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/ampel-feuer-wilde-renate-club-berlin-hitze-juni-2026-scaled-e1783332220222.jpeg" alt="Die verformte Ampel, die in viralen Videos in Sozialen Netzwerken zu sehen ist, lässt sich an der Kreuzung vor dem Berliner Club „Renate“ verorten (Foto: Jürgen Held / Picture Alliance)"/><p>Ampel vor Berliner Club „Wilde Renate“ nicht wegen Juni-Hitze geschmolzen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nein, Annalena Baerbock wurde nicht „aus der UN geworfen“</title>
+      <id>https://correctiv.org/faktencheck/2026/07/03/nein-annalena-baerbock-wurde-nicht-aus-der-un-geworfen/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/03/nein-annalena-baerbock-wurde-nicht-aus-der-un-geworfen/"/>
+      <updated>2026-07-03T00:00:00Z</updated>
+      <published>2026-07-03T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/rauswurf-un-baerbock-betrug-scaled-e1782834094331.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/rauswurf-un-baerbock-betrug-scaled-e1782834094331.jpg" alt="Annalena Baerbock leitet als Präsidentin der UN-Generalversammlung deren Sitzungen"/><p>Nein, Annalena Baerbock wurde nicht „aus der UN geworfen“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Hat die Whatsapp-KI „ab Samstag“ Zugriff auf private Chats? Warum dieser Kettenbrief so nicht stimmt</title>
+      <id>https://correctiv.org/faktencheck/2026/06/30/kuenstliche-intelligenz-ki-whatsapp-warum-dieser-kettenbrief-so-nicht-stimmt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/30/kuenstliche-intelligenz-ki-whatsapp-warum-dieser-kettenbrief-so-nicht-stimmt/"/>
+      <updated>2026-06-30T00:00:00Z</updated>
+      <published>2026-06-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/meta-ai-whatsapp-ki-Picture-Alliance-540631814-e1782828885325.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/meta-ai-whatsapp-ki-Picture-Alliance-540631814-e1782828885325.jpg" alt="Handy-Chatverlauf mit der Whatsapp-KI Meta AI"/><p>Hat die Whatsapp-KI „ab Samstag“ Zugriff auf private Chats? Warum dieser Kettenbrief so nicht stimmt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Schule in NRW: Leiterin dementiert angebliches Deutschlandflaggen-Verbot</title>
+      <id>https://correctiv.org/faktencheck/2026/06/30/schule-in-nrw-leiterin-dementiert-angebliches-deutschlandflaggen-verbot/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/30/schule-in-nrw-leiterin-dementiert-angebliches-deutschlandflaggen-verbot/"/>
+      <updated>2026-06-30T00:00:00Z</updated>
+      <published>2026-06-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/moritz320-banner-1512876-scaled-e1782828337705.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/moritz320-banner-1512876-scaled-e1782828337705.jpg" alt="Schule in NRW: Leiterin dementiert angebliches Deutschlandflaggen-Verbot"/><p>Schule in NRW: Leiterin dementiert angebliches Deutschlandflaggen-Verbot</p>]]></content>
+    </entry>
+    <entry>
+      <title>Gerüchtekiller #12: Schläft man bei Vollmond schlechter?</title>
+      <id>https://correctiv.org/faktencheck/2026/06/30/geruechtekiller-schlaeft-man-bei-vollmond-schlechter/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/30/geruechtekiller-schlaeft-man-bei-vollmond-schlechter/"/>
+      <updated>2026-06-30T00:00:00Z</updated>
+      <published>2026-06-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/geruechtekiller-vollmond-pixifant-pixabay-e1782821434222.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/geruechtekiller-vollmond-pixifant-pixabay-e1782821434222.jpg" alt="Heller Vollmond bei Nacht"/><p>Gerüchtekiller #12: Schläft man bei Vollmond schlechter?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Hitzedarstellung im TV: Video zu Wetterkarten ist nicht echt</title>
+      <id>https://correctiv.org/faktencheck/2026/06/29/hitzedarstellung-im-tv-video-zu-wetterkarten-ist-nicht-echt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/29/hitzedarstellung-im-tv-video-zu-wetterkarten-ist-nicht-echt/"/>
+      <updated>2026-06-29T00:00:00Z</updated>
+      <published>2026-06-29T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/wetterkarte-vergleich-ki-e1782748062124.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/wetterkarte-vergleich-ki-e1782748062124.jpg" alt="Hitzedarstellung im TV: Video zu Wetterkarten ist nicht echt"/><p>Hitzedarstellung im TV: Video zu Wetterkarten ist nicht echt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Altes AfD-Video zur CDU und „Muslim Interaktiv“ geht erneut viral</title>
+      <id>https://correctiv.org/faktencheck/2026/06/29/altes-afd-video-zur-cdu-und-muslim-interaktiv-geht-erneut-viral/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/29/altes-afd-video-zur-cdu-und-muslim-interaktiv-geht-erneut-viral/"/>
+      <updated>2026-06-29T00:00:00Z</updated>
+      <published>2026-06-29T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/cdu-abstimmung-verbot-muslim-interaktiv-faktencheck-e1782746575677.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/cdu-abstimmung-verbot-muslim-interaktiv-faktencheck-e1782746575677.jpg" alt="Ein Schild auf einer Demo, auf dem „Stop Kalifat“ steht"/><p>Altes AfD-Video zur CDU und „Muslim Interaktiv“ geht erneut viral</p>]]></content>
+    </entry>
+    <entry>
+      <title>Video von Kind, das Regenbogenflagge in den Müll wirft, ist KI-generiert</title>
+      <id>https://correctiv.org/faktencheck/2026/06/29/video-von-kind-das-regenbogenflagge-in-den-muell-wirft-ist-ki-generiert/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/29/video-von-kind-das-regenbogenflagge-in-den-muell-wirft-ist-ki-generiert/"/>
+      <updated>2026-06-29T00:00:00Z</updated>
+      <published>2026-06-29T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/nancydowd-pride-828056-scaled-e1782738404709.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/nancydowd-pride-828056-scaled-e1782738404709.jpg" alt="Video von Kind, das Regenbogenflagge in den Müll wirft, ist KI-generiert"/><p>Video von Kind, das Regenbogenflagge in den Müll wirft, ist KI-generiert</p>]]></content>
+    </entry>
+    <entry>
+      <title>Landverkauf an Israel? Bild von Grenzschild in Albanien ist nicht echt</title>
+      <id>https://correctiv.org/faktencheck/2026/06/26/landverkauf-an-israel-bild-von-grenzschild-in-albanien-ist-nicht-echt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/26/landverkauf-an-israel-bild-von-grenzschild-in-albanien-ist-nicht-echt/"/>
+      <updated>2026-06-26T00:00:00Z</updated>
+      <published>2026-06-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/zvernec-jared-kushner-zaun-israel-albanien-scaled-e1782457105738.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/zvernec-jared-kushner-zaun-israel-albanien-scaled-e1782457105738.jpg" alt="Nahe Zvërnec waren am 6. Juni Betonfundamente eines Zaunes zu sehen"/><p>Landverkauf an Israel? Bild von Grenzschild in Albanien ist nicht echt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Warum die Polizei das Trommeln auf einer Anti-Merz-Demo einschränkte</title>
+      <id>https://correctiv.org/faktencheck/hintergrund/2026/06/24/warum-die-polizei-das-trommeln-auf-einer-anti-merz-demo-einschraenkte/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/06/24/warum-die-polizei-das-trommeln-auf-einer-anti-merz-demo-einschraenkte/"/>
+      <updated>2026-06-24T00:00:00Z</updated>
+      <published>2026-06-24T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/trommeln-verbot-demos-faktencheck-e1782295392620.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/trommeln-verbot-demos-faktencheck-e1782295392620.jpg" alt="Eine Frau auf einer Demo hält ein Schild mit der Aufschrift &quot;Weg mit der Regierung“"/><p>Warum die Polizei das Trommeln auf einer Anti-Merz-Demo einschränkte</p>]]></content>
+    </entry>
+    <entry>
+      <title>CSD Dresden: Video für Desinformation über Teilnehmendenzahl genutzt</title>
+      <id>https://correctiv.org/faktencheck/2026/06/19/csd-dresden-video-fuer-desinformation-ueber-teilnehmendenzahl-genutzt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/19/csd-dresden-video-fuer-desinformation-ueber-teilnehmendenzahl-genutzt/"/>
+      <updated>2026-06-19T00:00:00Z</updated>
+      <published>2026-06-19T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/csd-dresden-teilnehmerzahl-faktencheck-juergen-loesel-dpa-picture-allaince.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/csd-dresden-teilnehmerzahl-faktencheck-juergen-loesel-dpa-picture-allaince.jpg" alt="Ein Wagen und mehrere Besuchende des CSD Dresden 2026"/><p>CSD Dresden: Video für Desinformation über Teilnehmendenzahl genutzt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nein, Deutschland hat keine 233 Millionen Euro für Sozialwohnungen in der Ukraine zugesagt</title>
+      <id>https://correctiv.org/faktencheck/2026/06/18/nein-deutschland-hat-keine-233-millionen-euro-fuer-sozialwohnungen-in-der-ukraine-zugesagt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/18/nein-deutschland-hat-keine-233-millionen-euro-fuer-sozialwohnungen-in-der-ukraine-zugesagt/"/>
+      <updated>2026-06-18T00:00:00Z</updated>
+      <published>2026-06-18T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/merz-selenskyj-ukaine-sozialer-wohnungsbau-233-millionen-scaled-e1781792893865.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/merz-selenskyj-ukaine-sozialer-wohnungsbau-233-millionen-scaled-e1781792893865.jpg" alt="Der ukrainische Präsident Wolodymyr Selenskyj und Bundeskanzler Friedrich Merz am 14. April bei den Deutsch-Ukrainischen Regierungskonsultationen im Bundeskanzleramt in Berlin"/><p>Nein, Deutschland hat keine 233 Millionen Euro für Sozialwohnungen in der Ukraine zugesagt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Amtliche Mitteilung zu Ruhestörung wegen Türkei-Spiel bei Fußball-WM ist gefälscht</title>
+      <id>https://correctiv.org/faktencheck/2026/06/17/amtliche-mitteilung-zu-ruhestoerung-wegen-tuerkei-spiel-bei-fussball-wm-ist-gefaelscht/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/17/amtliche-mitteilung-zu-ruhestoerung-wegen-tuerkei-spiel-bei-fussball-wm-ist-gefaelscht/"/>
+      <updated>2026-06-17T00:00:00Z</updated>
+      <published>2026-06-17T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/fussball-weltmeisterschaft-wm-2026-tuerkei-australien-warnung-bundesamt-bevoelkerungsschutz-katastrophenschutz-ruhestoerung-public-viewing-scaled-e1781706361312.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/fussball-weltmeisterschaft-wm-2026-tuerkei-australien-warnung-bundesamt-bevoelkerungsschutz-katastrophenschutz-ruhestoerung-public-viewing-scaled-e1781706361312.jpeg" alt="Türkische Fußballfans beim Public-Viewing der Fußball-Weltmeisterschaft 2026 in Izmir, Türkei (Symbolbild: Murat Kocabas / Middle East Images / Picture Alliance)"/><p>Amtliche Mitteilung zu Ruhestörung wegen Türkei-Spiel bei Fußball-WM ist gefälscht</p>]]></content>
+    </entry>
+</feed>
