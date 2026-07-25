@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-07-25T06:17:30Z</updated>
+  <updated>2026-07-25T15:03:27Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Insider trades: Johnson &amp; Johnson, TSMC among notable names</title>
+      <id>https://seekingalpha.com/MarketCurrent:4618423</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-07-25T15:03:27Z</updated>
+      <published>2026-07-25T15:03:27Z</published>
+    </entry>
+    <entry>
+      <title>COPX: A Buying Opportunity After Copper Miners&apos; Sharp Pullback</title>
+      <id>4925618</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925618-copx-a-buying-opportunity-after-copper-miners-sharp-pullback?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-25T14:38:26Z</updated>
+      <published>2026-07-25T14:38:26Z</published>
+    </entry>
+    <entry>
+      <title>Joby Aviation: Future Is Here Already</title>
+      <id>https://seekingalpha.com/Article:4925600</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925600-joby-aviation-future-here-already?source=feed_symbol_JOBY"/>
+      <updated>2026-07-25T14:00:00Z</updated>
+      <published>2026-07-25T14:00:00Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: I Was Wrong</title>
+      <id>https://seekingalpha.com/Article:4925591</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925591-tsmc-i-was-wrong?source=feed_symbol_TSM"/>
+      <updated>2026-07-25T13:00:00Z</updated>
+      <published>2026-07-25T13:00:00Z</published>
+    </entry>
+    <entry>
+      <title>10 Best CEFs This Month: Average Yield Of Near 10% (July 2026)</title>
+      <id>4923907</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4923907-10-best-cefs-this-month-average-yield-near-10-percent-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-25T12:30:00Z</updated>
+      <published>2026-07-25T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>Weekly Closed-End Fund Roundup: Battle Heats Up For XFLT, RQI Rights Offering Results (July 19, 2026)</title>
+      <id>4925576</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925576-weekly-closed-end-fund-roundup-battle-heats-up-for-xflt-rqi-rights-offering-results-july-19-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-25T09:48:56Z</updated>
+      <published>2026-07-25T09:48:56Z</published>
+    </entry>
+    <entry>
+      <title>Patience, Liquidity, And The Value Of Optionality</title>
+      <id>4925563</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925563-patience-liquidity-value-of-optionality?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-25T07:20:00Z</updated>
+      <published>2026-07-25T07:20:00Z</published>
+    </entry>
     <entry>
       <title>TSMC Is A Far Safer Buy Than Fabless Giants</title>
       <id>https://seekingalpha.com/Article:4925542</id>
@@ -135,54 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4923627-tsmc-robust-margins-strong-guidance-the-market-is-getting-out-of-hand-here?source=feed_symbol_TSM"/>
       <updated>2026-07-24T11:30:00Z</updated>
       <published>2026-07-24T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas SA (BNP:CA) Q2 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4925245</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925245-bnp-paribas-sa-bnp-ca-q2-2026-earnings-call-transcript?source=feed_symbol_BNPQF"/>
-      <updated>2026-07-24T11:20:29Z</updated>
-      <published>2026-07-24T11:20:29Z</published>
-    </entry>
-    <entry>
-      <title>3 Strong, High-Yield Income ETFs</title>
-      <id>4925226</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925226-three-strong-high-yield-income-etfs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T11:16:34Z</updated>
-      <published>2026-07-24T11:16:34Z</published>
-    </entry>
-    <entry>
-      <title>Potential Investing Opportunity In The Future Of Robotics</title>
-      <id>4925207</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925207-potential-investing-opportunity-in-future-of-robotics?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T10:30:00Z</updated>
-      <published>2026-07-24T10:30:00Z</published>
-    </entry>
-    <entry>
-      <title>FFC: Fully Covered Distribution And Rate Hikes Priced In</title>
-      <id>4925178</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925178-ffc-fully-covered-distribution-and-rate-hikes-priced-in?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T08:49:19Z</updated>
-      <published>2026-07-24T08:49:19Z</published>
-    </entry>
-    <entry>
-      <title>Investing In America&apos;s Backbone: A Small-Cap Opportunity</title>
-      <id>4925189</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925189-investing-america-backbone-small-cap-opportunity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T08:45:00Z</updated>
-      <published>2026-07-24T08:45:00Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen AG 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4925171</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925171-volkswagen-ag-2026-q2-results-earnings-call-presentation?source=feed_symbol_VWAGY"/>
-      <updated>2026-07-24T07:33:27Z</updated>
-      <published>2026-07-24T07:33:27Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen posts €82.44B Q2 revenue, cuts full-year sales growth outlook</title>
-      <id>https://seekingalpha.com/MarketCurrent:4617934</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
-      <updated>2026-07-24T06:38:01Z</updated>
-      <published>2026-07-24T06:38:01Z</published>
     </entry>
 </feed>
