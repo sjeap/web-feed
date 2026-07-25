@@ -122,26 +122,15 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 ### `ad-magazin-smallspaces` → `atom/feed-ad-magazin-smallspaces.xml`
 - **Engine:** `browser` + Residential-Proxy (`proxyCountry: de`, geo-konsistente
   `proxyLocale`/`proxyTimezone`). AD (Condé Nast, Copilot-CMS) ist JS-gerendert.
-- **Selektoren (gegen gerendertes DOM verifiziert):** Item-Klammer `teaserSplit` =
-  `summary-item summary-item--article` (stabile semantische Copilot-Klasse; die gehashten
-  `SummaryItemWrapper-xxxxx`-Klassen bewusst gemieden, da sie bei Redeploys wechseln), Titel
-  `<h… data-testid="SummaryItemHed">`, Link = absolute `…/artikel/…`-URL des Hed-Links.
-- **Datum via Detail-Fetch:** Das Tag-Listing enthält **kein** Datum (kein Timestamp, kein
-  Preload-JSON). Deshalb holt der Scraper es pro Artikel von der Artikelseite —
-  `detailDateSelector` liest die **ISO-`datetime`** des Publish-`<time>` aus dem Artikel-Header
-  (`ContentHeaderPublishDate…datetime="2026-07-24T14:17:28+02:00"`), also exakter Zeitstempel inkl.
-  Zeitzone, locale-unabhängig und auf das stabile `data-testid` gescoped (im Artikel nur 1× vorhanden).
-  `parseFlexibleDate` versteht daneben auch das deutsche Langformat `TT. Monat JJJJ` (`24. Juli 2026`)
-  als allgemeinen Fallback. Der Detail-Fetch läuft **nach** dem Cap (nur für die final ausgelieferten
-  Items) und pro-Artikel fault-isoliert. Das Datum ist server-gerendert (im View-Source vorhanden),
-  daher `detailEngine: "https"` — schlanke HTTPS-Fetches über die DE-Wohn-IP statt Browser; nur die
-  eine Listing-Seite braucht `engine: browser`. Bleibt eine Artikelseite trotzdem blockiert, liefert
-  ihr Detail-Fetch `null` → das jeweilige `pubDate` fällt auf „jetzt" zurück (Feed läuft weiter).
-- **Runtime-Vorbehalt (Bot-Block):** Die Selektoren stimmen; offen bleibt der **Zugriff**. AD ist
-  bot-geschützt und liefert Datacenter-/CI-IPs typischerweise eine Block-Seite (dieselbe Klasse wie
-  SeekingAlpha/MarketScreener). Patchright + Wohn-IP sind ein Versuch; bei Fingerprinting bleibt der
-  Feed leer (Exit 2 → Snapshot statt Fehlermail). Zuverlässig wäre eine ScrapingBee-Engine (in dieser
-  Version nicht verdrahtet).
+- **Selektoren (gegen DOM verifiziert):** `teaserSplit` = `summary-item summary-item--article`
+  (stabile semantische Klasse; die gehashten `SummaryItemWrapper-xxxxx` bewusst gemieden), Titel
+  `data-testid="SummaryItemHed"`, Link = absolute `…/artikel/…`-URL.
+- **Datum via Detail-Fetch:** Das Tag-Listing hat kein Datum, daher holt der Scraper es pro Artikel
+  (`detailDateSelector` liest die ISO-`datetime` des `ContentHeaderPublishDate`-`<time>`). Läuft nach
+  dem Cap, pro-Artikel fault-isoliert; Datum ist SSR → `detailEngine: "https"` (Wohn-IP statt Browser).
+- **Runtime-Vorbehalt (Bot-Block):** Selektoren stimmen, offen ist der **Zugriff** — AD blockt
+  CI-/Datacenter-IPs (wie SeekingAlpha/MarketScreener). Bei Block bleibt der Feed leer (Exit 2 →
+  Snapshot); zuverlässig wäre eine ScrapingBee-Engine (hier nicht verdrahtet).
 
 ## Engines (in `scraper.js`)
 
