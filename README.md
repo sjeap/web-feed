@@ -245,6 +245,7 @@ matrix:
     - correctiv-faktencheck
     - thepaypers-reports
     - ad-magazin-smallspaces
+    - sharedeals
     - meine-site       # ← neu
 ```
 
