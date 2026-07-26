@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-07-25T15:03:27Z</updated>
+  <updated>2026-07-26T04:30:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Multi-Asset Midyear Outlook: Expanding The Toolkit</title>
+      <id>4925647</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925647-multi-asset-midyear-outlook-expanding-toolkit?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-26T04:30:00Z</updated>
+      <published>2026-07-26T04:30:00Z</published>
+    </entry>
+    <entry>
+      <title>RPG: Pure Momentum, Not Pure Growth, Is Driving This Year&apos;s Exceptional Gains</title>
+      <id>4925635</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925635-rpg-pure-momentum-not-pure-growth-is-driving-this-years-exceptional-gains?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-26T02:55:00Z</updated>
+      <published>2026-07-26T02:55:00Z</published>
+    </entry>
+    <entry>
+      <title>VT: Why Global Stocks May Be Rocky Ahead Of The Midterms (Rating Downgrade)</title>
+      <id>4925634</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925634-vt-why-global-stocks-may-be-rocky-ahead-of-the-midterms-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-26T02:45:00Z</updated>
+      <published>2026-07-26T02:45:00Z</published>
+    </entry>
+    <entry>
+      <title>ETB: Discount Appears Attractive, Though Cautious On Broader Equity Valuation (Upgrade)</title>
+      <id>4925630</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925630-etb-discount-appears-attractive-though-cautious-on-broader-equity-valuation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-26T02:22:20Z</updated>
+      <published>2026-07-26T02:22:20Z</published>
+    </entry>
     <entry>
       <title>Insider trades: Johnson &amp; Johnson, TSMC among notable names</title>
       <id>https://seekingalpha.com/MarketCurrent:4618423</id>
@@ -156,33 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4925279-ksa-not-the-cheapest-saudi-approach?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-24T14:14:15Z</updated>
       <published>2026-07-24T14:14:15Z</published>
-    </entry>
-    <entry>
-      <title>MAGY: High Yield, Low Performance</title>
-      <id>4925278</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925278-magy-high-yield-low-performance?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T14:08:17Z</updated>
-      <published>2026-07-24T14:08:17Z</published>
-    </entry>
-    <entry>
-      <title>TDV: An AI-Driven Dividend Growth ETF Emerges</title>
-      <id>4925277</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925277-tdv-an-ai-driven-dividend-growth-etf-emerges?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T14:05:16Z</updated>
-      <published>2026-07-24T14:05:16Z</published>
-    </entry>
-    <entry>
-      <title>GBTC: The Last Grayscale Trust Without A Yield Story</title>
-      <id>4925267</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925267-gbtc-the-last-grayscale-trust-without-a-yield-story?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T13:48:12Z</updated>
-      <published>2026-07-24T13:48:12Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: Robust Margins, Strong Guidance, The Market Is Getting Out Of Hand Here</title>
-      <id>https://seekingalpha.com/Article:4923627</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4923627-tsmc-robust-margins-strong-guidance-the-market-is-getting-out-of-hand-here?source=feed_symbol_TSM"/>
-      <updated>2026-07-24T11:30:00Z</updated>
-      <published>2026-07-24T11:30:00Z</published>
     </entry>
 </feed>
