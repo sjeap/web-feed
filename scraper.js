@@ -1231,10 +1231,17 @@ function buildSourceList(site) {
     if (typeof entry === "string") {
       list.push({ url: entry, engine: site.engine, parser: site.parser || "html" });
     } else if (entry && entry.url) {
+      const { url, engine, parser, ...overrides } = entry;
       list.push({
-        url:    entry.url,
-        engine: entry.engine || site.engine,
-        parser: entry.parser || site.parser || "html",
+        url,
+        engine: engine || site.engine,
+        parser: parser || site.parser || "html",
+        // Restliche Felder des Objekt-Eintrags sind Per-Quelle-Parse-Overrides
+        // (containerStart/containerEnd/teaserSplit/*Selector/filter/excludeIf …).
+        // In main() wird daraus eine effektive Site-Config (Site ∪ Overrides)
+        // gebaut. So lassen sich mehrere Container-Schnitte DERSELBEN Seite in
+        // EINEM Feed vereinen (z. B. sharedeals: Meistgelesen + Erfolgsstorys).
+        overrides: Object.keys(overrides).length ? overrides : null,
       });
     }
   }
@@ -1381,16 +1388,32 @@ async function main() {
     const sources = buildSourceList(site);
     const merged  = [];
     let lastRaw   = "";
+    // Innerhalb EINES Laufs identische Quellen (gleiche URL + Engine) nur einmal
+    // laden. Nötig, wenn ein Feed dieselbe Seite mehrfach mit unterschiedlichem
+    // Container-Schnitt parst (sharedeals: EINE Startseite → zwei Abschnitte);
+    // sonst kein Effekt, da normale Feeds durchweg unterschiedliche URLs haben.
+    const rawCache = new Map();
 
     for (const src of sources) {
       try {
-        console.log(`   🌐 Fetching [${src.engine || site.engine || "https"}/${src.parser}]: ${src.url}`);
-        const raw = await fetchPage(src.url, src.engine);
+        const label    = `${src.engine || site.engine || "https"}/${src.parser}`;
+        const cacheKey = `${src.engine || site.engine || "https"}::${src.url}`;
+        let raw = rawCache.get(cacheKey);
+        if (raw === undefined) {
+          console.log(`   🌐 Fetching [${label}]: ${src.url}`);
+          raw = await fetchPage(src.url, src.engine);
+          rawCache.set(cacheKey, raw);
+          console.log(`   geladen: ${raw.length} Zeichen`);
+        } else {
+          console.log(`   ♻ Cache-Treffer [${label}]: ${src.url} (${raw.length} Zeichen)`);
+        }
         lastRaw = raw;
-        console.log(`   geladen: ${raw.length} Zeichen`);
+        // Per-Quelle-Parse-Overrides (nur Objekt-`urls`-Einträge): effektive
+        // Site-Config = Site ∪ Overrides. Ohne Overrides bleibt die Site selbst.
+        const effSite = src.overrides ? { ...site, ...src.overrides } : site;
         const part = src.parser === "rss"
-          ? parseFeedXml(raw, site, src.url)
-          : parseHeadlines(raw, site, src.url);
+          ? parseFeedXml(raw, effSite, src.url)
+          : parseHeadlines(raw, effSite, src.url);
         console.log(`   → ${part.length} Item(s) aus ${src.url}`);
         merged.push(...part);
       } catch (err) {
