@@ -26,9 +26,7 @@ jobs:
           - correctiv-faktencheck
           - thepaypers-reports
           - ad-magazin-smallspaces
-          - zmescience-food-nutrition
-          - sharedeals-meistgelesen
-          - sharedeals-erfolgsstorys
+          - sharedeals
 
     steps:
       - name: Checkout
