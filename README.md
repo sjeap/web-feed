@@ -132,6 +132,38 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   CI-/Datacenter-IPs (wie SeekingAlpha/MarketScreener). Bei Block bleibt der Feed leer (Exit 2 →
   Snapshot); zuverlässig wäre eine ScrapingBee-Engine (hier nicht verdrahtet).
 
+### `zmescience-food-nutrition` → `atom/feed-zmescience-food-nutrition.xml`
+- **Aggregiert zwei Quellen** in EINEN Feed (dedupliziert über Link/Titel, sortiert, Cap 25):
+  1. Kategorie-Seite (HTML, Default-`https`) — WordPress/JNews-Theme, server-gerendert.
+     `containerStart`/`containerEnd` grenzen die `jeg_posts`-Liste ein (Pagination/Footer bleiben
+     außen vor), `teaserSplit` = `<article class="jeg_post"`, Titel aus `<h3 class="jeg_post_title">`,
+     Datum aus dem `fa-clock-o`-Meta (`Month D, YYYY`; ein „ - Updated on …"-Suffix wird nicht
+     mitgenommen).
+  2. `…/food-and-nutrition/feed/` — der WordPress-**Kategorie-RSS-Feed** (RSS, `engine: https`,
+     `parser: rss`), aus dem `<link rel="alternate">` im Seiten-Head verifiziert. Reliabler Pfad,
+     umgeht einen etwaigen Cloudflare-Block der Datacenter-IP; Bild aus `content:encoded`.
+- Englische Inhalte → `language: en`. Kein Browser nötig (SSR + RSS). Die Kategorie-Seite listet
+  überwiegend Evergreen-Artikel; die Sortierung nach Datum bringt die jüngsten nach oben.
+
+### `sharedeals-meistgelesen` → `atom/feed-sharedeals-meistgelesen.xml`
+- **Engine:** Default (`https`) über Residential-Proxy (`proxyCountry: de`). WordPress/Thrive,
+  server-gerendert.
+- **Eigenheit:** Feed aus EINEM Abschnitt der Startseite — `containerStart`/`containerEnd` isolieren
+  die `ol.article-list-ranked` (Meistgelesen-Ranking) vom Rest der Seite (die 48 weiteren
+  `article`-Blöcke). `teaserSplit` = `<li class="article"`, Titel `<a class="title"><span class="lines">`,
+  Datum aus `<time class="date" datetime="…">` (ISO 8601). Kein Bild (reine Ranking-Liste). Die
+  Rang-Reihenfolge (1–5) geht durch die Datums-Sortierung verloren — systembedingt, Reader sortieren
+  ohnehin nach Datum.
+
+### `sharedeals-erfolgsstorys` → `atom/feed-sharedeals-erfolgsstorys.xml`
+- **Gleiche Quelle wie Meistgelesen** (dieselbe Startseiten-`url`, `proxyCountry: de`), nur ein anderer
+  Container-Schnitt: `containerStart` = `category/performance/` (der Section-Header „Unsere Erfolgsstorys"),
+  `containerEnd` = das nächste `<div class="one-plus-n"` (Folge-Section) — grenzt exakt die vier
+  Erfolgsstorys ein. `teaserSplit` = `<div class="article" itemscope`, gleiche Titel-/Datums-Selektoren;
+  Bild aus `.teaser-image` (`<img>`).
+- **Merke:** Zwei Feeds aus derselben `url` — Meistgelesen und Erfolgsstorys unterscheiden sich
+  ausschließlich über das Container-Slicing (`containerStart`/`containerEnd`).
+
 ## Engines (in `scraper.js`)
 
 - **Default** — HTML laden, optional via `containerStart`/`containerEnd` zuschneiden, an
@@ -279,6 +311,9 @@ Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 - [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ⭐
 - [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
 - [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
+- [ZME Science – Food and Nutrition](https://sjeap.github.io/web-feed/feed-zmescience-food-nutrition.xml) ⭐
+- [sharedeals.de – Meistgelesen](https://sjeap.github.io/web-feed/feed-sharedeals-meistgelesen.xml) ⭐
+- [sharedeals.de – Unsere Erfolgsstorys](https://sjeap.github.io/web-feed/feed-sharedeals-erfolgsstorys.xml) ⭐
 <!-- OPML:END -->
 
 <!-- ACKNOWLEDGMENTS:START -->

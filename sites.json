@@ -131,5 +131,57 @@
     "linkSelector": "href=\"((?:https://www\\.ad-magazin\\.de)?/artikel/[^\"]+)\"",
     "detailEngine": "https",
     "detailDateSelector": "ContentHeaderPublishDate[^>]*datetime=\"([^\"]+)\""
+  },
+  {
+    "id": "zmescience-food-nutrition",
+    "name": "ZME Science – Food and Nutrition",
+    "url": "https://www.zmescience.com/feature-post/health/food-and-nutrition/",
+    "language": "en",
+    "filter": null,
+    "output": "atom/feed-zmescience-food-nutrition.xml",
+    "containerStart": "class=\"jeg_posts jeg_load_more_flag\"",
+    "containerEnd": "class=\"jeg_navigation",
+    "teaserSplit": "<article class=\"jeg_post",
+    "titleSelector": "jeg_post_title\"[^>]*>\\s*<a[^>]*>([\\s\\S]*?)<\\/a>",
+    "dateSelector": "fa-clock-o\"><\\/i>\\s*([A-Za-z]+ \\d{1,2}, \\d{4})",
+    "linkSelector": "href=\"(https://www\\.zmescience\\.com/[^\"]+)\"",
+    "urls": [
+      "https://www.zmescience.com/feature-post/health/food-and-nutrition/",
+      {
+        "url": "https://www.zmescience.com/feature-post/health/food-and-nutrition/feed/",
+        "engine": "https",
+        "parser": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sharedeals-meistgelesen",
+    "name": "sharedeals.de – Meistgelesen",
+    "url": "https://www.sharedeals.de/",
+    "proxyCountry": "de",
+    "language": "de-DE",
+    "filter": null,
+    "output": "atom/feed-sharedeals-meistgelesen.xml",
+    "containerStart": "article-list-ranked",
+    "containerEnd": "</ol>",
+    "teaserSplit": "<li class=\"article",
+    "titleSelector": "<a class=\"title\"[^>]*>\\s*<span class=\"lines\">([\\s\\S]*?)<\\/span>",
+    "dateSelector": "<time class=\"date\"[^>]*datetime=\"([^\"]+)\"",
+    "linkSelector": "<a class=\"title\" href=\"([^\"]+)\""
+  },
+  {
+    "id": "sharedeals-erfolgsstorys",
+    "name": "sharedeals.de – Unsere Erfolgsstorys",
+    "url": "https://www.sharedeals.de/",
+    "proxyCountry": "de",
+    "language": "de-DE",
+    "filter": null,
+    "output": "atom/feed-sharedeals-erfolgsstorys.xml",
+    "containerStart": "category/performance/",
+    "containerEnd": "<div class=\"one-plus-n\"",
+    "teaserSplit": "<div class=\"article\" itemscope",
+    "titleSelector": "<a class=\"title\"[^>]*>\\s*<span class=\"lines\">([\\s\\S]*?)<\\/span>",
+    "dateSelector": "<time class=\"date\"[^>]*datetime=\"([^\"]+)\"",
+    "linkSelector": "<a class=\"title\" href=\"([^\"]+)\""
   }
 ]
