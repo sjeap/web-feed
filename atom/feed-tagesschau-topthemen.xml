@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-07-25T10:31:39Z</updated>
+  <updated>2026-07-26T08:46:47Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Eine Tote und zahlreiche Verletzte: Auto fährt bei Berliner CSD in Menschenmenge</title>
+      <id>https://www.tagesschau.de/video/video-1620688.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1620688.html"/>
+      <updated>2026-07-26T08:46:47Z</updated>
+      <published>2026-07-26T08:46:47Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cbc1046e-4b47-4e58-8c89-f59e2ea6039c/AAABn50tFCs/AAABnSSvsdE/16x9-small/sendungsbild-1770390.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cbc1046e-4b47-4e58-8c89-f59e2ea6039c/AAABn50tFCs/AAABnSSvsdE/16x9-small/sendungsbild-1770390.jpg?width=320" alt="Eine Tote und zahlreiche Verletzte: Auto fährt bei Berliner CSD in Menschenmenge"/><p>Eine Tote und zahlreiche Verletzte: Auto fährt bei Berliner CSD in Menschenmenge</p>]]></content>
+    </entry>
     <entry>
       <title>Umbau der Bundesregierung: Die Personalentscheidungen von Kanzler Merz</title>
       <id>https://www.tagesschau.de/video/video-1620280.html</id>
@@ -20,15 +29,6 @@
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/04604944-7d8f-418f-8d9b-9ef79e5b4b6b/AAABn5hkU54/AAABnSSvsdE/16x9-small/sendungsbild-1770046.jpg?width=320" alt="Umbau der Bundesregierung: Die Personalentscheidungen von Kanzler Merz"/><p>Umbau der Bundesregierung: Die Personalentscheidungen von Kanzler Merz</p>]]></content>
     </entry>
     <entry>
-      <title>Jürgen Klopp wird neuer Bundestrainer</title>
-      <id>https://www.tagesschau.de/video/video-1619882.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619882.html"/>
-      <updated>2026-07-24T15:00:51Z</updated>
-      <published>2026-07-24T15:00:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/11f0596b-121f-4bfd-b5a1-67b28a6117b1/AAABn5Q20fc/AAABnSSvsdE/16x9-small/sendungsbild-1769778.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/11f0596b-121f-4bfd-b5a1-67b28a6117b1/AAABn5Q20fc/AAABnSSvsdE/16x9-small/sendungsbild-1769778.jpg?width=320" alt="Jürgen Klopp wird neuer Bundestrainer"/><p>Jürgen Klopp wird neuer Bundestrainer</p>]]></content>
-    </entry>
-    <entry>
       <title>Übung &quot;Pitch Black&quot;: Luftwaffe trainiert Nachtkämpfe in Australien</title>
       <id>https://www.tagesschau.de/video/video-1619884.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/video/video-1619884.html"/>
@@ -36,6 +36,15 @@
       <published>2026-07-24T15:04:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9a645fab-51d7-48f1-bb4e-00b4d27f299b/AAABn5Q5unQ/AAABnSSvsdE/16x9-small/sendungsbild-1769782.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9a645fab-51d7-48f1-bb4e-00b4d27f299b/AAABn5Q5unQ/AAABnSSvsdE/16x9-small/sendungsbild-1769782.jpg?width=320" alt="Übung "Pitch Black": Luftwaffe trainiert Nachtkämpfe in Australien"/><p>Übung &quot;Pitch Black&quot;: Luftwaffe trainiert Nachtkämpfe in Australien</p>]]></content>
+    </entry>
+    <entry>
+      <title>Jürgen Klopp wird neuer Bundestrainer</title>
+      <id>https://www.tagesschau.de/video/video-1619882.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619882.html"/>
+      <updated>2026-07-24T15:00:51Z</updated>
+      <published>2026-07-24T15:00:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/11f0596b-121f-4bfd-b5a1-67b28a6117b1/AAABn5Q20fc/AAABnSSvsdE/16x9-small/sendungsbild-1769778.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/11f0596b-121f-4bfd-b5a1-67b28a6117b1/AAABn5Q20fc/AAABnSSvsdE/16x9-small/sendungsbild-1769778.jpg?width=320" alt="Jürgen Klopp wird neuer Bundestrainer"/><p>Jürgen Klopp wird neuer Bundestrainer</p>]]></content>
     </entry>
     <entry>
       <title>Merz gibt Wechsel im Kabinett bekannt</title>
@@ -54,14 +63,5 @@
       <published>2026-07-24T10:33:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3c03f147-041d-48e8-b541-5a3b3007688d/AAABn5NBiN8/AAABnSSvsdE/16x9-small/sendungsbild-1769650.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3c03f147-041d-48e8-b541-5a3b3007688d/AAABn5NBiN8/AAABnSSvsdE/16x9-small/sendungsbild-1769650.jpg?width=320" alt="Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen"/><p>Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Waldbrände in Südeuropa | 23. Juli</title>
-      <id>https://www.tagesschau.de/video/video-1619622.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1619622.html"/>
-      <updated>2026-07-23T20:54:16Z</updated>
-      <published>2026-07-23T20:54:16Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/26c95ac2-864d-4c0c-be20-e976becf7b27/AAABn5BMYSA/AAABnSSvsdE/16x9-small/23072026-topthema-waldbrand-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/26c95ac2-864d-4c0c-be20-e976becf7b27/AAABn5BMYSA/AAABnSSvsdE/16x9-small/23072026-topthema-waldbrand-100.jpg?width=320" alt="Waldbrände in Südeuropa | 23. Juli"/><p>Waldbrände in Südeuropa | 23. Juli</p>]]></content>
     </entry>
 </feed>
