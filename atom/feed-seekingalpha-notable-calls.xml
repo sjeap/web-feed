@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-07-26T13:55:27Z</updated>
+  <updated>2026-07-27T07:50:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Weekly Market Pulse: The Forgotten Asset</title>
+      <id>4925783</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925783-weekly-market-pulse-forgotten-asset?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T07:50:00Z</updated>
+      <published>2026-07-27T07:50:00Z</published>
+    </entry>
+    <entry>
+      <title>FIVA: Ex-U.S. Developed Markets ETF With A Tilt To Financials</title>
+      <id>4925766</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925766-fiva-ex-us-developed-markets-etf-with-tilt-to-financials?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T06:19:20Z</updated>
+      <published>2026-07-27T06:19:20Z</published>
+    </entry>
+    <entry>
+      <title>Bexil Investment Trust: A Deeply Discounted Fund Without An Escape Hatch</title>
+      <id>4925751</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925751-bexil-investment-trust-cef-deeply-discounted-fund-without-escape-hatch?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T05:07:32Z</updated>
+      <published>2026-07-27T05:07:32Z</published>
+    </entry>
+    <entry>
+      <title>EIPI: Light Enough For Upside, Heavier For The Grind - Maintain Buy</title>
+      <id>4925748</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925748-eipi-light-enough-for-upside-heavier-for-the-grind-maintain-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T04:30:42Z</updated>
+      <published>2026-07-27T04:30:42Z</published>
+    </entry>
+    <entry>
+      <title>NOBL: The Price Of Sitting Out AI</title>
+      <id>4925735</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925735-nobl-the-price-of-sitting-out-ai?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T02:45:00Z</updated>
+      <published>2026-07-27T02:45:00Z</published>
+    </entry>
+    <entry>
+      <title>HACK: A Strategy To Reap Rewards From Escalating Cybersecurity Spend</title>
+      <id>4925731</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925731-hack-a-strategy-to-reap-rewards-from-escalating-cybersecurity-spend?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T02:15:00Z</updated>
+      <published>2026-07-27T02:15:00Z</published>
+    </entry>
+    <entry>
+      <title>LQDH: High-Quality, Rate-Hedged Bond Portfolio, Solid Yield And Track Record</title>
+      <id>4925728</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925728-lqdh-high-quality-rate-hedged-bond-portfolio-solid-yield-track-record?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-27T01:59:00Z</updated>
+      <published>2026-07-27T01:59:00Z</published>
+    </entry>
     <entry>
       <title>KORU: Why Bearish South Korea Is The Play Into The Fall</title>
       <id>4925694</id>
@@ -23,6 +72,20 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4925679-asgi-cef-growth-thesis-incredibly-expensive?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-26T12:30:31Z</updated>
       <published>2026-07-26T12:30:31Z</published>
+    </entry>
+    <entry>
+      <title>AIRR: Why I&apos;d Hold The Industrial Renaissance, Not Chase It</title>
+      <id>4925763</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925763-airr-why-id-hold-the-industrial-renaissance-not-chase-it?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-26T11:45:39Z</updated>
+      <published>2026-07-26T11:45:39Z</published>
+    </entry>
+    <entry>
+      <title>Sprott Critical Minerals ETF: Balanced Global Portfolio But Weak China Exposure</title>
+      <id>4925761</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4925761-sprott-critical-minerals-etf-balanced-global-portfolio-but-weak-china-exposure?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-26T11:30:23Z</updated>
+      <published>2026-07-26T11:30:23Z</published>
     </entry>
     <entry>
       <title>DUSA: Value, Low Volatility Exposure To Weigh On Returns, Hold Rating Maintained</title>
@@ -109,13 +172,6 @@
       <published>2026-07-25T09:48:56Z</published>
     </entry>
     <entry>
-      <title>Patience, Liquidity, And The Value Of Optionality</title>
-      <id>4925563</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925563-patience-liquidity-value-of-optionality?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-25T07:20:00Z</updated>
-      <published>2026-07-25T07:20:00Z</published>
-    </entry>
-    <entry>
       <title>TSMC Is A Far Safer Buy Than Fabless Giants</title>
       <id>https://seekingalpha.com/Article:4925542</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4925542-tsmc-is-a-far-safer-buy-than-fabless-giants?source=feed_symbol_TSM"/>
@@ -123,66 +179,10 @@
       <published>2026-07-25T06:17:30Z</published>
     </entry>
     <entry>
-      <title>The Big Shareholder Diluters Are Out Of Vogue</title>
-      <id>4925545</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925545-big-shareholder-diluters-out-of-vogue?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-25T06:00:00Z</updated>
-      <published>2026-07-25T06:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Why Western Governments Entered The Rare Earth Metals Business</title>
-      <id>4925544</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925544-western-governments-entered-rare-earth-metals-business?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-25T05:50:00Z</updated>
-      <published>2026-07-25T05:50:00Z</published>
-    </entry>
-    <entry>
-      <title>Zen And The Art Of Beefy Propellers: How Quantum Computing Changes Everything In Drone Propeller Design</title>
-      <id>4925532</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925532-zen-art-of-beefy-propellers-quantum-computing-changes-everything-drone-propeller-design?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-25T04:30:00Z</updated>
-      <published>2026-07-25T04:30:00Z</published>
-    </entry>
-    <entry>
       <title>Volkswagen AG (VWA:CA) Q2 2026 Earnings Call Transcript</title>
       <id>https://seekingalpha.com/Article:4925232</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4925232-volkswagen-ag-vwa-ca-q2-2026-earnings-call-transcript?source=feed_symbol_VWAGY"/>
       <updated>2026-07-24T23:20:25Z</updated>
       <published>2026-07-24T23:20:25Z</published>
-    </entry>
-    <entry>
-      <title>VSDA: Attractive Dividend Growth But Likely To Underperform</title>
-      <id>4925478</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925478-vsda-attractive-dividend-growth-but-likely-to-underperform?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T21:59:19Z</updated>
-      <published>2026-07-24T21:59:19Z</published>
-    </entry>
-    <entry>
-      <title>ELCV: An Active Diversifier For A Dividend Growth Portfolio</title>
-      <id>4925463</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925463-elcv-an-active-diversifier-for-a-dividend-growth-portfolio?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T21:04:08Z</updated>
-      <published>2026-07-24T21:04:08Z</published>
-    </entry>
-    <entry>
-      <title>UTF: Consider An Infrastructure Fund For Your Income Compounder Portfolio</title>
-      <id>4925447</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925447-utf-consider-an-infrastructure-fund-for-your-income-compounder-portfolio?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T19:42:01Z</updated>
-      <published>2026-07-24T19:42:01Z</published>
-    </entry>
-    <entry>
-      <title>HEQ: Discount Remains Significant, But Some Reasons To Be Cautious</title>
-      <id>4925439</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925439-heq-discount-remains-significant-but-some-reasons-to-be-cautious?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-24T19:10:30Z</updated>
-      <published>2026-07-24T19:10:30Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas: 5.7% Yield And Positive Operating Momentum Support &apos;Buy&apos; Rating</title>
-      <id>https://seekingalpha.com/Article:4925411</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4925411-bnp-paribas-5-7-percent-yield-and-positive-operating-momentum-support-buy-rating?source=feed_symbol_BNPQF"/>
-      <updated>2026-07-24T17:46:10Z</updated>
-      <published>2026-07-24T17:46:10Z</published>
     </entry>
 </feed>
