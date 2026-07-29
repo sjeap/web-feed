@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-07-28T07:36:59Z</updated>
+  <updated>2026-07-29T08:03:21Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SAP-Aktie: Ausbruch geglückt – wie viel Potenzial bleibt?</title>
+      <id>https://www.sharedeals.de/sap-aktie-ausbruch-geglueckt-wie-viel-potenzial-bleibt/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/sap-aktie-ausbruch-geglueckt-wie-viel-potenzial-bleibt/"/>
+      <updated>2026-07-29T08:03:21Z</updated>
+      <published>2026-07-29T08:03:21Z</published>
+    </entry>
     <entry>
       <title>Deutsche Rohstoff-Aktie: Almonty-Anteil sinkt – was ist jetzt ratsam?</title>
       <id>https://www.sharedeals.de/deutsche-rohstoff-aktie-almonty-anteil-sinkt-was-ist-jetzt-ratsam/</id>
@@ -30,13 +37,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-bald-wieder-unter-1-000-e/"/>
       <updated>2026-07-27T09:17:02Z</updated>
       <published>2026-07-27T09:17:02Z</published>
-    </entry>
-    <entry>
-      <title>SpaceX-Aktie mit -50% – ist das die Einstiegschance?</title>
-      <id>https://www.sharedeals.de/spacex-aktie-mit-50-ist-das-die-einstiegschance/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/spacex-aktie-mit-50-ist-das-die-einstiegschance/"/>
-      <updated>2026-07-27T05:10:16Z</updated>
-      <published>2026-07-27T05:10:16Z</published>
     </entry>
     <entry>
       <title>Almonty-Aktie: Lohnt sich jetzt der Einstieg?</title>
