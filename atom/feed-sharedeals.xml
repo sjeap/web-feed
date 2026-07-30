@@ -5,24 +5,31 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-07-29T10:19:19Z</updated>
+  <updated>2026-07-30T08:04:11Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rheinmetall-Aktie: An dieser Marke droht der nächste Rücksetzer</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-an-dieser-marke-droht-der-naechste-ruecksetzer/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-an-dieser-marke-droht-der-naechste-ruecksetzer/"/>
+      <updated>2026-07-30T08:04:11Z</updated>
+      <published>2026-07-30T08:04:11Z</published>
+    </entry>
+    <entry>
+      <title>Micron-Aktie mit -40% – hält der Abwärtsdruck an?</title>
+      <id>https://www.sharedeals.de/micron-aktie-mit-40-haelt-der-abwaertsdruck-an/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/micron-aktie-mit-40-haelt-der-abwaertsdruck-an/"/>
+      <updated>2026-07-30T04:57:12Z</updated>
+      <published>2026-07-30T04:57:12Z</published>
+    </entry>
     <entry>
       <title>SpaceX-Aktie: Ein völlig wahnsinniges Kursziel</title>
       <id>https://www.sharedeals.de/spacex-aktie-ein-voellig-wahnsinniges-kursziel/</id>
       <link rel="alternate" href="https://www.sharedeals.de/spacex-aktie-ein-voellig-wahnsinniges-kursziel/"/>
       <updated>2026-07-29T10:19:19Z</updated>
       <published>2026-07-29T10:19:19Z</published>
-    </entry>
-    <entry>
-      <title>SAP-Aktie: Ausbruch geglückt – wie viel Potenzial bleibt?</title>
-      <id>https://www.sharedeals.de/sap-aktie-ausbruch-geglueckt-wie-viel-potenzial-bleibt/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/sap-aktie-ausbruch-geglueckt-wie-viel-potenzial-bleibt/"/>
-      <updated>2026-07-29T08:03:21Z</updated>
-      <published>2026-07-29T08:03:21Z</published>
     </entry>
     <entry>
       <title>Deutsche Rohstoff-Aktie: Almonty-Anteil sinkt – was ist jetzt ratsam?</title>
@@ -37,13 +44,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/droneshield-aktie-mit-73-wann-kommt-die-trendwende/"/>
       <updated>2026-07-28T05:01:12Z</updated>
       <published>2026-07-28T05:01:12Z</published>
-    </entry>
-    <entry>
-      <title>Almonty-Aktie: Lohnt sich jetzt der Einstieg?</title>
-      <id>https://www.sharedeals.de/almonty-aktie-lohnt-sich-jetzt-der-einstieg/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-lohnt-sich-jetzt-der-einstieg/"/>
-      <updated>2026-07-27T04:10:17Z</updated>
-      <published>2026-07-27T04:10:17Z</published>
     </entry>
     <entry>
       <title>No Brainer Club: Nächster Doppel-Exit beschert dreistellige Renditen</title>
