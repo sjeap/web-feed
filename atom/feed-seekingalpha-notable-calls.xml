@@ -5,11 +5,95 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-07-29T16:35:47Z</updated>
+  <updated>2026-07-30T05:50:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>The State Of U.S. Sector Investing In Mid-2026</title>
+      <id>4927447</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927447-state-of-us-sector-investing-in-mid-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-30T05:50:00Z</updated>
+      <published>2026-07-30T05:50:00Z</published>
+    </entry>
+    <entry>
+      <title>TLTW: Covered Call Long-Term Treasury ETF, Too Risky On The Eve Of A Hiking Cycle</title>
+      <id>4927414</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927414-tltw-covered-call-long-term-treasury-etf-too-risky-around-hiking-cycle?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-30T04:50:25Z</updated>
+      <published>2026-07-30T04:50:25Z</published>
+    </entry>
+    <entry>
+      <title>RAMZ: A New ETF Arrives Just In Time For The DRAM Crash, Strong Buy</title>
+      <id>4927352</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927352-ramz-new-etf-arrives-just-in-time-for-dram-crash-strong-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-30T01:21:48Z</updated>
+      <published>2026-07-30T01:21:48Z</published>
+    </entry>
+    <entry>
+      <title>Tempus AI Q2 2026 Earnings Preview</title>
+      <id>https://seekingalpha.com/MarketCurrent:4620464</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
+      <updated>2026-07-29T21:35:47Z</updated>
+      <published>2026-07-29T21:35:47Z</published>
+    </entry>
+    <entry>
+      <title>Harvest Diversified High Income Shares ETF&apos;s 30% Yield Seems Too Good To Be True</title>
+      <id>4927233</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927233-harvest-diversified-high-income-shares-etfs-30-percent-yield-seems-too-good-to-be-true?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-29T21:16:03Z</updated>
+      <published>2026-07-29T21:16:03Z</published>
+    </entry>
+    <entry>
+      <title>PSI: A Buy On The Equipment Side Of The Chip Sell-Off</title>
+      <id>4927227</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927227-psi-a-buy-on-the-equipment-side-of-the-chip-selloff?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-29T21:10:16Z</updated>
+      <published>2026-07-29T21:10:16Z</published>
+    </entry>
+    <entry>
+      <title>THNQ: Holding AI Exposure Makes Sense, But Buying After A 110% Rally Requires Patience</title>
+      <id>4927206</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927206-thnq-holding-ai-exposure-makes-sense-but-buying-after-a-110-percent-rally-requires-patience?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-29T20:30:51Z</updated>
+      <published>2026-07-29T20:30:51Z</published>
+    </entry>
+    <entry>
+      <title>GHY: Trading Below Its 5-Year Average Discount For A Reason</title>
+      <id>4927205</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927205-ghy-trading-below-its-5-year-average-discount-for-a-reason?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-29T20:26:41Z</updated>
+      <published>2026-07-29T20:26:41Z</published>
+    </entry>
+    <entry>
+      <title>NEXI S.P.A. reports 1H results</title>
+      <id>https://seekingalpha.com/MarketCurrent:4620802</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/NEXPF/news?source=feed_symbol_NEXPF"/>
+      <updated>2026-07-29T19:55:45Z</updated>
+      <published>2026-07-29T19:55:45Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto raised to Buy at Goldman as simplification strategy accelerates</title>
+      <id>https://seekingalpha.com/MarketCurrent:4620768</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-07-29T19:54:46Z</updated>
+      <published>2026-07-29T19:54:46Z</published>
+    </entry>
+    <entry>
+      <title>SCYB: A Low-Cost High-Yield Allocation For Both Tactical And Complementary Portfolios</title>
+      <id>4927154</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927154-scyb-a-low-cost-high-yield-allocation-for-both-tactical-and-complementary-portfolios?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-29T19:27:25Z</updated>
+      <published>2026-07-29T19:27:25Z</published>
+    </entry>
+    <entry>
+      <title>When The Contract Is The Thesis: How Micron&apos;s Earnings Solidified Our AI Bottlenecks Thesis</title>
+      <id>4927144</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4927144-when-contract-thesis-micron-earnings-solidified-ai-bottlenecks-thesis?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-29T19:12:00Z</updated>
+      <published>2026-07-29T19:12:00Z</published>
+    </entry>
     <entry>
       <title>Driving Growth: 3 Factors, 1 Engine</title>
       <id>4927041</id>
@@ -30,13 +114,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4926968-xar-perfect-vehicle-to-ride-aerospace-and-defense-secular-growth-trend?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-29T15:11:28Z</updated>
       <published>2026-07-29T15:11:28Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto posts highest H1 earnings in four years on higher commodity prices, production</title>
-      <id>https://seekingalpha.com/MarketCurrent:4620379</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-07-29T14:15:09Z</updated>
-      <published>2026-07-29T14:15:09Z</published>
     </entry>
     <entry>
       <title>GGLL: Amplified Exposure To Alphabet&apos;s Cloud Supercycle</title>
@@ -107,82 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4926689-gdx-why-gold-miners-are-a-buy-after-falling-more-than-gold?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-29T07:12:21Z</updated>
       <published>2026-07-29T07:12:21Z</published>
-    </entry>
-    <entry>
-      <title>Investing In Semiconductor ETFs And Stocks</title>
-      <id>4926702</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926702-investing-semiconductor-etfs-stocks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-29T07:10:00Z</updated>
-      <published>2026-07-29T07:10:00Z</published>
-    </entry>
-    <entry>
-      <title>Nexi S.p.A. 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4926699</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926699-nexi-s-p-a-2026-q2-results-earnings-call-presentation?source=feed_symbol_NEXPF"/>
-      <updated>2026-07-29T07:00:50Z</updated>
-      <published>2026-07-29T07:00:50Z</published>
-    </entry>
-    <entry>
-      <title>Build A Better Path, Part 2: Three-Dimensional Investing</title>
-      <id>4926669</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926669-build-better-path-part-2-3-dimensional-investing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-29T05:00:00Z</updated>
-      <published>2026-07-29T05:00:00Z</published>
-    </entry>
-    <entry>
-      <title>ARKW: Near-Term Headwinds, Long-Term Growth Potential</title>
-      <id>4926651</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926651-arkw-near-term-headwinds-long-term-growth-potential?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-29T04:33:55Z</updated>
-      <published>2026-07-29T04:33:55Z</published>
-    </entry>
-    <entry>
-      <title>Leveraged ETFs Gain Momentum As Borrow Demand Builds</title>
-      <id>4926659</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926659-leveraged-etfs-gain-momentum-as-borrow-demand-builds?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-29T04:30:00Z</updated>
-      <published>2026-07-29T04:30:00Z</published>
-    </entry>
-    <entry>
-      <title>Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry</title>
-      <id>4926554</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926554-intel-vs-tsmc-how-cowos-packaging-constraints-create-opportunity-for-intel-foundry?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-28T22:25:12Z</updated>
-      <published>2026-07-28T22:25:12Z</published>
-    </entry>
-    <entry>
-      <title>TDAQ: The New Kid On The Nasdaq Block</title>
-      <id>4926551</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926551-tdaq-the-new-kid-on-the-nasdaq-block?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-28T22:07:21Z</updated>
-      <published>2026-07-28T22:07:21Z</published>
-    </entry>
-    <entry>
-      <title>ARKG: Caught In The Tech Sell-Off, But Here&apos;s Why The Dip Is Buyable</title>
-      <id>4926510</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926510-arkg-caught-in-the-tech-selloff-but-heres-why-the-dip-is-buyable?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-28T19:50:48Z</updated>
-      <published>2026-07-28T19:50:48Z</published>
-    </entry>
-    <entry>
-      <title>HYGW: The Buy Write On High Yield And My Strategy To Approach It</title>
-      <id>4926509</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926509-hygw-the-buy-write-on-high-yield-and-my-strategy-to-approach-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-28T19:48:51Z</updated>
-      <published>2026-07-28T19:48:51Z</published>
-    </entry>
-    <entry>
-      <title>COPY: Outperforming Value Strategy Mindful Of Insider Activity, Worth Shortlisting</title>
-      <id>4926488</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926488-copy-outperforming-value-strategy-mindful-of-insider-activity-worth-shortlisting?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-28T19:12:00Z</updated>
-      <published>2026-07-28T19:12:00Z</published>
-    </entry>
-    <entry>
-      <title>AEF: Strong Results, Still Trading At A Deep Discount, But I&apos;ll Pass</title>
-      <id>4926482</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4926482-aef-strong-results-still-trading-at-a-deep-discount-but-ill-pass?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-28T18:59:24Z</updated>
-      <published>2026-07-28T18:59:24Z</published>
     </entry>
 </feed>
