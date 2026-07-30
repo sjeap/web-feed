@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-07-29T08:03:21Z</updated>
+  <updated>2026-07-29T10:19:19Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SpaceX-Aktie: Ein völlig wahnsinniges Kursziel</title>
+      <id>https://www.sharedeals.de/spacex-aktie-ein-voellig-wahnsinniges-kursziel/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/spacex-aktie-ein-voellig-wahnsinniges-kursziel/"/>
+      <updated>2026-07-29T10:19:19Z</updated>
+      <published>2026-07-29T10:19:19Z</published>
+    </entry>
     <entry>
       <title>SAP-Aktie: Ausbruch geglückt – wie viel Potenzial bleibt?</title>
       <id>https://www.sharedeals.de/sap-aktie-ausbruch-geglueckt-wie-viel-potenzial-bleibt/</id>
@@ -30,13 +37,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/droneshield-aktie-mit-73-wann-kommt-die-trendwende/"/>
       <updated>2026-07-28T05:01:12Z</updated>
       <published>2026-07-28T05:01:12Z</published>
-    </entry>
-    <entry>
-      <title>Rheinmetall-Aktie: Bald wieder unter 1.000 €?</title>
-      <id>https://www.sharedeals.de/rheinmetall-aktie-bald-wieder-unter-1-000-e/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-bald-wieder-unter-1-000-e/"/>
-      <updated>2026-07-27T09:17:02Z</updated>
-      <published>2026-07-27T09:17:02Z</published>
     </entry>
     <entry>
       <title>Almonty-Aktie: Lohnt sich jetzt der Einstieg?</title>
