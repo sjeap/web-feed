@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-07-26T00:00:00Z</updated>
+  <updated>2026-07-31T12:06:45Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>The World’s Most Powerful Passports (2016 vs. 2026)</title>
+      <id>https://www.visualcapitalist.com/?p=203021</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/the-worlds-most-powerful-passports-2016-vs-2026/"/>
+      <updated>2026-07-31T12:06:45Z</updated>
+      <published>2026-07-31T12:06:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/powerfulpassports-shareable.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/powerfulpassports-shareable.webp" alt="The World’s Most Powerful Passports (2016 vs. 2026)"/><p>The World’s Most Powerful Passports (2016 vs. 2026)</p>]]></content>
+    </entry>
     <entry>
       <title>Mapped: Which Countries Are Best for Women?</title>
       <id>https://www.visualcapitalist.com/best-countries-for-women-map/</id>
@@ -144,14 +153,5 @@
       <published>2026-05-17T14:47:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Fertility_Rate_Population_SHARE01.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/04/Fertility_Rate_Population_SHARE01.webp" alt="The Fertility Rate of Every Country in the World"/><p>The Fertility Rate of Every Country in the World</p>]]></content>
-    </entry>
-    <entry>
-      <title>Fraud in Data is Back at Visual Capitalist!</title>
-      <id>https://www.visualcapitalist.com/?p=199026</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/fraud-in-data-is-back-at-visual-capitalist/"/>
-      <updated>2026-05-13T11:45:00Z</updated>
-      <published>2026-05-13T11:45:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Inigo-Fraud-in-Data-Share-Launch.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/05/Inigo-Fraud-in-Data-Share-Launch.webp" alt="Fraud in Data is Back at Visual Capitalist!"/><p>Fraud in Data is Back at Visual Capitalist!</p>]]></content>
     </entry>
 </feed>
