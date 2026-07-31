@@ -5,11 +5,109 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-07-31T05:40:00Z</updated>
+  <updated>2026-07-31T16:45:15Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Linde projects $17.70-$17.90 full-year EPS while backlog holds an &quot;8 handle&quot; despite $1.3B of 2026 start-ups</title>
+      <id>https://seekingalpha.com/MarketCurrent:4622894</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
+      <updated>2026-07-31T16:45:15Z</updated>
+      <published>2026-07-31T16:45:15Z</published>
+    </entry>
+    <entry>
+      <title>Linde plc (LIN) Q2 2026 Earnings Call Transcript</title>
+      <id>https://seekingalpha.com/Article:4928760</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928760-linde-plc-lin-q2-2026-earnings-call-transcript?source=feed_symbol_LIN"/>
+      <updated>2026-07-31T16:43:28Z</updated>
+      <published>2026-07-31T16:43:28Z</published>
+    </entry>
+    <entry>
+      <title>JHI: Fabricate A Fortress For Your Future Income</title>
+      <id>4928763</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928763-jhi-fabricate-a-fortress-for-your-future-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T16:00:21Z</updated>
+      <published>2026-07-31T16:00:21Z</published>
+    </entry>
+    <entry>
+      <title>Enel: Higher-Quality Earnings Support Further Re-Rating</title>
+      <id>https://seekingalpha.com/Article:4928733</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928733-enel-higher-quality-earnings-support-further-re-rating?source=feed_symbol_ENLAY"/>
+      <updated>2026-07-31T15:23:21Z</updated>
+      <published>2026-07-31T15:23:21Z</published>
+    </entry>
+    <entry>
+      <title>Gold Monthly: From Higher Rates To Higher Uncertainty As We End July 2026</title>
+      <id>4928670</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928670-gold-monthly-from-higher-rates-to-higher-uncertainty-as-end-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T13:40:00Z</updated>
+      <published>2026-07-31T13:40:00Z</published>
+    </entry>
+    <entry>
+      <title>Linde plc 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4928679</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928679-linde-plc-2026-q2-results-earnings-call-presentation?source=feed_symbol_LIN"/>
+      <updated>2026-07-31T13:34:42Z</updated>
+      <published>2026-07-31T13:34:42Z</published>
+    </entry>
+    <entry>
+      <title>Bitwise Hyperliquid ETF: Why The Staking Yield May Not Be Enough</title>
+      <id>4928599</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928599-bitwise-hyperliquid-etf-why-the-staking-yield-may-not-be-enough?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T12:56:03Z</updated>
+      <published>2026-07-31T12:56:03Z</published>
+    </entry>
+    <entry>
+      <title>Sea Limited: Shopee Is The Key To Q2</title>
+      <id>https://seekingalpha.com/Article:4928515</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928515-sea-limited-shopee-is-the-key-to-q2?source=feed_symbol_SE"/>
+      <updated>2026-07-31T12:00:06Z</updated>
+      <published>2026-07-31T12:00:06Z</published>
+    </entry>
+    <entry>
+      <title>EZA: Higher Cost Of Capital Not Good For Constituent Elements</title>
+      <id>4928372</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928372-eza-higher-cost-of-capital-not-good-for-constituent-elements?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T11:00:00Z</updated>
+      <published>2026-07-31T11:00:00Z</published>
+    </entry>
+    <entry>
+      <title>GVAL: Smart Deep Value Strategy With Unconvincing Results</title>
+      <id>4928394</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928394-gval-smart-deep-value-strategy-with-unconvincing-results?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T10:45:00Z</updated>
+      <published>2026-07-31T10:45:00Z</published>
+    </entry>
+    <entry>
+      <title>WEA: Investment-Grade Bond Funds Could Disappoint Going Forward</title>
+      <id>4928518</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928518-wea-investment-grade-bond-funds-could-disappoint-going-forward?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T10:03:58Z</updated>
+      <published>2026-07-31T10:03:58Z</published>
+    </entry>
+    <entry>
+      <title>Enel SpA 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4928547</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928547-enel-spa-2026-q2-results-earnings-call-presentation?source=feed_symbol_ENLAY"/>
+      <updated>2026-07-31T10:03:00Z</updated>
+      <published>2026-07-31T10:03:00Z</published>
+    </entry>
+    <entry>
+      <title>NBXG: Everything Checks Out Except The Timing</title>
+      <id>4928504</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928504-nbxg-everything-checks-out-except-the-timing-hold-for-now?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T09:18:32Z</updated>
+      <published>2026-07-31T09:18:32Z</published>
+    </entry>
+    <entry>
+      <title>Beyond The Coupon: How To Evaluate A Growing Autocallable ETF Category</title>
+      <id>4928505</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4928505-beyond-coupon-how-to-evaluate-growing-autocallable-etf-category?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-07-31T08:30:00Z</updated>
+      <published>2026-07-31T08:30:00Z</published>
+    </entry>
     <entry>
       <title>Can Semiconductor Makers Navigate Rising Water Risks?</title>
       <id>4928433</id>
@@ -86,103 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4928190-idef-is-struggling-to-capture-secular-demand-growth-trend-consider-us-etfs?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-30T21:40:11Z</updated>
       <published>2026-07-30T21:40:11Z</published>
-    </entry>
-    <entry>
-      <title>Much Ado About Perps</title>
-      <id>4928211</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928211-much-ado-about-perps?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T21:20:00Z</updated>
-      <published>2026-07-30T21:20:00Z</published>
-    </entry>
-    <entry>
-      <title>Linde Q2 2026 Earnings Preview</title>
-      <id>https://seekingalpha.com/MarketCurrent:4621998</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
-      <updated>2026-07-30T18:29:41Z</updated>
-      <published>2026-07-30T18:29:41Z</published>
-    </entry>
-    <entry>
-      <title>TSMC soars 7% following six consecutive sessions of losses</title>
-      <id>https://seekingalpha.com/MarketCurrent:4621982</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-07-30T18:18:29Z</updated>
-      <published>2026-07-30T18:18:29Z</published>
-    </entry>
-    <entry>
-      <title>PSI Is Better Than SOXX For Dip Buying As The Chip Rally Broadens</title>
-      <id>4927954</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927954-psi-is-better-than-soxx-for-dip-buying-as-the-chip-rally-broadens?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T17:52:09Z</updated>
-      <published>2026-07-30T17:52:09Z</published>
-    </entry>
-    <entry>
-      <title>SPYG Vs. QQQ: It&apos;s Not The Tech Exposure, It&apos;s What&apos;s Inside It</title>
-      <id>4927923</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927923-spyg-vs-qqq-its-not-the-tech-exposure-its-whats-inside-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T17:20:54Z</updated>
-      <published>2026-07-30T17:20:54Z</published>
-    </entry>
-    <entry>
-      <title>Beyond Moore&apos;s Law: The Full Stack Driving AI In 2026</title>
-      <id>4927905</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927905-beyond-moore-law-full-stack-driving-ai-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T16:55:00Z</updated>
-      <published>2026-07-30T16:55:00Z</published>
-    </entry>
-    <entry>
-      <title>PFFA: The Yield Is Attractive But The Risk-Reward Is Not</title>
-      <id>4927894</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927894-pffa-the-yield-is-attractive-but-the-risk-reward-is-not?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T16:46:14Z</updated>
-      <published>2026-07-30T16:46:14Z</published>
-    </entry>
-    <entry>
-      <title>AIPO: Industrial AI And Power Stocks Struggle Amid Jumpy Treasury Rates</title>
-      <id>4927718</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927718-aipo-industrial-ai-and-power-stocks-struggle-amid-jumpy-treasury-rates?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T14:25:32Z</updated>
-      <published>2026-07-30T14:25:32Z</published>
-    </entry>
-    <entry>
-      <title>USFR: We Interpret A Hard Line On Inflation</title>
-      <id>4927709</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927709-usfr-we-interpret-a-hard-line-on-inflation?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T14:22:00Z</updated>
-      <published>2026-07-30T14:22:00Z</published>
-    </entry>
-    <entry>
-      <title>Ankara Reckoning: NATO Summit&apos;s Impact On European Defense</title>
-      <id>4927766</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927766-ankara-reckoning-nato-summits-impact-on-european-defense?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T14:15:00Z</updated>
-      <published>2026-07-30T14:15:00Z</published>
-    </entry>
-    <entry>
-      <title>PSI: The AI Sell-Off Missed The Companies Building The Future, Strong Buy</title>
-      <id>4927708</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927708-psi-the-ai-selloff-missed-the-companies-building-the-future-strong-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T14:14:01Z</updated>
-      <published>2026-07-30T14:14:01Z</published>
-    </entry>
-    <entry>
-      <title>FNDA: Small-Cap ETF With Solid Quality And GARP Features</title>
-      <id>4927395</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927395-fnda-small-cap-etf-with-solid-quality-and-garp-features?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T14:00:00Z</updated>
-      <published>2026-07-30T14:00:00Z</published>
-    </entry>
-    <entry>
-      <title>SpaceX And The AI Infrastructure Frontier: A New Growth Story For The Space Economy</title>
-      <id>4927663</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927663-spacex-ai-infrastructure-frontier-new-growth-story-space-economy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T13:40:00Z</updated>
-      <published>2026-07-30T13:40:00Z</published>
-    </entry>
-    <entry>
-      <title>PDI&apos;s 16.5% Yield Is Not Sustainable, But The Fund Deserves An Upgrade</title>
-      <id>4927643</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4927643-pdis-16-5-percent-yield-is-not-sustainable-but-fund-deserves-an-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-30T13:23:38Z</updated>
-      <published>2026-07-30T13:23:38Z</published>
     </entry>
 </feed>
