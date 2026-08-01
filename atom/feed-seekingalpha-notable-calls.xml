@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-01T06:50:00Z</updated>
+  <updated>2026-08-01T17:28:17Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>EDV: A 22-Basis-Point Move Can Erase A Year Of Income</title>
+      <id>4929192</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929192-edv-a-22-basis-point-move-can-erase-a-year-of-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-01T17:28:17Z</updated>
+      <published>2026-08-01T17:28:17Z</published>
+    </entry>
+    <entry>
+      <title>Insider trades: Adobe, Visa, PepsiCo among notable names</title>
+      <id>https://seekingalpha.com/MarketCurrent:4623106</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-08-01T15:03:03Z</updated>
+      <published>2026-08-01T15:03:03Z</published>
+    </entry>
+    <entry>
+      <title>INTL: This Ex-U.S. Tactical Equity ETF Still Has To Prove Itself</title>
+      <id>4929123</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929123-intl-this-ex-us-tactical-equity-etf-still-has-to-prove-itself?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-01T08:21:56Z</updated>
+      <published>2026-08-01T08:21:56Z</published>
+    </entry>
+    <entry>
+      <title>FTHNX: A Buy On Proven Behavioral Edge Into A Small-Cap Rotation</title>
+      <id>4929120</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929120-fthnx-a-buy-on-proven-behavioral-edge-into-a-small-cap-rotation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-01T08:11:14Z</updated>
+      <published>2026-08-01T08:11:14Z</published>
+    </entry>
     <entry>
       <title>Stagflation May Be The New Base Case: Why It Matters</title>
       <id>4929111</id>
@@ -156,33 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4928394-gval-smart-deep-value-strategy-with-unconvincing-results?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-31T10:45:00Z</updated>
       <published>2026-07-31T10:45:00Z</published>
-    </entry>
-    <entry>
-      <title>WEA: Investment-Grade Bond Funds Could Disappoint Going Forward</title>
-      <id>4928518</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928518-wea-investment-grade-bond-funds-could-disappoint-going-forward?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T10:03:58Z</updated>
-      <published>2026-07-31T10:03:58Z</published>
-    </entry>
-    <entry>
-      <title>Enel SpA 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4928547</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928547-enel-spa-2026-q2-results-earnings-call-presentation?source=feed_symbol_ENLAY"/>
-      <updated>2026-07-31T10:03:00Z</updated>
-      <published>2026-07-31T10:03:00Z</published>
-    </entry>
-    <entry>
-      <title>NBXG: Everything Checks Out Except The Timing</title>
-      <id>4928504</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928504-nbxg-everything-checks-out-except-the-timing-hold-for-now?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T09:18:32Z</updated>
-      <published>2026-07-31T09:18:32Z</published>
-    </entry>
-    <entry>
-      <title>Beyond The Coupon: How To Evaluate A Growing Autocallable ETF Category</title>
-      <id>4928505</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928505-beyond-coupon-how-to-evaluate-growing-autocallable-etf-category?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T08:30:00Z</updated>
-      <published>2026-07-31T08:30:00Z</published>
     </entry>
 </feed>
