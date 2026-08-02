@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-01T17:39:09Z</updated>
+  <updated>2026-08-02T16:12:35Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Income-Covered Closed-End Fund Report, July 2026</title>
+      <id>4929318</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929318-income-covered-closed-end-fund-report-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-02T16:12:35Z</updated>
+      <published>2026-08-02T16:12:35Z</published>
+    </entry>
+    <entry>
+      <title>SPYM: S&amp;P 500 Monthly Dashboard For August</title>
+      <id>4929317</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929317-spym-sp-500-monthly-dashboard-august?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-02T15:54:02Z</updated>
+      <published>2026-08-02T15:54:02Z</published>
+    </entry>
+    <entry>
+      <title>SPYI: Stop Looking At The Yield, The Real Opportunity Is Volatility</title>
+      <id>4929312</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929312-spyi-stop-looking-at-the-yield-the-real-opportunity-is-volatility?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-02T14:26:31Z</updated>
+      <published>2026-08-02T14:26:31Z</published>
+    </entry>
+    <entry>
+      <title>AKRE: A Hold As Performance Surprises On The Upside, Yet Concerns Remain</title>
+      <id>4929306</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929306-akre-a-hold-as-performance-surprises-on-the-upside-yet-concerns-remain?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-02T14:02:36Z</updated>
+      <published>2026-08-02T14:02:36Z</published>
+    </entry>
     <entry>
       <title>SCHF: Global Markets Continue To Entice Me</title>
       <id>4929194</id>
@@ -156,33 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4928670-gold-monthly-from-higher-rates-to-higher-uncertainty-as-end-july-2026?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-31T13:40:00Z</updated>
       <published>2026-07-31T13:40:00Z</published>
-    </entry>
-    <entry>
-      <title>Linde plc 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4928679</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928679-linde-plc-2026-q2-results-earnings-call-presentation?source=feed_symbol_LIN"/>
-      <updated>2026-07-31T13:34:42Z</updated>
-      <published>2026-07-31T13:34:42Z</published>
-    </entry>
-    <entry>
-      <title>Bitwise Hyperliquid ETF: Why The Staking Yield May Not Be Enough</title>
-      <id>4928599</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928599-bitwise-hyperliquid-etf-why-the-staking-yield-may-not-be-enough?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T12:56:03Z</updated>
-      <published>2026-07-31T12:56:03Z</published>
-    </entry>
-    <entry>
-      <title>Sea Limited: Shopee Is The Key To Q2</title>
-      <id>https://seekingalpha.com/Article:4928515</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928515-sea-limited-shopee-is-the-key-to-q2?source=feed_symbol_SE"/>
-      <updated>2026-07-31T12:00:06Z</updated>
-      <published>2026-07-31T12:00:06Z</published>
-    </entry>
-    <entry>
-      <title>EZA: Higher Cost Of Capital Not Good For Constituent Elements</title>
-      <id>4928372</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928372-eza-higher-cost-of-capital-not-good-for-constituent-elements?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T11:00:00Z</updated>
-      <published>2026-07-31T11:00:00Z</published>
     </entry>
 </feed>
