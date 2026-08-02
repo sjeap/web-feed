@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-01T17:28:17Z</updated>
+  <updated>2026-08-01T17:39:09Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SCHF: Global Markets Continue To Entice Me</title>
+      <id>4929194</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929194-schf-global-markets-continue-to-entice-me?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-01T17:39:09Z</updated>
+      <published>2026-08-01T17:39:09Z</published>
+    </entry>
     <entry>
       <title>EDV: A 22-Basis-Point Move Can Erase A Year Of Income</title>
       <id>4929192</id>
@@ -177,12 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4928372-eza-higher-cost-of-capital-not-good-for-constituent-elements?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-07-31T11:00:00Z</updated>
       <published>2026-07-31T11:00:00Z</published>
-    </entry>
-    <entry>
-      <title>GVAL: Smart Deep Value Strategy With Unconvincing Results</title>
-      <id>4928394</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928394-gval-smart-deep-value-strategy-with-unconvincing-results?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T10:45:00Z</updated>
-      <published>2026-07-31T10:45:00Z</published>
     </entry>
 </feed>
