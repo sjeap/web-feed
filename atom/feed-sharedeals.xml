@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-07-31T11:33:59Z</updated>
+  <updated>2026-08-02T12:43:29Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>BYD-Aktie: Geht&apos;s jetzt erst richtig los?</title>
+      <id>https://www.sharedeals.de/byd-aktie-gehts-jetzt-erst-richtig-los/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/byd-aktie-gehts-jetzt-erst-richtig-los/"/>
+      <updated>2026-08-02T12:43:29Z</updated>
+      <published>2026-08-02T12:43:29Z</published>
+    </entry>
     <entry>
       <title>SAP-Aktie: Dieser Bereich könnte jetzt alles entscheiden</title>
       <id>https://www.sharedeals.de/sap-aktie-dieser-bereich-koennte-jetzt-alles-entscheiden/</id>
@@ -18,32 +25,25 @@
       <published>2026-07-31T11:33:59Z</published>
     </entry>
     <entry>
-      <title>Rheinmetall-Aktie: An dieser Marke droht der nächste Rücksetzer</title>
-      <id>https://www.sharedeals.de/rheinmetall-aktie-an-dieser-marke-droht-der-naechste-ruecksetzer/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-an-dieser-marke-droht-der-naechste-ruecksetzer/"/>
-      <updated>2026-07-30T08:04:11Z</updated>
-      <published>2026-07-30T08:04:11Z</published>
+      <title>Schaeffler-Aktie: Ist dieser Crash eine Kaufchance?</title>
+      <id>https://www.sharedeals.de/schaeffler-aktie-ist-dieser-crash-eine-kaufchance/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/schaeffler-aktie-ist-dieser-crash-eine-kaufchance/"/>
+      <updated>2026-07-31T10:09:05Z</updated>
+      <published>2026-07-31T10:09:05Z</published>
     </entry>
     <entry>
-      <title>Novo Nordisk-Aktie: 50 € Aktienkurs noch vor Ex-Dividende?</title>
-      <id>https://www.sharedeals.de/novo-nordisk-aktie-50-e-aktienkurs-noch-vor-ex-dividende/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/novo-nordisk-aktie-50-e-aktienkurs-noch-vor-ex-dividende/"/>
-      <updated>2026-07-30T08:00:58Z</updated>
-      <published>2026-07-30T08:00:58Z</published>
+      <title>XRP: Großer regulatorischer Erfolg für Ripple</title>
+      <id>https://www.sharedeals.de/xrp-grosser-regulatorischer-erfolg-fuer-ripple/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/xrp-grosser-regulatorischer-erfolg-fuer-ripple/"/>
+      <updated>2026-07-31T09:16:47Z</updated>
+      <published>2026-07-31T09:16:47Z</published>
     </entry>
     <entry>
-      <title>Micron-Aktie mit -40% – hält der Abwärtsdruck an?</title>
-      <id>https://www.sharedeals.de/micron-aktie-mit-40-haelt-der-abwaertsdruck-an/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/micron-aktie-mit-40-haelt-der-abwaertsdruck-an/"/>
-      <updated>2026-07-30T04:57:12Z</updated>
-      <published>2026-07-30T04:57:12Z</published>
-    </entry>
-    <entry>
-      <title>Almonty-Aktie mit -56% – Ist der Boden endlich erreicht?</title>
-      <id>https://www.sharedeals.de/almonty-aktie-mit-56-ist-der-boden-endlich-erreicht/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-mit-56-ist-der-boden-endlich-erreicht/"/>
-      <updated>2026-07-30T04:34:46Z</updated>
-      <published>2026-07-30T04:34:46Z</published>
+      <title>Commerzbank-Aktie: Game over – was ist ratsam?</title>
+      <id>https://www.sharedeals.de/commerzbank-aktie-game-over-was-ist-ratsam/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/commerzbank-aktie-game-over-was-ist-ratsam/"/>
+      <updated>2026-07-31T06:58:47Z</updated>
+      <published>2026-07-31T06:58:47Z</published>
     </entry>
     <entry>
       <title>No Brainer Club: Nächster Doppel-Exit beschert dreistellige Renditen</title>
