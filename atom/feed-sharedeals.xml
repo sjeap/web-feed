@@ -5,31 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-02T12:43:29Z</updated>
+  <updated>2026-08-03T11:03:34Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>BYD-Aktie: Geht&apos;s jetzt erst richtig los?</title>
-      <id>https://www.sharedeals.de/byd-aktie-gehts-jetzt-erst-richtig-los/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/byd-aktie-gehts-jetzt-erst-richtig-los/"/>
-      <updated>2026-08-02T12:43:29Z</updated>
-      <published>2026-08-02T12:43:29Z</published>
+      <title>SAP-Aktie +30%: Ist das schon die Trendwende?</title>
+      <id>https://www.sharedeals.de/sap-aktie-30-ist-das-schon-die-trendwende/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/sap-aktie-30-ist-das-schon-die-trendwende/"/>
+      <updated>2026-08-03T11:03:34Z</updated>
+      <published>2026-08-03T11:03:34Z</published>
     </entry>
     <entry>
-      <title>SAP-Aktie: Dieser Bereich könnte jetzt alles entscheiden</title>
-      <id>https://www.sharedeals.de/sap-aktie-dieser-bereich-koennte-jetzt-alles-entscheiden/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/sap-aktie-dieser-bereich-koennte-jetzt-alles-entscheiden/"/>
-      <updated>2026-07-31T11:33:59Z</updated>
-      <published>2026-07-31T11:33:59Z</published>
+      <title>Siemens Energy-Aktie: Die Verkäufer üben Druck aus</title>
+      <id>https://www.sharedeals.de/siemens-energy-aktie-die-verkaeufer-ueben-druck-aus/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/siemens-energy-aktie-die-verkaeufer-ueben-druck-aus/"/>
+      <updated>2026-08-03T10:10:48Z</updated>
+      <published>2026-08-03T10:10:48Z</published>
     </entry>
     <entry>
-      <title>Schaeffler-Aktie: Ist dieser Crash eine Kaufchance?</title>
-      <id>https://www.sharedeals.de/schaeffler-aktie-ist-dieser-crash-eine-kaufchance/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/schaeffler-aktie-ist-dieser-crash-eine-kaufchance/"/>
-      <updated>2026-07-31T10:09:05Z</updated>
-      <published>2026-07-31T10:09:05Z</published>
+      <title>Almonty-Aktie: Neues Jahrestief trotz starkem operativem Geschäft</title>
+      <id>https://www.sharedeals.de/almonty-aktie-neues-jahrestief-trotz-starkem-operativem-geschaeft/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-neues-jahrestief-trotz-starkem-operativem-geschaeft/"/>
+      <updated>2026-08-03T09:05:51Z</updated>
+      <published>2026-08-03T09:05:51Z</published>
+    </entry>
+    <entry>
+      <title>Rolls-Royce-Aktie +42% seit Kaufempfehlung: Das treibt sie immer weiter</title>
+      <id>https://www.sharedeals.de/rolls-royce-aktie-42-seit-kaufempfehlung-das-treibt-sie-immer-weiter/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rolls-royce-aktie-42-seit-kaufempfehlung-das-treibt-sie-immer-weiter/"/>
+      <updated>2026-08-03T08:10:07Z</updated>
+      <published>2026-08-03T08:10:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/08/Artikelbilder-1-1-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/08/Artikelbilder-1-1-540x350.jpg" alt="Rolls-Royce"/><p>Rolls-Royce-Aktie +42% seit Kaufempfehlung: Das treibt sie immer weiter</p>]]></content>
+    </entry>
+    <entry>
+      <title>Commerzbank-Aktie: Greift der Bund jetzt doch ein?</title>
+      <id>https://www.sharedeals.de/commerzbank-aktie-greift-der-bund-jetzt-doch-ein/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/commerzbank-aktie-greift-der-bund-jetzt-doch-ein/"/>
+      <updated>2026-08-03T05:22:12Z</updated>
+      <published>2026-08-03T05:22:12Z</published>
     </entry>
     <entry>
       <title>XRP: Großer regulatorischer Erfolg für Ripple</title>
@@ -37,13 +53,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/xrp-grosser-regulatorischer-erfolg-fuer-ripple/"/>
       <updated>2026-07-31T09:16:47Z</updated>
       <published>2026-07-31T09:16:47Z</published>
-    </entry>
-    <entry>
-      <title>Commerzbank-Aktie: Game over – was ist ratsam?</title>
-      <id>https://www.sharedeals.de/commerzbank-aktie-game-over-was-ist-ratsam/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/commerzbank-aktie-game-over-was-ist-ratsam/"/>
-      <updated>2026-07-31T06:58:47Z</updated>
-      <published>2026-07-31T06:58:47Z</published>
     </entry>
     <entry>
       <title>No Brainer Club: Nächster Doppel-Exit beschert dreistellige Renditen</title>
@@ -61,7 +70,7 @@
       <updated>2026-07-10T09:23:58Z</updated>
       <published>2026-07-10T09:23:58Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/02/duolingo_teas-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/02/duolingo_teas-540x350.jpg" alt="Duolingo-Aktie: +30% nach Kauftipp erst der Anfang?"/><p>Duolingo-Aktie: +30% nach Kauftipp erst der Anfang?</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/02/duolingo_teas-540x350.jpg" alt="Smartphone zeigt Duolingo Lern-App mit grüner Oberfläche."/><p>Duolingo-Aktie: +30% nach Kauftipp erst der Anfang?</p>]]></content>
     </entry>
     <entry>
       <title>No Brainer Club: Schnelle +43% Rendite mit Tenax-Trade</title>
@@ -71,14 +80,5 @@
       <published>2026-07-08T09:52:22Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/08/Trading_AdobeStock_797640513-540x350.jpeg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/08/Trading_AdobeStock_797640513-540x350.jpeg" alt="Happy successful trader smiling with stock market graph charts"/><p>No Brainer Club: Schnelle +43% Rendite mit Tenax-Trade</p>]]></content>
-    </entry>
-    <entry>
-      <title>Abivax-Aktie durch die Decke: Reuters bestätigt Übernahme-Gespräche</title>
-      <id>https://www.sharedeals.de/abivax-aktie-durch-die-decke-reuters-bestaetigt-uebernahme-gespraeche/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/abivax-aktie-durch-die-decke-reuters-bestaetigt-uebernahme-gespraeche/"/>
-      <updated>2026-07-02T07:44:43Z</updated>
-      <published>2026-07-02T07:44:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/01/big_pharma_merger_money-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/01/big_pharma_merger_money-540x350.jpg" alt="Abivax-Aktie durch die Decke: Reuters bestätigt Übernahme-Gespräche"/><p>Abivax-Aktie durch die Decke: Reuters bestätigt Übernahme-Gespräche</p>]]></content>
     </entry>
 </feed>
