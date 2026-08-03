@@ -5,11 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-02T16:12:35Z</updated>
+  <updated>2026-08-03T07:16:12Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>EUV: Semiconductor Fears Don&apos;t Scare Me</title>
+      <id>4929387</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929387-euv-semiconductor-fears-dont-scare-me?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T07:16:12Z</updated>
+      <published>2026-08-03T07:16:12Z</published>
+    </entry>
+    <entry>
+      <title>JABS: Continues To Perform</title>
+      <id>4929379</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929379-jabs-continues-to-perform-reiterate-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T06:57:52Z</updated>
+      <published>2026-08-03T06:57:52Z</published>
+    </entry>
+    <entry>
+      <title>VYMI: A Global Income Play For AI Skeptics</title>
+      <id>4929351</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929351-vymi-a-global-income-play-for-ai-skeptics?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T03:14:45Z</updated>
+      <published>2026-08-03T03:14:45Z</published>
+    </entry>
+    <entry>
+      <title>2 Infrastructure Closed-End Funds For The Long-Term</title>
+      <id>4929338</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929338-2-infrastructure-closed-end-funds-for-the-long-term?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T01:46:17Z</updated>
+      <published>2026-08-03T01:46:17Z</published>
+    </entry>
+    <entry>
+      <title>DTCR: Deleveraging And A Hedge Fund Collapse Point To A Possible AI Bottom</title>
+      <id>4929332</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929332-dtcr-deleveraging-and-a-hedge-fund-collapse-point-to-a-possible-ai-bottom?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T01:24:26Z</updated>
+      <published>2026-08-03T01:24:26Z</published>
+    </entry>
     <entry>
       <title>Income-Covered Closed-End Fund Report, July 2026</title>
       <id>4929318</id>
@@ -37,6 +72,13 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4929306-akre-a-hold-as-performance-surprises-on-the-upside-yet-concerns-remain?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-02T14:02:36Z</updated>
       <published>2026-08-02T14:02:36Z</published>
+    </entry>
+    <entry>
+      <title>AVUV: Buy The Small-Cap Value With A Profitability Edge</title>
+      <id>4929378</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929378-avuv-buy-the-small-cap-value-with-a-profitability-edge?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-02T10:30:22Z</updated>
+      <published>2026-08-02T10:30:22Z</published>
     </entry>
     <entry>
       <title>SCHF: Global Markets Continue To Entice Me</title>
@@ -123,34 +165,6 @@
       <published>2026-07-31T21:51:21Z</published>
     </entry>
     <entry>
-      <title>ARKK: Public Markets Are Not Venture Capital</title>
-      <id>4928916</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928916-arkk-public-markets-are-not-venture-capital?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T20:44:52Z</updated>
-      <published>2026-07-31T20:44:52Z</published>
-    </entry>
-    <entry>
-      <title>PDI: 16% Yield Likely To Remain Intact But Doesn&apos;t Change Poor Outlook</title>
-      <id>4928889</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928889-pdi-16-percent-yield-likely-to-remain-intact-but-doesnt-change-poor-outlook?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T19:37:45Z</updated>
-      <published>2026-07-31T19:37:45Z</published>
-    </entry>
-    <entry>
-      <title>DFAT: Improved Growth Outlook Powering Small-Cap Value Returns In 2026</title>
-      <id>4928849</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928849-dfat-improved-growth-outlook-powering-small-cap-value-returns-in-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T18:12:06Z</updated>
-      <published>2026-07-31T18:12:06Z</published>
-    </entry>
-    <entry>
-      <title>EPS: An Earnings-Weighted Fund With Little Defensive Value</title>
-      <id>4928845</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928845-eps-an-earnings-weighted-fund-with-little-defensive-value?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T18:03:01Z</updated>
-      <published>2026-07-31T18:03:01Z</published>
-    </entry>
-    <entry>
       <title>Linde projects $17.70-$17.90 full-year EPS while backlog holds an &quot;8 handle&quot; despite $1.3B of 2026 start-ups</title>
       <id>https://seekingalpha.com/MarketCurrent:4622894</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
@@ -165,24 +179,10 @@
       <published>2026-07-31T16:43:28Z</published>
     </entry>
     <entry>
-      <title>JHI: Fabricate A Fortress For Your Future Income</title>
-      <id>4928763</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928763-jhi-fabricate-a-fortress-for-your-future-income?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T16:00:21Z</updated>
-      <published>2026-07-31T16:00:21Z</published>
-    </entry>
-    <entry>
       <title>Enel: Higher-Quality Earnings Support Further Re-Rating</title>
       <id>https://seekingalpha.com/Article:4928733</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4928733-enel-higher-quality-earnings-support-further-re-rating?source=feed_symbol_ENLAY"/>
       <updated>2026-07-31T15:23:21Z</updated>
       <published>2026-07-31T15:23:21Z</published>
-    </entry>
-    <entry>
-      <title>Gold Monthly: From Higher Rates To Higher Uncertainty As We End July 2026</title>
-      <id>4928670</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928670-gold-monthly-from-higher-rates-to-higher-uncertainty-as-end-july-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-07-31T13:40:00Z</updated>
-      <published>2026-07-31T13:40:00Z</published>
     </entry>
 </feed>
