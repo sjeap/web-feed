@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-03T11:03:34Z</updated>
+  <updated>2026-08-03T13:46:51Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rheinmetall-Aktie vor dem Befreiungsschlag? Darauf kommt es nun an</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-vor-dem-befreiungsschlag-darauf-kommt-es-nun-an/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-vor-dem-befreiungsschlag-darauf-kommt-es-nun-an/"/>
+      <updated>2026-08-03T13:46:51Z</updated>
+      <published>2026-08-03T13:46:51Z</published>
+    </entry>
     <entry>
       <title>SAP-Aktie +30%: Ist das schon die Trendwende?</title>
       <id>https://www.sharedeals.de/sap-aktie-30-ist-das-schon-die-trendwende/</id>
@@ -18,11 +25,11 @@
       <published>2026-08-03T11:03:34Z</published>
     </entry>
     <entry>
-      <title>Siemens Energy-Aktie: Die Verkäufer üben Druck aus</title>
-      <id>https://www.sharedeals.de/siemens-energy-aktie-die-verkaeufer-ueben-druck-aus/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/siemens-energy-aktie-die-verkaeufer-ueben-druck-aus/"/>
-      <updated>2026-08-03T10:10:48Z</updated>
-      <published>2026-08-03T10:10:48Z</published>
+      <title>Microsoft-Aktie: Analysten werden immer optimistischer</title>
+      <id>https://www.sharedeals.de/microsoft-aktie-analysten-werden-immer-optimistischer/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/microsoft-aktie-analysten-werden-immer-optimistischer/"/>
+      <updated>2026-08-03T10:22:44Z</updated>
+      <published>2026-08-03T10:22:44Z</published>
     </entry>
     <entry>
       <title>Almonty-Aktie: Neues Jahrestief trotz starkem operativem Geschäft</title>
@@ -46,13 +53,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/commerzbank-aktie-greift-der-bund-jetzt-doch-ein/"/>
       <updated>2026-08-03T05:22:12Z</updated>
       <published>2026-08-03T05:22:12Z</published>
-    </entry>
-    <entry>
-      <title>XRP: Großer regulatorischer Erfolg für Ripple</title>
-      <id>https://www.sharedeals.de/xrp-grosser-regulatorischer-erfolg-fuer-ripple/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/xrp-grosser-regulatorischer-erfolg-fuer-ripple/"/>
-      <updated>2026-07-31T09:16:47Z</updated>
-      <published>2026-07-31T09:16:47Z</published>
     </entry>
     <entry>
       <title>No Brainer Club: Nächster Doppel-Exit beschert dreistellige Renditen</title>
