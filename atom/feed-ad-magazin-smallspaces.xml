@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-07-28T12:40:56Z</updated>
+  <updated>2026-08-03T14:21:25Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>11 Quadratmeter in Malibu: So vereint dieses kleine Holzhaus rustikale Gemütlichkeit und Funktion</title>
+      <id>https://www.ad-magazin.de/artikel/holzhaus-malibu-klein-clever-jenny-kozena</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/holzhaus-malibu-klein-clever-jenny-kozena"/>
+      <updated>2026-08-03T14:21:25Z</updated>
+      <published>2026-08-03T14:21:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/64e476f70696d8c504bcf044/1:1/w_354%2Cc_limit/20230312_JK_Malibu%252015.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/64e476f70696d8c504bcf044/1:1/w_354%2Cc_limit/20230312_JK_Malibu%252015.jpg" alt="11 Quadratmeter in Malibu: So vereint dieses kleine Holzhaus rustikale Gemütlichkeit und Funktion"/><p>11 Quadratmeter in Malibu: So vereint dieses kleine Holzhaus rustikale Gemütlichkeit und Funktion</p>]]></content>
+    </entry>
     <entry>
       <title>Renovierung in Paris: Diese kleine Wohnung kombiniert Art déco mit 70er-Jahre-Flair auf 67 Quadratmetern</title>
       <id>https://www.ad-magazin.de/artikel/warmes-holz-und-weiche-kurven-67-quadratmeter-wohnung-nahe-paris</id>
@@ -171,14 +180,5 @@
       <published>2026-04-25T10:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6996cf9d3d3a390c42502681/1:1/w_354%2Cc_limit/LD_PRONGHORN_236572_edit.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6996cf9d3d3a390c42502681/1:1/w_354%2Cc_limit/LD_PRONGHORN_236572_edit.jpg" alt="Zu wenig Platz für einen Wäscheständer? Mit diesen Tricks klappt das Wäscheaufhängen auch in kleinen Wohnungen"/><p>Zu wenig Platz für einen Wäscheständer? Mit diesen Tricks klappt das Wäscheaufhängen auch in kleinen Wohnungen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Weniger Wände, mehr Tageslicht: So wurde diese 45-Quadratmeter-Wohnung in Barcelona zu neuem Leben erweckt</title>
-      <id>https://www.ad-magazin.de/artikel/45-quadratmeter-wohnung-barcelona-smarter-grundriss-und-viel-licht</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/45-quadratmeter-wohnung-barcelona-smarter-grundriss-und-viel-licht"/>
-      <updated>2026-04-22T12:45:22Z</updated>
-      <published>2026-04-22T12:45:22Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/69e756c6014eddf28da167f8/1:1/w_354%2Cc_limit/cucca%2520studio%2520_cv51_05_.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/69e756c6014eddf28da167f8/1:1/w_354%2Cc_limit/cucca%2520studio%2520_cv51_05_.jpg" alt="Weniger Wände, mehr Tageslicht: So wurde diese 45-Quadratmeter-Wohnung in Barcelona zu neuem Leben erweckt"/><p>Weniger Wände, mehr Tageslicht: So wurde diese 45-Quadratmeter-Wohnung in Barcelona zu neuem Leben erweckt</p>]]></content>
     </entry>
 </feed>
