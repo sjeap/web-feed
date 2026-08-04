@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-08-03T14:21:25Z</updated>
+  <updated>2026-08-04T12:23:32Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>30 Quadratmeter in Weiß und Blau: So smart wurde eine kleine Wohnung in Paris optisch erweitert</title>
+      <id>https://www.ad-magazin.de/artikel/30-quadratmeter-in-weiss-und-blau-kleine-wohnung-paris</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/30-quadratmeter-in-weiss-und-blau-kleine-wohnung-paris"/>
+      <updated>2026-08-04T12:23:32Z</updated>
+      <published>2026-08-04T12:23:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a6c9d3f5adac537c1c223aa/1:1/w_354%2Cc_limit/%25C2%25A9JUANJEREZ_BENJAMIN-GODINIAUX-FBT-WEB-3248.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a6c9d3f5adac537c1c223aa/1:1/w_354%2Cc_limit/%25C2%25A9JUANJEREZ_BENJAMIN-GODINIAUX-FBT-WEB-3248.jpg" alt="30 Quadratmeter in Weiß und Blau: So smart wurde eine kleine Wohnung in Paris optisch erweitert"/><p>30 Quadratmeter in Weiß und Blau: So smart wurde eine kleine Wohnung in Paris optisch erweitert</p>]]></content>
+    </entry>
     <entry>
       <title>11 Quadratmeter in Malibu: So vereint dieses kleine Holzhaus rustikale Gemütlichkeit und Funktion</title>
       <id>https://www.ad-magazin.de/artikel/holzhaus-malibu-klein-clever-jenny-kozena</id>
@@ -171,14 +180,5 @@
       <published>2026-05-07T14:41:26Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/668be0e0b0b520966e3d8583/1:1/w_354%2Cc_limit/1%2520I%2520Casa%2520Andreone%2520I%2520Nerano%2520(NA)%2520I%25202023%2520I%2520%25C2%25A9CarloOriente2023.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/668be0e0b0b520966e3d8583/1:1/w_354%2Cc_limit/1%2520I%2520Casa%2520Andreone%2520I%2520Nerano%2520(NA)%2520I%25202023%2520I%2520%25C2%25A9CarloOriente2023.jpg" alt="Mini-Apartment mit Meerblick: Von der Terrasse dieser 40-Quadratmeter-Wohnung in Italien hat man die beste Aussicht"/><p>Mini-Apartment mit Meerblick: Von der Terrasse dieser 40-Quadratmeter-Wohnung in Italien hat man die beste Aussicht</p>]]></content>
-    </entry>
-    <entry>
-      <title>Zu wenig Platz für einen Wäscheständer? Mit diesen Tricks klappt das Wäscheaufhängen auch in kleinen Wohnungen</title>
-      <id>https://www.ad-magazin.de/artikel/waesche-aufhaengen-in-kleinen-wohnungen-tipps</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/waesche-aufhaengen-in-kleinen-wohnungen-tipps"/>
-      <updated>2026-04-25T10:00:00Z</updated>
-      <published>2026-04-25T10:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6996cf9d3d3a390c42502681/1:1/w_354%2Cc_limit/LD_PRONGHORN_236572_edit.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6996cf9d3d3a390c42502681/1:1/w_354%2Cc_limit/LD_PRONGHORN_236572_edit.jpg" alt="Zu wenig Platz für einen Wäscheständer? Mit diesen Tricks klappt das Wäscheaufhängen auch in kleinen Wohnungen"/><p>Zu wenig Platz für einen Wäscheständer? Mit diesen Tricks klappt das Wäscheaufhängen auch in kleinen Wohnungen</p>]]></content>
     </entry>
 </feed>
