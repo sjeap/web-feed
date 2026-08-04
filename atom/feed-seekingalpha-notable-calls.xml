@@ -5,11 +5,81 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-03T17:47:39Z</updated>
+  <updated>2026-08-04T06:17:49Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rio Tinto shelves prospects of renewed Glencore bid after standstill - report</title>
+      <id>https://seekingalpha.com/MarketCurrent:4624284</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-08-04T06:17:49Z</updated>
+      <published>2026-08-04T06:17:49Z</published>
+    </entry>
+    <entry>
+      <title>Moving Averages Of The Ivy Portfolio And S&amp;P 500: July 2026</title>
+      <id>4929701</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929701-moving-averages-of-ivy-portfolio-s-p-500-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-04T00:40:00Z</updated>
+      <published>2026-08-04T00:40:00Z</published>
+    </entry>
+    <entry>
+      <title>Dead Cat Bounce &gt; Last Chance - Weekly Blog # 952</title>
+      <id>4929659</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929659-dead-cat-bounce-last-chance-weekly-blog-952?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T21:45:00Z</updated>
+      <published>2026-08-03T21:45:00Z</published>
+    </entry>
+    <entry>
+      <title>BITO: A Tactical Tool, Not A Buy-And-Hold Bitcoin ETF</title>
+      <id>4929643</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929643-bito-a-tactical-tool-not-a-buy-and-hold-bitcoin-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T21:35:00Z</updated>
+      <published>2026-08-03T21:35:00Z</published>
+    </entry>
+    <entry>
+      <title>Trouble Ahead: You Don&apos;t Want To Own CLO Mez Tranches At This Time</title>
+      <id>4929641</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929641-trouble-ahead-you-dont-want-to-own-clo-mez-tranches-at-this-time?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T21:29:04Z</updated>
+      <published>2026-08-03T21:29:04Z</published>
+    </entry>
+    <entry>
+      <title>Danaher names Julie Sawyer Montgomery as CEO; transition begins Oct. 1</title>
+      <id>https://seekingalpha.com/MarketCurrent:4624169</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/DHR/news?source=feed_symbol_DHR"/>
+      <updated>2026-08-03T21:16:34Z</updated>
+      <published>2026-08-03T21:16:34Z</published>
+    </entry>
+    <entry>
+      <title>BCAT: The Rally Masked A Structural Flaw</title>
+      <id>4929635</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929635-bcat-the-rally-masked-a-structural-flaw?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T21:07:01Z</updated>
+      <published>2026-08-03T21:07:01Z</published>
+    </entry>
+    <entry>
+      <title>PTY: The Market&apos;s Valuation Does Not Reflect Fund Performance</title>
+      <id>4929622</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929622-pty-the-markets-valuation-does-not-reflect-fund-performance?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T20:02:48Z</updated>
+      <published>2026-08-03T20:02:48Z</published>
+    </entry>
+    <entry>
+      <title>The Case For The Leveraged MSFU ETF</title>
+      <id>4929603</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929603-the-case-for-the-leveraged-msfu-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-03T19:11:23Z</updated>
+      <published>2026-08-03T19:11:23Z</published>
+    </entry>
+    <entry>
+      <title>Linde: My &apos;Not Cheap&apos; Thesis Has Been True Since 2023</title>
+      <id>https://seekingalpha.com/Article:4929598</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929598-linde-my-not-cheap-thesis-has-been-true-since-2023?source=feed_symbol_LIN"/>
+      <updated>2026-08-03T18:45:42Z</updated>
+      <published>2026-08-03T18:45:42Z</published>
+    </entry>
     <entry>
       <title>TSLY: From Tactical Buy To Tactical Pause</title>
       <id>4929578</id>
@@ -109,80 +179,10 @@
       <published>2026-08-03T12:45:00Z</published>
     </entry>
     <entry>
-      <title>MLPI: Covered Call Midstream Energy ETF, Sky-High Distribution Rate, Short Track-Record</title>
-      <id>4929462</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929462-mlpi-covered-call-midstream-energy-etf-sky-high-distribution-rate-short-track-record?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T12:38:29Z</updated>
-      <published>2026-08-03T12:38:29Z</published>
-    </entry>
-    <entry>
-      <title>MLPI: The One Covered Call ETF I&apos;d Buy For Retirement Income</title>
-      <id>4929349</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929349-mlpi-the-one-covered-call-etf-id-buy-for-retirement-income?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T12:15:00Z</updated>
-      <published>2026-08-03T12:15:00Z</published>
-    </entry>
-    <entry>
-      <title>SCHQ: Risks Could Continue To Mount For Duration Bets</title>
-      <id>4929359</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929359-schq-risks-could-continue-to-mount-for-duration-bets?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T11:45:00Z</updated>
-      <published>2026-08-03T11:45:00Z</published>
-    </entry>
-    <entry>
-      <title>FSTA: Recent Outperformance Masks A Less Attractive Long-Term Outlook</title>
-      <id>4929445</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929445-fsta-recent-outperformance-masks-less-attractive-long-term-outlook-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T11:18:07Z</updated>
-      <published>2026-08-03T11:18:07Z</published>
-    </entry>
-    <entry>
-      <title>FAN: Significant Headwinds Will Challenge This Fund&apos;s Rebound</title>
-      <id>4929337</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929337-fan-significant-headwinds-will-challenge-this-funds-rebound?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T11:15:00Z</updated>
-      <published>2026-08-03T11:15:00Z</published>
-    </entry>
-    <entry>
-      <title>SGOV: Not What You Want, It&apos;s What You Need</title>
-      <id>4929335</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929335-sgov-not-what-you-want-its-what-you-need?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T11:00:00Z</updated>
-      <published>2026-08-03T11:00:00Z</published>
-    </entry>
-    <entry>
-      <title>ARKK: Underwhelming Results To Continue In 2026</title>
-      <id>4929354</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929354-arkk-underwhelming-results-to-continue-in-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-03T09:45:00Z</updated>
-      <published>2026-08-03T09:45:00Z</published>
-    </entry>
-    <entry>
       <title>Insider trades: Adobe, Visa, PepsiCo among notable names</title>
       <id>https://seekingalpha.com/MarketCurrent:4623106</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
       <updated>2026-08-01T15:03:03Z</updated>
       <published>2026-08-01T15:03:03Z</published>
-    </entry>
-    <entry>
-      <title>Chubu Electric Power Company, Incorporated 2027 Q1 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4929057</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929057-chubu-electric-power-company-incorporated-2027-q1-results-earnings-call-presentation?source=feed_symbol_CHUEF"/>
-      <updated>2026-07-31T23:41:40Z</updated>
-      <published>2026-07-31T23:41:40Z</published>
-    </entry>
-    <entry>
-      <title>Linde projects $17.70-$17.90 full-year EPS while backlog holds an &quot;8 handle&quot; despite $1.3B of 2026 start-ups</title>
-      <id>https://seekingalpha.com/MarketCurrent:4622894</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
-      <updated>2026-07-31T16:45:15Z</updated>
-      <published>2026-07-31T16:45:15Z</published>
-    </entry>
-    <entry>
-      <title>Linde plc (LIN) Q2 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4928760</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4928760-linde-plc-lin-q2-2026-earnings-call-transcript?source=feed_symbol_LIN"/>
-      <updated>2026-07-31T16:43:28Z</updated>
-      <published>2026-07-31T16:43:28Z</published>
     </entry>
 </feed>
