@@ -5,11 +5,95 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-05T06:40:00Z</updated>
+  <updated>2026-08-05T17:17:59Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Iron ore mine depletion to support prices over next decade, Rio Tinto executive says</title>
+      <id>https://seekingalpha.com/MarketCurrent:4626418</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-08-05T17:17:59Z</updated>
+      <published>2026-08-05T17:17:59Z</published>
+    </entry>
+    <entry>
+      <title>EMXC: The Next AI Gains Need More Than Chips And Memory</title>
+      <id>4930898</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930898-emxc-the-next-ai-gains-need-more-than-chips-and-memory?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T16:41:32Z</updated>
+      <published>2026-08-05T16:41:32Z</published>
+    </entry>
+    <entry>
+      <title>CII: No Bargain, But It Continues To Provide Strong Performance</title>
+      <id>4930856</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930856-cii-no-bargain-but-it-continues-to-provide-strong-performance?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T16:07:26Z</updated>
+      <published>2026-08-05T16:07:26Z</published>
+    </entry>
+    <entry>
+      <title>ARKF: Fintech And Crypto Consolidate Amid The Global Rally</title>
+      <id>4930687</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930687-arkf-fintech-and-crypto-consolidate-amid-the-global-rally?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T13:59:29Z</updated>
+      <published>2026-08-05T13:59:29Z</published>
+    </entry>
+    <entry>
+      <title>Transitioning Concentrated Positions Doesn&apos;t Have To Be All Or Nothing</title>
+      <id>4930749</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930749-transitioning-concentrated-positions-doesnt-have-to-be-all-or-nothing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T13:50:00Z</updated>
+      <published>2026-08-05T13:50:00Z</published>
+    </entry>
+    <entry>
+      <title>PLTY: The Income Kept Flowing, But The Past Year Is Why I&apos;m Staying Neutral</title>
+      <id>4930449</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930449-plty-the-income-kept-flowing-but-the-past-year-is-why-im-staying-neutral?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T12:30:00Z</updated>
+      <published>2026-08-05T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>The BioRevolution Has Accelerated</title>
+      <id>4930670</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930670-biorevolution-accelerated?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T12:20:00Z</updated>
+      <published>2026-08-05T12:20:00Z</published>
+    </entry>
+    <entry>
+      <title>Looking To Avoid The &apos;Mag-7&apos; In The Second Half Of 2026?</title>
+      <id>4930663</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930663-looking-to-avoid-mag-7-second-half-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T11:50:00Z</updated>
+      <published>2026-08-05T11:50:00Z</published>
+    </entry>
+    <entry>
+      <title>PFF: This 5.4% Preferred ETF Now Owns AI CapEx Paper And A Bitcoin Proxy, Hold</title>
+      <id>4930450</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930450-pff-this-5-4-percent-preferred-etf-now-owns-ai-capex-paper-and-a-bitcoin-proxy-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T10:45:00Z</updated>
+      <published>2026-08-05T10:45:00Z</published>
+    </entry>
+    <entry>
+      <title>KTF Liquidation Opportunity</title>
+      <id>4929664</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4929664-ktf-liquidation-opportunity?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T10:00:00Z</updated>
+      <published>2026-08-05T10:00:00Z</published>
+    </entry>
+    <entry>
+      <title>BTZ: Rates Are Attractive, Spreads Are Not</title>
+      <id>4930569</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930569-btz-rates-are-attractive-spreads-are-not?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T09:15:28Z</updated>
+      <published>2026-08-05T09:15:28Z</published>
+    </entry>
+    <entry>
+      <title>UPGD: Better Performance This Year But No Long-Term Appeal, A Hold Rating Maintained</title>
+      <id>4930534</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4930534-upgd-better-performance-this-year-but-no-long-term-appeal-a-hold-rating-maintained?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T08:05:47Z</updated>
+      <published>2026-08-05T08:05:47Z</published>
+    </entry>
     <entry>
       <title>QVOL ETF: A Two-Speed Volatility Tape</title>
       <id>4930524</id>
@@ -37,13 +121,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4930399-ety-cef-discount-widening-presents-opportunity-this-monthly-payer?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-05T01:30:18Z</updated>
       <published>2026-08-05T01:30:18Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto’s $3B asset sale lures private equity giants including Blackstone, KKR - report</title>
-      <id>https://seekingalpha.com/MarketCurrent:4625528</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-08-05T00:21:21Z</updated>
-      <published>2026-08-05T00:21:21Z</published>
     </entry>
     <entry>
       <title>VDC: The 2026 Staples Rotation Is Real, But GLP-1s Are Eating The Aisle, Hold</title>
@@ -88,88 +165,11 @@
       <published>2026-08-04T21:00:23Z</published>
     </entry>
     <entry>
-      <title>July AAII Asset Allocation Survey: Bond Allocations Return</title>
-      <id>4930196</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930196-july-aaii-asset-allocation-survey-bond-allocations-return?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T20:44:28Z</updated>
-      <published>2026-08-04T20:44:28Z</published>
-    </entry>
-    <entry>
-      <title>AGQ: Silver&apos;s Round Trip From $121 To $58 Is Exactly Why This 2x ETF Is A Sell</title>
-      <id>4930166</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930166-agq-silvers-round-trip-from-121-to-58-is-exactly-why-this-2x-etf-is-a-sell?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T20:27:18Z</updated>
-      <published>2026-08-04T20:27:18Z</published>
-    </entry>
-    <entry>
-      <title>SOXL: The 31% Selloff Has Reset The Semiconductor Bull Trade</title>
-      <id>4930160</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930160-soxl-the-31-percent-selloff-has-reset-the-semiconductor-bull-trade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T20:19:46Z</updated>
-      <published>2026-08-04T20:19:46Z</published>
-    </entry>
-    <entry>
-      <title>RSST: Beware, The Stack Adds Beta</title>
-      <id>4930158</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930158-rsst-beware-the-stack-adds-beta?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T20:15:00Z</updated>
-      <published>2026-08-04T20:15:00Z</published>
-    </entry>
-    <entry>
-      <title>EWQ: The CAC 40 Hit New Highs, Staying Bullish On French Stocks</title>
-      <id>4930143</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930143-ewq-the-cac-40-hit-new-highs-staying-bullish-on-french-stocks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T19:38:21Z</updated>
-      <published>2026-08-04T19:38:21Z</published>
-    </entry>
-    <entry>
-      <title>BUFR: 12 Buffering Funds In 1, But At A Cost</title>
-      <id>4930142</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930142-bufr-12-buffering-funds-in-1-but-at-a-cost?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T19:33:28Z</updated>
-      <published>2026-08-04T19:33:28Z</published>
-    </entry>
-    <entry>
-      <title>BDCs Are Down 40%. Here&apos;s Why I&apos;m Buying</title>
-      <id>4930131</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930131-bdcs-are-down-40-percent-heres-why-im-buying?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T19:13:04Z</updated>
-      <published>2026-08-04T19:13:04Z</published>
-    </entry>
-    <entry>
-      <title>PAVE: The Receiving End Of The AI CapEx Trade</title>
-      <id>4929996</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929996-pave-the-receiving-end-of-the-ai-capex-trade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T16:33:29Z</updated>
-      <published>2026-08-04T16:33:29Z</published>
-    </entry>
-    <entry>
       <title>TSMC set to ramp up 3nm wafer starts months ahead of schedule: Wedbush</title>
       <id>https://seekingalpha.com/MarketCurrent:4624943</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
       <updated>2026-08-04T16:32:36Z</updated>
       <published>2026-08-04T16:32:36Z</published>
-    </entry>
-    <entry>
-      <title>The Prospects For The GSG ETF Are Tied To Energy</title>
-      <id>4929986</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929986-the-prospects-for-the-gsg-etf-are-tied-to-energy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T16:19:58Z</updated>
-      <published>2026-08-04T16:19:58Z</published>
-    </entry>
-    <entry>
-      <title>What Dozens Of Studies Reveal About The Patterns Driving Investor Bias</title>
-      <id>4929961</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929961-what-dozens-of-studies-reveal-about-the-patterns-driving-investor-bias?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T15:05:00Z</updated>
-      <published>2026-08-04T15:05:00Z</published>
-    </entry>
-    <entry>
-      <title>With Strategy&apos;s Premium Nearly Gone, MSTZ Is A Tactical Buy</title>
-      <id>4929909</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929909-with-strategys-premium-nearly-gone-mstz-is-a-tactical-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T14:47:40Z</updated>
-      <published>2026-08-04T14:47:40Z</published>
     </entry>
     <entry>
       <title>Danaher names Julie Sawyer Montgomery as CEO; transition begins Oct. 1</title>
