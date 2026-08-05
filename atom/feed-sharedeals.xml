@@ -5,31 +5,31 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-04T06:32:27Z</updated>
+  <updated>2026-08-05T06:31:44Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Deutsche Telekom-Aktie: Gerüchte treiben den Kurs – zu Recht?</title>
+      <id>https://www.sharedeals.de/deutsche-telekom-aktie-geruechte-treiben-den-kurs-zu-recht/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/deutsche-telekom-aktie-geruechte-treiben-den-kurs-zu-recht/"/>
+      <updated>2026-08-05T06:31:44Z</updated>
+      <published>2026-08-05T06:31:44Z</published>
+    </entry>
+    <entry>
+      <title>Rheinmetall-Aktie zurück auf 1.200 € – Trendwende gelungen?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-zurueck-auf-1-200-e-trendwende-gelungen/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-zurueck-auf-1-200-e-trendwende-gelungen/"/>
+      <updated>2026-08-05T06:03:29Z</updated>
+      <published>2026-08-05T06:03:29Z</published>
+    </entry>
     <entry>
       <title>Rheinmetall-Aktie: Kehrt hier die Vernunft wieder zurück?</title>
       <id>https://www.sharedeals.de/rheinmetall-aktie-kehrt-hier-die-vernunft-wieder-zurueck/</id>
       <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-kehrt-hier-die-vernunft-wieder-zurueck/"/>
       <updated>2026-08-04T06:32:27Z</updated>
       <published>2026-08-04T06:32:27Z</published>
-    </entry>
-    <entry>
-      <title>DroneShield-Aktie mit +25% – ist die Trendwende gelungen?</title>
-      <id>https://www.sharedeals.de/droneshield-aktie-mit-25-ist-die-trendwende-gelungen/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/droneshield-aktie-mit-25-ist-die-trendwende-gelungen/"/>
-      <updated>2026-08-04T05:02:46Z</updated>
-      <published>2026-08-04T05:02:46Z</published>
-    </entry>
-    <entry>
-      <title>Almonty-Aktie mit +19% – startet jetzt die Erholung?</title>
-      <id>https://www.sharedeals.de/almonty-aktie-mit-19-startet-jetzt-die-erholung/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-mit-19-startet-jetzt-die-erholung/"/>
-      <updated>2026-08-04T04:29:24Z</updated>
-      <published>2026-08-04T04:29:24Z</published>
     </entry>
     <entry>
       <title>Almonty-Aktie: Neues Jahrestief trotz starkem operativem Geschäft</title>
