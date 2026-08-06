@@ -5,11 +5,81 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-05T17:17:59Z</updated>
+  <updated>2026-08-06T05:15:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>The World Has Changed - Portfolio Construction Should Too</title>
+      <id>4931462</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931462-world-changed-portfolio-construction-should-too?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-06T05:15:00Z</updated>
+      <published>2026-08-06T05:15:00Z</published>
+    </entry>
+    <entry>
+      <title>ASML: AI Litho-Density Supercycle Vs. Closed-Loop Chinese DUV Fleet</title>
+      <id>https://seekingalpha.com/Article:4931419</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931419-asml-ai-litho-density-supercycle-vs-closed-loop-chinese-duv-fleet?source=feed_symbol_ASML"/>
+      <updated>2026-08-06T04:55:05Z</updated>
+      <published>2026-08-06T04:55:05Z</published>
+    </entry>
+    <entry>
+      <title>Joby raises 2026 revenue guidance to $115M-$125M as eIPP flights planned for September</title>
+      <id>https://seekingalpha.com/MarketCurrent:4627251</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
+      <updated>2026-08-06T04:41:24Z</updated>
+      <published>2026-08-06T04:41:24Z</published>
+    </entry>
+    <entry>
+      <title>Joby Aviation, Inc. (JOBY) Q2 2026 Earnings Call Transcript</title>
+      <id>https://seekingalpha.com/Article:4931447</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931447-joby-aviation-inc-joby-q2-2026-earnings-call-transcript?source=feed_symbol_JOBY"/>
+      <updated>2026-08-06T04:40:04Z</updated>
+      <published>2026-08-06T04:40:04Z</published>
+    </entry>
+    <entry>
+      <title>OXLCM: The Case For Oxford Lane&apos;s 2031 Term Preferred Shares</title>
+      <id>4931374</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931374-oxlcm-the-case-for-oxford-lanes-2031-term-preferred-shares?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-06T03:32:44Z</updated>
+      <published>2026-08-06T03:32:44Z</published>
+    </entry>
+    <entry>
+      <title>DIVO: I&apos;m Compounding This Tax-Free For Decades</title>
+      <id>4931312</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931312-divo-im-compounding-this-tax-free-for-decades?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-06T00:30:57Z</updated>
+      <published>2026-08-06T00:30:57Z</published>
+    </entry>
+    <entry>
+      <title>AIPO: All Around Power Exposure To The AI Revolution</title>
+      <id>4931296</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931296-aipo-all-around-power-exposure-to-the-ai-revolution?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-06T00:02:44Z</updated>
+      <published>2026-08-06T00:02:44Z</published>
+    </entry>
+    <entry>
+      <title>IGM Vs.XLK: Everyone Owns The Wrong Tech ETF</title>
+      <id>4931179</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931179-igm-versus-xlk-everyone-owns-the-wrong-tech-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T21:25:33Z</updated>
+      <published>2026-08-05T21:25:33Z</published>
+    </entry>
+    <entry>
+      <title>HAP: Natural Resources ETFs May Profit From Renewed Inflation</title>
+      <id>4931130</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931130-hap-natural-resources-etfs-may-profit-from-renewed-inflation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-05T20:10:45Z</updated>
+      <published>2026-08-05T20:10:45Z</published>
+    </entry>
+    <entry>
+      <title>Enel: The Grid-Led Re-Rating Still Has Room To Run</title>
+      <id>https://seekingalpha.com/Article:4931105</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4931105-enel-the-grid-led-re-rating-still-has-room-to-run?source=feed_symbol_ENLAY"/>
+      <updated>2026-08-05T19:59:10Z</updated>
+      <published>2026-08-05T19:59:10Z</published>
+    </entry>
     <entry>
       <title>Iron ore mine depletion to support prices over next decade, Rio Tinto executive says</title>
       <id>https://seekingalpha.com/MarketCurrent:4626418</id>
@@ -114,75 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4930438-lower-risk-higher-total-returns-portfolio-review?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-05T04:11:59Z</updated>
       <published>2026-08-05T04:11:59Z</published>
-    </entry>
-    <entry>
-      <title>ETY: Discount Widening Presents Opportunity For This Monthly Payer</title>
-      <id>4930399</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930399-ety-cef-discount-widening-presents-opportunity-this-monthly-payer?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-05T01:30:18Z</updated>
-      <published>2026-08-05T01:30:18Z</published>
-    </entry>
-    <entry>
-      <title>VDC: The 2026 Staples Rotation Is Real, But GLP-1s Are Eating The Aisle, Hold</title>
-      <id>4930280</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930280-vdc-the-2026-staples-rotation-is-real-but-glp-1s-are-eating-the-aisle-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T22:06:48Z</updated>
-      <published>2026-08-04T22:06:48Z</published>
-    </entry>
-    <entry>
-      <title>GVIP: Unconvincing Large Growth ETF Despite Outperforming The Market</title>
-      <id>4930271</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930271-gvip-unconvincing-large-growth-etf-despite-outperforming-the-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T22:03:10Z</updated>
-      <published>2026-08-04T22:03:10Z</published>
-    </entry>
-    <entry>
-      <title>BOND: The Seas Are Changing Once Again</title>
-      <id>4930265</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930265-bond-the-seas-are-changing-once-again?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T22:00:25Z</updated>
-      <published>2026-08-04T22:00:25Z</published>
-    </entry>
-    <entry>
-      <title>NIHI Improves Income Portfolios Via Diversification</title>
-      <id>4930260</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930260-nihi-improves-income-portfolios-via-diversification?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T21:54:57Z</updated>
-      <published>2026-08-04T21:54:57Z</published>
-    </entry>
-    <entry>
-      <title>Joby Aviation Q2 Earnings Preview</title>
-      <id>https://seekingalpha.com/MarketCurrent:4625135</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
-      <updated>2026-08-04T21:35:54Z</updated>
-      <published>2026-08-04T21:35:54Z</published>
-    </entry>
-    <entry>
-      <title>RQI: Collect Steady Monthly Income From Quality REITs</title>
-      <id>4930208</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4930208-rqi-collect-steady-monthly-income-from-quality-reits?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-04T21:00:23Z</updated>
-      <published>2026-08-04T21:00:23Z</published>
-    </entry>
-    <entry>
-      <title>TSMC set to ramp up 3nm wafer starts months ahead of schedule: Wedbush</title>
-      <id>https://seekingalpha.com/MarketCurrent:4624943</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-08-04T16:32:36Z</updated>
-      <published>2026-08-04T16:32:36Z</published>
-    </entry>
-    <entry>
-      <title>Danaher names Julie Sawyer Montgomery as CEO; transition begins Oct. 1</title>
-      <id>https://seekingalpha.com/MarketCurrent:4624169</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/DHR/news?source=feed_symbol_DHR"/>
-      <updated>2026-08-03T21:16:34Z</updated>
-      <published>2026-08-03T21:16:34Z</published>
-    </entry>
-    <entry>
-      <title>Linde: My &apos;Not Cheap&apos; Thesis Has Been True Since 2023</title>
-      <id>https://seekingalpha.com/Article:4929598</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4929598-linde-my-not-cheap-thesis-has-been-true-since-2023?source=feed_symbol_LIN"/>
-      <updated>2026-08-03T18:45:42Z</updated>
-      <published>2026-08-03T18:45:42Z</published>
     </entry>
 </feed>
