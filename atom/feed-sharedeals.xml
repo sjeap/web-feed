@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-05T06:31:44Z</updated>
+  <updated>2026-08-05T10:22:33Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SAP-Aktie: Wie viel Potenzial besteht noch?</title>
+      <id>https://www.sharedeals.de/sap-aktie-wie-viel-potenzial-besteht-noch/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/sap-aktie-wie-viel-potenzial-besteht-noch/"/>
+      <updated>2026-08-05T10:22:33Z</updated>
+      <published>2026-08-05T10:22:33Z</published>
+    </entry>
     <entry>
       <title>Deutsche Telekom-Aktie: Gerüchte treiben den Kurs – zu Recht?</title>
       <id>https://www.sharedeals.de/deutsche-telekom-aktie-geruechte-treiben-den-kurs-zu-recht/</id>
@@ -30,13 +37,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-kehrt-hier-die-vernunft-wieder-zurueck/"/>
       <updated>2026-08-04T06:32:27Z</updated>
       <published>2026-08-04T06:32:27Z</published>
-    </entry>
-    <entry>
-      <title>Almonty-Aktie: Neues Jahrestief trotz starkem operativem Geschäft</title>
-      <id>https://www.sharedeals.de/almonty-aktie-neues-jahrestief-trotz-starkem-operativem-geschaeft/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-neues-jahrestief-trotz-starkem-operativem-geschaeft/"/>
-      <updated>2026-08-03T09:05:51Z</updated>
-      <published>2026-08-03T09:05:51Z</published>
     </entry>
     <entry>
       <title>Rolls-Royce-Aktie +42% seit Kaufempfehlung: Das treibt sie immer weiter</title>
