@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-05T17:31:11Z</updated>
+  <updated>2026-08-05T21:18:00Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Drohnenvorfall am Flughafen Leipzig/Halle</title>
+      <id>https://www.tagesschau.de/video/video-1626704.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1626704.html"/>
+      <updated>2026-08-05T21:18:00Z</updated>
+      <published>2026-08-05T21:18:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7ec7032e-4eb3-48a6-b023-195df93bb108/AAABn9NTVVU/AAABnSSvsdE/16x9-small/rbb-drohne-mit-sprengsatz-auf-flughafen-leipzig-halle-entschaerft-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7ec7032e-4eb3-48a6-b023-195df93bb108/AAABn9NTVVU/AAABnSSvsdE/16x9-small/rbb-drohne-mit-sprengsatz-auf-flughafen-leipzig-halle-entschaerft-100.jpg?width=320" alt="Drohnenvorfall am Flughafen Leipzig/Halle"/><p>Drohnenvorfall am Flughafen Leipzig/Halle</p>]]></content>
+    </entry>
     <entry>
       <title>Axel John, SWR, zu den Auswirkungen des Niedrigwassers im Rhein</title>
       <id>https://www.tagesschau.de/video/video-1626532.html</id>
@@ -54,14 +63,5 @@
       <published>2026-08-05T12:04:57Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/67b294f3-a66e-46a4-9e86-d6b01b83035a/AAABn9FiCWg/AAABnSSvsdE/16x9-small/sendungsbild-1775650.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/67b294f3-a66e-46a4-9e86-d6b01b83035a/AAABn9FiCWg/AAABnSSvsdE/16x9-small/sendungsbild-1775650.jpg?width=320" alt="Zahlreiche Verletzte und Tote durch russischen Angriff auf ukrainische Hauptstadt"/><p>Zahlreiche Verletzte und Tote durch russischen Angriff auf ukrainische Hauptstadt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Bundesregierung bereitet mögliche Rückkehr des Zivildienstes vor</title>
-      <id>https://www.tagesschau.de/video/video-1626244.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1626244.html"/>
-      <updated>2026-08-05T10:16:23Z</updated>
-      <published>2026-08-05T10:16:23Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ba0054b4-be46-4616-9dff-5b0a3a10a762/AAABn9D-cdY/AAABnSSvsdE/16x9-small/sendungsbild-1775594.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ba0054b4-be46-4616-9dff-5b0a3a10a762/AAABn9D-cdY/AAABnSSvsdE/16x9-small/sendungsbild-1775594.jpg?width=320" alt="Bundesregierung bereitet mögliche Rückkehr des Zivildienstes vor"/><p>Bundesregierung bereitet mögliche Rückkehr des Zivildienstes vor</p>]]></content>
     </entry>
 </feed>
