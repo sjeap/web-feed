@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-06-17T00:00:00Z</updated>
+  <updated>2026-08-06T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Payments Reimagined with AI: How Agentic AI is Transforming Cross-Border Payments</title>
+      <id>https://thepaypers.com/payments/reports/payments-reimagined-with-ai-how-agentic-ai-is-transforming-cross-border-payments</id>
+      <link rel="alternate" href="https://thepaypers.com/payments/reports/payments-reimagined-with-ai-how-agentic-ai-is-transforming-cross-border-payments"/>
+      <updated>2026-08-06T00:00:00Z</updated>
+      <published>2026-08-06T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Volante%201024x512%20Banner.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Volante%201024x512%20Banner.png" alt="Payments Reimagined with AI: How Agentic AI is Transforming Cross-Border Payments"/><p>Payments Reimagined with AI: How Agentic AI is Transforming Cross-Border Payments</p>]]></content>
+    </entry>
     <entry>
       <title>Global Fraud Trends 2026</title>
       <id>https://thepaypers.com/fraud-and-fincrime/reports/global-fraud-trends-2026</id>
@@ -27,15 +36,6 @@
       <published>2026-06-11T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ecommpay_webinar_Agentic_June_2026.png"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ecommpay_webinar_Agentic_June_2026.png" alt="Agentic winners will be determined by Trust not Tech"/><p>Agentic winners will be determined by Trust not Tech</p>]]></content>
-    </entry>
-    <entry>
-      <title>The Payment Experience Revolution: Insights from B2B Buyers Across EMEA</title>
-      <id>https://thepaypers.com/payments/reports/the-payment-experience-revolution-insights-from-b2b-buyers-across-emea</id>
-      <link rel="alternate" href="https://thepaypers.com/payments/reports/the-payment-experience-revolution-insights-from-b2b-buyers-across-emea"/>
-      <updated>2026-05-21T00:00:00Z</updated>
-      <published>2026-05-21T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Trevipay_report_2026.png"/>
-      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Trevipay_report_2026.png" alt="The Payment Experience Revolution: Insights from B2B Buyers Across EMEA"/><p>The Payment Experience Revolution: Insights from B2B Buyers Across EMEA</p>]]></content>
     </entry>
     <entry>
       <title>Global Stablecoins Report 2026</title>
