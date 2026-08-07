@@ -5,20 +5,11 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-08-05T00:00:00Z</updated>
+  <updated>2026-08-01T00:00:00Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
-    <entry>
-      <title>Mapped: Every Country’s Biggest Import Partner</title>
-      <id>https://www.visualcapitalist.com/mapped-each-countrys-top-import-source/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/mapped-each-countrys-top-import-source/"/>
-      <updated>2026-08-05T00:00:00Z</updated>
-      <published>2026-08-05T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/shareable-4-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/shareable-4-80x80.webp" alt="World map showing each country's top import source in 2024."/><p>Mapped: Every Country’s Biggest Import Partner</p>]]></content>
-    </entry>
     <entry>
       <title>Ranked: Where the iPhone Costs the Most in 2026</title>
       <id>https://www.visualcapitalist.com/ranked-where-iphones-cost-the-most-in-2026/</id>
@@ -74,13 +65,22 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/shareable-6-80x80.webp" alt="Explore which countries have gained and lost the most tourists since 2019, with Saudi Arabia posting the biggest increase and Israel the steepest decline."/><p>Ranked: The Countries Gaining and Losing the Most Tourists</p>]]></content>
     </entry>
     <entry>
-      <title>Ranked: Countries With More Tourists Than Locals</title>
-      <id>https://www.visualcapitalist.com/ranked-countries-with-more-tourists-than-locals/</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-with-more-tourists-than-locals/"/>
-      <updated>2026-07-19T00:00:00Z</updated>
-      <published>2026-07-19T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/Where-Tourists-Outnumber-the-Locals_shareable1_Jul17-80x80.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/Where-Tourists-Outnumber-the-Locals_shareable1_Jul17-80x80.webp" alt="Graphic showing 25 countries with more tourists than residents."/><p>Ranked: Countries With More Tourists Than Locals</p>]]></content>
+      <title>Ranked: The World’s Most and Least Livable Cities in 2026</title>
+      <id>https://www.visualcapitalist.com/ranked-the-worlds-most-and-least-livable-cities-in-2026/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-worlds-most-and-least-livable-cities-in-2026/"/>
+      <updated>2026-07-17T00:00:00Z</updated>
+      <published>2026-07-17T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/Most-and-Least-Liveable-Citiess_02-share-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/Most-and-Least-Liveable-Citiess_02-share-80x80.webp" alt="Discover the world's most and least livable cities in 2026, based on the EIU Global Liveability Index."/><p>Ranked: The World’s Most and Least Livable Cities in 2026</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: The Most Powerful Countries, According to Global Opinion</title>
+      <id>https://www.visualcapitalist.com/ranked-the-worlds-most-powerful-countries-according-to-global-opinion/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-worlds-most-powerful-countries-according-to-global-opinion/"/>
+      <updated>2026-07-12T00:00:00Z</updated>
+      <published>2026-07-12T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/MostPowerfulCountries_Shareable-1-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/MostPowerfulCountries_Shareable-1-80x80.webp" alt="Bar chart showing the world's most powerful countries in 2026 based on global perceptions."/><p>Ranked: The Most Powerful Countries, According to Global Opinion</p>]]></content>
     </entry>
     <entry>
       <title>Ranked: The Richest Countries by Average vs. Median Wealth</title>
