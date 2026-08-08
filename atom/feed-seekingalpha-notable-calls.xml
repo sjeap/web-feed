@@ -5,11 +5,95 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-07T21:58:11Z</updated>
+  <updated>2026-08-08T15:03:14Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Insider trades: Microsoft, Meta, Pfizer among notable names</title>
+      <id>https://seekingalpha.com/MarketCurrent:4629566</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-08-08T15:03:14Z</updated>
+      <published>2026-08-08T15:03:14Z</published>
+    </entry>
+    <entry>
+      <title>VXUS: Why I Wouldn&apos;t Retire With U.S. Stocks Alone</title>
+      <id>4933757</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933757-vxus-why-i-wouldnt-retire-with-us-stocks-alone?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T14:38:22Z</updated>
+      <published>2026-08-08T14:38:22Z</published>
+    </entry>
+    <entry>
+      <title>NML: Good Performance YTD, But A Decline In Oil Prices Might Weigh On Shares</title>
+      <id>4933725</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933725-nml-good-performance-ytd-but-a-decline-on-oil-prices-might-weigh-on-shares?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T14:00:37Z</updated>
+      <published>2026-08-08T14:00:37Z</published>
+    </entry>
+    <entry>
+      <title>OMAH: A 15% Distribution Rate From Buffett&apos;s Portfolio To Buy</title>
+      <id>4933314</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933314-omah-a-15-percent-distribution-rate-from-buffetts-portfolio-to-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T13:15:00Z</updated>
+      <published>2026-08-08T13:15:00Z</published>
+    </entry>
+    <entry>
+      <title>XSPI: Amplified Monthly Income Through Leveraged S&amp;P 500 Exposure</title>
+      <id>4933646</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933646-xspi-amplified-monthly-income-through-leveraged-s-and-p-500-exposure?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T12:30:00Z</updated>
+      <published>2026-08-08T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>MGNR: A Great Diversifier And Inflation Hedge For The End Of 2026</title>
+      <id>4933639</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933639-mgnr-a-great-diversifier-and-inflation-hedge-for-the-end-of-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T12:30:00Z</updated>
+      <published>2026-08-08T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>FNDF: Proven Value Approach Yields Solid Returns</title>
+      <id>4933645</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933645-fndf-etf-proven-value-approach-yields-solid-returns?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T12:20:00Z</updated>
+      <published>2026-08-08T12:20:00Z</published>
+    </entry>
+    <entry>
+      <title>Q3 Active Management Pulse: AI Reshapes The Opportunity Set</title>
+      <id>4933734</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933734-q3-active-management-pulse-ai-reshapes-opportunity-set?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T11:50:00Z</updated>
+      <published>2026-08-08T11:50:00Z</published>
+    </entry>
+    <entry>
+      <title>Allspring Multi-Sector Income Fund: Why I&apos;m Not Buying This 9% Yield</title>
+      <id>4933720</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933720-allspring-multi-sector-income-fund-why-im-not-buying-this-9-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T11:47:44Z</updated>
+      <published>2026-08-08T11:47:44Z</published>
+    </entry>
+    <entry>
+      <title>SECT: Rotation Strategy With Interesting Factor Exposures But Unconvincing Performance, A Hold</title>
+      <id>4933697</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933697-sect-rotation-strategy-with-interesting-factor-exposures-but-unconvincing-performance?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T09:53:20Z</updated>
+      <published>2026-08-08T09:53:20Z</published>
+    </entry>
+    <entry>
+      <title>Triple-Factor Closed-End Fund Report, July 2026</title>
+      <id>4933686</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933686-triple-factor-closed-end-fund-report-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T09:02:22Z</updated>
+      <published>2026-08-08T09:02:22Z</published>
+    </entry>
+    <entry>
+      <title>Global X Emerging Markets Ex-China ETF Q2 2026 Commentary</title>
+      <id>4933693</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933693-global-x-emerging-markets-ex-china-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-08T08:45:00Z</updated>
+      <published>2026-08-08T08:45:00Z</published>
+    </entry>
     <entry>
       <title>HQH: After Biotech&apos;s Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy</title>
       <id>4933422</id>
@@ -81,88 +165,11 @@
       <published>2026-08-07T14:53:26Z</published>
     </entry>
     <entry>
-      <title>S&amp;P 500 Quality Index: Why Outperformance Is Only Half The Story</title>
-      <id>4933088</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933088-sp-500-quality-index-outperformance-only-half-story?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T13:40:00Z</updated>
-      <published>2026-08-07T13:40:00Z</published>
-    </entry>
-    <entry>
-      <title>Factor Index Leadership In Australia: Has The Tide Turned?</title>
-      <id>4933075</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933075-factor-index-leadership-in-australia-has-tide-turned?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T13:30:00Z</updated>
-      <published>2026-08-07T13:30:00Z</published>
-    </entry>
-    <entry>
-      <title>EWL: High Quality Defensives At A High Price</title>
-      <id>4933644</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933644-ewl-high-quality-defensives-at-a-high-price?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T12:15:51Z</updated>
-      <published>2026-08-07T12:15:51Z</published>
-    </entry>
-    <entry>
-      <title>35/20 Vision: The S&amp;P 500 Capped 35/20 Indices</title>
-      <id>4932985</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932985-3520-vision-sp-500-capped-35-20-indices?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T11:50:00Z</updated>
-      <published>2026-08-07T11:50:00Z</published>
-    </entry>
-    <entry>
-      <title>HYMB: Muni ETF Good For High-Yield Dividend Capture</title>
-      <id>4932744</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932744-hymb-muni-etf-good-high-yield-dividend-capture?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T11:15:55Z</updated>
-      <published>2026-08-07T11:15:55Z</published>
-    </entry>
-    <entry>
-      <title>AMLP: The 7% Yield That Doesn&apos;t Need Lower Interest Rates</title>
-      <id>4932809</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932809-amlp-the-7-percent-yield-that-doesnt-need-lower-interest-rates?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T08:18:27Z</updated>
-      <published>2026-08-07T08:18:27Z</published>
-    </entry>
-    <entry>
-      <title>Why U.S. Sectors Matter To Europe</title>
-      <id>4932834</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932834-us-sectors-matter-to-europe?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T08:05:00Z</updated>
-      <published>2026-08-07T08:05:00Z</published>
-    </entry>
-    <entry>
-      <title>Finding The Golden Mean With A Buffered Strategy</title>
-      <id>4932829</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932829-finding-golden-mean-with-buffered-strategy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T07:55:00Z</updated>
-      <published>2026-08-07T07:55:00Z</published>
-    </entry>
-    <entry>
-      <title>Building A Nest Egg On Just $25 A Week Using Only Four Holdings</title>
-      <id>4932777</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932777-building-a-nest-egg-on-just-25-a-week-using-only-four-holdings?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T07:30:54Z</updated>
-      <published>2026-08-07T07:30:54Z</published>
-    </entry>
-    <entry>
-      <title>Parsing Productive Assets With The S&amp;P Pantera Digital Asset Index</title>
-      <id>4932813</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932813-parsing-productive-assets-with-sp-pantera-digital-asset-index?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T07:30:00Z</updated>
-      <published>2026-08-07T07:30:00Z</published>
-    </entry>
-    <entry>
       <title>Trump to meet mining execs from Rio Tinto, BHP, MP Materials, and Freeport to counter China reliance: report</title>
       <id>https://seekingalpha.com/MarketCurrent:4628898</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
       <updated>2026-08-07T06:07:42Z</updated>
       <published>2026-08-07T06:07:42Z</published>
-    </entry>
-    <entry>
-      <title>SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap</title>
-      <id>4932499</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932499-sk-hynix-vs-micron-the-memory-trade-rotates-into-the-valuation-gap?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T23:40:43Z</updated>
-      <published>2026-08-06T23:40:43Z</published>
     </entry>
     <entry>
       <title>ASML: AI Litho-Density Supercycle Vs. Closed-Loop Chinese DUV Fleet</title>
@@ -177,12 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
       <updated>2026-08-06T04:41:24Z</updated>
       <published>2026-08-06T04:41:24Z</published>
-    </entry>
-    <entry>
-      <title>Joby Aviation, Inc. (JOBY) Q2 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4931447</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4931447-joby-aviation-inc-joby-q2-2026-earnings-call-transcript?source=feed_symbol_JOBY"/>
-      <updated>2026-08-06T04:40:04Z</updated>
-      <published>2026-08-06T04:40:04Z</published>
     </entry>
 </feed>
