@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-07T21:43:37Z</updated>
+  <updated>2026-08-08T12:09:15Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Neue Hitzewelle in Europa | 7. August 2026</title>
-      <id>https://www.tagesschau.de/video/video-1627916.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627916.html"/>
-      <updated>2026-08-07T21:43:37Z</updated>
-      <published>2026-08-07T21:43:37Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/620aa5fd-4d76-40cf-a2a3-da0c4c0ab651/AAABn9yASU0/AAABnSSvsdE/16x9-small/07082026-topthema-hitze-europa-mediathek-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/620aa5fd-4d76-40cf-a2a3-da0c4c0ab651/AAABn9yASU0/AAABnSSvsdE/16x9-small/07082026-topthema-hitze-europa-mediathek-100.jpg?width=320" alt="Neue Hitzewelle in Europa | 7. August 2026"/><p>Neue Hitzewelle in Europa | 7. August 2026</p>]]></content>
+      <title>Susanne Petersohn, ARD Kiew, zu den russischen Luftangriffen auf Kiew</title>
+      <id>https://www.tagesschau.de/video/video-1628052.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628052.html"/>
+      <updated>2026-08-08T12:09:15Z</updated>
+      <published>2026-08-08T12:09:15Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/17b52377-ed46-46de-a1a5-3193fc841028/AAABn-DZHDE/AAABnSSvsdE/16x9-small/sendungsbild-1777300.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/17b52377-ed46-46de-a1a5-3193fc841028/AAABn-DZHDE/AAABnSSvsdE/16x9-small/sendungsbild-1777300.jpg?width=320" alt="Susanne Petersohn, ARD Kiew, zu den russischen Luftangriffen auf Kiew"/><p>Susanne Petersohn, ARD Kiew, zu den russischen Luftangriffen auf Kiew</p>]]></content>
     </entry>
     <entry>
-      <title>Italien leidet unter extremen Hitzewellen</title>
-      <id>https://www.tagesschau.de/video/video-1627748.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627748.html"/>
-      <updated>2026-08-07T19:10:53Z</updated>
-      <published>2026-08-07T19:10:53Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f99f2a52-619a-42dc-a029-7e7263c7b3c0/AAABn900ro0/AAABnSSvsdE/16x9-small/sendungsbild-1777070.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f99f2a52-619a-42dc-a029-7e7263c7b3c0/AAABn900ro0/AAABnSSvsdE/16x9-small/sendungsbild-1777070.jpg?width=320" alt="Italien leidet unter extremen Hitzewellen"/><p>Italien leidet unter extremen Hitzewellen</p>]]></content>
+      <title>Natalie Amiri, ARD Tel Aviv, zzt. Wien, zu Selenskyjs Besuch in Serbien</title>
+      <id>https://www.tagesschau.de/video/video-1628030.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628030.html"/>
+      <updated>2026-08-08T11:28:31Z</updated>
+      <published>2026-08-08T11:28:31Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a3a6cc4d-f183-4c91-8de2-c9e7af542107/AAABn-Czu3o/AAABnSSvsdE/16x9-small/sendungsbild-1777292.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a3a6cc4d-f183-4c91-8de2-c9e7af542107/AAABn-Czu3o/AAABnSSvsdE/16x9-small/sendungsbild-1777292.jpg?width=320" alt="Natalie Amiri, ARD Tel Aviv, zzt. Wien, zu Selenskyjs Besuch in Serbien"/><p>Natalie Amiri, ARD Tel Aviv, zzt. Wien, zu Selenskyjs Besuch in Serbien</p>]]></content>
     </entry>
     <entry>
-      <title>Gaza · Menschen leiden unter Wasserknappheit</title>
-      <id>https://www.tagesschau.de/video/video-1627710.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627710.html"/>
-      <updated>2026-08-07T18:12:16Z</updated>
-      <published>2026-08-07T18:12:16Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a356a8c7-2b91-463d-b55b-27eb478a20fe/AAABn9yYVbI/AAABnSSvsdE/16x9-small/0708202-gaza-humanitaere-lage-schwerpunkt-mediathek-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a356a8c7-2b91-463d-b55b-27eb478a20fe/AAABn9yYVbI/AAABnSSvsdE/16x9-small/0708202-gaza-humanitaere-lage-schwerpunkt-mediathek-100.jpg?width=320" alt="Gaza · Menschen leiden unter Wasserknappheit"/><p>Gaza · Menschen leiden unter Wasserknappheit</p>]]></content>
+      <title>Kolumbiens neuer Präsident de la Espriella im Amt</title>
+      <id>https://www.tagesschau.de/video/video-1628000.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628000.html"/>
+      <updated>2026-08-08T11:00:33Z</updated>
+      <published>2026-08-08T11:00:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1e038057-6a71-4f68-9e5c-443aa1d78b9f/AAABn-CaNn0/AAABnSSvsdE/16x9-small/sendungsbild-1777276.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1e038057-6a71-4f68-9e5c-443aa1d78b9f/AAABn-CaNn0/AAABnSSvsdE/16x9-small/sendungsbild-1777276.jpg?width=320" alt="Kolumbiens neuer Präsident de la Espriella im Amt"/><p>Kolumbiens neuer Präsident de la Espriella im Amt</p>]]></content>
     </entry>
     <entry>
-      <title>Verteidigungspakt in Mekka unterzeichnet</title>
-      <id>https://www.tagesschau.de/video/video-1627658.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627658.html"/>
-      <updated>2026-08-07T17:13:37Z</updated>
-      <published>2026-08-07T17:13:37Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/34816191-47af-4db2-8ebc-5dba23174e2a/AAABn9zCdiY/AAABnSSvsdE/16x9-small/07082026-schwerpunkt-verteidigungspakt-tuerkei-pakistan-saudi-mediathek-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/34816191-47af-4db2-8ebc-5dba23174e2a/AAABn9zCdiY/AAABnSSvsdE/16x9-small/07082026-schwerpunkt-verteidigungspakt-tuerkei-pakistan-saudi-mediathek-100.jpg?width=320" alt="Verteidigungspakt in Mekka unterzeichnet"/><p>Verteidigungspakt in Mekka unterzeichnet</p>]]></content>
+      <title>Tierheime kämpfen gegen Überfüllung und Hitze</title>
+      <id>https://www.tagesschau.de/video/video-1628002.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628002.html"/>
+      <updated>2026-08-08T11:05:32Z</updated>
+      <published>2026-08-08T11:05:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2107d333-5622-4449-ad33-d28f7c933b9a/AAABn-Cew_0/AAABnSSvsdE/16x9-small/sendungsbild-1777278.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2107d333-5622-4449-ad33-d28f7c933b9a/AAABn-Cew_0/AAABnSSvsdE/16x9-small/sendungsbild-1777278.jpg?width=320" alt="Tierheime kämpfen gegen Überfüllung und Hitze"/><p>Tierheime kämpfen gegen Überfüllung und Hitze</p>]]></content>
     </entry>
     <entry>
-      <title>Hans Hocke, Bergführer Deutscher Alpenverein, zur Bedrohung der Gletscher durch die Hitze</title>
-      <id>https://www.tagesschau.de/video/video-1627660.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627660.html"/>
-      <updated>2026-08-07T17:05:45Z</updated>
-      <published>2026-08-07T17:05:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8d326308-7154-4240-bc7c-ce0141712542/AAABn9zCMS8/AAABnSSvsdE/16x9-small/sendungsbild-1776976.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8d326308-7154-4240-bc7c-ce0141712542/AAABn9zCMS8/AAABnSSvsdE/16x9-small/sendungsbild-1776976.jpg?width=320" alt="Hans Hocke, Bergführer Deutscher Alpenverein, zur Bedrohung der Gletscher durch die Hitze"/><p>Hans Hocke, Bergführer Deutscher Alpenverein, zur Bedrohung der Gletscher durch die Hitze</p>]]></content>
+      <title>Ukrainische Drohnen-Angriffe auf Online-Händler Wildberries in Russland</title>
+      <id>https://www.tagesschau.de/video/video-1628016.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628016.html"/>
+      <updated>2026-08-08T11:16:14Z</updated>
+      <published>2026-08-08T11:16:14Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1ab46052-f537-488c-b92b-84dbc803bbb3/AAABn-Coigg/AAABnSSvsdE/16x9-small/sendungsbild-1777284.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1ab46052-f537-488c-b92b-84dbc803bbb3/AAABn-Coigg/AAABnSSvsdE/16x9-small/sendungsbild-1777284.jpg?width=320" alt="Ukrainische Drohnen-Angriffe auf Online-Händler Wildberries in Russland"/><p>Ukrainische Drohnen-Angriffe auf Online-Händler Wildberries in Russland</p>]]></content>
     </entry>
     <entry>
-      <title>Simon Riesche, ARD Kairo, Pakistan, zum Verteidigungspakt zwischen Türkei, Saudi-Arabien und Pakistan</title>
-      <id>https://www.tagesschau.de/video/video-1627618.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627618.html"/>
-      <updated>2026-08-07T15:45:57Z</updated>
-      <published>2026-08-07T15:45:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f9f40e20-d3de-446a-951e-f08868827799/AAABn9x5F-Y/AAABnSSvsdE/16x9-small/sendungsbild-1776936.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f9f40e20-d3de-446a-951e-f08868827799/AAABn9x5F-Y/AAABnSSvsdE/16x9-small/sendungsbild-1776936.jpg?width=320" alt="Simon Riesche, ARD Kairo, Pakistan, zum Verteidigungspakt zwischen Türkei, Saudi-Arabien und Pakistan"/><p>Simon Riesche, ARD Kairo, Pakistan, zum Verteidigungspakt zwischen Türkei, Saudi-Arabien und Pakistan</p>]]></content>
+      <title>Ebola breitet sich rasant in der Demokratischen Republik Kongo aus</title>
+      <id>https://www.tagesschau.de/video/video-1627998.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1627998.html"/>
+      <updated>2026-08-08T10:40:25Z</updated>
+      <published>2026-08-08T10:40:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ceb1e6c1-4858-4a95-be7d-d6d5915dcce8/AAABn-CHx3s/AAABnSSvsdE/16x9-small/sendungsbild-1777266.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ceb1e6c1-4858-4a95-be7d-d6d5915dcce8/AAABn-CHx3s/AAABnSSvsdE/16x9-small/sendungsbild-1777266.jpg?width=320" alt="Ebola breitet sich rasant in der Demokratischen Republik Kongo aus"/><p>Ebola breitet sich rasant in der Demokratischen Republik Kongo aus</p>]]></content>
     </entry>
 </feed>
