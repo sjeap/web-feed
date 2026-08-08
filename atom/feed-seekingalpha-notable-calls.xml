@@ -5,11 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-07T16:55:56Z</updated>
+  <updated>2026-08-07T21:58:11Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>HQH: After Biotech&apos;s Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy</title>
+      <id>4933422</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933422-hqh-after-biotechs-breakout-year-this-healthcare-cef-still-trades-below-nav-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-07T21:58:11Z</updated>
+      <published>2026-08-07T21:58:11Z</published>
+    </entry>
+    <entry>
+      <title>BUG: Battle-Tested Cybersecurity Stocks Look Strong, Despite AI Threats</title>
+      <id>4933326</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933326-bug-battle-tested-cybersecurity-stocks-look-strong-despite-ai-threats?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-07T18:50:03Z</updated>
+      <published>2026-08-07T18:50:03Z</published>
+    </entry>
+    <entry>
+      <title>The Case For New Highs In Nvidia And The Leveraged NVDL ETF</title>
+      <id>4933316</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933316-the-case-for-new-highs-in-nvidia-and-the-leveraged-nvdl-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-07T18:40:11Z</updated>
+      <published>2026-08-07T18:40:11Z</published>
+    </entry>
+    <entry>
+      <title>PLTU: Riding Palantir&apos;s Agentic AI Upcycle With 2x Leverage</title>
+      <id>4933304</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933304-pltu-riding-palantirs-agentic-ai-upcycle-with-2x-leverage?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-07T18:29:13Z</updated>
+      <published>2026-08-07T18:29:13Z</published>
+    </entry>
+    <entry>
+      <title>NODE Monthly Commentary: July 2026</title>
+      <id>4933284</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933284-node-monthly-commentary-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-07T18:00:00Z</updated>
+      <published>2026-08-07T18:00:00Z</published>
+    </entry>
     <entry>
       <title>Volkswagen controlling shareholders urge faster overhaul as Chinese rivals intensify pressure</title>
       <id>https://seekingalpha.com/MarketCurrent:4629429</id>
@@ -58,6 +93,13 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4933075-factor-index-leadership-in-australia-has-tide-turned?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-07T13:30:00Z</updated>
       <published>2026-08-07T13:30:00Z</published>
+    </entry>
+    <entry>
+      <title>EWL: High Quality Defensives At A High Price</title>
+      <id>4933644</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933644-ewl-high-quality-defensives-at-a-high-price?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-07T12:15:51Z</updated>
+      <published>2026-08-07T12:15:51Z</published>
     </entry>
     <entry>
       <title>35/20 Vision: The S&amp;P 500 Capped 35/20 Indices</title>
@@ -121,48 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4932499-sk-hynix-vs-micron-the-memory-trade-rotates-into-the-valuation-gap?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-06T23:40:43Z</updated>
       <published>2026-08-06T23:40:43Z</published>
-    </entry>
-    <entry>
-      <title>CHPY: Income And Gains For Retirement Success, Recovery In Semis Underway</title>
-      <id>4932344</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932344-chpy-income-and-gains-for-retirement-success-recovery-in-semis-underway?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T20:40:35Z</updated>
-      <published>2026-08-06T20:40:35Z</published>
-    </entry>
-    <entry>
-      <title>EWZS: Why I&apos;m Staying Cautious On Brazilian Small Caps For Now</title>
-      <id>4932300</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932300-ewzs-why-im-staying-cautious-on-brazilian-small-caps-for-now?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T20:02:02Z</updated>
-      <published>2026-08-06T20:02:02Z</published>
-    </entry>
-    <entry>
-      <title>IDVO: Don&apos;t Read A Flat Price As A Fund Standing Still</title>
-      <id>4932117</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932117-idvo-dont-read-a-flat-price-as-a-fund-standing-still?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T18:09:26Z</updated>
-      <published>2026-08-06T18:09:26Z</published>
-    </entry>
-    <entry>
-      <title>QYLD: Multiple Clues Point To QQQ Covered Call ETF Outperformance</title>
-      <id>4932110</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932110-qyld-multiple-clues-point-to-qqq-covered-call-etf-outperformance?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T18:00:49Z</updated>
-      <published>2026-08-06T18:00:49Z</published>
-    </entry>
-    <entry>
-      <title>PAXS: An All-Weather Portfolio, But Distribution Might Be Under Pressure</title>
-      <id>4932100</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932100-paxs-an-all-weather-portfolio-but-distribution-might-be-under-pressure?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T17:52:50Z</updated>
-      <published>2026-08-06T17:52:50Z</published>
-    </entry>
-    <entry>
-      <title>FTLS: Strong Long/Short EQ Strategy, But In My Opinion Not Well Suited For What&apos;s Coming</title>
-      <id>4932030</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4932030-ftls-strong-longshort-eq-strategy-but-in-my-opinion-not-well-suited-for-whats-coming?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-06T17:09:12Z</updated>
-      <published>2026-08-06T17:09:12Z</published>
     </entry>
     <entry>
       <title>ASML: AI Litho-Density Supercycle Vs. Closed-Loop Chinese DUV Fleet</title>
