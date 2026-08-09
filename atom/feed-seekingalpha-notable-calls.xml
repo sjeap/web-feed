@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-08T15:03:14Z</updated>
+  <updated>2026-08-09T12:56:29Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>HIPS: Unique But Unattractive Pass-Through Income ETF (Sell Rating)</title>
+      <id>4933887</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933887-hips-unique-but-unattractive-pass-through-income-etf-sell-rating?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-09T12:56:29Z</updated>
+      <published>2026-08-09T12:56:29Z</published>
+    </entry>
+    <entry>
+      <title>Earnings Week Ahead: SMCI, CSCO, JD, PLUG, and more</title>
+      <id>https://seekingalpha.com/MarketCurrent:4629639</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/SE/news?source=feed_symbol_SE"/>
+      <updated>2026-08-09T12:07:00Z</updated>
+      <published>2026-08-09T12:07:00Z</published>
+    </entry>
+    <entry>
+      <title>DIVB: This Dividend ETF Doesn&apos;t Get Enough Recognition</title>
+      <id>4933865</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933865-divb-this-dividend-etf-doesnt-get-enough-recognition?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-09T09:30:00Z</updated>
+      <published>2026-08-09T09:30:00Z</published>
+    </entry>
+    <entry>
+      <title>GARP: Buying Growing Companies At A Discount</title>
+      <id>4933862</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933862-garp-etf-buying-growing-companies-at-a-discount?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-09T08:58:04Z</updated>
+      <published>2026-08-09T08:58:04Z</published>
+    </entry>
     <entry>
       <title>Insider trades: Microsoft, Meta, Pfizer among notable names</title>
       <id>https://seekingalpha.com/MarketCurrent:4629566</id>
@@ -144,27 +172,6 @@
       <published>2026-08-07T16:01:25Z</published>
     </entry>
     <entry>
-      <title>XSPI: The Sturdier Sibling To XQQI, Still Not A Buy</title>
-      <id>4933137</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933137-xspi-the-sturdier-sibling-to-xqqi-still-not-a-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T15:16:57Z</updated>
-      <published>2026-08-07T15:16:57Z</published>
-    </entry>
-    <entry>
-      <title>Why Now Is The Time For Momentum-Driven Long/Short EQ Strategies Like CLSE</title>
-      <id>4933129</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933129-why-now-is-the-time-for-momentum-driven-longshort-eq-strategies-like-clse?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T15:10:48Z</updated>
-      <published>2026-08-07T15:10:48Z</published>
-    </entry>
-    <entry>
-      <title>XGD:CA: Not The Most Efficient Approach In Possibly Short-Lived Rally</title>
-      <id>4933107</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933107-xgd-not-the-most-efficient-approach-in-possibly-short-lived-rally?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T14:53:26Z</updated>
-      <published>2026-08-07T14:53:26Z</published>
-    </entry>
-    <entry>
       <title>Trump to meet mining execs from Rio Tinto, BHP, MP Materials, and Freeport to counter China reliance: report</title>
       <id>https://seekingalpha.com/MarketCurrent:4628898</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
@@ -177,12 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4931419-asml-ai-litho-density-supercycle-vs-closed-loop-chinese-duv-fleet?source=feed_symbol_ASML"/>
       <updated>2026-08-06T04:55:05Z</updated>
       <published>2026-08-06T04:55:05Z</published>
-    </entry>
-    <entry>
-      <title>Joby raises 2026 revenue guidance to $115M-$125M as eIPP flights planned for September</title>
-      <id>https://seekingalpha.com/MarketCurrent:4627251</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
-      <updated>2026-08-06T04:41:24Z</updated>
-      <published>2026-08-06T04:41:24Z</published>
     </entry>
 </feed>
