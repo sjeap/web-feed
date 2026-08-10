@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-09T12:56:29Z</updated>
+  <updated>2026-08-10T04:36:49Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Sony, TSMC in talks to invest $6.4B in Japan chip plant: report</title>
+      <id>https://seekingalpha.com/MarketCurrent:4629681</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-08-10T04:36:49Z</updated>
+      <published>2026-08-10T04:36:49Z</published>
+    </entry>
+    <entry>
+      <title>HGER: Take Advantage Of The Gold Breakout Via This ETF</title>
+      <id>4933954</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933954-hger-take-advantage-of-the-gold-breakout-via-this-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-10T02:40:02Z</updated>
+      <published>2026-08-10T02:40:02Z</published>
+    </entry>
+    <entry>
+      <title>PFFA: Short-Term Pain, Long-Term Recession Protection</title>
+      <id>4933939</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933939-pffa-short-term-pain-long-term-recession-protection?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-10T01:15:30Z</updated>
+      <published>2026-08-10T01:15:30Z</published>
+    </entry>
+    <entry>
+      <title>ERC: Managed 8.75% Distribution Policy With Monthly Pay And Fixed-Income Exposure</title>
+      <id>4933910</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4933910-erc-managed-8-75-percent-distribution-policy-monthly-pay-fixed-income-exposure?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-09T23:52:00Z</updated>
+      <published>2026-08-09T23:52:00Z</published>
+    </entry>
     <entry>
       <title>HIPS: Unique But Unattractive Pass-Through Income ETF (Sell Rating)</title>
       <id>4933887</id>
@@ -37,13 +65,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4933862-garp-etf-buying-growing-companies-at-a-discount?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-09T08:58:04Z</updated>
       <published>2026-08-09T08:58:04Z</published>
-    </entry>
-    <entry>
-      <title>Insider trades: Microsoft, Meta, Pfizer among notable names</title>
-      <id>https://seekingalpha.com/MarketCurrent:4629566</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-08-08T15:03:14Z</updated>
-      <published>2026-08-08T15:03:14Z</published>
     </entry>
     <entry>
       <title>VXUS: Why I Wouldn&apos;t Retire With U.S. Stocks Alone</title>
@@ -144,32 +165,11 @@
       <published>2026-08-07T18:40:11Z</published>
     </entry>
     <entry>
-      <title>PLTU: Riding Palantir&apos;s Agentic AI Upcycle With 2x Leverage</title>
-      <id>4933304</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933304-pltu-riding-palantirs-agentic-ai-upcycle-with-2x-leverage?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T18:29:13Z</updated>
-      <published>2026-08-07T18:29:13Z</published>
-    </entry>
-    <entry>
-      <title>NODE Monthly Commentary: July 2026</title>
-      <id>4933284</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933284-node-monthly-commentary-july-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T18:00:00Z</updated>
-      <published>2026-08-07T18:00:00Z</published>
-    </entry>
-    <entry>
       <title>Volkswagen controlling shareholders urge faster overhaul as Chinese rivals intensify pressure</title>
       <id>https://seekingalpha.com/MarketCurrent:4629429</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
       <updated>2026-08-07T16:55:56Z</updated>
       <published>2026-08-07T16:55:56Z</published>
-    </entry>
-    <entry>
-      <title>VGT Can Win Before AI Has To Pay Off</title>
-      <id>4933182</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933182-vgt-can-win-before-ai-has-to-pay-off?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-07T16:01:25Z</updated>
-      <published>2026-08-07T16:01:25Z</published>
     </entry>
     <entry>
       <title>Trump to meet mining execs from Rio Tinto, BHP, MP Materials, and Freeport to counter China reliance: report</title>
