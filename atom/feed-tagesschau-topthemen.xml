@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-10T20:49:49Z</updated>
+  <updated>2026-08-11T15:58:18Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Hitzerekorde, trockene Flüsse, Waldbrände</title>
-      <id>https://www.tagesschau.de/video/video-1629192.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629192.html"/>
-      <updated>2026-08-10T20:49:49Z</updated>
-      <published>2026-08-10T20:49:49Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4ed4f1e2-6830-4456-80e8-f04e8a5fb2eb/AAABn-zplKY/AAABnSSvsdE/16x9-small/10082026-topthema-hitzerekord-100.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4ed4f1e2-6830-4456-80e8-f04e8a5fb2eb/AAABn-zplKY/AAABnSSvsdE/16x9-small/10082026-topthema-hitzerekord-100.jpg?width=320" alt="Hitzerekorde, trockene Flüsse, Waldbrände"/><p>Hitzerekorde, trockene Flüsse, Waldbrände</p>]]></content>
+      <title>Doreen Jonas, MDR, mit einer Einschätzung zum Interview mit AfD-Spitzenkandidat Siegmund</title>
+      <id>https://www.tagesschau.de/video/video-1629484.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629484.html"/>
+      <updated>2026-08-11T15:35:39Z</updated>
+      <published>2026-08-11T15:35:39Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/abbf52d6-abaf-4e93-be21-d1692d88c3ac/AAABn_EJIBU/AAABnSSvsdE/16x9-small/sendungsbild-1778808.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/abbf52d6-abaf-4e93-be21-d1692d88c3ac/AAABn_EJIBU/AAABnSSvsdE/16x9-small/sendungsbild-1778808.jpg?width=320" alt="Doreen Jonas, MDR, mit einer Einschätzung zum Interview mit AfD-Spitzenkandidat Siegmund"/><p>Doreen Jonas, MDR, mit einer Einschätzung zum Interview mit AfD-Spitzenkandidat Siegmund</p>]]></content>
     </entry>
     <entry>
-      <title>Anne Brorhilker, Bürgerbewegung Finanzwende, über die neuen Befugnisse des Zolls zur Bekämpfung von Geldwäsche</title>
-      <id>https://www.tagesschau.de/video/video-1628924.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628924.html"/>
-      <updated>2026-08-10T15:22:48Z</updated>
-      <published>2026-08-10T15:22:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/849fd3ae-0fc4-4d2d-855d-e10d650929db/AAABn-vW_ec/AAABnSSvsdE/16x9-small/sendungsbild-1778202.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/849fd3ae-0fc4-4d2d-855d-e10d650929db/AAABn-vW_ec/AAABnSSvsdE/16x9-small/sendungsbild-1778202.jpg?width=320" alt="Anne Brorhilker, Bürgerbewegung Finanzwende, über die neuen Befugnisse des Zolls zur Bekämpfung von Geldwäsche"/><p>Anne Brorhilker, Bürgerbewegung Finanzwende, über die neuen Befugnisse des Zolls zur Bekämpfung von Geldwäsche</p>]]></content>
+      <title>Gestürzter syrischer Machthaber Assad zum Tode verurteilt</title>
+      <id>https://www.tagesschau.de/video/video-1629504.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629504.html"/>
+      <updated>2026-08-11T15:58:18Z</updated>
+      <published>2026-08-11T15:58:18Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/307f9546-adcc-47c3-a99b-3266df7811bb/AAABn_Ed3cU/AAABnSSvsdE/16x9-small/sendungsbild-1778826.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/307f9546-adcc-47c3-a99b-3266df7811bb/AAABn_Ed3cU/AAABnSSvsdE/16x9-small/sendungsbild-1778826.jpg?width=320" alt="Gestürzter syrischer Machthaber Assad zum Tode verurteilt"/><p>Gestürzter syrischer Machthaber Assad zum Tode verurteilt</p>]]></content>
     </entry>
     <entry>
-      <title>Tim Staeger, HR, zum Temperaturrekord für Juni und Juli seit Beginn der Wetteraufzeichnungen</title>
-      <id>https://www.tagesschau.de/video/video-1628902.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628902.html"/>
-      <updated>2026-08-10T14:30:41Z</updated>
-      <published>2026-08-10T14:30:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/907faeb7-2bf8-403d-a956-13377995c74a/AAABn-unTGk/AAABnSSvsdE/16x9-small/sendungsbild-1778184.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/907faeb7-2bf8-403d-a956-13377995c74a/AAABn-unTGk/AAABnSSvsdE/16x9-small/sendungsbild-1778184.jpg?width=320" alt="Tim Staeger, HR, zum Temperaturrekord für Juni und Juli seit Beginn der Wetteraufzeichnungen"/><p>Tim Staeger, HR, zum Temperaturrekord für Juni und Juli seit Beginn der Wetteraufzeichnungen</p>]]></content>
+      <title>Krieg im Sudan spitzt sich weiter zu</title>
+      <id>https://www.tagesschau.de/video/video-1629466.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629466.html"/>
+      <updated>2026-08-11T14:45:43Z</updated>
+      <published>2026-08-11T14:45:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a06876a8-aa43-4cee-a990-820e1cc71e83/AAABn_DbbDA/AAABnSSvsdE/16x9-small/sendungsbild-1778790.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a06876a8-aa43-4cee-a990-820e1cc71e83/AAABn_DbbDA/AAABnSSvsdE/16x9-small/sendungsbild-1778790.jpg?width=320" alt="Krieg im Sudan spitzt sich weiter zu"/><p>Krieg im Sudan spitzt sich weiter zu</p>]]></content>
     </entry>
     <entry>
-      <title>Spanien bereitet sich auf totale Sonnenfinsternis vor</title>
-      <id>https://www.tagesschau.de/video/video-1628840.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628840.html"/>
-      <updated>2026-08-10T11:50:12Z</updated>
-      <published>2026-08-10T11:50:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e6c18365-c5a8-4bac-84e1-1d5c85ec4fdd/AAABn-sUWR4/AAABnSSvsdE/16x9-small/sendungsbild-1778108.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e6c18365-c5a8-4bac-84e1-1d5c85ec4fdd/AAABn-sUWR4/AAABnSSvsdE/16x9-small/sendungsbild-1778108.jpg?width=320" alt="Spanien bereitet sich auf totale Sonnenfinsternis vor"/><p>Spanien bereitet sich auf totale Sonnenfinsternis vor</p>]]></content>
+      <title>Was der Klimawandel für die Kommunen bedeutet</title>
+      <id>https://www.tagesschau.de/video/video-1629384.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629384.html"/>
+      <updated>2026-08-11T11:23:29Z</updated>
+      <published>2026-08-11T11:23:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/648354f3-f476-4847-b6e9-e36aa287e589/AAABn_AiR-s/AAABnSSvsdE/16x9-small/sendungsbild-1778656.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/648354f3-f476-4847-b6e9-e36aa287e589/AAABn_AiR-s/AAABnSSvsdE/16x9-small/sendungsbild-1778656.jpg?width=320" alt="Was der Klimawandel für die Kommunen bedeutet"/><p>Was der Klimawandel für die Kommunen bedeutet</p>]]></content>
     </entry>
     <entry>
-      <title>Nicole Kohnert, ARD Berlin, über die neuen Regeln für den Zoll im Kampf gegen Geldwäsche</title>
-      <id>https://www.tagesschau.de/video/video-1628808.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628808.html"/>
-      <updated>2026-08-10T10:41:27Z</updated>
-      <published>2026-08-10T10:41:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1e695a87-8a41-46f9-91a8-772b37cedcdd/AAABn-rVcNk/AAABnSSvsdE/16x9-small/sendungsbild-1778070.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1e695a87-8a41-46f9-91a8-772b37cedcdd/AAABn-rVcNk/AAABnSSvsdE/16x9-small/sendungsbild-1778070.jpg?width=320" alt="Nicole Kohnert, ARD Berlin, über die neuen Regeln für den Zoll im Kampf gegen Geldwäsche"/><p>Nicole Kohnert, ARD Berlin, über die neuen Regeln für den Zoll im Kampf gegen Geldwäsche</p>]]></content>
+      <title>Ramin Sina, ARD Kairo, zur Lage im Sudan</title>
+      <id>https://www.tagesschau.de/video/video-1629340.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629340.html"/>
+      <updated>2026-08-11T09:57:12Z</updated>
+      <published>2026-08-11T09:57:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f7646c87-85fe-425b-8560-5c5139e26220/AAABn-_TR7M/AAABnSSvsdE/16x9-small/sendungsbild-1778622.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f7646c87-85fe-425b-8560-5c5139e26220/AAABn-_TR7M/AAABnSSvsdE/16x9-small/sendungsbild-1778622.jpg?width=320" alt="Ramin Sina, ARD Kairo, zur Lage im Sudan"/><p>Ramin Sina, ARD Kairo, zur Lage im Sudan</p>]]></content>
     </entry>
     <entry>
-      <title>Situation in den französischen Waldbrandgebieten</title>
-      <id>https://www.tagesschau.de/video/video-1628780.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628780.html"/>
-      <updated>2026-08-10T10:16:30Z</updated>
-      <published>2026-08-10T10:16:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7d8e09c4-f516-45dd-9f05-e51c22583019/AAABn-q-lqs/AAABnSSvsdE/16x9-small/sendungsbild-1778062.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7d8e09c4-f516-45dd-9f05-e51c22583019/AAABn-q-lqs/AAABnSSvsdE/16x9-small/sendungsbild-1778062.jpg?width=320" alt="Situation in den französischen Waldbrandgebieten"/><p>Situation in den französischen Waldbrandgebieten</p>]]></content>
+      <title>Niedrigwasser im Rhein setzt Binnenschifffahrt unter Druck</title>
+      <id>https://www.tagesschau.de/video/video-1629356.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629356.html"/>
+      <updated>2026-08-11T10:10:59Z</updated>
+      <published>2026-08-11T10:10:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1f2ac409-6241-43f0-bacc-aa44df7cf1b4/AAABn-_f5Xo/AAABnSSvsdE/16x9-small/sendungsbild-1778630.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1f2ac409-6241-43f0-bacc-aa44df7cf1b4/AAABn-_f5Xo/AAABnSSvsdE/16x9-small/sendungsbild-1778630.jpg?width=320" alt="Niedrigwasser im Rhein setzt Binnenschifffahrt unter Druck"/><p>Niedrigwasser im Rhein setzt Binnenschifffahrt unter Druck</p>]]></content>
     </entry>
 </feed>
