@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-08-11T05:33:39Z</updated>
+  <updated>2026-08-11T17:25:27Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Luxushotels: Keine Hinweise, dass Albanien Land an Israel verkauft</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/07/15/luxushotels-keine-hinweise-dass-albanien-land-an-israel-verkauft/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/07/15/luxushotels-keine-hinweise-dass-albanien-land-an-israel-verkauft/"/>
-      <updated>2026-08-11T05:33:39Z</updated>
-      <published>2026-08-11T05:33:39Z</published>
+      <updated>2026-08-11T17:25:27Z</updated>
+      <published>2026-08-11T17:25:27Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/kushner-albanien-trump-sazan-israel-scaled-e1784041395910.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/kushner-albanien-trump-sazan-israel-scaled-e1784041395910.jpg" alt="Nahe dem Gebiet Zvërnec, das neben der Insel Sazan im Zentrum der Proteste steht, versammeln sich Protestierende"/><p>Luxushotels: Keine Hinweise, dass Albanien Land an Israel verkauft</p>]]></content>
+    </entry>
+    <entry>
+      <title>Keine KI: Foto von Voigt, Kretschmer und Schulze ist echt</title>
+      <id>https://correctiv.org/faktencheck/2026/08/11/keine-ki-foto-von-voigt-kretschmer-und-schulze-ist-echt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/11/keine-ki-foto-von-voigt-kretschmer-und-schulze-ist-echt/"/>
+      <updated>2026-08-11T00:00:00Z</updated>
+      <published>2026-08-11T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/schulz-voigt-kretschmer-haende-scaled-e1786449527750.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/schulz-voigt-kretschmer-haende-scaled-e1786449527750.jpg" alt="Am 30. Juli trafen sich Mario Voigt, Michael Kretschmer und Sven Schulze in Sachsen"/><p>Keine KI: Foto von Voigt, Kretschmer und Schulze ist echt</p>]]></content>
     </entry>
     <entry>
       <title>Nein, die Fifa hat Argentinien im Juli nicht offiziell von der WM 2030 ausgeschlossen</title>
@@ -225,14 +234,5 @@
       <published>2026-06-30T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/moritz320-banner-1512876-scaled-e1782828337705.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/moritz320-banner-1512876-scaled-e1782828337705.jpg" alt="Schule in NRW: Leiterin dementiert angebliches Deutschlandflaggen-Verbot"/><p>Schule in NRW: Leiterin dementiert angebliches Deutschlandflaggen-Verbot</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gerüchtekiller #12: Schläft man bei Vollmond schlechter?</title>
-      <id>https://correctiv.org/faktencheck/2026/06/30/geruechtekiller-schlaeft-man-bei-vollmond-schlechter/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/06/30/geruechtekiller-schlaeft-man-bei-vollmond-schlechter/"/>
-      <updated>2026-06-30T00:00:00Z</updated>
-      <published>2026-06-30T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/06/geruechtekiller-vollmond-pixifant-pixabay-e1782821434222.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/06/geruechtekiller-vollmond-pixifant-pixabay-e1782821434222.jpg" alt="Heller Vollmond bei Nacht"/><p>Gerüchtekiller #12: Schläft man bei Vollmond schlechter?</p>]]></content>
     </entry>
 </feed>
