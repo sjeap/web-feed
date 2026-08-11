@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-10T15:22:48Z</updated>
+  <updated>2026-08-10T20:49:49Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Hitzerekorde, trockene Flüsse, Waldbrände</title>
+      <id>https://www.tagesschau.de/video/video-1629192.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1629192.html"/>
+      <updated>2026-08-10T20:49:49Z</updated>
+      <published>2026-08-10T20:49:49Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4ed4f1e2-6830-4456-80e8-f04e8a5fb2eb/AAABn-zplKY/AAABnSSvsdE/16x9-small/10082026-topthema-hitzerekord-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4ed4f1e2-6830-4456-80e8-f04e8a5fb2eb/AAABn-zplKY/AAABnSSvsdE/16x9-small/10082026-topthema-hitzerekord-100.jpg?width=320" alt="Hitzerekorde, trockene Flüsse, Waldbrände"/><p>Hitzerekorde, trockene Flüsse, Waldbrände</p>]]></content>
+    </entry>
     <entry>
       <title>Anne Brorhilker, Bürgerbewegung Finanzwende, über die neuen Befugnisse des Zolls zur Bekämpfung von Geldwäsche</title>
       <id>https://www.tagesschau.de/video/video-1628924.html</id>
@@ -54,14 +63,5 @@
       <published>2026-08-10T10:16:30Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7d8e09c4-f516-45dd-9f05-e51c22583019/AAABn-q-lqs/AAABnSSvsdE/16x9-small/sendungsbild-1778062.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7d8e09c4-f516-45dd-9f05-e51c22583019/AAABn-q-lqs/AAABnSSvsdE/16x9-small/sendungsbild-1778062.jpg?width=320" alt="Situation in den französischen Waldbrandgebieten"/><p>Situation in den französischen Waldbrandgebieten</p>]]></content>
-    </entry>
-    <entry>
-      <title>Mangel an Flugabwehrraketen setzt die Ukraine weiter russischem Raketenbeschuss aus</title>
-      <id>https://www.tagesschau.de/video/video-1628784.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1628784.html"/>
-      <updated>2026-08-10T10:18:46Z</updated>
-      <published>2026-08-10T10:18:46Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/19c14fcb-ff94-4285-befa-cdfdc5c2d4a1/AAABn-rAryk/AAABnSSvsdE/16x9-small/sendungsbild-1778064.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/19c14fcb-ff94-4285-befa-cdfdc5c2d4a1/AAABn-rAryk/AAABnSSvsdE/16x9-small/sendungsbild-1778064.jpg?width=320" alt="Mangel an Flugabwehrraketen setzt die Ukraine weiter russischem Raketenbeschuss aus"/><p>Mangel an Flugabwehrraketen setzt die Ukraine weiter russischem Raketenbeschuss aus</p>]]></content>
     </entry>
 </feed>
