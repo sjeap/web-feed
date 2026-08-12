@@ -5,11 +5,123 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-11T17:13:54Z</updated>
+  <updated>2026-08-12T05:53:55Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rio Tinto&apos;s Tomago smelter lands massive Australian government support</title>
+      <id>https://seekingalpha.com/MarketCurrent:4631228</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-08-12T05:53:55Z</updated>
+      <published>2026-08-12T05:53:55Z</published>
+    </entry>
+    <entry>
+      <title>I Scored 29 Mid-Year Outlooks. Here Is The 17-ETF Portfolio That Came Out Of It</title>
+      <id>4935147</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935147-i-scored-29-mid-year-outlooks-here-is-the-17-etf-portfolio-that-came-out-of-it?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T04:47:55Z</updated>
+      <published>2026-08-12T04:47:55Z</published>
+    </entry>
+    <entry>
+      <title>FSCO: The Distribution Cut May Have Created A 14%-Yielding Opportunity</title>
+      <id>4935145</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935145-fsco-cef-distribution-cut-may-have-created-a-14-percent-yielding-opportunity?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T04:35:08Z</updated>
+      <published>2026-08-12T04:35:08Z</published>
+    </entry>
+    <entry>
+      <title>AI&apos;s Next Moat: What Survives When Models Become Commodities</title>
+      <id>4935141</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935141-ai-next-moat-what-survives-when-models-become-commodities?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T04:30:00Z</updated>
+      <published>2026-08-12T04:30:00Z</published>
+    </entry>
+    <entry>
+      <title>AI ETF AGIX: Introducing The New Class Of Private Investments And Performance Update</title>
+      <id>4935137</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935137-ai-etf-agix-introducing-new-class-of-private-investments-performance-update?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T04:30:00Z</updated>
+      <published>2026-08-12T04:30:00Z</published>
+    </entry>
+    <entry>
+      <title>Two Stock Stories That Bolstered QGRW In July</title>
+      <id>4935126</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935126-two-stock-stories-bolstered-qgrw-july?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T02:50:00Z</updated>
+      <published>2026-08-12T02:50:00Z</published>
+    </entry>
+    <entry>
+      <title>EXG: High Yield And Global Diversification, But Valuations Prompt A &apos;Hold&apos;</title>
+      <id>4935093</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935093-exg-high-yield-and-global-diversification-but-valuations-prompt-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T01:55:08Z</updated>
+      <published>2026-08-12T01:55:08Z</published>
+    </entry>
+    <entry>
+      <title>Polen 5Perspectives Large Growth Composite Portfolio Q2 2026 Commentary</title>
+      <id>4935105</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935105-polen-5perspectives-large-growth-composite-portfolio-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-12T01:20:00Z</updated>
+      <published>2026-08-12T01:20:00Z</published>
+    </entry>
+    <entry>
+      <title>GLL: Wednesday&apos;s Shelter Inflation Might Signal Persistence, Bad For Gold</title>
+      <id>4935034</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935034-gll-wednesdays-shelter-inflation-might-signal-persistence-bad-for-gold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T23:34:58Z</updated>
+      <published>2026-08-11T23:34:58Z</published>
+    </entry>
+    <entry>
+      <title>PTF: Why You Should Sell This Technicals-Based U.S. Technology Momentum ETF</title>
+      <id>4934987</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4934987-ptf-why-you-should-sell-this-technicals-based-us-technology-momentum-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T21:43:12Z</updated>
+      <published>2026-08-11T21:43:12Z</published>
+    </entry>
+    <entry>
+      <title>Sea Limited 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4935009</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4935009-sea-limited-2026-q2-results-earnings-call-presentation?source=feed_symbol_SE"/>
+      <updated>2026-08-11T21:31:11Z</updated>
+      <published>2026-08-11T21:31:11Z</published>
+    </entry>
+    <entry>
+      <title>Armour Residential REIT: A High-Yield Fixed-Rate Preferred For An Elevated-Rate Environment (Reaffirming Buy)</title>
+      <id>4934967</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4934967-armour-residential-reit-a-high-yield-fixed-rate-preferred-for-an-elevated-rate-environment-reaffirming-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T20:54:46Z</updated>
+      <published>2026-08-11T20:54:46Z</published>
+    </entry>
+    <entry>
+      <title>Where The Next $1.3 Trillion Of CapEx Gets Spent</title>
+      <id>4934966</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4934966-where-the-next-1-3-trillion-of-capex-gets-spent?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T20:52:25Z</updated>
+      <published>2026-08-11T20:52:25Z</published>
+    </entry>
+    <entry>
+      <title>IYT: Quietly Powering Blue Chips Higher, Despite $4 Gasoline</title>
+      <id>4934943</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4934943-iyt-quietly-powering-blue-chips-higher-despite-4-gasoline?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T20:09:38Z</updated>
+      <published>2026-08-11T20:09:38Z</published>
+    </entry>
+    <entry>
+      <title>FTEC: Fidelity&apos;s IT ETF Is A Fantastic Long-Term Core Tech Holding</title>
+      <id>4934923</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4934923-ftec-fidelitys-it-etf-is-a-fantastic-long-term-core-tech-holding?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T19:31:00Z</updated>
+      <published>2026-08-11T19:31:00Z</published>
+    </entry>
+    <entry>
+      <title>When It Comes To Gabelli CEFs, Go With GAB And Cut The GUT</title>
+      <id>4934846</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4934846-when-it-comes-to-gabelli-cefs-go-with-gab-and-cut-the-gut?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-11T17:28:14Z</updated>
+      <published>2026-08-11T17:28:14Z</published>
+    </entry>
     <entry>
       <title>BGX: Don&apos;t Bet On Distribution Hikes In The Near Term</title>
       <id>4934829</id>
@@ -53,74 +165,11 @@
       <published>2026-08-11T16:05:00Z</published>
     </entry>
     <entry>
-      <title>ULTY: A Yield Trap, Still A Sell</title>
-      <id>4934760</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934760-ulty-a-yield-trap-still-a-sell?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T15:49:18Z</updated>
-      <published>2026-08-11T15:49:18Z</published>
-    </entry>
-    <entry>
-      <title>IDVO: Why Active Management Looks More Valuable Now</title>
-      <id>4934751</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934751-idvo-why-active-management-looks-more-valuable-now?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T15:46:15Z</updated>
-      <published>2026-08-11T15:46:15Z</published>
-    </entry>
-    <entry>
       <title>Sea Limited (SE) Q2 2026 Earnings Call Transcript</title>
       <id>https://seekingalpha.com/Article:4934665</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4934665-sea-limited-se-q2-2026-earnings-call-transcript?source=feed_symbol_SE"/>
       <updated>2026-08-11T15:17:25Z</updated>
       <published>2026-08-11T15:17:25Z</published>
-    </entry>
-    <entry>
-      <title>EWT: Taiwan Has Passed Many AI Tests This Summer</title>
-      <id>4934712</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934712-ewt-taiwan-has-passed-many-ai-tests-this-summer?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T15:03:13Z</updated>
-      <published>2026-08-11T15:03:13Z</published>
-    </entry>
-    <entry>
-      <title>JEDI: The New Warfare Paradigm</title>
-      <id>4934710</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934710-jedi-the-new-warfare-paradigm?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T14:59:35Z</updated>
-      <published>2026-08-11T14:59:35Z</published>
-    </entry>
-    <entry>
-      <title>Portfolio check: The biggest SA Quant downgrades over the past week</title>
-      <id>https://seekingalpha.com/MarketCurrent:4630781</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-08-11T14:58:30Z</updated>
-      <published>2026-08-11T14:58:30Z</published>
-    </entry>
-    <entry>
-      <title>HTD: The AI Electricity Boom Could Help, But Investors Are Already Paying For It</title>
-      <id>4934671</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934671-htd-the-ai-electricity-boom-could-help-but-investors-are-already-paying-for-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T14:27:09Z</updated>
-      <published>2026-08-11T14:27:09Z</published>
-    </entry>
-    <entry>
-      <title>GOF Is The Cheapest It&apos;s Been In 5 Years But Not A Buy (Rating Downgrade)</title>
-      <id>4934647</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934647-gof-is-the-cheapest-its-been-in-five-years-but-not-a-buy-rating-downgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T13:33:05Z</updated>
-      <published>2026-08-11T13:33:05Z</published>
-    </entry>
-    <entry>
-      <title>SpaceX As Platform: What A Value Investor Found When He Did The Engineering Work</title>
-      <id>4934642</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934642-spacex-platform-what-value-investor-found-when-engineering-work?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T13:29:00Z</updated>
-      <published>2026-08-11T13:29:00Z</published>
-    </entry>
-    <entry>
-      <title>As Bitcoin Runs Out Of Sellers, I Am Allocating 5% Of My Retirement Account To IBIT</title>
-      <id>4934638</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934638-as-bitcoin-runs-out-of-sellers-i-am-allocating-5-percent-of-my-retirement-account-to-ibit?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T13:19:57Z</updated>
-      <published>2026-08-11T13:19:57Z</published>
     </entry>
     <entry>
       <title>Joby Aviation enters up to $750M equity distribution pact</title>
@@ -135,54 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/SE/news?source=feed_symbol_SE"/>
       <updated>2026-08-11T11:53:41Z</updated>
       <published>2026-08-11T11:53:41Z</published>
-    </entry>
-    <entry>
-      <title>OMAH: A 15% Yield And Berkshire Exposure In One ETF</title>
-      <id>4933951</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4933951-omah-a-15-percent-yield-and-berkshire-exposure-in-one-etf?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T11:45:00Z</updated>
-      <published>2026-08-11T11:45:00Z</published>
-    </entry>
-    <entry>
-      <title>Microsoft planning new AI chip bodes well for Marvell, TSM: Wedbush</title>
-      <id>https://seekingalpha.com/MarketCurrent:4630606</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-08-11T11:40:08Z</updated>
-      <published>2026-08-11T11:40:08Z</published>
-    </entry>
-    <entry>
-      <title>JQC Offers Double-Digit Yield And Discount Alpha</title>
-      <id>4934601</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934601-jqc-offers-double-digit-yield-and-discount-alpha?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T11:31:35Z</updated>
-      <published>2026-08-11T11:31:35Z</published>
-    </entry>
-    <entry>
-      <title>Rotation Away From Tech Lifts Moat Index In July</title>
-      <id>4934593</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934593-rotation-away-tech-lifts-moat-index-july?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T11:13:00Z</updated>
-      <published>2026-08-11T11:13:00Z</published>
-    </entry>
-    <entry>
-      <title>RSPH: One Of The Few Equal Weight ETFs I Follow Closely</title>
-      <id>4934575</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934575-rsph-one-of-the-few-equal-weight-etfs-i-follow-closely?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T10:16:37Z</updated>
-      <published>2026-08-11T10:16:37Z</published>
-    </entry>
-    <entry>
-      <title>PCF: Deep Discount With Some Signs Of Optimism Looking Forward</title>
-      <id>4934309</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934309-pcf-deep-discount-with-some-signs-of-optimism-looking-forward?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T10:00:00Z</updated>
-      <published>2026-08-11T10:00:00Z</published>
-    </entry>
-    <entry>
-      <title>GNR: Broad Natural Resources Exposure, But Not The Category&apos;s Best Performer</title>
-      <id>4934462</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934462-gnr-broad-natural-resources-exposure-but-not-the-categorys-best-performer?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-11T10:00:00Z</updated>
-      <published>2026-08-11T10:00:00Z</published>
     </entry>
 </feed>
