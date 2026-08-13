@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-12T10:28:09Z</updated>
+  <updated>2026-08-13T04:33:12Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Evotec-Aktie nach Zahlen: Startet jetzt die Trendwende?</title>
+      <id>https://www.sharedeals.de/evotec-aktie-nach-zahlen-startet-jetzt-die-trendwende/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/evotec-aktie-nach-zahlen-startet-jetzt-die-trendwende/"/>
+      <updated>2026-08-13T04:33:12Z</updated>
+      <published>2026-08-13T04:33:12Z</published>
+    </entry>
     <entry>
       <title>Rheinmetall-Aktie: Droht jetzt der Sinkflug unter 1.000 €?</title>
       <id>https://www.sharedeals.de/rheinmetall-aktie-droht-jetzt-der-sinkflug-unter-1-000-e/</id>
@@ -32,13 +39,6 @@
       <published>2026-08-11T07:56:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/10/stock_market_wall_street_traders-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/10/stock_market_wall_street_traders-540x350.jpg" alt="Aligos-Aktie +37%: Ein Vorbote für mehr?"/><p>Aligos-Aktie +37%: Ein Vorbote für mehr?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Almonty-Aktie: Wird das Pentagon jetzt zum großen Kurstreiber?</title>
-      <id>https://www.sharedeals.de/almonty-aktie-wird-das-pentagon-jetzt-zum-grossen-kurstreiber/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-wird-das-pentagon-jetzt-zum-grossen-kurstreiber/"/>
-      <updated>2026-08-10T13:02:20Z</updated>
-      <published>2026-08-10T13:02:20Z</published>
     </entry>
     <entry>
       <title>Allianz-Aktie: Sind 684 € wirklich gerechtfertigt?</title>
