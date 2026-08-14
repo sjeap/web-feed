@@ -5,19 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-13T15:34:52Z</updated>
+  <updated>2026-08-13T21:03:19Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ätna Ausbruch verursacht Millionenschäden auf Sizilien</title>
+      <title>Niedrigwasser-Notstand in Europa</title>
+      <id>https://www.tagesschau.de/video/video-1630954.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1630954.html"/>
+      <updated>2026-08-13T20:54:30Z</updated>
+      <published>2026-08-13T20:54:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4d608912-5400-4ba8-99f7-c42febf600f0/AAABn_yGYqs/AAABnSSvsdE/16x9-small/13082026-topthema-niedrigwasser-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4d608912-5400-4ba8-99f7-c42febf600f0/AAABn_yGYqs/AAABnSSvsdE/16x9-small/13082026-topthema-niedrigwasser-100.jpg?width=320" alt="Niedrigwasser-Notstand in Europa"/><p>Niedrigwasser-Notstand in Europa</p>]]></content>
+    </entry>
+    <entry>
+      <title>Beginn des Mauerbaus vor 65 Jahren</title>
+      <id>https://www.tagesschau.de/video/video-1630952.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1630952.html"/>
+      <updated>2026-08-13T21:03:19Z</updated>
+      <published>2026-08-13T21:03:19Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/855d07df-5ded-4d48-8284-a4c10502c795/AAABn_yBp_k/AAABnSSvsdE/16x9-small/13082026-mauer-berlin-gedenken-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/855d07df-5ded-4d48-8284-a4c10502c795/AAABn_yBp_k/AAABnSSvsdE/16x9-small/13082026-mauer-berlin-gedenken-100.jpg?width=320" alt="Beginn des Mauerbaus vor 65 Jahren"/><p>Beginn des Mauerbaus vor 65 Jahren</p>]]></content>
+    </entry>
+    <entry>
+      <title>100. Geburtstag von Fidel Castro</title>
+      <id>https://www.tagesschau.de/video/video-1630926.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1630926.html"/>
+      <updated>2026-08-13T20:26:27Z</updated>
+      <published>2026-08-13T20:26:27Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/02834969-4b6a-4b23-9f7e-4a49009241f0/AAABn_rgeXM/AAABnSSvsdE/16x9-small/kuba-castro-110.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/02834969-4b6a-4b23-9f7e-4a49009241f0/AAABn_rgeXM/AAABnSSvsdE/16x9-small/kuba-castro-110.jpg?width=320" alt="100. Geburtstag von Fidel Castro"/><p>100. Geburtstag von Fidel Castro</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ätna-Ausbruch verursacht Millionenschäden auf Sizilien</title>
       <id>https://www.tagesschau.de/video/video-1630680.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/video/video-1630680.html"/>
       <updated>2026-08-13T15:34:52Z</updated>
       <published>2026-08-13T15:34:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b1b3ee5c-07c3-4f8b-8240-1547a6d388ae/AAABn_tVJWE/AAABnSSvsdE/16x9-small/sendungsbild-1780014.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b1b3ee5c-07c3-4f8b-8240-1547a6d388ae/AAABn_tVJWE/AAABnSSvsdE/16x9-small/sendungsbild-1780014.jpg?width=320" alt="Ätna Ausbruch verursacht Millionenschäden auf Sizilien"/><p>Ätna Ausbruch verursacht Millionenschäden auf Sizilien</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b1b3ee5c-07c3-4f8b-8240-1547a6d388ae/AAABn_tVJWE/AAABnSSvsdE/16x9-small/sendungsbild-1780014.jpg?width=320" alt="Ätna-Ausbruch verursacht Millionenschäden auf Sizilien"/><p>Ätna-Ausbruch verursacht Millionenschäden auf Sizilien</p>]]></content>
     </entry>
     <entry>
       <title>Rumänien schaltet einziges Atomkraftwerk wegen Niedrigwasser ab</title>
@@ -36,32 +63,5 @@
       <published>2026-08-13T10:48:40Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ad6d84f0-85d9-4307-b2bf-c6b36857f760/AAABn_pPHJs/AAABnSSvsdE/16x9-small/sendungsbild-1779840.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ad6d84f0-85d9-4307-b2bf-c6b36857f760/AAABn_pPHJs/AAABnSSvsdE/16x9-small/sendungsbild-1779840.jpg?width=320" alt="Neue Marienstatue soll Touristen nach Polen locken"/><p>Neue Marienstatue soll Touristen nach Polen locken</p>]]></content>
-    </entry>
-    <entry>
-      <title>Kommunen fordern besseren Hitzeschutz in Kliniken und Heimen</title>
-      <id>https://www.tagesschau.de/video/video-1630510.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1630510.html"/>
-      <updated>2026-08-13T10:32:23Z</updated>
-      <published>2026-08-13T10:32:23Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0401592b-3d51-4f6e-a841-7b198167a430/AAABn_pAOHI/AAABnSSvsdE/16x9-small/sendungsbild-1779828.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0401592b-3d51-4f6e-a841-7b198167a430/AAABn_pAOHI/AAABnSSvsdE/16x9-small/sendungsbild-1779828.jpg?width=320" alt="Kommunen fordern besseren Hitzeschutz in Kliniken und Heimen"/><p>Kommunen fordern besseren Hitzeschutz in Kliniken und Heimen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Sonnenfinsternis begeistert Millionen Menschen in Europa</title>
-      <id>https://www.tagesschau.de/video/video-1630512.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1630512.html"/>
-      <updated>2026-08-13T10:43:59Z</updated>
-      <published>2026-08-13T10:43:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f380f733-f9c1-4f60-b4f1-f3fc7675f097/AAABn_pKy5g/AAABnSSvsdE/16x9-small/sendungsbild-1779838.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f380f733-f9c1-4f60-b4f1-f3fc7675f097/AAABn_pKy5g/AAABnSSvsdE/16x9-small/sendungsbild-1779838.jpg?width=320" alt="Sonnenfinsternis begeistert Millionen Menschen in Europa"/><p>Sonnenfinsternis begeistert Millionen Menschen in Europa</p>]]></content>
-    </entry>
-    <entry>
-      <title>Vor 65 Jahren begann der Bau der Berliner Mauer</title>
-      <id>https://www.tagesschau.de/video/video-1630506.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1630506.html"/>
-      <updated>2026-08-13T10:24:42Z</updated>
-      <published>2026-08-13T10:24:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/599a5605-e335-41b5-8613-d2408379cb09/AAABn_o5J68/AAABnSSvsdE/16x9-small/sendungsbild-1779826.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/599a5605-e335-41b5-8613-d2408379cb09/AAABn_o5J68/AAABnSSvsdE/16x9-small/sendungsbild-1779826.jpg?width=320" alt="Vor 65 Jahren begann der Bau der Berliner Mauer"/><p>Vor 65 Jahren begann der Bau der Berliner Mauer</p>]]></content>
     </entry>
 </feed>
