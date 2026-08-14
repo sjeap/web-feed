@@ -5,11 +5,32 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-13T17:15:49Z</updated>
+  <updated>2026-08-14T02:17:43Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>DYNF: A Factor Rotation Fund Earning Its Fees</title>
+      <id>4936542</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936542-dynf-a-factor-rotation-fund-earning-its-fees?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-14T02:17:43Z</updated>
+      <published>2026-08-14T02:17:43Z</published>
+    </entry>
+    <entry>
+      <title>TQQQ: Tread Cautiously Ahead Of The Next Round Of Tech Earnings</title>
+      <id>4936363</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936363-tqqq-tread-cautiously-ahead-of-the-next-round-of-tech-earnings?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-13T20:43:05Z</updated>
+      <published>2026-08-13T20:43:05Z</published>
+    </entry>
+    <entry>
+      <title>KSLV: Exposure To Silver With An Attractive Yield As Citi Says Silver Will Soar</title>
+      <id>4936340</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936340-the-kslv-exposure-to-silver-with-an-attractive-yield-as-citi-says-silver-will-soar?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-13T20:04:32Z</updated>
+      <published>2026-08-13T20:04:32Z</published>
+    </entry>
     <entry>
       <title>AMLP: A 7.5% Yield With Rising Dividend Momentum</title>
       <id>4936211</id>
@@ -142,27 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4935576-dram-eyeing-a-bullish-reversal-in-the-ai-memorystorage-space-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-12T19:53:24Z</updated>
       <published>2026-08-12T19:53:24Z</published>
-    </entry>
-    <entry>
-      <title>EWN: Need To Believe In Sustainability Of LLM CAPEX Cycles</title>
-      <id>4935575</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4935575-ewn-need-to-believe-in-sustainability-of-llm-capex-cycles?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-12T19:48:43Z</updated>
-      <published>2026-08-12T19:48:43Z</published>
-    </entry>
-    <entry>
-      <title>LQD: Better Income, Still Too Much Duration Risk</title>
-      <id>4935571</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4935571-lqd-better-income-still-too-much-duration-risk?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-12T19:39:59Z</updated>
-      <published>2026-08-12T19:39:59Z</published>
-    </entry>
-    <entry>
-      <title>JQUA&apos;s Quality Strategy Continues To Beat Broader Indices And Peers, Capturing Broadening Stock Market Trends</title>
-      <id>4935519</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4935519-jquas-quality-strategy-continues-to-beat-broader-indices-and-peers-capturing-broadening-stock-market-trends?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-12T18:15:50Z</updated>
-      <published>2026-08-12T18:15:50Z</published>
     </entry>
     <entry>
       <title>Enel appeal rejected by Brazil regulator in case that could lead to power concession loss</title>
