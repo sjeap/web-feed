@@ -5,11 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-15T01:47:59Z</updated>
+  <updated>2026-08-15T13:37:45Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>TDAQ: This 13% Yield Has Cost Less Upside Than I Expected</title>
+      <id>4937050</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937050-tdaq-this-13-percent-yield-has-cost-less-upside-than-i-expected?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T13:37:45Z</updated>
+      <published>2026-08-15T13:37:45Z</published>
+    </entry>
+    <entry>
+      <title>FDL: Dividend ETF That Keeps Buying The Losing Sector</title>
+      <id>4937047</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937047-fdl-dividend-etf-that-keeps-buying-the-losing-sector?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T13:21:51Z</updated>
+      <published>2026-08-15T13:21:51Z</published>
+    </entry>
+    <entry>
+      <title>PDI&apos;s 16%+ Yield: Despite 7 Big Risks, 5 Clever Ways PIMCO May Defend It</title>
+      <id>4937019</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937019-pdis-16-percent-plus-yield-despite-7-big-risks-5-clever-ways-pimco-may-defend-it?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T07:40:38Z</updated>
+      <published>2026-08-15T07:40:38Z</published>
+    </entry>
+    <entry>
+      <title>VVR: Improving, But Don&apos;t Expect A Distribution Hike</title>
+      <id>4937014</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937014-vvr-improving-do-not-expect-distribution-hike?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T06:50:26Z</updated>
+      <published>2026-08-15T06:50:26Z</published>
+    </entry>
+    <entry>
+      <title>The Global Layers Of The AI Investment Cycle</title>
+      <id>4937020</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937020-global-layers-of-ai-investment-cycle?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T06:50:00Z</updated>
+      <published>2026-08-15T06:50:00Z</published>
+    </entry>
+    <entry>
+      <title>MXI: Materials Dashboard For August</title>
+      <id>4937008</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937008-mxi-materials-dashboard-for-august?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T05:38:29Z</updated>
+      <published>2026-08-15T05:38:29Z</published>
+    </entry>
     <entry>
       <title>SPXT: No IT Exposure Means Weak Upside Capture, Outperformance Unlikely</title>
       <id>4936985</id>
@@ -121,48 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4936488-ftls-credible-as-a-standalone-alpha-generator-or-an-index-buffer?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-14T12:30:00Z</updated>
       <published>2026-08-14T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>Inflection Points: Mapping The Midterms</title>
-      <id>4936733</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936733-inflection-points-mapping-midterms?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T12:10:00Z</updated>
-      <published>2026-08-14T12:10:00Z</published>
-    </entry>
-    <entry>
-      <title>2 Income Plays For The Long-Term Investor</title>
-      <id>4936044</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936044-2-income-plays-for-the-long-term-investor?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T11:00:00Z</updated>
-      <published>2026-08-14T11:00:00Z</published>
-    </entry>
-    <entry>
-      <title>PFL: Hard To Recommend This High-Yielding Bond Fund Today</title>
-      <id>4936675</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936675-pfl-hard-to-recommend-this-high-yielding-bond-fund-today?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T10:07:18Z</updated>
-      <published>2026-08-14T10:07:18Z</published>
-    </entry>
-    <entry>
-      <title>IGE: A Legacy Natural Resources ETF That Lags Its Peers</title>
-      <id>4936510</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936510-ige-a-legacy-natural-resources-etf-that-lags-its-peers?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T09:30:00Z</updated>
-      <published>2026-08-14T09:30:00Z</published>
-    </entry>
-    <entry>
-      <title>Understanding Equity Timing Across Different Horizons</title>
-      <id>4936657</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936657-understanding-equity-timing-across-different-horizons?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T08:20:00Z</updated>
-      <published>2026-08-14T08:20:00Z</published>
-    </entry>
-    <entry>
-      <title>The Next Big Theme: August 2026</title>
-      <id>4936650</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936650-next-big-theme-august-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T08:00:00Z</updated>
-      <published>2026-08-14T08:00:00Z</published>
     </entry>
     <entry>
       <title>Semiconductor stocks face more downside, but potential remains: Tech Contrarians</title>
