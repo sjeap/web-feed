@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-14T15:56:21Z</updated>
+  <updated>2026-08-15T01:47:59Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SPXT: No IT Exposure Means Weak Upside Capture, Outperformance Unlikely</title>
+      <id>4936985</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936985-spxt-no-it-exposure-means-weak-upside-capture-outperformance-unlikely?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T01:47:59Z</updated>
+      <published>2026-08-15T01:47:59Z</published>
+    </entry>
+    <entry>
+      <title>GPIQ: Collect High-Yield Income From Technology Stocks</title>
+      <id>4936954</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936954-gpiq-collect-high-yield-income-from-technology-stocks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-14T23:14:41Z</updated>
+      <published>2026-08-14T23:14:41Z</published>
+    </entry>
+    <entry>
+      <title>3G Capital Partners adds SNDK, INTC, exits AMZN, ADI among Q2 moves</title>
+      <id>https://seekingalpha.com/MarketCurrent:4633552</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-08-14T21:10:46Z</updated>
+      <published>2026-08-14T21:10:46Z</published>
+    </entry>
+    <entry>
+      <title>Danaher: 2027 Growth Reacceleration Should Drive Upside</title>
+      <id>https://seekingalpha.com/Article:4936905</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936905-danaher-2027-growth-reacceleration-should-drive-upside?source=feed_symbol_DHR"/>
+      <updated>2026-08-14T19:26:06Z</updated>
+      <published>2026-08-14T19:26:06Z</published>
+    </entry>
     <entry>
       <title>What The Goldman Deal Changes For The NEOS Funds</title>
       <id>4936824</id>
@@ -46,7 +74,7 @@
       <published>2026-08-14T15:05:00Z</published>
     </entry>
     <entry>
-      <title>MOO: Farm Cycle Recovery And Long Term Food Security</title>
+      <title>MOO: Farm Cycle Recovery And Long-Term Food Security</title>
       <id>4936755</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4936755-moo-farm-cycle-recovery-and-long-term-food-security?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-14T14:00:48Z</updated>
@@ -137,20 +165,6 @@
       <published>2026-08-14T08:00:00Z</published>
     </entry>
     <entry>
-      <title>Indexing Autocalls</title>
-      <id>4936645</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936645-indexing-autocalls?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T07:40:00Z</updated>
-      <published>2026-08-14T07:40:00Z</published>
-    </entry>
-    <entry>
-      <title>Tradeweb Exchange-Traded Funds Update - July 2026</title>
-      <id>4936630</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936630-tradeweb-exchange-traded-funds-update-july-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T07:10:00Z</updated>
-      <published>2026-08-14T07:10:00Z</published>
-    </entry>
-    <entry>
       <title>Semiconductor stocks face more downside, but potential remains: Tech Contrarians</title>
       <id>https://seekingalpha.com/MarketCurrent:4632614</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
@@ -170,19 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/ENLAY/news?source=feed_symbol_ENLAY"/>
       <updated>2026-08-12T15:49:35Z</updated>
       <published>2026-08-12T15:49:35Z</published>
-    </entry>
-    <entry>
-      <title>Sea Limited 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4935009</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4935009-sea-limited-2026-q2-results-earnings-call-presentation?source=feed_symbol_SE"/>
-      <updated>2026-08-11T21:31:11Z</updated>
-      <published>2026-08-11T21:31:11Z</published>
-    </entry>
-    <entry>
-      <title>Sea Limited (SE) Q2 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4934665</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4934665-sea-limited-se-q2-2026-earnings-call-transcript?source=feed_symbol_SE"/>
-      <updated>2026-08-11T15:17:25Z</updated>
-      <published>2026-08-11T15:17:25Z</published>
     </entry>
 </feed>
