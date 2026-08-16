@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-15T05:06:20Z</updated>
+  <updated>2026-08-15T05:57:03Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rheinmetall-Aktie – startet jetzt die nächste Rallye?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-startet-jetzt-die-naechste-rallye-3/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-startet-jetzt-die-naechste-rallye-3/"/>
+      <updated>2026-08-15T05:57:03Z</updated>
+      <published>2026-08-15T05:57:03Z</published>
+    </entry>
     <entry>
       <title>Almonty-Aktie mit +44% – ist das erst der Anfang?</title>
       <id>https://www.sharedeals.de/almonty-aktie-mit-44-ist-das-erst-der-anfang/</id>
@@ -46,13 +53,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-diese-rally-koennte-noch-lange-nicht-vorbei-sein/"/>
       <updated>2026-08-13T08:40:03Z</updated>
       <published>2026-08-13T08:40:03Z</published>
-    </entry>
-    <entry>
-      <title>Evotec-Aktie nach Zahlen: Startet jetzt die Trendwende?</title>
-      <id>https://www.sharedeals.de/evotec-aktie-nach-zahlen-startet-jetzt-die-trendwende/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/evotec-aktie-nach-zahlen-startet-jetzt-die-trendwende/"/>
-      <updated>2026-08-13T04:33:12Z</updated>
-      <published>2026-08-13T04:33:12Z</published>
     </entry>
     <entry>
       <title>Aligos-Aktie +37%: Ein Vorbote für mehr?</title>
