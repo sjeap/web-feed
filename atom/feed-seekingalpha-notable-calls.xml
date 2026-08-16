@@ -5,11 +5,32 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-15T13:37:45Z</updated>
+  <updated>2026-08-16T02:50:41Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>FDV: How A 0.50% Expense Ratio Indirectly Holds This Dividend ETF Back</title>
+      <id>4937087</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937087-fdv-how-a-0-50-percent-expense-ratio-indirectly-holds-this-dividend-etf-back?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T02:50:41Z</updated>
+      <published>2026-08-16T02:50:41Z</published>
+    </entry>
+    <entry>
+      <title>AGG: Why It&apos;s Foolish To Dismiss Bonds Right Now</title>
+      <id>4937086</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937086-agg-why-its-foolish-to-dismiss-bonds-right-now?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T02:45:43Z</updated>
+      <published>2026-08-16T02:45:43Z</published>
+    </entry>
+    <entry>
+      <title>2 Closed-End Fund Buys In The Month Of July 2026</title>
+      <id>4937069</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937069-2-closed-end-fund-buys-in-the-month-of-july-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-15T17:48:45Z</updated>
+      <published>2026-08-15T17:48:45Z</published>
+    </entry>
     <entry>
       <title>TDAQ: This 13% Yield Has Cost Less Upside Than I Expected</title>
       <id>4937050</id>
@@ -142,27 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4936749-pavl-the-result-of-value-with-a-tech-tilt?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-14T13:42:39Z</updated>
       <published>2026-08-14T13:42:39Z</published>
-    </entry>
-    <entry>
-      <title>WTV: An Accidental Dividend Growth ETF</title>
-      <id>4936490</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936490-wtv-an-accidental-dividend-growth-etf?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T13:10:00Z</updated>
-      <published>2026-08-14T13:10:00Z</published>
-    </entry>
-    <entry>
-      <title>Preferred Stocks Can Turbocharge Your Portfolio&apos;s Yield, But Beware Of Middlemen And Hidden Risks</title>
-      <id>4936596</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936596-preferred-stocks-can-turbocharge-your-portfolios-yield-but-beware-of-middlemen-and-hidden-risks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T12:30:00Z</updated>
-      <published>2026-08-14T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>FTLS: Credible As A Standalone Alpha Generator Or An Index Buffer</title>
-      <id>4936488</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936488-ftls-credible-as-a-standalone-alpha-generator-or-an-index-buffer?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T12:30:00Z</updated>
-      <published>2026-08-14T12:30:00Z</published>
     </entry>
     <entry>
       <title>Semiconductor stocks face more downside, but potential remains: Tech Contrarians</title>
