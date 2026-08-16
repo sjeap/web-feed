@@ -5,11 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-16T02:50:41Z</updated>
+  <updated>2026-08-16T15:25:28Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>IYK: Consumer Staples Dashboard For August</title>
+      <id>4937149</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937149-iyk-consumer-staples-dashboard-august?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T15:25:28Z</updated>
+      <published>2026-08-16T15:25:28Z</published>
+    </entry>
+    <entry>
+      <title>Cornerstone Upcoming Rights Offering Presents Total Return Opportunities</title>
+      <id>4937137</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937137-cornerstone-upcoming-rights-offering-presents-total-return-opportunities?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T13:26:24Z</updated>
+      <published>2026-08-16T13:26:24Z</published>
+    </entry>
+    <entry>
+      <title>BLOX: Bitcoin May Be Forming A Bottom, Collect Weekly Income In The Meantime</title>
+      <id>4936703</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4936703-blox-bitcoin-may-be-forming-a-bottom-collect-weekly-income-in-the-meantime?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T12:15:00Z</updated>
+      <published>2026-08-16T12:15:00Z</published>
+    </entry>
+    <entry>
+      <title>IHF: Healthcare Dashboard For August</title>
+      <id>4937129</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937129-ihf-healthcare-dashboard-for-august?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T12:06:36Z</updated>
+      <published>2026-08-16T12:06:36Z</published>
+    </entry>
+    <entry>
+      <title>Thermo Fisher Scientific: Biopharma Recovery And Share Gains Support The Upside</title>
+      <id>https://seekingalpha.com/Article:4937111</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937111-thermo-fisher-scientific-biopharma-recovery-and-share-gains-support-the-upside?source=feed_symbol_TMO"/>
+      <updated>2026-08-16T09:15:18Z</updated>
+      <published>2026-08-16T09:15:18Z</published>
+    </entry>
+    <entry>
+      <title>UTG: Retirees Got A Well-Supported Income Raise</title>
+      <id>4937100</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937100-utg-retirees-got-a-well-supported-income-raise?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-16T07:04:19Z</updated>
+      <published>2026-08-16T07:04:19Z</published>
+    </entry>
     <entry>
       <title>FDV: How A 0.50% Expense Ratio Indirectly Holds This Dividend ETF Back</title>
       <id>4937087</id>
@@ -130,41 +172,6 @@
       <published>2026-08-14T15:17:09Z</published>
     </entry>
     <entry>
-      <title>Trend Following In The Wild: Why Prestige TV Has Big Gaps Between Seasons</title>
-      <id>4936822</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936822-trend-following-in-wild-why-prestige-tv-has-big-gaps-between-seasons?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T15:05:00Z</updated>
-      <published>2026-08-14T15:05:00Z</published>
-    </entry>
-    <entry>
-      <title>MOO: Farm Cycle Recovery And Long-Term Food Security</title>
-      <id>4936755</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936755-moo-farm-cycle-recovery-and-long-term-food-security?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T14:00:48Z</updated>
-      <published>2026-08-14T14:00:48Z</published>
-    </entry>
-    <entry>
-      <title>PCEF: Performance Warrants An Upgrade</title>
-      <id>4936753</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936753-pcef-performance-warrants-an-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T13:57:35Z</updated>
-      <published>2026-08-14T13:57:35Z</published>
-    </entry>
-    <entry>
-      <title>SEIV: Great GARP Characteristics, Though Growth Trends Are Weakening</title>
-      <id>4936751</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936751-seiv-great-garp-characteristics-though-growth-trends-are-weakening?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T13:49:49Z</updated>
-      <published>2026-08-14T13:49:49Z</published>
-    </entry>
-    <entry>
-      <title>PAVL: The Result Of Value With A Tech Tilt</title>
-      <id>4936749</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936749-pavl-the-result-of-value-with-a-tech-tilt?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-14T13:42:39Z</updated>
-      <published>2026-08-14T13:42:39Z</published>
-    </entry>
-    <entry>
       <title>Semiconductor stocks face more downside, but potential remains: Tech Contrarians</title>
       <id>https://seekingalpha.com/MarketCurrent:4632614</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
@@ -177,12 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
       <updated>2026-08-13T02:35:10Z</updated>
       <published>2026-08-13T02:35:10Z</published>
-    </entry>
-    <entry>
-      <title>Enel appeal rejected by Brazil regulator in case that could lead to power concession loss</title>
-      <id>https://seekingalpha.com/MarketCurrent:4631634</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/ENLAY/news?source=feed_symbol_ENLAY"/>
-      <updated>2026-08-12T15:49:35Z</updated>
-      <published>2026-08-12T15:49:35Z</published>
     </entry>
 </feed>
