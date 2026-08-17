@@ -5,24 +5,24 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-15T05:06:20Z</updated>
+  <updated>2026-08-17T09:29:47Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rheinmetall-Aktie: Wer gewinnt den Kampf um 1.233 €?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-wer-gewinnt-den-kampf-um-1-233-e/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-wer-gewinnt-den-kampf-um-1-233-e/"/>
+      <updated>2026-08-17T09:29:47Z</updated>
+      <published>2026-08-17T09:29:47Z</published>
+    </entry>
     <entry>
       <title>Almonty-Aktie mit +44% – ist das erst der Anfang?</title>
       <id>https://www.sharedeals.de/almonty-aktie-mit-44-ist-das-erst-der-anfang/</id>
       <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-mit-44-ist-das-erst-der-anfang/"/>
       <updated>2026-08-15T05:06:20Z</updated>
       <published>2026-08-15T05:06:20Z</published>
-    </entry>
-    <entry>
-      <title>SK Hynix-Aktie: Diese Analystenziele haben es in sich</title>
-      <id>https://www.sharedeals.de/sk-hynix-aktie-diese-analystenziele-haben-es-in-sich/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/sk-hynix-aktie-diese-analystenziele-haben-es-in-sich/"/>
-      <updated>2026-08-14T08:50:47Z</updated>
-      <published>2026-08-14T08:50:47Z</published>
     </entry>
     <entry>
       <title>Valneva-Aktie +20%: Das ist der kommerzielle Durchbruch!</title>
