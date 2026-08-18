@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-08-13T10:20:54Z</updated>
+  <updated>2026-08-18T13:02:46Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Von der Bäckerei zur Mini-Wohnung: So schuf sich ein Architekt ein 40-Quadratmeter-Apartment in einem Mailänder Hinterhof</title>
+      <id>https://www.ad-magazin.de/artikel/baeckerei-wird-mini-wohnung-mailaender-hinterhof</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/baeckerei-wird-mini-wohnung-mailaender-hinterhof"/>
+      <updated>2026-08-18T13:02:46Z</updated>
+      <published>2026-08-18T13:02:46Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a75db17d30bd96738d3dc0f/1:1/w_354%2Cc_limit/_Q7I5428.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a75db17d30bd96738d3dc0f/1:1/w_354%2Cc_limit/_Q7I5428.jpg" alt="Von der Bäckerei zur Mini-Wohnung: So schuf sich ein Architekt ein 40-Quadratmeter-Apartment in einem Mailänder Hinterhof"/><p>Von der Bäckerei zur Mini-Wohnung: So schuf sich ein Architekt ein 40-Quadratmeter-Apartment in einem Mailänder Hinterhof</p>]]></content>
+    </entry>
     <entry>
       <title>Nach einem cleveren Umbau wirkt dieses 26-Quadratmeter-Mikroapartment in Italien viel größer, als es ist</title>
       <id>https://www.ad-magazin.de/artikel/mikroapartment-italien-26-quadratmeter-umbau</id>
