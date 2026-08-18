@@ -5,17 +5,45 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-17T16:54:16Z</updated>
+  <updated>2026-08-17T19:46:30Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Quant ratings on Third Point’s top Q2 holdings: AMZN, XYZ, COF, KEYS, FLEX</title>
-      <id>https://seekingalpha.com/MarketCurrent:4633986</id>
+      <title>CGUS: Active Core Fund Delivering Solid Results</title>
+      <id>4937429</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937429-cgus-active-core-fund-delivering-solid-results?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-17T19:46:30Z</updated>
+      <published>2026-08-17T19:46:30Z</published>
+    </entry>
+    <entry>
+      <title>VFMF: Value And EPS Growth Acceleration Makes Vanguard&apos;s Multifactor ETF Appealing (Ratings Upgrade)</title>
+      <id>4937423</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937423-vfmf-value-and-eps-growth-acceleration-makes-vanguards-multifactor-etf-appealing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-17T19:18:46Z</updated>
+      <published>2026-08-17T19:18:46Z</published>
+    </entry>
+    <entry>
+      <title>VanEck Vietnam ETF: Macro Country Growth But Fund Performs Poorly</title>
+      <id>4937422</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937422-vaneck-vietnam-etf-macro-country-growth-but-fund-performs-poorly?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-17T19:15:12Z</updated>
+      <published>2026-08-17T19:15:12Z</published>
+    </entry>
+    <entry>
+      <title>Quant ratings on Appaloosa Management&apos;s top holdings: AMZN, MU, TSM</title>
+      <id>https://seekingalpha.com/MarketCurrent:4633889</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-08-17T16:54:16Z</updated>
-      <published>2026-08-17T16:54:16Z</published>
+      <updated>2026-08-17T17:05:59Z</updated>
+      <published>2026-08-17T17:05:59Z</published>
+    </entry>
+    <entry>
+      <title>IAUI: Gold Bulls Are Paying Up, And This 13% Fund Gets Paid</title>
+      <id>4937371</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937371-iaui-gold-bulls-are-paying-up-and-this-13-percent-fund-gets-paid?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-17T16:55:32Z</updated>
+      <published>2026-08-17T16:55:32Z</published>
     </entry>
     <entry>
       <title>MSTY: Get ~75% Of Your Capital Back In One Year, Keep The Call On Strategy</title>
@@ -135,34 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4937183-fez-european-shares-still-check-a-lot-of-boxes-for-me?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-17T12:00:00Z</updated>
       <published>2026-08-17T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>PHO: Reliant On Spending Catalysts, Not Water Scarcity</title>
-      <id>4937197</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937197-pho-reliant-on-spending-catalysts-not-water-scarcity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T11:50:00Z</updated>
-      <published>2026-08-17T11:50:00Z</published>
-    </entry>
-    <entry>
-      <title>WEEI, The Energy Segment, The 11% Yield, And A 2027 That Could Reshape Everything</title>
-      <id>4937190</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937190-weei-the-energy-segment-the-11-percent-yield-and-a-2027-that-could-reshape-everything?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T11:45:00Z</updated>
-      <published>2026-08-17T11:45:00Z</published>
-    </entry>
-    <entry>
-      <title>GPIX: I Would Use This 8% Yielder As A Core Holding</title>
-      <id>4937188</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937188-gpix-i-would-use-this-8-percent-yielder-as-a-core-holding?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T11:45:00Z</updated>
-      <published>2026-08-17T11:45:00Z</published>
-    </entry>
-    <entry>
-      <title>KSLV: Built To Capture Silver&apos;s Upside, Not To Wait Out A Consolidation</title>
-      <id>4937181</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937181-kslv-built-to-capture-silvers-upside-not-to-wait-out-a-consolidation?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T11:45:00Z</updated>
-      <published>2026-08-17T11:45:00Z</published>
     </entry>
     <entry>
       <title>Motor oil crisis: Automakers reportedly turn to new blends</title>
