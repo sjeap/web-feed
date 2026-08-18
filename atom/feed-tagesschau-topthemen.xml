@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-17T17:10:05Z</updated>
+  <updated>2026-08-17T20:57:22Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Brauchen wir eine Helmpflicht für E-Scooter?</title>
+      <id>https://www.tagesschau.de/video/video-1633094.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1633094.html"/>
+      <updated>2026-08-17T20:57:22Z</updated>
+      <published>2026-08-17T20:57:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5c417af7-ac28-4a1c-bf2b-c7ee3d7093a3/AAABoBDrXmU/AAABnSSvsdE/16x9-small/17082026-arday-trauer-london-100.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5c417af7-ac28-4a1c-bf2b-c7ee3d7093a3/AAABoBDrXmU/AAABnSSvsdE/16x9-small/17082026-arday-trauer-london-100.jpg?width=320" alt="Brauchen wir eine Helmpflicht für E-Scooter?"/><p>Brauchen wir eine Helmpflicht für E-Scooter?</p>]]></content>
+    </entry>
     <entry>
       <title>E-Scooter-Helmpflicht wegen hoher Unfallzahlen in Frankreich: M. Strempel, ARD Paris</title>
       <id>https://www.tagesschau.de/video/video-1632908.html</id>
@@ -54,14 +63,5 @@
       <published>2026-08-17T11:49:15Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5688f5f4-226f-4686-990a-c8e9a8626e50/AAABoA8eV38/AAABnSSvsdE/16x9-small/sendungsbild-1781740.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5688f5f4-226f-4686-990a-c8e9a8626e50/AAABoA8eV38/AAABnSSvsdE/16x9-small/sendungsbild-1781740.jpg?width=320" alt="Ungarns Regierung 100 Tage im Amt: Andreas Bachmann, ARD Budapest"/><p>Ungarns Regierung 100 Tage im Amt: Andreas Bachmann, ARD Budapest</p>]]></content>
-    </entry>
-    <entry>
-      <title>Unfallchirurg Michael Zyskowski, TUM Klinikum Rechts der Isar, zur Helmpflicht</title>
-      <id>https://www.tagesschau.de/video/video-1632688.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1632688.html"/>
-      <updated>2026-08-17T10:28:43Z</updated>
-      <published>2026-08-17T10:28:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/728bc4a1-0959-4735-b363-f9c7c7e94eca/AAABoA7V8tE/AAABnSSvsdE/16x9-small/sendungsbild-1781716.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/728bc4a1-0959-4735-b363-f9c7c7e94eca/AAABoA7V8tE/AAABnSSvsdE/16x9-small/sendungsbild-1781716.jpg?width=320" alt="Unfallchirurg Michael Zyskowski, TUM Klinikum Rechts der Isar, zur Helmpflicht"/><p>Unfallchirurg Michael Zyskowski, TUM Klinikum Rechts der Isar, zur Helmpflicht</p>]]></content>
     </entry>
 </feed>
