@@ -5,184 +5,184 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-17T19:46:30Z</updated>
+  <updated>2026-08-20T02:24:05Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>CGUS: Active Core Fund Delivering Solid Results</title>
-      <id>4937429</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937429-cgus-active-core-fund-delivering-solid-results?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T19:46:30Z</updated>
-      <published>2026-08-17T19:46:30Z</published>
+      <title>2 ETFs For The Watchlist With 8%+ Yields</title>
+      <id>4938510</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938510-2-etfs-for-the-watchlist-with-8-percent-plus-yields?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-20T02:24:05Z</updated>
+      <published>2026-08-20T02:24:05Z</published>
     </entry>
     <entry>
-      <title>VFMF: Value And EPS Growth Acceleration Makes Vanguard&apos;s Multifactor ETF Appealing (Ratings Upgrade)</title>
-      <id>4937423</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937423-vfmf-value-and-eps-growth-acceleration-makes-vanguards-multifactor-etf-appealing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T19:18:46Z</updated>
-      <published>2026-08-17T19:18:46Z</published>
+      <title>Harry Qelm Baabsman&apos;s 2026 Half-Year Letter To Investors</title>
+      <id>4938488</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938488-harry-qelm-baabsmans-2026-half-year-letter-to-investors?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-20T01:21:28Z</updated>
+      <published>2026-08-20T01:21:28Z</published>
     </entry>
     <entry>
-      <title>VanEck Vietnam ETF: Macro Country Growth But Fund Performs Poorly</title>
-      <id>4937422</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937422-vaneck-vietnam-etf-macro-country-growth-but-fund-performs-poorly?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T19:15:12Z</updated>
-      <published>2026-08-17T19:15:12Z</published>
+      <title>HDV: The Monthly Payout Change Doesn&apos;t Solve Its Problems</title>
+      <id>4938440</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938440-hdv-the-monthly-payout-change-doesnt-solve-its-problems?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T20:35:34Z</updated>
+      <published>2026-08-19T20:35:34Z</published>
     </entry>
     <entry>
-      <title>Quant ratings on Appaloosa Management&apos;s top holdings: AMZN, MU, TSM</title>
-      <id>https://seekingalpha.com/MarketCurrent:4633889</id>
+      <title>SOXL: When Expected Semiconductor Returns Are Not Worth The Risk</title>
+      <id>4938427</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938427-soxl-when-expected-semiconductor-returns-not-worth-the-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T19:45:23Z</updated>
+      <published>2026-08-19T19:45:23Z</published>
+    </entry>
+    <entry>
+      <title>UCO: A Capital Efficient Way To Exploit The Upward Momentum In Oil Prices</title>
+      <id>4938360</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938360-uco-a-capital-efficient-way-to-exploit-the-upward-momentum-in-oil-prices?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T19:45:00Z</updated>
+      <published>2026-08-19T19:45:00Z</published>
+    </entry>
+    <entry>
+      <title>BICO Group AB (publ) (BCCOY) Q2 2026 Earnings Call Transcript</title>
+      <id>https://seekingalpha.com/Article:4938430</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938430-bico-group-ab-publ-bccoy-q2-2026-earnings-call-transcript?source=feed_symbol_CLLKF"/>
+      <updated>2026-08-19T19:01:54Z</updated>
+      <published>2026-08-19T19:01:54Z</published>
+    </entry>
+    <entry>
+      <title>SCHD: Dividend Stocks Are Turning The Real Corner (Technical Analysis)</title>
+      <id>4938366</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938366-schd-dividend-stocks-are-turning-the-real-corner-technical-analysis?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T17:11:56Z</updated>
+      <published>2026-08-19T17:11:56Z</published>
+    </entry>
+    <entry>
+      <title>If You Are Concerned About Equities Valuations, Go For BALT</title>
+      <id>4938354</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938354-if-you-are-concerned-about-equities-valuations-go-for-balt?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T16:39:20Z</updated>
+      <published>2026-08-19T16:39:20Z</published>
+    </entry>
+    <entry>
+      <title>LVHI: A 4.5% Yield Built For Higher Rates</title>
+      <id>4938343</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938343-lvhi-a-4-5-percent-yield-built-for-higher-rates?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T16:11:00Z</updated>
+      <published>2026-08-19T16:11:00Z</published>
+    </entry>
+    <entry>
+      <title>TCW Artificial Intelligence ETF Q2 2026 Commentary</title>
+      <id>4938335</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938335-tcw-artificial-intelligence-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T15:55:00Z</updated>
+      <published>2026-08-19T15:55:00Z</published>
+    </entry>
+    <entry>
+      <title>PDB Lags In Momentum Investing, Consider SPMO And MTUM</title>
+      <id>4938331</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938331-pdb-lags-in-momentum-investing-consider-spmo-and-mtum?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T15:52:15Z</updated>
+      <published>2026-08-19T15:52:15Z</published>
+    </entry>
+    <entry>
+      <title>GGT: Collect 20% Yield From Communications, Multimedia, Sports, And Entertainment</title>
+      <id>4938328</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938328-ggt-collect-20-percent-yield-from-communications-multimedia-sports-and-entertainment?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T15:42:02Z</updated>
+      <published>2026-08-19T15:42:02Z</published>
+    </entry>
+    <entry>
+      <title>TSPY: 13.8% Yield For A Slower S&amp;P 500 Rally</title>
+      <id>4938323</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938323-tspy-13-8-percent-yield-for-a-slower-s-and-p-500-rally?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T15:36:04Z</updated>
+      <published>2026-08-19T15:36:04Z</published>
+    </entry>
+    <entry>
+      <title>PULS: A Better Place For Defensive Cash</title>
+      <id>4938316</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938316-puls-a-better-place-for-defensive-cash?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T15:29:00Z</updated>
+      <published>2026-08-19T15:29:00Z</published>
+    </entry>
+    <entry>
+      <title>2 Tax-Friendly Monthly Paying Closed-End Funds</title>
+      <id>4938294</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938294-2-tax-friendly-monthly-paying-closed-end-funds?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T15:01:00Z</updated>
+      <published>2026-08-19T15:01:00Z</published>
+    </entry>
+    <entry>
+      <title>Semiconductor equipment: Who is best positioned as AI infrastructure spending broadens?</title>
+      <id>https://seekingalpha.com/MarketCurrent:4634361</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-08-17T17:05:59Z</updated>
-      <published>2026-08-17T17:05:59Z</published>
+      <updated>2026-08-19T14:33:24Z</updated>
+      <published>2026-08-19T14:33:24Z</published>
     </entry>
     <entry>
-      <title>IAUI: Gold Bulls Are Paying Up, And This 13% Fund Gets Paid</title>
-      <id>4937371</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937371-iaui-gold-bulls-are-paying-up-and-this-13-percent-fund-gets-paid?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T16:55:32Z</updated>
-      <published>2026-08-17T16:55:32Z</published>
+      <title>JRI: Could Be Good For Diversification, But Distribution Sustainability Uncertain</title>
+      <id>4938281</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938281-jri-could-be-good-for-diversification-but-distribution-sustainability-uncertain?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T14:30:55Z</updated>
+      <published>2026-08-19T14:30:55Z</published>
     </entry>
     <entry>
-      <title>MSTY: Get ~75% Of Your Capital Back In One Year, Keep The Call On Strategy</title>
-      <id>4937370</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937370-msty-get-75-percent-of-your-capital-back-in-one-year-keep-the-call-on-strategy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T16:53:23Z</updated>
-      <published>2026-08-17T16:53:23Z</published>
+      <title>Mutares SE &amp; Co. KGaA 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4938317</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938317-mutares-se-and-co-kgaa-2026-q2-results-earnings-call-presentation?source=feed_symbol_MUTRF"/>
+      <updated>2026-08-19T14:30:48Z</updated>
+      <published>2026-08-19T14:30:48Z</published>
     </entry>
     <entry>
-      <title>If Silver Has Bottomed, AGQ Can Magnify The Next Rally</title>
-      <id>4937368</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937368-if-silver-has-bottomed-agq-can-magnify-the-next-rally?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T16:52:20Z</updated>
-      <published>2026-08-17T16:52:20Z</published>
+      <title>From Ban To Tariff Wall: How U.S. Drone Policy Is Reshaping The Global Supply Chain</title>
+      <id>4938306</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938306-from-ban-to-tariff-wall-us-drone-policy-reshaping-global-supply-chain?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T14:20:00Z</updated>
+      <published>2026-08-19T14:20:00Z</published>
     </entry>
     <entry>
-      <title>Beyond The 60/40: Why ALLW Belongs In A Modern Macro Portfolio</title>
-      <id>4937356</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937356-beyond-the-6040-why-allw-belongs-in-a-modern-macro-portfolio?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T16:16:53Z</updated>
-      <published>2026-08-17T16:16:53Z</published>
+      <title>The Forgotten Half Of Option Income</title>
+      <id>4938142</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938142-forgotten-half-of-option-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T13:30:00Z</updated>
+      <published>2026-08-19T13:30:00Z</published>
     </entry>
     <entry>
-      <title>QTEC: Technology Sector Dashboard For August</title>
-      <id>4937329</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937329-qtec-technology-sectordashboard-for-august?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T16:15:14Z</updated>
-      <published>2026-08-17T16:15:14Z</published>
+      <title>India&apos;s Equity Markets Could Be Seeing An Alignment Of Tailwinds</title>
+      <id>4938275</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938275-india-equity-markets-could-be-seeing-alignment-of-tailwinds?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T13:25:00Z</updated>
+      <published>2026-08-19T13:25:00Z</published>
     </entry>
     <entry>
-      <title>BKGI: Income From The AI Power Bill</title>
-      <id>4937353</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937353-bkgi-income-from-the-ai-power-bill?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T16:00:41Z</updated>
-      <published>2026-08-17T16:00:41Z</published>
+      <title>GDE: 3 Hidden Reasons Why It Could Be A Decidedly Strategic Asset In The Future</title>
+      <id>4938009</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938009-gde-3-hidden-reasons-why-it-could-be-a-decidedly-strategic-asset-in-the-future?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T11:30:00Z</updated>
+      <published>2026-08-19T11:30:00Z</published>
     </entry>
     <entry>
-      <title>Barings Corporate Investors: Best In Class, Now Priced To Buy Again</title>
-      <id>4937348</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937348-barings-corporate-investors-best-in-class-now-priced-to-buy-again?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T15:58:03Z</updated>
-      <published>2026-08-17T15:58:03Z</published>
+      <title>BICO Group AB (publ) 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4938146</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938146-bico-group-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_symbol_CLLKF"/>
+      <updated>2026-08-19T08:32:47Z</updated>
+      <published>2026-08-19T08:32:47Z</published>
     </entry>
     <entry>
-      <title>What The FCC&apos;s Latest Action Means For Physical AI Investors</title>
-      <id>4937340</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937340-what-fcc-latest-action-means-physical-ai-investors?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T15:29:00Z</updated>
-      <published>2026-08-17T15:29:00Z</published>
+      <title>Virtus SEIX Senior Loan ETF Q2 2026 Commentary</title>
+      <id>4938139</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938139-virtus-seix-senior-loan-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-19T08:10:00Z</updated>
+      <published>2026-08-19T08:10:00Z</published>
     </entry>
     <entry>
-      <title>SPDW: Price Action Matters More Than Concerning Macro Trends</title>
-      <id>4937339</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937339-spdw-price-action-matters-more-than-concerning-macro-trends?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T15:28:47Z</updated>
-      <published>2026-08-17T15:28:47Z</published>
-    </entry>
-    <entry>
-      <title>Weekly Closed-End Fund Roundup (August 9, 2026)</title>
-      <id>4937337</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937337-weekly-closed-end-fund-roundup-august-9-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T15:26:55Z</updated>
-      <published>2026-08-17T15:26:55Z</published>
-    </entry>
-    <entry>
-      <title>FELV Is Poised To Mark Record Annual Returns In 2026, Beating Value Indices And Peers</title>
-      <id>4937334</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937334-felv-is-poised-to-mark-record-annual-returns-in-2026-beating-value-indices-and-peers?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T15:17:11Z</updated>
-      <published>2026-08-17T15:17:11Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: A Bargain For The AI Skeleton</title>
-      <id>https://seekingalpha.com/Article:4937307</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937307-tsmc-a-bargain-for-the-ai-skeleton?source=feed_symbol_TSM"/>
-      <updated>2026-08-17T14:12:29Z</updated>
-      <published>2026-08-17T14:12:29Z</published>
-    </entry>
-    <entry>
-      <title>Think Like An Investor, Not A Speculator (Chapter 1 Of 5)</title>
-      <id>4937317</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937317-think-like-an-investor-not-a-speculator-chapter-1-of-5?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T13:40:00Z</updated>
-      <published>2026-08-17T13:40:00Z</published>
-    </entry>
-    <entry>
-      <title>XDTE: The Return Lives Overnight, And That&apos;s The Problem Now</title>
-      <id>4937206</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937206-xdte-the-return-lives-overnight-and-thats-the-problem-now?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T12:35:00Z</updated>
-      <published>2026-08-17T12:35:00Z</published>
-    </entry>
-    <entry>
-      <title>Forget The 4% Rule: 2 ETFs Yielding 14%+ For Passive Retirement Income</title>
-      <id>4937187</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937187-forget-the-4-percent-rule-2-etfs-yielding-14-percent-plus-for-passive-retirement-income?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T12:15:00Z</updated>
-      <published>2026-08-17T12:15:00Z</published>
-    </entry>
-    <entry>
-      <title>FIDU: Industrials Dashboard For August</title>
-      <id>4937272</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937272-fidu-industrials-dashboard-august?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T12:07:29Z</updated>
-      <published>2026-08-17T12:07:29Z</published>
-    </entry>
-    <entry>
-      <title>FTXL: The &quot;Situational Awareness Trade&quot; Still Favors AI-Enabling Chips</title>
-      <id>4937195</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937195-ftxl-the-situational-awareness-trade-still-favors-ai-enabling-chips?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T12:00:00Z</updated>
-      <published>2026-08-17T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>FEZ: European Shares Still Check A Lot Of Boxes For Me</title>
-      <id>4937183</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937183-fez-european-shares-still-check-a-lot-of-boxes-for-me?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-17T12:00:00Z</updated>
-      <published>2026-08-17T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Motor oil crisis: Automakers reportedly turn to new blends</title>
-      <id>https://seekingalpha.com/MarketCurrent:4633653</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
-      <updated>2026-08-17T09:26:11Z</updated>
-      <published>2026-08-17T09:26:11Z</published>
-    </entry>
-    <entry>
-      <title>Thermo Fisher Scientific: Biopharma Recovery And Share Gains Support The Upside</title>
-      <id>https://seekingalpha.com/Article:4937111</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937111-thermo-fisher-scientific-biopharma-recovery-and-share-gains-support-the-upside?source=feed_symbol_TMO"/>
-      <updated>2026-08-16T09:15:18Z</updated>
-      <published>2026-08-16T09:15:18Z</published>
-    </entry>
-    <entry>
-      <title>Danaher: 2027 Growth Reacceleration Should Drive Upside</title>
-      <id>https://seekingalpha.com/Article:4936905</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4936905-danaher-2027-growth-reacceleration-should-drive-upside?source=feed_symbol_DHR"/>
-      <updated>2026-08-14T19:26:06Z</updated>
-      <published>2026-08-14T19:26:06Z</published>
+      <title>BICO Group AB GAAP EPS of -SEK 0.53, revenue of SEK 336.1M</title>
+      <id>https://seekingalpha.com/MarketCurrent:4634703</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/CLLKF/news?source=feed_symbol_CLLKF"/>
+      <updated>2026-08-19T07:34:22Z</updated>
+      <published>2026-08-19T07:34:22Z</published>
     </entry>
 </feed>
