@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-20T16:05:13Z</updated>
+  <updated>2026-08-21T17:27:30Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Verbraucherschützer warnen vor steigenden Gaspreisen</title>
-      <id>https://www.tagesschau.de/video/video-1634560.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634560.html"/>
-      <updated>2026-08-20T16:05:13Z</updated>
-      <published>2026-08-20T16:05:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/35712087-1800-426e-a789-fba366759d0a/AAABoB99asE/AAABnSSvsdE/16x9-small/sendungsbild-1783296.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/35712087-1800-426e-a789-fba366759d0a/AAABoB99asE/AAABnSSvsdE/16x9-small/sendungsbild-1783296.jpg?width=320" alt="Verbraucherschützer warnen vor steigenden Gaspreisen"/><p>Verbraucherschützer warnen vor steigenden Gaspreisen</p>]]></content>
+      <title>Claudia Kornmeier, ARD Berlin, mit Informationen zum Fund des Waffenverstecks bei Berlin</title>
+      <id>https://www.tagesschau.de/video/video-1635238.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635238.html"/>
+      <updated>2026-08-21T17:27:30Z</updated>
+      <published>2026-08-21T17:27:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fab96383-5939-4b96-94af-eddae021ce6f/AAABoCTvISE/AAABnSSvsdE/16x9-small/sendungsbild-1783858.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fab96383-5939-4b96-94af-eddae021ce6f/AAABoCTvISE/AAABnSSvsdE/16x9-small/sendungsbild-1783858.jpg?width=320" alt="Claudia Kornmeier, ARD Berlin, mit Informationen zum Fund des Waffenverstecks bei Berlin"/><p>Claudia Kornmeier, ARD Berlin, mit Informationen zum Fund des Waffenverstecks bei Berlin</p>]]></content>
     </entry>
     <entry>
-      <title>Massive russische Angriffe auf Ukraine - Vassili Golod, ARD Kiew</title>
-      <id>https://www.tagesschau.de/video/video-1634450.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634450.html"/>
-      <updated>2026-08-20T12:03:44Z</updated>
-      <published>2026-08-20T12:03:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/64f3c11c-183c-4bbe-8813-01eb41c4ce0e/AAABoB6gWE8/AAABnSSvsdE/16x9-small/sendungsbild-1783222.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/64f3c11c-183c-4bbe-8813-01eb41c4ce0e/AAABoB6gWE8/AAABnSSvsdE/16x9-small/sendungsbild-1783222.jpg?width=320" alt="Massive russische Angriffe auf Ukraine - Vassili Golod, ARD Kiew"/><p>Massive russische Angriffe auf Ukraine - Vassili Golod, ARD Kiew</p>]]></content>
+      <title>Oliver Zielinksi, Helmholtz-Zentrum hereon, zum Pilotprojekt der klimaneutralen Herstellung von Zement</title>
+      <id>https://www.tagesschau.de/video/video-1635198.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635198.html"/>
+      <updated>2026-08-21T16:48:19Z</updated>
+      <published>2026-08-21T16:48:19Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ad151075-171c-4264-8e38-7e9433ba76a2/AAABoCTLRA0/AAABnSSvsdE/16x9-small/sendungsbild-1783836.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ad151075-171c-4264-8e38-7e9433ba76a2/AAABoCTLRA0/AAABnSSvsdE/16x9-small/sendungsbild-1783836.jpg?width=320" alt="Oliver Zielinksi, Helmholtz-Zentrum hereon, zum Pilotprojekt der klimaneutralen Herstellung von Zement"/><p>Oliver Zielinksi, Helmholtz-Zentrum hereon, zum Pilotprojekt der klimaneutralen Herstellung von Zement</p>]]></content>
     </entry>
     <entry>
-      <title>DGB-Ausbildungsreport: Warum viele Azubis unzufrieden sind</title>
-      <id>https://www.tagesschau.de/video/video-1634428.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634428.html"/>
-      <updated>2026-08-20T11:47:53Z</updated>
-      <published>2026-08-20T11:47:53Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/21c69029-cb1e-449e-9692-7af033a46481/AAABoB6RzuI/AAABnSSvsdE/16x9-small/sendungsbild-1783216.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/21c69029-cb1e-449e-9692-7af033a46481/AAABoB6RzuI/AAABnSSvsdE/16x9-small/sendungsbild-1783216.jpg?width=320" alt="DGB-Ausbildungsreport: Warum viele Azubis unzufrieden sind"/><p>DGB-Ausbildungsreport: Warum viele Azubis unzufrieden sind</p>]]></content>
+      <title>Björn Dake, ARD Tel Aviv, zu den Siedlungsplänen im Westjordanland</title>
+      <id>https://www.tagesschau.de/video/video-1635104.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635104.html"/>
+      <updated>2026-08-21T14:28:22Z</updated>
+      <published>2026-08-21T14:28:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ab31e024-86cf-407f-af86-af7c73746020/AAABoCRKUQE/AAABnSSvsdE/16x9-small/sendungsbild-1783756.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ab31e024-86cf-407f-af86-af7c73746020/AAABoCRKUQE/AAABnSSvsdE/16x9-small/sendungsbild-1783756.jpg?width=320" alt="Björn Dake, ARD Tel Aviv, zu den Siedlungsplänen im Westjordanland"/><p>Björn Dake, ARD Tel Aviv, zu den Siedlungsplänen im Westjordanland</p>]]></content>
     </entry>
     <entry>
-      <title>Lena Partzsch, Universität Berlin, über Hitzeschutz in der Klimakrise</title>
-      <id>https://www.tagesschau.de/video/video-1634388.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634388.html"/>
-      <updated>2026-08-20T10:30:50Z</updated>
-      <published>2026-08-20T10:30:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0d6dd949-df9a-4298-9423-1e047ad30755/AAABoB5LR60/AAABnSSvsdE/16x9-small/sendungsbild-1783170.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0d6dd949-df9a-4298-9423-1e047ad30755/AAABoB5LR60/AAABnSSvsdE/16x9-small/sendungsbild-1783170.jpg?width=320" alt="Lena Partzsch, Universität Berlin, über Hitzeschutz in der Klimakrise"/><p>Lena Partzsch, Universität Berlin, über Hitzeschutz in der Klimakrise</p>]]></content>
+      <title>Linda Heitmann, Fraktion Bündnis90/Die Grünen, zur Diskussion über das Konsumcannabisgesetz</title>
+      <id>https://www.tagesschau.de/video/video-1635120.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635120.html"/>
+      <updated>2026-08-21T14:42:15Z</updated>
+      <published>2026-08-21T14:42:15Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/073abb6c-d5d5-4736-a34f-be802c5c8337/AAABoCRX14Y/AAABnSSvsdE/16x9-small/sendungsbild-1783764.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/073abb6c-d5d5-4736-a34f-be802c5c8337/AAABoCRX14Y/AAABnSSvsdE/16x9-small/sendungsbild-1783764.jpg?width=320" alt="Linda Heitmann, Fraktion Bündnis90/Die Grünen, zur Diskussion über das Konsumcannabisgesetz"/><p>Linda Heitmann, Fraktion Bündnis90/Die Grünen, zur Diskussion über das Konsumcannabisgesetz</p>]]></content>
     </entry>
     <entry>
-      <title>BSW vor der Zerreißprobe: Machtkampf um AfD-Kurs und Landtagswahlen</title>
-      <id>https://www.tagesschau.de/video/video-1634386.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634386.html"/>
-      <updated>2026-08-20T10:16:18Z</updated>
-      <published>2026-08-20T10:16:18Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4c5dbf69-ec2a-46f4-bc9a-cab3ea080379/AAABoB4-AIw/AAABnSSvsdE/16x9-small/sendungsbild-1783166.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4c5dbf69-ec2a-46f4-bc9a-cab3ea080379/AAABoB4-AIw/AAABnSSvsdE/16x9-small/sendungsbild-1783166.jpg?width=320" alt="BSW vor der Zerreißprobe: Machtkampf um AfD-Kurs und Landtagswahlen"/><p>BSW vor der Zerreißprobe: Machtkampf um AfD-Kurs und Landtagswahlen</p>]]></content>
+      <title>Kinderstadt in Langenargen - Kinder regieren ihre eigene Stadt am Bodensee</title>
+      <id>https://www.tagesschau.de/video/video-1634988.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634988.html"/>
+      <updated>2026-08-21T10:59:13Z</updated>
+      <published>2026-08-21T10:59:13Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/50e45eed-8c77-4253-92ef-98d9096765d2/AAABoCOLqoM/AAABnSSvsdE/16x9-small/sendungsbild-1783646.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/50e45eed-8c77-4253-92ef-98d9096765d2/AAABoCOLqoM/AAABnSSvsdE/16x9-small/sendungsbild-1783646.jpg?width=320" alt="Kinderstadt in Langenargen - Kinder regieren ihre eigene Stadt am Bodensee"/><p>Kinderstadt in Langenargen - Kinder regieren ihre eigene Stadt am Bodensee</p>]]></content>
     </entry>
     <entry>
-      <title>Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können</title>
-      <id>https://www.tagesschau.de/video/video-1633994.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1633994.html"/>
-      <updated>2026-08-19T16:40:20Z</updated>
-      <published>2026-08-19T16:40:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ff93a724-1eae-432c-a195-77feaa6ea77e/AAABoBp3PGo/AAABnSSvsdE/16x9-small/sendungsbild-1782850.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ff93a724-1eae-432c-a195-77feaa6ea77e/AAABoBp3PGo/AAABnSSvsdE/16x9-small/sendungsbild-1782850.jpg?width=320" alt="Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können"/><p>Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können</p>]]></content>
+      <title>Streit über Rentenreform verschärft sich vor Landtagswahlen</title>
+      <id>https://www.tagesschau.de/video/video-1634974.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634974.html"/>
+      <updated>2026-08-21T10:45:47Z</updated>
+      <published>2026-08-21T10:45:47Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/999b8d48-a770-4ede-a56c-e5e4034217de/AAABoCN_XdI/AAABnSSvsdE/16x9-small/sendungsbild-1783638.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/999b8d48-a770-4ede-a56c-e5e4034217de/AAABoCN_XdI/AAABnSSvsdE/16x9-small/sendungsbild-1783638.jpg?width=320" alt="Streit über Rentenreform verschärft sich vor Landtagswahlen"/><p>Streit über Rentenreform verschärft sich vor Landtagswahlen</p>]]></content>
     </entry>
 </feed>
