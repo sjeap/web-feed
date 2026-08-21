@@ -5,11 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-20T16:57:00Z</updated>
+  <updated>2026-08-21T00:15:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Harbor Active Small Cap ETF Q2 2026 Commentary</title>
+      <id>4938954</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938954-harbor-active-small-cap-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-21T00:15:00Z</updated>
+      <published>2026-08-21T00:15:00Z</published>
+    </entry>
+    <entry>
+      <title>XBI: Biotech&apos;s Breakthrough Moment Happend This Week (Upgrade)</title>
+      <id>4938868</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938868-xbi-biotechs-breakthrough-moment-happend-this-week-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-20T18:25:57Z</updated>
+      <published>2026-08-20T18:25:57Z</published>
+    </entry>
+    <entry>
+      <title>Hyperscaler AI Capex: What The Headlines Miss</title>
+      <id>4938863</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938863-hyperscaler-ai-capex-what-headlines-miss?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-20T18:06:00Z</updated>
+      <published>2026-08-20T18:06:00Z</published>
+    </entry>
+    <entry>
+      <title>Update On The MOO ETF</title>
+      <id>4938858</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938858-update-on-the-moo-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-20T18:00:11Z</updated>
+      <published>2026-08-20T18:00:11Z</published>
+    </entry>
+    <entry>
+      <title>BBP: The Biotech ETF That Filters For FDA-Approved Drugs</title>
+      <id>4938856</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938856-bbp-the-biotech-etf-that-filters-for-fda-approved-drugs?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-20T17:54:15Z</updated>
+      <published>2026-08-20T17:54:15Z</published>
+    </entry>
     <entry>
       <title>Short-Dated Options Draw Investors As Event Volatility Surges</title>
       <id>4938836</id>
@@ -128,41 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4938641-eww-weak-valuation-to-growth-trade-off-but-useful-material-sector-exposure-hold?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-20T10:33:16Z</updated>
       <published>2026-08-20T10:33:16Z</published>
-    </entry>
-    <entry>
-      <title>DTH: Sensible International Dividend Exposure, But Cheaper Alternatives Outperform</title>
-      <id>4938464</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938464-dth-sensible-international-dividend-exposure-but-cheaper-alternatives-outperform?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T10:00:00Z</updated>
-      <published>2026-08-20T10:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Abrdn Emerging Markets Dividend Active ETF Q2 2026 Commentary</title>
-      <id>4938578</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938578-abrdn-emerging-markets-dividend-active-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T06:40:00Z</updated>
-      <published>2026-08-20T06:40:00Z</published>
-    </entry>
-    <entry>
-      <title>Diamond Hill Large Cap Concentrated ETF Q2 2026 Commentary</title>
-      <id>4938571</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938571-diamond-hill-large-cap-concentrated-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T06:25:00Z</updated>
-      <published>2026-08-20T06:25:00Z</published>
-    </entry>
-    <entry>
-      <title>Investing In The Building Blocks Of The Humanoid Revolution - Part 2 (The Brain)</title>
-      <id>4938566</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938566-investing-in-building-blocks-of-humanoid-revolution-part-2-brain?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T06:20:00Z</updated>
-      <published>2026-08-20T06:20:00Z</published>
-    </entry>
-    <entry>
-      <title>King Of The World</title>
-      <id>4938559</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938559-king-of-world?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T05:50:00Z</updated>
-      <published>2026-08-20T05:50:00Z</published>
     </entry>
     <entry>
       <title>BICO Group AB (publ) (BCCOY) Q2 2026 Earnings Call Transcript</title>
