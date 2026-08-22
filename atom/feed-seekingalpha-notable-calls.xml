@@ -5,11 +5,74 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-22T04:10:00Z</updated>
+  <updated>2026-08-22T15:03:40Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Insider trades: AMD, Micron and Coca-Cola among notable names</title>
+      <id>https://seekingalpha.com/MarketCurrent:4636007</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-08-22T15:03:40Z</updated>
+      <published>2026-08-22T15:03:40Z</published>
+    </entry>
+    <entry>
+      <title>BCV: Deep Discount And Another Payout Lift</title>
+      <id>4939365</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939365-bcv-deep-discount-another-payout-lift?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T15:01:45Z</updated>
+      <published>2026-08-22T15:01:45Z</published>
+    </entry>
+    <entry>
+      <title>HYDB: Systematic High-Yield Bond ETF, Solid Strategy, Track Record, Dividend Yield</title>
+      <id>4939362</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939362-hydb-systematic-high-yield-bond-etf-solid-strategy-track-record-dividend-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T14:08:44Z</updated>
+      <published>2026-08-22T14:08:44Z</published>
+    </entry>
+    <entry>
+      <title>AST SpaceMobile: Tactically Use ASTX To Amplify Returns As Management Executes</title>
+      <id>4939330</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939330-ast-spacemobile-tactically-use-astx-to-amplify-returns-as-management-executes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T13:10:00Z</updated>
+      <published>2026-08-22T13:10:00Z</published>
+    </entry>
+    <entry>
+      <title>VSS: Low-Cost International Small-Cap ETF Lags Factor-Focused Peers</title>
+      <id>4939349</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939349-vss-low-cost-international-small-cap-etf-lags-factor-focused-peers?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T12:22:03Z</updated>
+      <published>2026-08-22T12:22:03Z</published>
+    </entry>
+    <entry>
+      <title>FFA: Beware Of The AI Risk With This High-Yielding Covered Call Fund</title>
+      <id>4939348</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939348-ffa-beware-of-ai-risk-with-high-yielding-covered-call-fund?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T12:18:12Z</updated>
+      <published>2026-08-22T12:18:12Z</published>
+    </entry>
+    <entry>
+      <title>GPIX: 8.5% Income Without Giving Up Too Much S&amp;P 500 Upside</title>
+      <id>4939343</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939343-gpix-8-5-percent-income-without-giving-up-too-much-s-and-p-500-upside?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T11:53:50Z</updated>
+      <published>2026-08-22T11:53:50Z</published>
+    </entry>
+    <entry>
+      <title>RNIN: Outperforming SMID Play With A GARP Tilt Worth Shortlisting</title>
+      <id>4939318</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939318-rnin-outperforming-smid-play-with-a-garp-tilt-worth-shortlisting?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T09:23:31Z</updated>
+      <published>2026-08-22T09:23:31Z</published>
+    </entry>
+    <entry>
+      <title>The Investor Mentality</title>
+      <id>4939304</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939304-investor-mentality?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T06:45:00Z</updated>
+      <published>2026-08-22T06:45:00Z</published>
+    </entry>
     <entry>
       <title>The Market Is Trying To Tell Us Something About 2027</title>
       <id>4939285</id>
@@ -95,67 +158,11 @@
       <published>2026-08-21T15:15:57Z</published>
     </entry>
     <entry>
-      <title>Nicholas Crypto Income ETF: Decoding A 36% Yield</title>
-      <id>4939137</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939137-nicholas-crypto-income-etf-decoding-a-36-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T14:56:27Z</updated>
-      <published>2026-08-21T14:56:27Z</published>
-    </entry>
-    <entry>
-      <title>Bitcoin Explodes Higher, Revisiting IBIT And BTC As The Debasement Trade Returns</title>
-      <id>4939120</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939120-bitcoin-explodes-higher-revisiting-ibit-and-btc-as-the-debasement-trade-returns?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T14:15:00Z</updated>
-      <published>2026-08-21T14:15:00Z</published>
-    </entry>
-    <entry>
-      <title>DSU: NAV Destruction And Poor Outlook For Debt Securities Is Troubling</title>
-      <id>4939103</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939103-dsu-nav-destruction-poor-outlook-for-debt-securities-troubling?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T13:21:41Z</updated>
-      <published>2026-08-21T13:21:41Z</published>
-    </entry>
-    <entry>
-      <title>Japan plans to invest another $1B in Rapidus to reduce dependence on TSMC: report</title>
-      <id>https://seekingalpha.com/MarketCurrent:4635837</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-08-21T13:21:26Z</updated>
-      <published>2026-08-21T13:21:26Z</published>
-    </entry>
-    <entry>
-      <title>VTES Vs. VSDM: Short-Term Municipal Bond ETFs Get Hold Ratings</title>
-      <id>4938726</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938726-vtes-vs-vsdm-short-term-municipal-bond-etfs-get-hold-ratings?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T12:41:00Z</updated>
-      <published>2026-08-21T12:41:00Z</published>
-    </entry>
-    <entry>
-      <title>IDNA: 3 Catalysts To Watch Closely</title>
-      <id>4938948</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938948-idna-3-catalysts-to-watch-closely?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T11:30:00Z</updated>
-      <published>2026-08-21T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>HAKY: A 16% Yielding, Tax-Efficient ETF Income Play For Cybersecurity Bulls</title>
-      <id>4937521</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937521-haky-a-16-percent-yielding-tax-efficient-etf-income-play-for-cybersecurity-bulls?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T11:30:00Z</updated>
-      <published>2026-08-21T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>EOS: Looking To Explain Weaker Results, Still A &apos;Buy&apos;</title>
-      <id>4938989</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938989-eos-looking-to-explain-weaker-results-still-a-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T11:00:00Z</updated>
-      <published>2026-08-21T11:00:00Z</published>
-    </entry>
-    <entry>
-      <title>HYDB: A Disciplined High-Yield Bond ETF That Leads On Returns</title>
-      <id>4938985</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938985-hydb-a-disciplined-high-yield-bond-etf-that-leads-on-returns?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T10:00:00Z</updated>
-      <published>2026-08-21T10:00:00Z</published>
+      <title>ASML: The Price Is Fair For Such A Crucial Company</title>
+      <id>https://seekingalpha.com/Article:4938711</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938711-asml-the-price-is-fair-for-such-a-crucial-company?source=feed_symbol_ASML"/>
+      <updated>2026-08-20T13:28:48Z</updated>
+      <published>2026-08-20T13:28:48Z</published>
     </entry>
     <entry>
       <title>BICO Group AB (publ) (BCCOY) Q2 2026 Earnings Call Transcript</title>
@@ -165,24 +172,17 @@
       <published>2026-08-19T19:01:54Z</published>
     </entry>
     <entry>
+      <title>Mutares SE &amp; Co. KGaA 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4938317</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938317-mutares-se-and-co-kgaa-2026-q2-results-earnings-call-presentation?source=feed_symbol_MUTRF"/>
+      <updated>2026-08-19T14:30:48Z</updated>
+      <published>2026-08-19T14:30:48Z</published>
+    </entry>
+    <entry>
       <title>BICO Group AB (publ) 2026 Q2 - Results - Earnings Call Presentation</title>
       <id>https://seekingalpha.com/Article:4938146</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4938146-bico-group-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_symbol_CLLKF"/>
       <updated>2026-08-19T08:32:47Z</updated>
       <published>2026-08-19T08:32:47Z</published>
-    </entry>
-    <entry>
-      <title>BICO Group AB GAAP EPS of -SEK 0.53, revenue of SEK 336.1M</title>
-      <id>https://seekingalpha.com/MarketCurrent:4634703</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/CLLKF/news?source=feed_symbol_CLLKF"/>
-      <updated>2026-08-19T07:34:22Z</updated>
-      <published>2026-08-19T07:34:22Z</published>
-    </entry>
-    <entry>
-      <title>Sea: The Growth Model Remains Intact</title>
-      <id>https://seekingalpha.com/Article:4937592</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937592-sea-the-growth-model-remains-intact?source=feed_symbol_SE"/>
-      <updated>2026-08-18T08:26:43Z</updated>
-      <published>2026-08-18T08:26:43Z</published>
     </entry>
 </feed>
