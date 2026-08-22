@@ -5,11 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-21T16:55:31Z</updated>
+  <updated>2026-08-22T04:10:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>The Market Is Trying To Tell Us Something About 2027</title>
+      <id>4939285</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939285-market-is-trying-to-tell-us-something-about-2027?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-22T04:10:00Z</updated>
+      <published>2026-08-22T04:10:00Z</published>
+    </entry>
+    <entry>
+      <title>FTGC: Strong Commodity Fund, Weak Entry Point</title>
+      <id>4939260</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939260-ftgc-strong-commodity-fund-weak-entry-point?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-21T23:57:26Z</updated>
+      <published>2026-08-21T23:57:26Z</published>
+    </entry>
+    <entry>
+      <title>ASA Gold &amp; Precious Metals: A 15% Discount Is Tempting</title>
+      <id>4939252</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939252-asa-gold-and-precious-metals-a-15-percent-discount-is-tempting?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-21T22:34:43Z</updated>
+      <published>2026-08-21T22:34:43Z</published>
+    </entry>
+    <entry>
+      <title>JTEK: Large Drawdown Risk Exists For This Actively Managed U.S. Tech Leaders ETF</title>
+      <id>4939224</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939224-jtek-large-drawdown-risk-exists-for-this-actively-managed-us-tech-leaders-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-21T20:10:29Z</updated>
+      <published>2026-08-21T20:10:29Z</published>
+    </entry>
+    <entry>
+      <title>Brad Simpson On Navigating A More Uncertain World</title>
+      <id>4939223</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939223-brad-simpson-on-navigating-more-uncertain-world?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-21T19:05:00Z</updated>
+      <published>2026-08-21T19:05:00Z</published>
+    </entry>
+    <entry>
+      <title>TCW Transform Systems ETF Q2 2026 Commentary</title>
+      <id>4939205</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939205-tcw-transform-systems-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-21T18:26:00Z</updated>
+      <published>2026-08-21T18:26:00Z</published>
+    </entry>
     <entry>
       <title>Value Investing: IWX&apos;s Top 200 Strategy Offers Strong Returns In Short To Long Term</title>
       <id>4939185</id>
@@ -116,62 +158,6 @@
       <published>2026-08-21T10:00:00Z</published>
     </entry>
     <entry>
-      <title>Global X Commodity Strategy ETF Q2 2026 Commentary</title>
-      <id>4939029</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939029-global-x-commodity-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T07:10:00Z</updated>
-      <published>2026-08-21T07:10:00Z</published>
-    </entry>
-    <entry>
-      <title>Market Signals: Why Real Assets, Why Multi-Fund</title>
-      <id>4939015</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939015-market-signals-why-real-assets-why-multi-fund?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T06:25:00Z</updated>
-      <published>2026-08-21T06:25:00Z</published>
-    </entry>
-    <entry>
-      <title>BUZZ Investing: Markets Look Through Intra-Period Volatility</title>
-      <id>4939011</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939011-buzz-investing-markets-look-through-intra-period-volatility?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T06:10:00Z</updated>
-      <published>2026-08-21T06:10:00Z</published>
-    </entry>
-    <entry>
-      <title>Harbor Active Small Cap ETF Q2 2026 Commentary</title>
-      <id>4938954</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938954-harbor-active-small-cap-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T00:15:00Z</updated>
-      <published>2026-08-21T00:15:00Z</published>
-    </entry>
-    <entry>
-      <title>XBI: Biotech&apos;s Breakthrough Moment Happened This Week (Upgrade)</title>
-      <id>4938868</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938868-xbi-biotechs-breakthrough-moment-happend-this-week-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T18:25:57Z</updated>
-      <published>2026-08-20T18:25:57Z</published>
-    </entry>
-    <entry>
-      <title>Hyperscaler AI Capex: What The Headlines Miss</title>
-      <id>4938863</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938863-hyperscaler-ai-capex-what-headlines-miss?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-20T18:06:00Z</updated>
-      <published>2026-08-20T18:06:00Z</published>
-    </entry>
-    <entry>
-      <title>ASML: The Price Is Fair For Such A Crucial Company</title>
-      <id>https://seekingalpha.com/Article:4938711</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938711-asml-the-price-is-fair-for-such-a-crucial-company?source=feed_symbol_ASML"/>
-      <updated>2026-08-20T13:28:48Z</updated>
-      <published>2026-08-20T13:28:48Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI Just Had Their Entire Strategy Validated By Moderna&apos;s Vaccine Advance</title>
-      <id>https://seekingalpha.com/Article:4938625</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938625-tempus-ai-just-had-their-entire-strategy-validated-by-moderna-s-vaccine-advance?source=feed_symbol_TEM"/>
-      <updated>2026-08-20T12:00:00Z</updated>
-      <published>2026-08-20T12:00:00Z</published>
-    </entry>
-    <entry>
       <title>BICO Group AB (publ) (BCCOY) Q2 2026 Earnings Call Transcript</title>
       <id>https://seekingalpha.com/Article:4938430</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4938430-bico-group-ab-publ-bccoy-q2-2026-earnings-call-transcript?source=feed_symbol_CLLKF"/>
@@ -179,10 +165,24 @@
       <published>2026-08-19T19:01:54Z</published>
     </entry>
     <entry>
-      <title>Mutares SE &amp; Co. KGaA 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4938317</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938317-mutares-se-and-co-kgaa-2026-q2-results-earnings-call-presentation?source=feed_symbol_MUTRF"/>
-      <updated>2026-08-19T14:30:48Z</updated>
-      <published>2026-08-19T14:30:48Z</published>
+      <title>BICO Group AB (publ) 2026 Q2 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4938146</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938146-bico-group-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_symbol_CLLKF"/>
+      <updated>2026-08-19T08:32:47Z</updated>
+      <published>2026-08-19T08:32:47Z</published>
+    </entry>
+    <entry>
+      <title>BICO Group AB GAAP EPS of -SEK 0.53, revenue of SEK 336.1M</title>
+      <id>https://seekingalpha.com/MarketCurrent:4634703</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/CLLKF/news?source=feed_symbol_CLLKF"/>
+      <updated>2026-08-19T07:34:22Z</updated>
+      <published>2026-08-19T07:34:22Z</published>
+    </entry>
+    <entry>
+      <title>Sea: The Growth Model Remains Intact</title>
+      <id>https://seekingalpha.com/Article:4937592</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4937592-sea-the-growth-model-remains-intact?source=feed_symbol_SE"/>
+      <updated>2026-08-18T08:26:43Z</updated>
+      <published>2026-08-18T08:26:43Z</published>
     </entry>
 </feed>
