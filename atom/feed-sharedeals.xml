@@ -5,18 +5,11 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-21T08:23:10Z</updated>
+  <updated>2026-08-21T04:18:42Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
-    <entry>
-      <title>XRP +37%: Jetzt entscheidet sich die Rally</title>
-      <id>https://www.sharedeals.de/xrp-37-jetzt-entscheidet-sich-die-rally/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/xrp-37-jetzt-entscheidet-sich-die-rally/"/>
-      <updated>2026-08-21T08:23:10Z</updated>
-      <published>2026-08-21T08:23:10Z</published>
-    </entry>
     <entry>
       <title>Almonty-Aktie im Höhenflug: Wie weit geht die Rallye?</title>
       <id>https://www.sharedeals.de/almonty-aktie-im-hoehenflug-wie-weit-geht-die-rallye/</id>
@@ -55,6 +48,13 @@
       <published>2026-08-19T14:04:11Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/09/wall_street_success_party-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/09/wall_street_success_party-540x350.jpg" alt="Moderna-Aktie knallt +400% nach sharedeals.de-Empfehlung"/><p>Moderna-Aktie knallt +400% nach sharedeals.de-Empfehlung</p>]]></content>
+    </entry>
+    <entry>
+      <title>DroneShield-Aktie: Australiens größte Wette auf den Absturz!</title>
+      <id>https://www.sharedeals.de/droneshield-aktie-australiens-groesste-wette-auf-den-absturz/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/droneshield-aktie-australiens-groesste-wette-auf-den-absturz/"/>
+      <updated>2026-08-19T08:17:49Z</updated>
+      <published>2026-08-19T08:17:49Z</published>
     </entry>
     <entry>
       <title>Evotec-Aktie: Finales Tief vor der großen Wende?</title>
