@@ -5,11 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-21T21:58:08Z</updated>
+  <updated>2026-08-22T13:37:36Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt</title>
+      <id>https://www.tagesschau.de/video/video-1635534.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635534.html"/>
+      <updated>2026-08-22T13:32:13Z</updated>
+      <published>2026-08-22T13:32:13Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8c0632a7-a8ae-49fa-beb5-342296b3638c/AAABoCk-Fww/AAABnSSvsdE/16x9-small/sendungsbild-1784188.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8c0632a7-a8ae-49fa-beb5-342296b3638c/AAABoCk-Fww/AAABnSSvsdE/16x9-small/sendungsbild-1784188.jpg?width=320" alt="Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt"/><p>Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern</title>
+      <id>https://www.tagesschau.de/video/video-1635542.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635542.html"/>
+      <updated>2026-08-22T13:37:36Z</updated>
+      <published>2026-08-22T13:37:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6f27e96a-0015-4310-a576-5c17899c0123/AAABoClDAwE/AAABnSSvsdE/16x9-small/sendungsbild-1784190.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6f27e96a-0015-4310-a576-5c17899c0123/AAABoClDAwE/AAABnSSvsdE/16x9-small/sendungsbild-1784190.jpg?width=320" alt="Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern"/><p>Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern</p>]]></content>
+    </entry>
+    <entry>
+      <title>Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen</title>
+      <id>https://www.tagesschau.de/video/video-1635504.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635504.html"/>
+      <updated>2026-08-22T10:36:33Z</updated>
+      <published>2026-08-22T10:36:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ea5c22d1-5652-4630-ae0f-486edacfe6e8/AAABoCic10U/AAABnSSvsdE/16x9-small/sendungsbild-1784114.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ea5c22d1-5652-4630-ae0f-486edacfe6e8/AAABoCic10U/AAABnSSvsdE/16x9-small/sendungsbild-1784114.jpg?width=320" alt="Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen"/><p>Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Spionageverdacht setzt Russisches Haus in Berlin unter Druck</title>
+      <id>https://www.tagesschau.de/video/video-1635500.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635500.html"/>
+      <updated>2026-08-22T10:30:44Z</updated>
+      <published>2026-08-22T10:30:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0d5d5cc4-9117-418d-b26e-c29ac2bfcb56/AAABoCiX8uQ/AAABnSSvsdE/16x9-small/sendungsbild-1784112.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0d5d5cc4-9117-418d-b26e-c29ac2bfcb56/AAABoCiX8uQ/AAABnSSvsdE/16x9-small/sendungsbild-1784112.jpg?width=320" alt="Spionageverdacht setzt Russisches Haus in Berlin unter Druck"/><p>Spionageverdacht setzt Russisches Haus in Berlin unter Druck</p>]]></content>
+    </entry>
     <entry>
       <title>Claudia Kornmeier, ARD Berlin, mit Informationen zum Fund des Waffenverstecks bei Berlin</title>
       <id>https://www.tagesschau.de/video/video-1635238.html</id>
@@ -27,41 +63,5 @@
       <published>2026-08-21T21:58:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ad151075-171c-4264-8e38-7e9433ba76a2/AAABoCTLRA0/AAABnSSvsdE/16x9-small/sendungsbild-1783836.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ad151075-171c-4264-8e38-7e9433ba76a2/AAABoCTLRA0/AAABnSSvsdE/16x9-small/sendungsbild-1783836.jpg?width=320" alt="Oliver Zielinski, Helmholtz-Zentrum hereon, zum Pilotprojekt der klimaneutralen Herstellung von Zement"/><p>Oliver Zielinski, Helmholtz-Zentrum hereon, zum Pilotprojekt der klimaneutralen Herstellung von Zement</p>]]></content>
-    </entry>
-    <entry>
-      <title>Björn Dake, ARD Tel Aviv, zu den Siedlungsplänen im Westjordanland</title>
-      <id>https://www.tagesschau.de/video/video-1635104.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635104.html"/>
-      <updated>2026-08-21T14:28:22Z</updated>
-      <published>2026-08-21T14:28:22Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ab31e024-86cf-407f-af86-af7c73746020/AAABoCRKUQE/AAABnSSvsdE/16x9-small/sendungsbild-1783756.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ab31e024-86cf-407f-af86-af7c73746020/AAABoCRKUQE/AAABnSSvsdE/16x9-small/sendungsbild-1783756.jpg?width=320" alt="Björn Dake, ARD Tel Aviv, zu den Siedlungsplänen im Westjordanland"/><p>Björn Dake, ARD Tel Aviv, zu den Siedlungsplänen im Westjordanland</p>]]></content>
-    </entry>
-    <entry>
-      <title>Linda Heitmann, Fraktion Bündnis90/Die Grünen, zur Diskussion über das Konsumcannabisgesetz</title>
-      <id>https://www.tagesschau.de/video/video-1635120.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635120.html"/>
-      <updated>2026-08-21T14:42:15Z</updated>
-      <published>2026-08-21T14:42:15Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/073abb6c-d5d5-4736-a34f-be802c5c8337/AAABoCRX14Y/AAABnSSvsdE/16x9-small/sendungsbild-1783764.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/073abb6c-d5d5-4736-a34f-be802c5c8337/AAABoCRX14Y/AAABnSSvsdE/16x9-small/sendungsbild-1783764.jpg?width=320" alt="Linda Heitmann, Fraktion Bündnis90/Die Grünen, zur Diskussion über das Konsumcannabisgesetz"/><p>Linda Heitmann, Fraktion Bündnis90/Die Grünen, zur Diskussion über das Konsumcannabisgesetz</p>]]></content>
-    </entry>
-    <entry>
-      <title>Kinderstadt in Langenargen - Kinder regieren ihre eigene Stadt am Bodensee</title>
-      <id>https://www.tagesschau.de/video/video-1634988.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634988.html"/>
-      <updated>2026-08-21T10:59:13Z</updated>
-      <published>2026-08-21T10:59:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/50e45eed-8c77-4253-92ef-98d9096765d2/AAABoCOLqoM/AAABnSSvsdE/16x9-small/sendungsbild-1783646.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/50e45eed-8c77-4253-92ef-98d9096765d2/AAABoCOLqoM/AAABnSSvsdE/16x9-small/sendungsbild-1783646.jpg?width=320" alt="Kinderstadt in Langenargen - Kinder regieren ihre eigene Stadt am Bodensee"/><p>Kinderstadt in Langenargen - Kinder regieren ihre eigene Stadt am Bodensee</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ebola-Virus breitet sich in der DR Kongo weiter aus</title>
-      <id>https://www.tagesschau.de/video/video-1634980.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1634980.html"/>
-      <updated>2026-08-21T11:07:33Z</updated>
-      <published>2026-08-21T11:07:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ccd49927-0b0a-44cc-810e-2b8bcc059567/AAABoCOTTKc/AAABnSSvsdE/16x9-small/sendungsbild-1783650.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ccd49927-0b0a-44cc-810e-2b8bcc059567/AAABoCOTTKc/AAABnSSvsdE/16x9-small/sendungsbild-1783650.jpg?width=320" alt="Ebola-Virus breitet sich in der DR Kongo weiter aus"/><p>Ebola-Virus breitet sich in der DR Kongo weiter aus</p>]]></content>
     </entry>
 </feed>
