@@ -5,24 +5,45 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-23T04:18:48Z</updated>
+  <updated>2026-08-23T14:27:28Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>NASA: Down 33%, But Trump&apos;s 1,000-Launch Goal Could Reprice It</title>
+      <id>4939431</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939431-nasa-down-33-percent-but-trumps-1000-launch-goal-could-reprice-it?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T14:27:28Z</updated>
+      <published>2026-08-23T14:27:28Z</published>
+    </entry>
+    <entry>
+      <title>GQI: Quality-Focused Buy-Write ETF, Still Unproven</title>
+      <id>4939428</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939428-gqi-quality-focused-buy-write-etf-still-unproven?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T13:23:02Z</updated>
+      <published>2026-08-23T13:23:02Z</published>
+    </entry>
+    <entry>
+      <title>XLG: No Shortage Of Mega-Cap Risk Catalysts, Nvidia Earnings And Jackson Hole On Tap</title>
+      <id>4939371</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939371-xlg-no-shortage-of-mega-cap-risk-catalysts-nvidia-earnings-and-jackson-hole-on-tap?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T12:30:00Z</updated>
+      <published>2026-08-23T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>EMO: Growing Distribution And Rising NAV Offers Strong Total Return Potential (Upgrade)</title>
+      <id>4939406</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939406-emo-growing-distribution-and-rising-nav-offers-strong-total-return-potential?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T12:00:05Z</updated>
+      <published>2026-08-23T12:00:05Z</published>
+    </entry>
     <entry>
       <title>CEF Weekly Review: XFLT Gets New Sub-Adviser Over The Line</title>
       <id>4939388</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4939388-cef-weekly-review-xflt-gets-new-sub-adviser-over-the-line?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-23T04:18:48Z</updated>
       <published>2026-08-23T04:18:48Z</published>
-    </entry>
-    <entry>
-      <title>XLF: Why Fund Managers Loaded Up On Financial Stocks In Q2</title>
-      <id>4939384</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939384-xlf-why-fund-managers-loaded-up-on-financial-stocks-in-q2?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-23T03:28:06Z</updated>
-      <published>2026-08-23T03:28:06Z</published>
     </entry>
     <entry>
       <title>JEPQ: If You Must Own A NASDAQ 100 Covered Call Fund, It Should Not Be This One</title>
@@ -142,27 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4939205-tcw-transform-systems-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-21T18:26:00Z</updated>
       <published>2026-08-21T18:26:00Z</published>
-    </entry>
-    <entry>
-      <title>Value Investing: IWX&apos;s Top 200 Strategy Offers Strong Returns In Short To Long Term</title>
-      <id>4939185</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939185-value-investing-iwxs-top-200-strategy-offers-strong-returns-in-short-to-long-term?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T16:55:31Z</updated>
-      <published>2026-08-21T16:55:31Z</published>
-    </entry>
-    <entry>
-      <title>Keeping Your Float Afloat: A Guide To Earning What You Deserve On Your Cash</title>
-      <id>4939183</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939183-keeping-your-float-afloat-a-guide-to-earning-what-you-deserve-on-your-cash?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T16:48:23Z</updated>
-      <published>2026-08-21T16:48:23Z</published>
-    </entry>
-    <entry>
-      <title>TDVI: A Near-Perfect Income Structure With A Portfolio To Nitpick</title>
-      <id>4939157</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939157-tdvi-a-near-perfect-income-structure-with-a-portfolio-to-nitpick?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T15:40:33Z</updated>
-      <published>2026-08-21T15:40:33Z</published>
     </entry>
     <entry>
       <title>ASML: The Price Is Fair For Such A Crucial Company</title>
