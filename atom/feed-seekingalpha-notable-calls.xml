@@ -5,11 +5,32 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-22T15:03:40Z</updated>
+  <updated>2026-08-23T04:18:48Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>CEF Weekly Review: XFLT Gets New Sub-Adviser Over The Line</title>
+      <id>4939388</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939388-cef-weekly-review-xflt-gets-new-sub-adviser-over-the-line?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T04:18:48Z</updated>
+      <published>2026-08-23T04:18:48Z</published>
+    </entry>
+    <entry>
+      <title>XLF: Why Fund Managers Loaded Up On Financial Stocks In Q2</title>
+      <id>4939384</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939384-xlf-why-fund-managers-loaded-up-on-financial-stocks-in-q2?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T03:28:06Z</updated>
+      <published>2026-08-23T03:28:06Z</published>
+    </entry>
+    <entry>
+      <title>JEPQ: If You Must Own A NASDAQ 100 Covered Call Fund, It Should Not Be This One</title>
+      <id>4939376</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939376-jepq-if-you-must-own-a-nasdaq-100-covered-call-fund-it-should-not-be-this-one?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-23T02:11:59Z</updated>
+      <published>2026-08-23T02:11:59Z</published>
+    </entry>
     <entry>
       <title>Insider trades: AMD, Micron and Coca-Cola among notable names</title>
       <id>https://seekingalpha.com/MarketCurrent:4636007</id>
@@ -30,6 +51,13 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4939362-hydb-systematic-high-yield-bond-etf-solid-strategy-track-record-dividend-yield?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-22T14:08:44Z</updated>
       <published>2026-08-22T14:08:44Z</published>
+    </entry>
+    <entry>
+      <title>Tempus AI: Winning With Precision Medicine</title>
+      <id>https://seekingalpha.com/Article:4939336</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939336-tempus-ai-winning-with-precision-medicine?source=feed_symbol_TEM"/>
+      <updated>2026-08-22T14:00:00Z</updated>
+      <published>2026-08-22T14:00:00Z</published>
     </entry>
     <entry>
       <title>AST SpaceMobile: Tactically Use ASTX To Amplify Returns As Management Executes</title>
@@ -137,27 +165,6 @@
       <published>2026-08-21T15:40:33Z</published>
     </entry>
     <entry>
-      <title>DHY: 10% Distribution Won&apos;t Save You From A Spread Blow-Up (Rating Downgrade)</title>
-      <id>4939155</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939155-dhy-10-percent-distribution-wont-save-you-from-a-spread-blow-up-rating-downgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T15:37:00Z</updated>
-      <published>2026-08-21T15:37:00Z</published>
-    </entry>
-    <entry>
-      <title>SCHD: We Were Horribly Wrong</title>
-      <id>4939150</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939150-schd-we-were-horribly-wrong?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T15:28:08Z</updated>
-      <published>2026-08-21T15:28:08Z</published>
-    </entry>
-    <entry>
-      <title>IFLO: International Growth + Free Cash Flow ETF For The Watchlist</title>
-      <id>4939145</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939145-iflo-international-growth-plus-free-cash-flow-etf-for-the-watchlist?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-21T15:15:57Z</updated>
-      <published>2026-08-21T15:15:57Z</published>
-    </entry>
-    <entry>
       <title>ASML: The Price Is Fair For Such A Crucial Company</title>
       <id>https://seekingalpha.com/Article:4938711</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4938711-asml-the-price-is-fair-for-such-a-crucial-company?source=feed_symbol_ASML"/>
@@ -165,24 +172,17 @@
       <published>2026-08-20T13:28:48Z</published>
     </entry>
     <entry>
+      <title>Tempus AI Just Had Their Entire Strategy Validated By Moderna&apos;s Vaccine Advance</title>
+      <id>https://seekingalpha.com/Article:4938625</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4938625-tempus-ai-just-had-their-entire-strategy-validated-by-moderna-s-vaccine-advance?source=feed_symbol_TEM"/>
+      <updated>2026-08-20T12:00:00Z</updated>
+      <published>2026-08-20T12:00:00Z</published>
+    </entry>
+    <entry>
       <title>BICO Group AB (publ) (BCCOY) Q2 2026 Earnings Call Transcript</title>
       <id>https://seekingalpha.com/Article:4938430</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4938430-bico-group-ab-publ-bccoy-q2-2026-earnings-call-transcript?source=feed_symbol_CLLKF"/>
       <updated>2026-08-19T19:01:54Z</updated>
       <published>2026-08-19T19:01:54Z</published>
-    </entry>
-    <entry>
-      <title>Mutares SE &amp; Co. KGaA 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4938317</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938317-mutares-se-and-co-kgaa-2026-q2-results-earnings-call-presentation?source=feed_symbol_MUTRF"/>
-      <updated>2026-08-19T14:30:48Z</updated>
-      <published>2026-08-19T14:30:48Z</published>
-    </entry>
-    <entry>
-      <title>BICO Group AB (publ) 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4938146</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938146-bico-group-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_symbol_CLLKF"/>
-      <updated>2026-08-19T08:32:47Z</updated>
-      <published>2026-08-19T08:32:47Z</published>
     </entry>
 </feed>
