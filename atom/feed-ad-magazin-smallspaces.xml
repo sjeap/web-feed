@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-08-20T10:38:21Z</updated>
+  <updated>2026-08-24T09:38:11Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein</title>
+      <id>https://www.ad-magazin.de/artikel/einzimmerwohnung-im-boheme-stil-manhattan-anita-calero</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/einzimmerwohnung-im-boheme-stil-manhattan-anita-calero"/>
+      <updated>2026-08-24T09:38:11Z</updated>
+      <published>2026-08-24T09:38:11Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg" alt="33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein"/><p>33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein</p>]]></content>
+    </entry>
     <entry>
       <title>Kleine Wohnung am Comer See: So wurden diese 55 Quadratmeter zum ruhigen Kokon mit viel italienischem Flair</title>
       <id>https://www.ad-magazin.de/artikel/kleine-wohnung-am-comer-see-55-quadratmeter-mit-viel-italienischem-flair</id>
@@ -180,14 +189,5 @@
       <published>2026-05-21T15:06:38Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/69b13ae31b8a6f06b7779f59/1:1/w_354%2Cc_limit/TOURNON_BAPTISTE_LIVRAISON.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/69b13ae31b8a6f06b7779f59/1:1/w_354%2Cc_limit/TOURNON_BAPTISTE_LIVRAISON.jpg" alt="Bettnischen als Raumwunder: Diese 5 Wohnungen zeigen, wie viel Gemütlichkeit in wenig Platz steckt"/><p>Bettnischen als Raumwunder: Diese 5 Wohnungen zeigen, wie viel Gemütlichkeit in wenig Platz steckt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Cottage-Style mitten in Paris: So viel Landhaus-Idylle passt in eine 52-Quadratmeter-Wohnung!</title>
-      <id>https://www.ad-magazin.de/artikel/cottage-style-mitten-in-paris-52-quadratmeter-wohnung</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/cottage-style-mitten-in-paris-52-quadratmeter-wohnung"/>
-      <updated>2026-05-19T14:23:37Z</updated>
-      <published>2026-05-19T14:23:37Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a0acd3e451761cbd213d5c4/1:1/w_354%2Cc_limit/MAZARINE_HD_%252018.jpeg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a0acd3e451761cbd213d5c4/1:1/w_354%2Cc_limit/MAZARINE_HD_%252018.jpeg" alt="Cottage-Style mitten in Paris: So viel Landhaus-Idylle passt in eine 52-Quadratmeter-Wohnung!"/><p>Cottage-Style mitten in Paris: So viel Landhaus-Idylle passt in eine 52-Quadratmeter-Wohnung!</p>]]></content>
     </entry>
 </feed>
