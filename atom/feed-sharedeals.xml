@@ -5,31 +5,31 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-23T05:15:50Z</updated>
+  <updated>2026-08-24T07:45:12Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Almonty mit +77% – neues Rekordhoch möglich?</title>
+      <id>https://www.sharedeals.de/almonty-mit-77-neues-rekordhoch-moeglich/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/almonty-mit-77-neues-rekordhoch-moeglich/"/>
+      <updated>2026-08-24T07:45:12Z</updated>
+      <published>2026-08-24T07:45:12Z</published>
+    </entry>
+    <entry>
+      <title>Rheinmetall-Aktie: Bodenbildung oder nächster Abverkauf?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-bodenbildung-oder-naechster-abverkauf/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-bodenbildung-oder-naechster-abverkauf/"/>
+      <updated>2026-08-24T04:05:23Z</updated>
+      <published>2026-08-24T04:05:23Z</published>
+    </entry>
     <entry>
       <title>SpaceX-Aktie: Woher kommt dieser Verkaufsdruck?</title>
       <id>https://www.sharedeals.de/spacex-aktie-woher-kommt-dieser-verkaufsdruck/</id>
       <link rel="alternate" href="https://www.sharedeals.de/spacex-aktie-woher-kommt-dieser-verkaufsdruck/"/>
       <updated>2026-08-23T05:15:50Z</updated>
       <published>2026-08-23T05:15:50Z</published>
-    </entry>
-    <entry>
-      <title>XRP: Jetzt bereit für den Sprung auf 3,30 US$?</title>
-      <id>https://www.sharedeals.de/xrp-jetzt-bereit-fuer-den-sprung-auf-330-us/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/xrp-jetzt-bereit-fuer-den-sprung-auf-330-us/"/>
-      <updated>2026-08-22T12:49:37Z</updated>
-      <published>2026-08-22T12:49:37Z</published>
-    </entry>
-    <entry>
-      <title>SAP-Aktie: Auf dem Weg zu alten Höchstständen?</title>
-      <id>https://www.sharedeals.de/sap-aktie-auf-dem-weg-zu-alten-hoechststaenden/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/sap-aktie-auf-dem-weg-zu-alten-hoechststaenden/"/>
-      <updated>2026-08-21T13:23:33Z</updated>
-      <published>2026-08-21T13:23:33Z</published>
     </entry>
     <entry>
       <title>XRP +37%: Jetzt entscheidet sich die Rally</title>
