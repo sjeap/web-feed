@@ -5,11 +5,56 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-23T17:55:46Z</updated>
+  <updated>2026-08-24T16:34:49Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze</title>
+      <id>https://www.tagesschau.de/video/video-1636472.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636472.html"/>
+      <updated>2026-08-24T16:34:49Z</updated>
+      <published>2026-08-24T16:34:49Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c19bf5ac-b1c4-46a0-bb15-4963c95e0b37/AAABoDQxx3M/AAABnSSvsdE/16x9-small/sendungsbild-1785036.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c19bf5ac-b1c4-46a0-bb15-4963c95e0b37/AAABoDQxx3M/AAABnSSvsdE/16x9-small/sendungsbild-1785036.jpg?width=320" alt="Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze"/><p>Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze</p>]]></content>
+    </entry>
+    <entry>
+      <title>Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren</title>
+      <id>https://www.tagesschau.de/video/video-1636420.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636420.html"/>
+      <updated>2026-08-24T14:54:43Z</updated>
+      <published>2026-08-24T14:54:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fc45d2bb-edad-4bed-8f74-f714dc6ee19b/AAABoDPWS7A/AAABnSSvsdE/16x9-small/sendungsbild-1784974.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fc45d2bb-edad-4bed-8f74-f714dc6ee19b/AAABoDPWS7A/AAABnSSvsdE/16x9-small/sendungsbild-1784974.jpg?width=320" alt="Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren"/><p>Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren</p>]]></content>
+    </entry>
+    <entry>
+      <title>CDU-Spitze trifft sich nach Ende der politischen Sommerpause</title>
+      <id>https://www.tagesschau.de/video/video-1636336.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636336.html"/>
+      <updated>2026-08-24T12:00:27Z</updated>
+      <published>2026-08-24T12:00:27Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/287d91e7-7314-4ff5-b3b6-746ce9f3ce4f/AAABoDM2yIQ/AAABnSSvsdE/16x9-small/sendungsbild-1784890.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/287d91e7-7314-4ff5-b3b6-746ce9f3ce4f/AAABoDM2yIQ/AAABnSSvsdE/16x9-small/sendungsbild-1784890.jpg?width=320" alt="CDU-Spitze trifft sich nach Ende der politischen Sommerpause"/><p>CDU-Spitze trifft sich nach Ende der politischen Sommerpause</p>]]></content>
+    </entry>
+    <entry>
+      <title>Isländer debattieren über EU-Beitritt</title>
+      <id>https://www.tagesschau.de/video/video-1636310.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636310.html"/>
+      <updated>2026-08-24T11:14:41Z</updated>
+      <published>2026-08-24T11:14:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c2451939-364c-4671-b327-ec08b9375e02/AAABoDMM4Cg/AAABnSSvsdE/16x9-small/sendungsbild-1784864.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c2451939-364c-4671-b327-ec08b9375e02/AAABoDMM4Cg/AAABnSSvsdE/16x9-small/sendungsbild-1784864.jpg?width=320" alt="Isländer debattieren über EU-Beitritt"/><p>Isländer debattieren über EU-Beitritt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Loslösung von Sowjetunion: Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit</title>
+      <id>https://www.tagesschau.de/video/video-1636278.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636278.html"/>
+      <updated>2026-08-24T10:39:35Z</updated>
+      <published>2026-08-24T10:39:35Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c52ed5df-c2aa-4846-ad25-7c12d5664b4a/AAABoDLrwbk/AAABnSSvsdE/16x9-small/sendungsbild-1784846.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c52ed5df-c2aa-4846-ad25-7c12d5664b4a/AAABoDLrwbk/AAABnSSvsdE/16x9-small/sendungsbild-1784846.jpg?width=320" alt="Loslösung von Sowjetunion: Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit"/><p>Loslösung von Sowjetunion: Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit</p>]]></content>
+    </entry>
     <entry>
       <title>Waldbrand im Hohen Venn hinterlässt bleibende Schäden</title>
       <id>https://www.tagesschau.de/video/video-1635922.html</id>
@@ -18,50 +63,5 @@
       <published>2026-08-23T17:46:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ca18c311-b52a-4469-9270-3a199a10740a/AAABoC9M5LY/AAABnSSvsdE/16x9-small/sendungsbild-1784598.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ca18c311-b52a-4469-9270-3a199a10740a/AAABoC9M5LY/AAABnSSvsdE/16x9-small/sendungsbild-1784598.jpg?width=320" alt="Waldbrand im Hohen Venn hinterlässt bleibende Schäden"/><p>Waldbrand im Hohen Venn hinterlässt bleibende Schäden</p>]]></content>
-    </entry>
-    <entry>
-      <title>Finanzieller Schaden für Waldbesitzer durch Waldbrände in Deutschland</title>
-      <id>https://www.tagesschau.de/video/video-1635924.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635924.html"/>
-      <updated>2026-08-23T17:55:46Z</updated>
-      <published>2026-08-23T17:55:46Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/26c4ad5d-d5f3-44c8-9701-4349d1a7ed99/AAABoC9Vtq0/AAABnSSvsdE/16x9-small/sendungsbild-1784600.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/26c4ad5d-d5f3-44c8-9701-4349d1a7ed99/AAABoC9Vtq0/AAABnSSvsdE/16x9-small/sendungsbild-1784600.jpg?width=320" alt="Finanzieller Schaden für Waldbesitzer durch Waldbrände in Deutschland"/><p>Finanzieller Schaden für Waldbesitzer durch Waldbrände in Deutschland</p>]]></content>
-    </entry>
-    <entry>
-      <title>Zehn Jahre nach der Erdbebenkatastrophe in der italienischen Gemeinde Amatrice</title>
-      <id>https://www.tagesschau.de/video/video-1635920.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635920.html"/>
-      <updated>2026-08-23T17:20:56Z</updated>
-      <published>2026-08-23T17:20:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/59b9d619-3a2e-43bb-8cc1-cff7a411b727/AAABoC81vW0/AAABnSSvsdE/16x9-small/sendungsbild-1784592.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/59b9d619-3a2e-43bb-8cc1-cff7a411b727/AAABoC81vW0/AAABnSSvsdE/16x9-small/sendungsbild-1784592.jpg?width=320" alt="Zehn Jahre nach der Erdbebenkatastrophe in der italienischen Gemeinde Amatrice"/><p>Zehn Jahre nach der Erdbebenkatastrophe in der italienischen Gemeinde Amatrice</p>]]></content>
-    </entry>
-    <entry>
-      <title>Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt</title>
-      <id>https://www.tagesschau.de/video/video-1635534.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635534.html"/>
-      <updated>2026-08-22T13:32:13Z</updated>
-      <published>2026-08-22T13:32:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8c0632a7-a8ae-49fa-beb5-342296b3638c/AAABoCk-Fww/AAABnSSvsdE/16x9-small/sendungsbild-1784188.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8c0632a7-a8ae-49fa-beb5-342296b3638c/AAABoCk-Fww/AAABnSSvsdE/16x9-small/sendungsbild-1784188.jpg?width=320" alt="Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt"/><p>Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern</title>
-      <id>https://www.tagesschau.de/video/video-1635542.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635542.html"/>
-      <updated>2026-08-22T13:37:36Z</updated>
-      <published>2026-08-22T13:37:36Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6f27e96a-0015-4310-a576-5c17899c0123/AAABoClDAwE/AAABnSSvsdE/16x9-small/sendungsbild-1784190.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6f27e96a-0015-4310-a576-5c17899c0123/AAABoClDAwE/AAABnSSvsdE/16x9-small/sendungsbild-1784190.jpg?width=320" alt="Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern"/><p>Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern</p>]]></content>
-    </entry>
-    <entry>
-      <title>Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen</title>
-      <id>https://www.tagesschau.de/video/video-1635504.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635504.html"/>
-      <updated>2026-08-22T10:36:33Z</updated>
-      <published>2026-08-22T10:36:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ea5c22d1-5652-4630-ae0f-486edacfe6e8/AAABoCic10U/AAABnSSvsdE/16x9-small/sendungsbild-1784114.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ea5c22d1-5652-4630-ae0f-486edacfe6e8/AAABoCic10U/AAABnSSvsdE/16x9-small/sendungsbild-1784114.jpg?width=320" alt="Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen"/><p>Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen</p>]]></content>
     </entry>
 </feed>
