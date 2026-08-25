@@ -5,19 +5,55 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-08-24T16:34:49Z</updated>
+  <updated>2026-08-25T14:30:50Z</updated>
   <author>
     <name>tagesschau – LIVE und Topthemen</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze</title>
+      <title>Regierung vor großen Aufgaben: Andrea Römmele, Hertie School Berlin, zur Kabinettsklausur</title>
+      <id>https://www.tagesschau.de/video/video-1637024.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1637024.html"/>
+      <updated>2026-08-25T14:30:50Z</updated>
+      <published>2026-08-25T14:30:50Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/68aeb211-87fe-4a0a-a53f-73d867d7036c/AAABoDjm1qQ/AAABnSSvsdE/16x9-small/sendungsbild-1785510.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/68aeb211-87fe-4a0a-a53f-73d867d7036c/AAABoDjm1qQ/AAABnSSvsdE/16x9-small/sendungsbild-1785510.jpg?width=320" alt="Regierung vor großen Aufgaben: Andrea Römmele, Hertie School Berlin, zur Kabinettsklausur"/><p>Regierung vor großen Aufgaben: Andrea Römmele, Hertie School Berlin, zur Kabinettsklausur</p>]]></content>
+    </entry>
+    <entry>
+      <title>Bundesregierung kommt zu Kabinettsklausur zusammen</title>
+      <id>https://www.tagesschau.de/video/video-1636924.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636924.html"/>
+      <updated>2026-08-25T11:24:49Z</updated>
+      <published>2026-08-25T11:24:49Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d289a76c-c82e-4229-bba7-7aa9d1c18e29/AAABoDg8d5k/AAABnSSvsdE/16x9-small/sendungsbild-1785386.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d289a76c-c82e-4229-bba7-7aa9d1c18e29/AAABoDg8d5k/AAABnSSvsdE/16x9-small/sendungsbild-1785386.jpg?width=320" alt="Bundesregierung kommt zu Kabinettsklausur zusammen"/><p>Bundesregierung kommt zu Kabinettsklausur zusammen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Statement von Kanzler Merz zur Kabinettsklausur der Bundesregierung</title>
+      <id>https://www.tagesschau.de/video/video-1636908.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636908.html"/>
+      <updated>2026-08-25T10:35:30Z</updated>
+      <published>2026-08-25T10:35:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/03724cfe-8932-45ad-a7d9-525a59a70330/AAABoDgPWkQ/AAABnSSvsdE/16x9-small/sendungsbild-1785366.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/03724cfe-8932-45ad-a7d9-525a59a70330/AAABoDgPWkQ/AAABnSSvsdE/16x9-small/sendungsbild-1785366.jpg?width=320" alt="Statement von Kanzler Merz zur Kabinettsklausur der Bundesregierung"/><p>Statement von Kanzler Merz zur Kabinettsklausur der Bundesregierung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Krise und große Sorgen bei VW</title>
+      <id>https://www.tagesschau.de/video/video-1636920.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636920.html"/>
+      <updated>2026-08-25T11:15:43Z</updated>
+      <published>2026-08-25T11:15:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3997a203-81dd-4298-bf97-31ba68b87d4a/AAABoDg0CLU/AAABnSSvsdE/16x9-small/sendungsbild-1785382.jpg?width=320"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3997a203-81dd-4298-bf97-31ba68b87d4a/AAABoDg0CLU/AAABnSSvsdE/16x9-small/sendungsbild-1785382.jpg?width=320" alt="Krise und große Sorgen bei VW"/><p>Krise und große Sorgen bei VW</p>]]></content>
+    </entry>
+    <entry>
+      <title>Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU-Parteispitze</title>
       <id>https://www.tagesschau.de/video/video-1636472.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/video/video-1636472.html"/>
       <updated>2026-08-24T16:34:49Z</updated>
       <published>2026-08-24T16:34:49Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c19bf5ac-b1c4-46a0-bb15-4963c95e0b37/AAABoDQxx3M/AAABnSSvsdE/16x9-small/sendungsbild-1785036.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c19bf5ac-b1c4-46a0-bb15-4963c95e0b37/AAABoDQxx3M/AAABnSSvsdE/16x9-small/sendungsbild-1785036.jpg?width=320" alt="Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze"/><p>Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c19bf5ac-b1c4-46a0-bb15-4963c95e0b37/AAABoDQxx3M/AAABnSSvsdE/16x9-small/sendungsbild-1785036.jpg?width=320" alt="Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU-Parteispitze"/><p>Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU-Parteispitze</p>]]></content>
     </entry>
     <entry>
       <title>Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren</title>
@@ -27,41 +63,5 @@
       <published>2026-08-24T14:54:43Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fc45d2bb-edad-4bed-8f74-f714dc6ee19b/AAABoDPWS7A/AAABnSSvsdE/16x9-small/sendungsbild-1784974.jpg?width=320"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fc45d2bb-edad-4bed-8f74-f714dc6ee19b/AAABoDPWS7A/AAABnSSvsdE/16x9-small/sendungsbild-1784974.jpg?width=320" alt="Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren"/><p>Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren</p>]]></content>
-    </entry>
-    <entry>
-      <title>CDU-Spitze trifft sich nach Ende der politischen Sommerpause</title>
-      <id>https://www.tagesschau.de/video/video-1636336.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636336.html"/>
-      <updated>2026-08-24T12:00:27Z</updated>
-      <published>2026-08-24T12:00:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/287d91e7-7314-4ff5-b3b6-746ce9f3ce4f/AAABoDM2yIQ/AAABnSSvsdE/16x9-small/sendungsbild-1784890.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/287d91e7-7314-4ff5-b3b6-746ce9f3ce4f/AAABoDM2yIQ/AAABnSSvsdE/16x9-small/sendungsbild-1784890.jpg?width=320" alt="CDU-Spitze trifft sich nach Ende der politischen Sommerpause"/><p>CDU-Spitze trifft sich nach Ende der politischen Sommerpause</p>]]></content>
-    </entry>
-    <entry>
-      <title>Isländer debattieren über EU-Beitritt</title>
-      <id>https://www.tagesschau.de/video/video-1636310.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636310.html"/>
-      <updated>2026-08-24T11:14:41Z</updated>
-      <published>2026-08-24T11:14:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c2451939-364c-4671-b327-ec08b9375e02/AAABoDMM4Cg/AAABnSSvsdE/16x9-small/sendungsbild-1784864.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c2451939-364c-4671-b327-ec08b9375e02/AAABoDMM4Cg/AAABnSSvsdE/16x9-small/sendungsbild-1784864.jpg?width=320" alt="Isländer debattieren über EU-Beitritt"/><p>Isländer debattieren über EU-Beitritt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Loslösung von Sowjetunion: Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit</title>
-      <id>https://www.tagesschau.de/video/video-1636278.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1636278.html"/>
-      <updated>2026-08-24T10:39:35Z</updated>
-      <published>2026-08-24T10:39:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c52ed5df-c2aa-4846-ad25-7c12d5664b4a/AAABoDLrwbk/AAABnSSvsdE/16x9-small/sendungsbild-1784846.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c52ed5df-c2aa-4846-ad25-7c12d5664b4a/AAABoDLrwbk/AAABnSSvsdE/16x9-small/sendungsbild-1784846.jpg?width=320" alt="Loslösung von Sowjetunion: Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit"/><p>Loslösung von Sowjetunion: Ukraine begeht 35. Jahrestag ihrer Unabhängigkeit</p>]]></content>
-    </entry>
-    <entry>
-      <title>Waldbrand im Hohen Venn hinterlässt bleibende Schäden</title>
-      <id>https://www.tagesschau.de/video/video-1635922.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1635922.html"/>
-      <updated>2026-08-23T17:46:08Z</updated>
-      <published>2026-08-23T17:46:08Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ca18c311-b52a-4469-9270-3a199a10740a/AAABoC9M5LY/AAABnSSvsdE/16x9-small/sendungsbild-1784598.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ca18c311-b52a-4469-9270-3a199a10740a/AAABoC9M5LY/AAABnSSvsdE/16x9-small/sendungsbild-1784598.jpg?width=320" alt="Waldbrand im Hohen Venn hinterlässt bleibende Schäden"/><p>Waldbrand im Hohen Venn hinterlässt bleibende Schäden</p>]]></content>
     </entry>
 </feed>
