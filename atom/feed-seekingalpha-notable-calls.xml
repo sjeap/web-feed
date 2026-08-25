@@ -5,11 +5,67 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-24T16:30:47Z</updated>
+  <updated>2026-08-24T21:20:38Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>MTUM: The Pricey High-Growth Momentum ETF That&apos;s Trying To Catch SPMO</title>
+      <id>4939757</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939757-mtum-pricey-high-growth-momentum-etf-thats-trying-to-catch-spmo?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T21:20:38Z</updated>
+      <published>2026-08-24T21:20:38Z</published>
+    </entry>
+    <entry>
+      <title>HIO: Discount And High Distribution Aren&apos;t Enough</title>
+      <id>4939741</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939741-hio-discount-and-high-distribution-arent-enough?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T19:34:27Z</updated>
+      <published>2026-08-24T19:34:27Z</published>
+    </entry>
+    <entry>
+      <title>Trump Bought Dividend Stocks And Dumped AI (The Real Story)</title>
+      <id>4939721</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939721-trump-bought-dividend-stocks-and-dumped-ai-the-real-story?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T18:50:32Z</updated>
+      <published>2026-08-24T18:50:32Z</published>
+    </entry>
+    <entry>
+      <title>IAUI Vs. KGLD: More Upside Wins</title>
+      <id>4939704</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939704-iaui-vs-kgld-more-upside-wins?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T17:44:52Z</updated>
+      <published>2026-08-24T17:44:52Z</published>
+    </entry>
+    <entry>
+      <title>Update On PICK: Reiterating The Buy Recommendation</title>
+      <id>4939700</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939700-update-on-pick-reiterating-the-buy-recommendation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T17:34:04Z</updated>
+      <published>2026-08-24T17:34:04Z</published>
+    </entry>
+    <entry>
+      <title>ARKX: I Changed My Mind Because Of This Catalyst, But Not Entirely</title>
+      <id>4939697</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939697-arkx-i-changed-my-mind-because-of-this-catalyst-but-not-entirely?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T17:30:14Z</updated>
+      <published>2026-08-24T17:30:14Z</published>
+    </entry>
+    <entry>
+      <title>RIV&apos;s 2026 Rights Offering Notes</title>
+      <id>4939693</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939693-rivs-2026-rights-offering-notes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-24T17:27:32Z</updated>
+      <published>2026-08-24T17:27:32Z</published>
+    </entry>
+    <entry>
+      <title>Personalis falls amid a downgrade as a competitive bid appears unlikely</title>
+      <id>https://seekingalpha.com/MarketCurrent:4636329</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
+      <updated>2026-08-24T17:14:51Z</updated>
+      <published>2026-08-24T17:14:51Z</published>
+    </entry>
     <entry>
       <title>VGMS: Multi-Sector Bond ETF By Vanguard, Vanilla Portfolio, Good Yield And Track Record</title>
       <id>4939597</id>
@@ -95,13 +151,6 @@
       <published>2026-08-24T13:07:44Z</published>
     </entry>
     <entry>
-      <title>Tempus gets FDA clearance for pulmonary hypertension AI</title>
-      <id>https://seekingalpha.com/MarketCurrent:4636256</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
-      <updated>2026-08-24T13:06:48Z</updated>
-      <published>2026-08-24T13:06:48Z</published>
-    </entry>
-    <entry>
       <title>SUB: Short-Term Muni Bond ETF, Uncompetitive Dividends, Uncompelling Value Proposition</title>
       <id>4939584</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4939584-sub-short-term-muni-bond-etf-uncompetitive-dividends-uncompelling-value-proposition?source=feed_tag_etf_portfolio_strategy"/>
@@ -114,55 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4939582-cefs-has-outperformed-its-fund-of-fund-peers?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-24T12:47:01Z</updated>
       <published>2026-08-24T12:47:01Z</published>
-    </entry>
-    <entry>
-      <title>BBH: Biotech&apos;s Next Growth Cycle Is Just Getting Started</title>
-      <id>4939474</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939474-bbh-biotechs-next-growth-cycle-is-just-getting-started?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:40:00Z</updated>
-      <published>2026-08-24T12:40:00Z</published>
-    </entry>
-    <entry>
-      <title>AIPI&apos;s 35% AI Income Yield Is Better Than The Bigger Income Funds</title>
-      <id>4939579</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939579-aipis-35-percent-ai-income-yield-is-better-than-the-bigger-income-funds?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:33:04Z</updated>
-      <published>2026-08-24T12:33:04Z</published>
-    </entry>
-    <entry>
-      <title>BIZD: The Great BDC Shakeout</title>
-      <id>4939472</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939472-bizd-the-great-bdc-shakeout?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:30:00Z</updated>
-      <published>2026-08-24T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>Why VTEB Beats MUB In The Battle For The Best Muni Bond ETF</title>
-      <id>4939574</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939574-why-vteb-beats-mub-in-the-battle-for-the-best-muni-bond-etf?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:19:03Z</updated>
-      <published>2026-08-24T12:19:03Z</published>
-    </entry>
-    <entry>
-      <title>AIPI: A 35% Yield Paid Weekly That Might Not Be Worth The Risk</title>
-      <id>4939464</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939464-aipi-a-35-percent-yield-paid-weekly-that-might-not-be-worth-the-risk?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:15:00Z</updated>
-      <published>2026-08-24T12:15:00Z</published>
-    </entry>
-    <entry>
-      <title>AIS: After A 136% Gain, The Best AI Trade Goes Beyond Chips</title>
-      <id>4939569</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939569-ais-after-a-136-percent-gain-the-best-ai-trade-goes-beyond-chips?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:08:44Z</updated>
-      <published>2026-08-24T12:08:44Z</published>
-    </entry>
-    <entry>
-      <title>Healthcare Is Rising: XLV Is A Better Option For Investors Than BME</title>
-      <id>4939451</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4939451-healthcare-is-rising-xlv-is-a-better-option-for-investors-than-bme?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-24T12:00:00Z</updated>
-      <published>2026-08-24T12:00:00Z</published>
     </entry>
     <entry>
       <title>Volkswagen execs face backlash from labor chiefs ahead of key town hall meetings: report</title>
