@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-25T05:52:49Z</updated>
+  <updated>2026-08-25T13:07:39Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Almonty-Aktie vor dem Durchbruch im operativen Geschäft?</title>
+      <id>https://www.sharedeals.de/almonty-aktie-vor-dem-durchbruch-im-operativen-geschaeft/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-vor-dem-durchbruch-im-operativen-geschaeft/"/>
+      <updated>2026-08-25T13:07:39Z</updated>
+      <published>2026-08-25T13:07:39Z</published>
+    </entry>
     <entry>
       <title>Rheinmetall-Aktie Analyse: Jetzt wird es wieder kritisch</title>
       <id>https://www.sharedeals.de/rheinmetall-aktie-analyse-jetzt-wird-es-wieder-kritisch/</id>
@@ -37,13 +44,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/almonty-mit-77-neues-rekordhoch-moeglich/"/>
       <updated>2026-08-24T07:45:12Z</updated>
       <published>2026-08-24T07:45:12Z</published>
-    </entry>
-    <entry>
-      <title>SpaceX-Aktie: Woher kommt dieser Verkaufsdruck?</title>
-      <id>https://www.sharedeals.de/spacex-aktie-woher-kommt-dieser-verkaufsdruck/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/spacex-aktie-woher-kommt-dieser-verkaufsdruck/"/>
-      <updated>2026-08-23T05:15:50Z</updated>
-      <published>2026-08-23T05:15:50Z</published>
     </entry>
     <entry>
       <title>BioNTech-Aktie: No Brainer Club realisiert +15% innerhalb weniger Stunden</title>
