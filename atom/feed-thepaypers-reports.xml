@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-08-26T00:00:00Z</updated>
+  <updated>2026-08-27T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Key Players In the EU Payments Landscape – 2026 Edition</title>
+      <id>https://thepaypers.com/payments/reports/key-players-in-the-eu-payments-landscape-2026-edition</id>
+      <link rel="alternate" href="https://thepaypers.com/payments/reports/key-players-in-the-eu-payments-landscape-2026-edition"/>
+      <updated>2026-08-27T00:00:00Z</updated>
+      <published>2026-08-27T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/PA-EU-KP.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/PA-EU-KP.png" alt="Key Players In the EU Payments Landscape – 2026 Edition"/><p>Key Players In the EU Payments Landscape – 2026 Edition</p>]]></content>
+    </entry>
     <entry>
       <title>The benefits &amp; risks of agentic AI in ecommerce</title>
       <id>https://thepaypers.com/fraud-and-fincrime/reports/the-benefits-risks-of-agentic-ai-in-ecommerce</id>
@@ -36,15 +45,6 @@
       <published>2026-06-17T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ravelin-report%20banner.png"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ravelin-report%20banner.png" alt="Global Fraud Trends 2026"/><p>Global Fraud Trends 2026</p>]]></content>
-    </entry>
-    <entry>
-      <title>Agentic winners will be determined by Trust not Tech</title>
-      <id>https://thepaypers.com/payments/reports/agentic-winners-will-be-determined-by-trust-not-tech</id>
-      <link rel="alternate" href="https://thepaypers.com/payments/reports/agentic-winners-will-be-determined-by-trust-not-tech"/>
-      <updated>2026-06-11T00:00:00Z</updated>
-      <published>2026-06-11T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ecommpay_webinar_Agentic_June_2026.png"/>
-      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ecommpay_webinar_Agentic_June_2026.png" alt="Agentic winners will be determined by Trust not Tech"/><p>Agentic winners will be determined by Trust not Tech</p>]]></content>
     </entry>
     <entry>
       <title>Global Stablecoins Report 2026</title>
