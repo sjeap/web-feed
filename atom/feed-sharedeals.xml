@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-25T13:07:39Z</updated>
+  <updated>2026-08-27T06:12:20Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Kinross Gold-Aktie: +41% nach Kauftipp in 2 Monaten</title>
+      <id>https://www.sharedeals.de/kinross-gold-aktie-41-nach-kauftipp-in-2-monaten/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/kinross-gold-aktie-41-nach-kauftipp-in-2-monaten/"/>
+      <updated>2026-08-27T06:12:20Z</updated>
+      <published>2026-08-27T06:12:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/01/Barrick_Gold_AdobeStock_948497324-540x350.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/01/Barrick_Gold_AdobeStock_948497324-540x350.jpeg" alt="gold stock investment chart financial business wealth currency banking golden bar analysis rate concept."/><p>Kinross Gold-Aktie: +41% nach Kauftipp in 2 Monaten</p>]]></content>
+    </entry>
     <entry>
       <title>Almonty-Aktie vor dem Durchbruch im operativen Geschäft?</title>
       <id>https://www.sharedeals.de/almonty-aktie-vor-dem-durchbruch-im-operativen-geschaeft/</id>
@@ -71,14 +80,5 @@
       <published>2026-08-14T07:53:38Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/05/pharma_money-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/05/pharma_money-540x350.jpg" alt="Hands cupping red and white capsules scattered over dollar bills, suggesting drug dealing or cash from drugs"/><p>Assembly Biosciences +11%: Der Mega-Blockbuster und der schweigende Partner</p>]]></content>
-    </entry>
-    <entry>
-      <title>Aligos-Aktie +37%: Ein Vorbote für mehr?</title>
-      <id>https://www.sharedeals.de/aligos-aktie-37-ein-vorbote-fuer-mehr/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/aligos-aktie-37-ein-vorbote-fuer-mehr/"/>
-      <updated>2026-08-11T07:56:28Z</updated>
-      <published>2026-08-11T07:56:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/10/stock_market_wall_street_traders-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/10/stock_market_wall_street_traders-540x350.jpg" alt="Aligos-Aktie +37%: Ein Vorbote für mehr?"/><p>Aligos-Aktie +37%: Ein Vorbote für mehr?</p>]]></content>
     </entry>
 </feed>
