@@ -5,11 +5,67 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-29T11:15:00Z</updated>
+  <updated>2026-08-29T16:44:53Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>PWV: Value Begins To Struggle, Momentum Is Shifting Towards Growth</title>
+      <id>4941511</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941511-pwv-value-begins-to-struggle-momentum-is-shifting-towards-growth?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T16:44:53Z</updated>
+      <published>2026-08-29T16:44:53Z</published>
+    </entry>
+    <entry>
+      <title>Narrow Credit Spreads Make USHY A Hold (Rating Downgrade)</title>
+      <id>4941510</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941510-narrow-credit-spreads-make-ushy-a-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T16:33:03Z</updated>
+      <published>2026-08-29T16:33:03Z</published>
+    </entry>
+    <entry>
+      <title>GDX: Gold Stung By A Hawkish Warsh, But Gold Miners Remain A Compelling Buy</title>
+      <id>4941491</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941491-gdx-gold-stung-by-a-hawkish-warsh-but-gold-miners-remain-a-compelling-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T16:17:00Z</updated>
+      <published>2026-08-29T16:17:00Z</published>
+    </entry>
+    <entry>
+      <title>SBAR: 85% In A Money Market ETF, But That&apos;s Not Where The 12% Yield Comes From</title>
+      <id>4941490</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941490-sbar-85-percent-in-a-money-market-etf-but-thats-not-where-the-12-percent-yield-comes-from?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T13:31:57Z</updated>
+      <published>2026-08-29T13:31:57Z</published>
+    </entry>
+    <entry>
+      <title>MUU: Up 2,510%, But Micron&apos;s Next Move Could Change The Math</title>
+      <id>4941486</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941486-muu-up-2510-percent-but-microns-next-move-could-change-the-math?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T13:21:44Z</updated>
+      <published>2026-08-29T13:21:44Z</published>
+    </entry>
+    <entry>
+      <title>EFAA: Blends International Diversification And Options Income</title>
+      <id>4941481</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941481-efaa-blends-international-diversification-and-options-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T13:08:58Z</updated>
+      <published>2026-08-29T13:08:58Z</published>
+    </entry>
+    <entry>
+      <title>GUG: A Decent Fund, But Bond Risks Weigh On It</title>
+      <id>4941482</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941482-gug-a-decent-fund-but-bond-risks-weigh-on-it?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T12:45:00Z</updated>
+      <published>2026-08-29T12:45:00Z</published>
+    </entry>
+    <entry>
+      <title>10 Best CEFs This Month: Average Yield Of Near 10% (August 2026)</title>
+      <id>4940424</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4940424-10-best-cefs-this-month-average-yield-of-near-10-percent-august-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T12:10:00Z</updated>
+      <published>2026-08-29T12:10:00Z</published>
+    </entry>
     <entry>
       <title>Why Smart Money Abandoned The 60/40 Rule</title>
       <id>4939706</id>
@@ -93,62 +149,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4940013-2026-thematic-mid-year-update?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-28T13:05:00Z</updated>
       <published>2026-08-28T13:05:00Z</published>
-    </entry>
-    <entry>
-      <title>RISR: Unique Rate Hedge ETF, High-Quality Portfolio, Above-Average Yield</title>
-      <id>4941204</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941204-risr-unique-rate-hedge-etf-high-quality-portfolio-above-average-yield?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T13:04:51Z</updated>
-      <published>2026-08-28T13:04:51Z</published>
-    </entry>
-    <entry>
-      <title>YNVD:CA: Nvidia&apos;s Q2 Fixed The Thesis, But The Best Entry Was In January</title>
-      <id>4941194</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941194-ynvd-nvidias-q2-fixed-thesis-but-best-entry-was-in-january?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T12:46:12Z</updated>
-      <published>2026-08-28T12:46:12Z</published>
-    </entry>
-    <entry>
-      <title>Through The Systematic Lens: Thematic Equity: Factor Landscape (August 2026)</title>
-      <id>4940773</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940773-through-systematic-lens-thematic-equity-factor-landscape-august-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T12:22:00Z</updated>
-      <published>2026-08-28T12:22:00Z</published>
-    </entry>
-    <entry>
-      <title>The Investment Case For AI And Robotics</title>
-      <id>4941112</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941112-investment-case-for-ai-robotics?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T11:05:00Z</updated>
-      <published>2026-08-28T11:05:00Z</published>
-    </entry>
-    <entry>
-      <title>CIO Perspective: AI, The Fed And Market Opportunities</title>
-      <id>4941122</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941122-cio-perspective-ai-fed-market-opportunities?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T07:25:00Z</updated>
-      <published>2026-08-28T07:25:00Z</published>
-    </entry>
-    <entry>
-      <title>AMZA&apos;s Midstream Backdrop Shifts As Enterprise Trims Capex To $2.9-$3.4 Billion</title>
-      <id>4941118</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941118-amza-midstream-backdrop-shifts-as-enterprise-trims-capex-to-2-9-3-4-billion?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T07:10:00Z</updated>
-      <published>2026-08-28T07:10:00Z</published>
-    </entry>
-    <entry>
-      <title>Small-Cap Stocks Step Out Of Big Tech&apos;s Shadow</title>
-      <id>4941114</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941114-small-cap-stocks-step-out-of-big-tech-shadow?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T06:30:00Z</updated>
-      <published>2026-08-28T06:30:00Z</published>
-    </entry>
-    <entry>
-      <title>ULVM: Low Beta, High EY Portfolio With Multiple Disadvantages, A Hold</title>
-      <id>4941092</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941092-ulvm-low-beta-high-ey-portfolio-with-multiple-disadvantages-a-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T04:46:20Z</updated>
-      <published>2026-08-28T04:46:20Z</published>
     </entry>
     <entry>
       <title>Trump administration mulls new round of tariffs on chips: report</title>
