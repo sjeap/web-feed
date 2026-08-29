@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-28T15:50:00Z</updated>
+  <updated>2026-08-29T11:15:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Why Smart Money Abandoned The 60/40 Rule</title>
+      <id>4939706</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4939706-why-smart-money-abandoned-the-6040-rule?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T11:15:00Z</updated>
+      <published>2026-08-29T11:15:00Z</published>
+    </entry>
+    <entry>
+      <title>My Own Private Equity: How Butterfly Spreads And NDX Options Can Create Asymmetric Risk-Reward Opportunities</title>
+      <id>4941447</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941447-my-own-private-equity-how-butterfly-spreads-ndx-options-can-create-asymmetric-risk-reward-opportunities?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-29T08:10:00Z</updated>
+      <published>2026-08-29T08:10:00Z</published>
+    </entry>
+    <entry>
+      <title>VCSH: High-Quality, Short-Term Bond ETF, But Trails Its Peers</title>
+      <id>4941384</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941384-vcsh-high-quality-short-term-bond-etf-but-trails-its-peers?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-28T22:23:03Z</updated>
+      <published>2026-08-28T22:23:03Z</published>
+    </entry>
+    <entry>
+      <title>MGK: US Mega-Caps Made It Through August Unscathed, More Gains Ahead (Upgrade)</title>
+      <id>4941369</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941369-mgk-us-mega-caps-made-it-through-august-unscathed-more-gains-ahead-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-28T20:32:17Z</updated>
+      <published>2026-08-28T20:32:17Z</published>
+    </entry>
+    <entry>
+      <title>PEY: Attractive Value And Growth Setup For Invesco&apos;s High-Yield Dividend Achievers ETF</title>
+      <id>4941367</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941367-pey-attractive-value-and-growth-setup-for-invescos-high-yield-dividend-achievers-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-28T20:10:51Z</updated>
+      <published>2026-08-28T20:10:51Z</published>
+    </entry>
+    <entry>
+      <title>FCOM: One Of The Most Discounted Sectors Of The Last 30 Years Hides An Accounting Trick</title>
+      <id>4941364</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941364-fcom-one-of-the-most-discounted-sector-of-the-last-30-years-hides-an-accounting-trick?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-28T20:02:12Z</updated>
+      <published>2026-08-28T20:02:12Z</published>
+    </entry>
+    <entry>
+      <title>ROCY: Full Coverage, Thin Spreads, And A Structure Still Taking Shape</title>
+      <id>4941357</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941357-rocy-full-coverage-thin-spreads-and-a-structure-still-taking-shape?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-28T19:26:21Z</updated>
+      <published>2026-08-28T19:26:21Z</published>
+    </entry>
     <entry>
       <title>WQTM&apos;s August 2026 Rebalance: What Are Some Of The Top Holdings Doing?</title>
       <id>4941313</id>
@@ -100,55 +149,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4941092-ulvm-low-beta-high-ey-portfolio-with-multiple-disadvantages-a-hold?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-08-28T04:46:20Z</updated>
       <published>2026-08-28T04:46:20Z</published>
-    </entry>
-    <entry>
-      <title>CHAT: The 68% Gain Doesn&apos;t Mean You&apos;re Too Late</title>
-      <id>4941030</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941030-chat-the-68-percent-gain-doesnt-mean-youre-too-late?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T23:19:20Z</updated>
-      <published>2026-08-27T23:19:20Z</published>
-    </entry>
-    <entry>
-      <title>THQ Offers High-Yield Income From Healthcare Stocks (Rating Upgrade)</title>
-      <id>4941028</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941028-thq-offers-high-yield-income-from-healthcare-stocks-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T23:09:02Z</updated>
-      <published>2026-08-27T23:09:02Z</published>
-    </entry>
-    <entry>
-      <title>GPTY: A 36% AI Yield With A Better Options Engine</title>
-      <id>4940960</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940960-gpty-a-36-percent-ai-yield-with-a-better-options-engine?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T17:40:21Z</updated>
-      <published>2026-08-27T17:40:21Z</published>
-    </entry>
-    <entry>
-      <title>AVDV: An Actively Managed Portfolio Of Cheap Developed Market Stocks</title>
-      <id>4940957</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940957-avdv-an-actively-managed-portfolio-of-cheap-developed-market-stocks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T17:31:20Z</updated>
-      <published>2026-08-27T17:31:20Z</published>
-    </entry>
-    <entry>
-      <title>CEFS: Diversified Fund Of Closed-End Funds, Equity Focus, Outstanding Track Record, And Momentum</title>
-      <id>4940826</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940826-cefs-diversified-fund-of-closed-end-funds-equity-focus-outstanding-track-record-and-momentum?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T17:00:59Z</updated>
-      <published>2026-08-27T17:00:59Z</published>
-    </entry>
-    <entry>
-      <title>SCHD: Stunning Outperformance Even Startled Me (Downgrade)</title>
-      <id>4940810</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940810-schd-stunning-outperformance-even-startled-me-downgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T17:00:15Z</updated>
-      <published>2026-08-27T17:00:15Z</published>
-    </entry>
-    <entry>
-      <title>ETJ: Very High Tech Exposure Could Be A Risk</title>
-      <id>4940933</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940933-etj-very-high-tech-exposure-could-be-risk?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-27T16:47:06Z</updated>
-      <published>2026-08-27T16:47:06Z</published>
     </entry>
     <entry>
       <title>Trump administration mulls new round of tariffs on chips: report</title>
