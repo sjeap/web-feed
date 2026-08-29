@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-08-25T16:48:17Z</updated>
+  <updated>2026-08-29T10:00:00Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort</title>
+      <id>https://www.ad-magazin.de/artikel/40-quadratmeter-mit-meerblick-apartment-in-camogli</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/40-quadratmeter-mit-meerblick-apartment-in-camogli"/>
+      <updated>2026-08-29T10:00:00Z</updated>
+      <published>2026-08-29T10:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a8c210f75c84051c7bd81e3/1:1/w_354%2Cc_limit/CAMOGLI-020.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a8c210f75c84051c7bd81e3/1:1/w_354%2Cc_limit/CAMOGLI-020.jpg" alt="40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort"/><p>40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort</p>]]></content>
+    </entry>
     <entry>
       <title>35 Quadratmeter in Paris: So clever wurde diese Mini-Wohnung mithilfe von Edelstahl und Spiegeln vergrößert</title>
       <id>https://www.ad-magazin.de/artikel/mini-wohnung-paris-spiegel-vergroessert</id>
@@ -180,14 +189,5 @@
       <published>2026-06-05T14:52:47Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a1d5f6f7ed98241ce3616fc/1:1/w_354%2Cc_limit/19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a1d5f6f7ed98241ce3616fc/1:1/w_354%2Cc_limit/19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520.jpg" alt="Renovierung in Paris: So schuf sich ein Künstler auf 43 Quadratmetern einen Kokon aus Holz, Spiegel und Cremetönen"/><p>Renovierung in Paris: So schuf sich ein Künstler auf 43 Quadratmetern einen Kokon aus Holz, Spiegel und Cremetönen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Mini-Strandhaus in Neapel: Mit satten Farben und funktionalem Design macht dieses lichte Traumhäuschen sofort gute Laune</title>
-      <id>https://www.ad-magazin.de/artikel/zitronengelbes-strandhaus-in-neapel-italien</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/zitronengelbes-strandhaus-in-neapel-italien"/>
-      <updated>2026-05-30T07:00:00Z</updated>
-      <published>2026-05-30T07:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/683440b332f9ec1e00a80164/1:1/w_354%2Cc_limit/JalloeBlue-6.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/683440b332f9ec1e00a80164/1:1/w_354%2Cc_limit/JalloeBlue-6.jpg" alt="Mini-Strandhaus in Neapel: Mit satten Farben und funktionalem Design macht dieses lichte Traumhäuschen sofort gute Laune"/><p>Mini-Strandhaus in Neapel: Mit satten Farben und funktionalem Design macht dieses lichte Traumhäuschen sofort gute Laune</p>]]></content>
     </entry>
 </feed>
