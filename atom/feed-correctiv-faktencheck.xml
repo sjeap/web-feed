@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-08-28T00:00:00Z</updated>
+  <updated>2026-08-30T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>KI-Test: Ein Chatbot fälscht Nachrichten ohne Zögern</title>
+      <id>https://correctiv.org/aktuelles/kuenstliche-intelligenz/2026/08/30/ki-test-ein-chatbot-faelscht-nachrichten-ohne-zoegern/</id>
+      <link rel="alternate" href="https://correctiv.org/aktuelles/kuenstliche-intelligenz/2026/08/30/ki-test-ein-chatbot-faelscht-nachrichten-ohne-zoegern/"/>
+      <updated>2026-08-30T00:00:00Z</updated>
+      <published>2026-08-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/NZZ-chat-gpt-Wahlbetrug_watermarked-e1787949683466.png"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/NZZ-chat-gpt-Wahlbetrug_watermarked-e1787949683466.png" alt="Eine von ChatGPT generiertze NZZ-Titelseite mit der Schlagzeile „Wahlbetrug bei den letzten Nationalratswahlen aufgedeckt“."/><p>KI-Test: Ein Chatbot fälscht Nachrichten ohne Zögern</p>]]></content>
+    </entry>
     <entry>
       <title>Videos zeigen Bauernproteste 2025 in Brüssel – Keine aktuellen Aufnahmen</title>
       <id>https://correctiv.org/faktencheck/2026/08/28/alte-videos-zeigen-keine-bauernproteste-in-bruessel/</id>
@@ -225,14 +234,5 @@
       <published>2026-07-23T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/briefwahl-landtagswahlen-afd-schredder-wahlbetrug-scaled-e1784803812970.jpeg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/briefwahl-landtagswahlen-afd-schredder-wahlbetrug-scaled-e1784803812970.jpeg" alt="Zur Briefwahl kursieren immer wieder Falschinformationen (Foto: Thomas Frey / DPA / Picture Alliance)"/><p>Video zeigt kein Schreddern von AfD-Stimmen, sondern gefälschte Briefwahlunterlagen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video eines brennenden Sendemastes in Indien hat keinen Bezug zu 5G</title>
-      <id>https://correctiv.org/faktencheck/2026/07/22/video-eines-brennenden-sendemastes-in-indien-hat-keinen-bezug-zu-5g/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/22/video-eines-brennenden-sendemastes-in-indien-hat-keinen-bezug-zu-5g/"/>
-      <updated>2026-07-22T00:00:00Z</updated>
-      <published>2026-07-22T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/Mobilfunkmast-Indien-Neu-Delhi.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/Mobilfunkmast-Indien-Neu-Delhi.jpg" alt="Video eines brennenden Sendemastes in Indien hat keinen Bezug zu 5G"/><p>Video eines brennenden Sendemastes in Indien hat keinen Bezug zu 5G</p>]]></content>
     </entry>
 </feed>
