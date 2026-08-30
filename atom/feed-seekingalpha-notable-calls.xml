@@ -5,11 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-30T09:29:43Z</updated>
+  <updated>2026-08-30T15:50:22Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>2 Covered Call ETFs That Deserve More Attention Now</title>
+      <id>4941577</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941577-2-covered-call-etfs-that-deserve-more-attention-now?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-30T15:50:22Z</updated>
+      <published>2026-08-30T15:50:22Z</published>
+    </entry>
+    <entry>
+      <title>Midterms, September Volatility And The Value Trade</title>
+      <id>4941576</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941576-midterms-september-volatility-value-trade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-30T15:40:38Z</updated>
+      <published>2026-08-30T15:40:38Z</published>
+    </entry>
+    <entry>
+      <title>CEF Weekly Review: Allspring CEF Distributions Inline With MDPs</title>
+      <id>4941571</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941571-cef-weekly-review-allspring-cef-distributions-inline-with-mdps?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-30T14:56:35Z</updated>
+      <published>2026-08-30T14:56:35Z</published>
+    </entry>
+    <entry>
+      <title>NVDW: Collect High-Yield Income From Nvidia Swaps</title>
+      <id>4941570</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941570-nvdw-collect-high-yield-income-from-nvidia-swaps?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-30T14:39:13Z</updated>
+      <published>2026-08-30T14:39:13Z</published>
+    </entry>
+    <entry>
+      <title>UFOX: Expensive, High Beta Portfolio Of Space And Connective Tech Names Is A Hold</title>
+      <id>4941540</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941540-ufox-expensive-high-beta-portfolio-of-space-and-connective-tech-names-is-a-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-30T12:45:00Z</updated>
+      <published>2026-08-30T12:45:00Z</published>
+    </entry>
+    <entry>
+      <title>VW&apos;s Struggles: China Is Key, But The Lock Is Broken</title>
+      <id>https://seekingalpha.com/Article:4941546</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941546-vws-struggles-china-is-key-but-the-lock-is-broken?source=feed_symbol_VWAGY"/>
+      <updated>2026-08-30T11:00:00Z</updated>
+      <published>2026-08-30T11:00:00Z</published>
+    </entry>
     <entry>
       <title>Income-Covered Closed-End Fund Report, August 2026</title>
       <id>4941553</id>
@@ -116,41 +158,6 @@
       <published>2026-08-29T08:10:00Z</published>
     </entry>
     <entry>
-      <title>VCSH: High-Quality, Short-Term Bond ETF, But Trails Its Peers</title>
-      <id>4941384</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941384-vcsh-high-quality-short-term-bond-etf-but-trails-its-peers?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T22:23:03Z</updated>
-      <published>2026-08-28T22:23:03Z</published>
-    </entry>
-    <entry>
-      <title>MGK: US Mega-Caps Made It Through August Unscathed, More Gains Ahead (Upgrade)</title>
-      <id>4941369</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941369-mgk-us-mega-caps-made-it-through-august-unscathed-more-gains-ahead-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T20:32:17Z</updated>
-      <published>2026-08-28T20:32:17Z</published>
-    </entry>
-    <entry>
-      <title>PEY: Attractive Value And Growth Setup For Invesco&apos;s High-Yield Dividend Achievers ETF</title>
-      <id>4941367</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941367-pey-attractive-value-and-growth-setup-for-invescos-high-yield-dividend-achievers-etf?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T20:10:51Z</updated>
-      <published>2026-08-28T20:10:51Z</published>
-    </entry>
-    <entry>
-      <title>FCOM: One Of The Most Discounted Sectors Of The Last 30 Years Hides An Accounting Trick</title>
-      <id>4941364</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941364-fcom-one-of-the-most-discounted-sector-of-the-last-30-years-hides-an-accounting-trick?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T20:02:12Z</updated>
-      <published>2026-08-28T20:02:12Z</published>
-    </entry>
-    <entry>
-      <title>ROCY: Full Coverage, Thin Spreads, And A Structure Still Taking Shape</title>
-      <id>4941357</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941357-rocy-full-coverage-thin-spreads-and-a-structure-still-taking-shape?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-28T19:26:21Z</updated>
-      <published>2026-08-28T19:26:21Z</published>
-    </entry>
-    <entry>
       <title>Trump administration mulls new round of tariffs on chips: report</title>
       <id>https://seekingalpha.com/MarketCurrent:4637322</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
@@ -177,12 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/BNPQF/news?source=feed_symbol_BNPQF"/>
       <updated>2026-08-26T06:34:25Z</updated>
       <published>2026-08-26T06:34:25Z</published>
-    </entry>
-    <entry>
-      <title>ASML And KLA: Both Winning The AI Buildout - Only The Former Is Still Worth Buying</title>
-      <id>https://seekingalpha.com/Article:4940123</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4940123-asml-and-kla-both-winning-the-ai-buildout-only-the-former-is-still-worth-buying?source=feed_symbol_ASML"/>
-      <updated>2026-08-25T21:47:54Z</updated>
-      <published>2026-08-25T21:47:54Z</published>
     </entry>
 </feed>
