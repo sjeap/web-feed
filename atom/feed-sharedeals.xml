@@ -5,11 +5,25 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-08-29T08:37:11Z</updated>
+  <updated>2026-08-31T04:21:45Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>BYD-Aktie mit -46% – kann man BYD jetzt kaufen?</title>
+      <id>https://www.sharedeals.de/byd-aktie-mit-46-lohnt-sich-jetzt-der-einstieg/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/byd-aktie-mit-46-lohnt-sich-jetzt-der-einstieg/"/>
+      <updated>2026-08-31T04:21:45Z</updated>
+      <published>2026-08-31T04:21:45Z</published>
+    </entry>
+    <entry>
+      <title>D-Wave Quantum-Aktie: Vor dem Durchbruch – oder vor neuen Tiefs?</title>
+      <id>https://www.sharedeals.de/d-wave-quantum-aktie-vor-dem-durchbruch-oder-vor-neuen-tiefs/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/d-wave-quantum-aktie-vor-dem-durchbruch-oder-vor-neuen-tiefs/"/>
+      <updated>2026-08-30T14:19:28Z</updated>
+      <published>2026-08-30T14:19:28Z</published>
+    </entry>
     <entry>
       <title>Rheinmetall-Aktie: Nächstes Ziel 1000€ oder 2000€?</title>
       <id>https://www.sharedeals.de/rheimetall-aktie-naechstes-ziel-1000e-oder-2000e/</id>
@@ -30,20 +44,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/paypal-aktie-15-uebernahme-geplatzt-jetzt-schnell-kaufen/"/>
       <updated>2026-08-28T08:12:27Z</updated>
       <published>2026-08-28T08:12:27Z</published>
-    </entry>
-    <entry>
-      <title>Western Digital-Aktie: Dieser Speicher-Champion könnte die Konkurrenz abhängen</title>
-      <id>https://www.sharedeals.de/western-digital-aktie-dieser-speicher-champion-koennte-die-konkurrenz-abhaengen/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/western-digital-aktie-dieser-speicher-champion-koennte-die-konkurrenz-abhaengen/"/>
-      <updated>2026-08-27T07:43:06Z</updated>
-      <published>2026-08-27T07:43:06Z</published>
-    </entry>
-    <entry>
-      <title>Rheinmetall-Aktie: Diese Hürde wird gerade unterschätzt</title>
-      <id>https://www.sharedeals.de/rheinmetall-aktie-diese-huerde-wird-gerade-unterschaetzt/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-diese-huerde-wird-gerade-unterschaetzt/"/>
-      <updated>2026-08-27T06:34:23Z</updated>
-      <published>2026-08-27T06:34:23Z</published>
     </entry>
     <entry>
       <title>Kinross Gold-Aktie: +41% nach Kauftipp in 2 Monaten</title>
