@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-08-29T10:00:00Z</updated>
+  <updated>2026-09-01T16:18:43Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Kleine Wohnung in Paris: Wie minimalistische Eleganz und rustikales Flair auf kleinstem Raum verschmelzen</title>
+      <id>https://www.ad-magazin.de/artikel/kleine-wohnung-in-paris-minimalistische-eleganz-trifft-rustikales-flair</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/kleine-wohnung-in-paris-minimalistische-eleganz-trifft-rustikales-flair"/>
+      <updated>2026-09-01T16:18:43Z</updated>
+      <published>2026-09-01T16:18:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a951e0fe8a577bac06e34f3/1:1/w_354%2Cc_limit/02-3H1A6249.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a951e0fe8a577bac06e34f3/1:1/w_354%2Cc_limit/02-3H1A6249.jpg" alt="Kleine Wohnung in Paris: Wie minimalistische Eleganz und rustikales Flair auf kleinstem Raum verschmelzen"/><p>Kleine Wohnung in Paris: Wie minimalistische Eleganz und rustikales Flair auf kleinstem Raum verschmelzen</p>]]></content>
+    </entry>
     <entry>
       <title>40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort</title>
       <id>https://www.ad-magazin.de/artikel/40-quadratmeter-mit-meerblick-apartment-in-camogli</id>
@@ -180,14 +189,5 @@
       <published>2026-06-09T18:48:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/698ee61a4e9b6e485fb2dafc/1:1/w_354%2Cc_limit/Bo%25CC%2588ttger%2520Ku%25CC%2588che%2520Flur_JVL16939%25202_300px.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/698ee61a4e9b6e485fb2dafc/1:1/w_354%2Cc_limit/Bo%25CC%2588ttger%2520Ku%25CC%2588che%2520Flur_JVL16939%25202_300px.jpg" alt="60 Quadratmeter im Frankfurter Nordend: Wie aus einer Zahnarztpraxis eine kleine Wohnung mit cleverem Grundriss wurde"/><p>60 Quadratmeter im Frankfurter Nordend: Wie aus einer Zahnarztpraxis eine kleine Wohnung mit cleverem Grundriss wurde</p>]]></content>
-    </entry>
-    <entry>
-      <title>Renovierung in Paris: So schuf sich ein Künstler auf 43 Quadratmetern einen Kokon aus Holz, Spiegel und Cremetönen</title>
-      <id>https://www.ad-magazin.de/artikel/renovierung-in-paris-kuenstlerwohnung</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/renovierung-in-paris-kuenstlerwohnung"/>
-      <updated>2026-06-05T14:52:47Z</updated>
-      <published>2026-06-05T14:52:47Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a1d5f6f7ed98241ce3616fc/1:1/w_354%2Cc_limit/19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a1d5f6f7ed98241ce3616fc/1:1/w_354%2Cc_limit/19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520GUILLAUME%2520GRASSET%25C2%25A9GUILLAUME%2520GRASSET19FLAT%2520PAUL%2520SIBUET%2520_%2520PARIS%25C2%25A9%2520.jpg" alt="Renovierung in Paris: So schuf sich ein Künstler auf 43 Quadratmetern einen Kokon aus Holz, Spiegel und Cremetönen"/><p>Renovierung in Paris: So schuf sich ein Künstler auf 43 Quadratmetern einen Kokon aus Holz, Spiegel und Cremetönen</p>]]></content>
     </entry>
 </feed>
