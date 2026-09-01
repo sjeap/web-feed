@@ -5,11 +5,95 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-08-31T21:19:21Z</updated>
+  <updated>2026-09-01T09:30:33Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>DRAM: Final Call Before The Recovery Takes Off Without You</title>
+      <id>4942028</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942028-dram-final-call-before-the-recovery-takes-off-without-you?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T09:30:33Z</updated>
+      <published>2026-09-01T09:30:33Z</published>
+    </entry>
+    <entry>
+      <title>DFIV: Still Leading Foreign Large Value</title>
+      <id>4941968</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941968-dfiv-still-leading-foreign-large-value?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T09:00:00Z</updated>
+      <published>2026-09-01T09:00:00Z</published>
+    </entry>
+    <entry>
+      <title>When Rates Begin To Bite</title>
+      <id>4942011</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942011-when-rates-begin-to-bite?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T08:20:00Z</updated>
+      <published>2026-09-01T08:20:00Z</published>
+    </entry>
+    <entry>
+      <title>ARGT: Downgrading After A Year That Started Stronger Than It&apos;s Ending</title>
+      <id>4941982</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941982-argt-downgrading-after-a-year-that-started-stronger-than-its-ending?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T05:39:54Z</updated>
+      <published>2026-09-01T05:39:54Z</published>
+    </entry>
+    <entry>
+      <title>SPHB: Very High Beta Means Strong Upside Capture But Weak Risk-Adjusted Returns, A Hold</title>
+      <id>4941954</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941954-sphb-very-high-beta-means-strong-upside-capture-but-weak-risk-adjusted-returns-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T01:31:17Z</updated>
+      <published>2026-09-01T01:31:17Z</published>
+    </entry>
+    <entry>
+      <title>Moving Averages Of The Ivy Portfolio And S&amp;P 500: August 2026</title>
+      <id>4941953</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941953-moving-averages-of-the-ivy-portfolio-and-s-and-p-500-august-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T00:20:00Z</updated>
+      <published>2026-09-01T00:20:00Z</published>
+    </entry>
+    <entry>
+      <title>How Stock Picking Can Compress The Path To A $1 Million Portfolio</title>
+      <id>4941943</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941943-how-stock-picking-can-compress-the-path-to-a-1-million-portfolio?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T00:06:38Z</updated>
+      <published>2026-09-01T00:06:38Z</published>
+    </entry>
+    <entry>
+      <title>How VFLO Beat S&amp;P 500 Returns Thanks To FCF Research</title>
+      <id>4941925</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941925-how-vflo-beat-s-and-p-500-returns-thanks-to-fcf-research?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-31T23:06:06Z</updated>
+      <published>2026-08-31T23:06:06Z</published>
+    </entry>
+    <entry>
+      <title>FDVV: A Great Dividend ETF I Wouldn&apos;t Chase Right Now</title>
+      <id>4941924</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941924-fdvv-a-great-dividend-etf-i-wouldnt-chase-right-now?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-31T22:54:45Z</updated>
+      <published>2026-08-31T22:54:45Z</published>
+    </entry>
+    <entry>
+      <title>RSPA: Extracting Income From The Equal-Weight S&amp;P 500 Via A 9% Distribution</title>
+      <id>4941923</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941923-rspa-extracting-income-from-the-equal-weight-s-and-p-500-via-a-9-percent-distribution?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-31T22:47:05Z</updated>
+      <published>2026-08-31T22:47:05Z</published>
+    </entry>
+    <entry>
+      <title>SCHR: Hawkish Consciousness At The Fed Seemingly Affirmed</title>
+      <id>4941916</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941916-schr-hawkish-consciousness-at-the-fed-seemingly-affirmed?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-31T22:10:01Z</updated>
+      <published>2026-08-31T22:10:01Z</published>
+    </entry>
+    <entry>
+      <title>FYX: Robust YTD Performance, But Weak Quality Amplifies Risks, It&apos;s A Hold Rating</title>
+      <id>4941909</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4941909-fyx-robust-ytd-performance-but-weak-quality-amplifies-risks-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-08-31T21:39:55Z</updated>
+      <published>2026-08-31T21:39:55Z</published>
+    </entry>
     <entry>
       <title>Activist Elliott builds stake in Air Liquide - FT (update)</title>
       <id>https://seekingalpha.com/MarketCurrent:4638471</id>
@@ -74,95 +158,11 @@
       <published>2026-08-31T14:40:00Z</published>
     </entry>
     <entry>
-      <title>FELG: Growth Is Poised To Form A Solid Uptrend Ahead, Value Momentum Could Fade</title>
-      <id>4941764</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941764-felg-growth-poised-form-solid-uptrend-ahead-value-momentum-could-fade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T14:07:21Z</updated>
-      <published>2026-08-31T14:07:21Z</published>
-    </entry>
-    <entry>
-      <title>XOVR: The ETF That Lets Retail Investors Bet On Private Unicorns</title>
-      <id>4941760</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941760-xovr-the-etf-that-lets-retail-investors-bet-on-private-unicorns?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T13:52:29Z</updated>
-      <published>2026-08-31T13:52:29Z</published>
-    </entry>
-    <entry>
-      <title>ELFY: Investing In The Inevitable Mismatch Between US Grid Supply And Demand</title>
-      <id>4941756</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941756-elfy-investing-in-the-inevitable-mismatch-between-us-grid-supply-and-demand?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T13:46:30Z</updated>
-      <published>2026-08-31T13:46:30Z</published>
-    </entry>
-    <entry>
       <title>Volkswagen faces fresh labor tensions over restructuring plans</title>
       <id>https://seekingalpha.com/MarketCurrent:4638223</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
       <updated>2026-08-31T13:39:20Z</updated>
       <published>2026-08-31T13:39:20Z</published>
-    </entry>
-    <entry>
-      <title>SDVY: Small/Mid-Cap Rising Dividend Achievers ETF Is A High-Quality Choice</title>
-      <id>4941751</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941751-sdvy-smallmid-cap-rising-dividend-achievers-etf-high-quality-choice?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T13:35:47Z</updated>
-      <published>2026-08-31T13:35:47Z</published>
-    </entry>
-    <entry>
-      <title>Two Covered Call ETFs Built To Weather The Sell-Off</title>
-      <id>4941701</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941701-two-covered-call-etfs-built-to-weather-the-sell-off?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T13:15:39Z</updated>
-      <published>2026-08-31T13:15:39Z</published>
-    </entry>
-    <entry>
-      <title>ACWX: Ex-US Stocks Appear Undervalued Relative To Earnings Potential</title>
-      <id>4941601</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941601-acwx-ex-us-stocks-appear-undervalued-relative-to-earnings-potential?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T12:30:00Z</updated>
-      <published>2026-08-31T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>VLUE: An Overlooked Value Play On The AI Boom</title>
-      <id>4941593</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941593-vlue-an-overlooked-value-play-on-the-ai-boom?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T12:25:00Z</updated>
-      <published>2026-08-31T12:25:00Z</published>
-    </entry>
-    <entry>
-      <title>VIGI: Ex-US Dividend Aristocrats Are Sneaky Strong</title>
-      <id>4941583</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941583-vigi-ex-us-dividend-aristocrats-are-sneaky-strong?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T12:00:00Z</updated>
-      <published>2026-08-31T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>COPX: The Copper Shortage Trade Has One Major Weakness</title>
-      <id>4941581</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941581-copx-the-copper-shortage-trade-has-one-major-weakness?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T12:00:00Z</updated>
-      <published>2026-08-31T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Small Cap Yes, But Only Those That Generate Cash: The SFLO Case</title>
-      <id>4941574</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941574-small-cap-yes-but-only-those-that-generate-cash-the-sflo-case?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T11:30:00Z</updated>
-      <published>2026-08-31T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>FLKR: Rotate Into Other Korean Value Plays</title>
-      <id>4941594</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941594-flkr-rotate-into-other-korean-value-plays?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T11:00:00Z</updated>
-      <published>2026-08-31T11:00:00Z</published>
-    </entry>
-    <entry>
-      <title>CIBR Fixed Everything I Complained About And Still Remains A Hold</title>
-      <id>4941578</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941578-cibr-fixed-everything-i-complained-about-and-still-remains-a-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-08-31T11:00:00Z</updated>
-      <published>2026-08-31T11:00:00Z</published>
     </entry>
     <entry>
       <title>Sea: A Multi-Front Growth Machine With Plenty Of Upside Left</title>
