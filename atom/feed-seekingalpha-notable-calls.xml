@@ -5,11 +5,74 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-01T18:19:22Z</updated>
+  <updated>2026-09-02T08:37:58Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>After Jackson Hole, Bonds No Longer Protect: It&apos;s Time For FOXY</title>
+      <id>4942310</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942310-after-jackson-hole-bonds-no-longer-protect-its-time-for-foxy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T08:37:58Z</updated>
+      <published>2026-09-02T08:37:58Z</published>
+    </entry>
+    <entry>
+      <title>Replenishment Is Extending The Defense Tech Earnings Runway</title>
+      <id>4942313</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942313-replenishment-extending-defense-tech-earnings-runway?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T08:00:00Z</updated>
+      <published>2026-09-02T08:00:00Z</published>
+    </entry>
+    <entry>
+      <title>Measuring USD Leveraged Loans For The Brazilian Market</title>
+      <id>4942306</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942306-measuring-usd-leveraged-loans-for-brazilian-market?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T07:30:00Z</updated>
+      <published>2026-09-02T07:30:00Z</published>
+    </entry>
+    <entry>
+      <title>Amplify Digital Payments ETF: There Are Many Reasons To Look Elsewhere</title>
+      <id>4942292</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942292-amplify-digital-payments-etf-there-are-many-reasons-to-look-elsewhere?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T06:51:48Z</updated>
+      <published>2026-09-02T06:51:48Z</published>
+    </entry>
+    <entry>
+      <title>Nokia set to rejoin Euro Stoxx 50 index as Volkswagen loses its spot</title>
+      <id>https://seekingalpha.com/MarketCurrent:4639261</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
+      <updated>2026-09-02T04:10:09Z</updated>
+      <published>2026-09-02T04:10:09Z</published>
+    </entry>
+    <entry>
+      <title>The Memory Wall And Next Leg Of The AI Story: The Connection Bottleneck</title>
+      <id>4942278</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942278-memory-wall-and-next-leg-of-ai-story-connection-bottleneck?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T03:20:00Z</updated>
+      <published>2026-09-02T03:20:00Z</published>
+    </entry>
+    <entry>
+      <title>TDAQ: A 17% Yielding Covered Call ETF Really Can Outperform QQQ, But Not In The Long Run</title>
+      <id>4942240</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942240-tdaq-a-17-percent-yielding-covered-call-etf-really-can-outperform-qqq-but-not-in-the-long-run?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T22:30:54Z</updated>
+      <published>2026-09-01T22:30:54Z</published>
+    </entry>
+    <entry>
+      <title>Sea Limited&apos;s Rally Still Has Legs - H2 2026 Macro Risks To Note</title>
+      <id>https://seekingalpha.com/Article:4942227</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942227-sea-limiteds-rally-still-has-legs-h2-2026-macro-risks-to-note?source=feed_symbol_SE"/>
+      <updated>2026-09-01T21:06:36Z</updated>
+      <published>2026-09-01T21:06:36Z</published>
+    </entry>
+    <entry>
+      <title>PFFR: Like All Duration Bets, Standing In The Way Of Inflation</title>
+      <id>4942224</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942224-pffr-like-all-duration-bets-standing-in-the-way-of-inflation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-01T21:03:37Z</updated>
+      <published>2026-09-01T21:03:37Z</published>
+    </entry>
     <entry>
       <title>August AAII Asset Allocation Survey: Bond Allocations Slip</title>
       <id>4942195</id>
@@ -81,7 +144,7 @@
       <published>2026-09-01T15:43:43Z</published>
     </entry>
     <entry>
-      <title>DIVO &amp; QDVO: The Options Strategies Are Not Alike</title>
+      <title>DIVO And QDVO: The Options Strategies Are Not Alike</title>
       <id>4942148</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4942148-divo-and-qdvo-the-options-strategies-are-not-alike?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-09-01T15:37:25Z</updated>
@@ -116,73 +179,10 @@
       <published>2026-09-01T12:29:42Z</published>
     </entry>
     <entry>
-      <title>DGRO: How This Solid Dividend Growth ETF Matches Up With SCHD, VIG, And VYM</title>
-      <id>4941927</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941927-dgro-how-this-solid-dividend-growth-etf-matches-up-with-schd-vig-and-vym?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T12:00:00Z</updated>
-      <published>2026-09-01T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>VCIT: Vanguard Corporate Bond ETFs Hits The Sweet Spot: Buy Rated</title>
-      <id>4941899</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941899-vcit-vanguard-corporate-bond-etfs-hits-the-sweet-spot-buy-rated?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T12:00:00Z</updated>
-      <published>2026-09-01T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>QQQI: The 14% Yield Hides What Investors Are Really Betting On</title>
-      <id>4942046</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942046-qqqi-the-14-percent-yield-hides-what-investors-are-really-betting-on?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T11:38:46Z</updated>
-      <published>2026-09-01T11:38:46Z</published>
-    </entry>
-    <entry>
-      <title>Urgent AI Defense Makes CIBR A Buy</title>
-      <id>4942043</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942043-urgent-ai-defense-makes-cibr-a-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T11:24:49Z</updated>
-      <published>2026-09-01T11:24:49Z</published>
-    </entry>
-    <entry>
-      <title>EWZ: A Brazilian Diversifier To Balance SPY&apos;s AI Risks</title>
-      <id>4942030</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942030-ewz-a-brazilian-diversifier-to-balance-spys-ai-risks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T10:36:38Z</updated>
-      <published>2026-09-01T10:36:38Z</published>
-    </entry>
-    <entry>
-      <title>FETH: The Only ETF That Qualifies For A &apos;Non-Coinbase&apos; Sleeve</title>
-      <id>4942026</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942026-feth-the-only-etf-that-qualifies-for-a-non-coinbase-sleeve?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T10:20:28Z</updated>
-      <published>2026-09-01T10:20:28Z</published>
-    </entry>
-    <entry>
-      <title>DUST: Jackson Hole Means &apos;Expect Hawkish Fed&apos; To Gold&apos;s Detriment</title>
-      <id>4942024</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942024-dust-jackson-hole-means-expect-hawkish-fed-to-golds-detriment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-01T10:04:50Z</updated>
-      <published>2026-09-01T10:04:50Z</published>
-    </entry>
-    <entry>
       <title>Activist Elliott builds stake in Air Liquide - FT (update)</title>
       <id>https://seekingalpha.com/MarketCurrent:4638471</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/AIQUY/news?source=feed_symbol_AIQUY"/>
       <updated>2026-08-31T21:19:21Z</updated>
       <published>2026-08-31T21:19:21Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen faces fresh labor tensions over restructuring plans</title>
-      <id>https://seekingalpha.com/MarketCurrent:4638223</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
-      <updated>2026-08-31T13:39:20Z</updated>
-      <published>2026-08-31T13:39:20Z</published>
-    </entry>
-    <entry>
-      <title>Sea: A Multi-Front Growth Machine With Plenty Of Upside Left</title>
-      <id>https://seekingalpha.com/Article:4941712</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4941712-sea-stock-multi-front-growth-machine-with-plenty-upside-left?source=feed_symbol_SE"/>
-      <updated>2026-08-31T10:38:15Z</updated>
-      <published>2026-08-31T10:38:15Z</published>
     </entry>
 </feed>
