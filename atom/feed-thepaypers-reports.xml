@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-08-27T00:00:00Z</updated>
+  <updated>2026-09-03T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Modernisation Without Disruption</title>
+      <id>https://thepaypers.com/fintech/reports/modernisation-without-disruption</id>
+      <link rel="alternate" href="https://thepaypers.com/fintech/reports/modernisation-without-disruption"/>
+      <updated>2026-09-03T00:00:00Z</updated>
+      <published>2026-09-03T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/BPC_Report_Modernisation_Without_Disruption.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/BPC_Report_Modernisation_Without_Disruption.jpg" alt="Modernisation Without Disruption"/><p>Modernisation Without Disruption</p>]]></content>
+    </entry>
     <entry>
       <title>Key Players In the EU Payments Landscape – 2026 Edition</title>
       <id>https://thepaypers.com/payments/reports/key-players-in-the-eu-payments-landscape-2026-edition</id>
@@ -54,6 +63,15 @@
       <published>2026-03-25T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png" alt="Global Stablecoins Report 2026"/><p>Global Stablecoins Report 2026</p>]]></content>
+    </entry>
+    <entry>
+      <title>Open Finance Report 2025</title>
+      <id>https://thepaypers.com/fintech/reports/open-finance-report-2025</id>
+      <link rel="alternate" href="https://thepaypers.com/fintech/reports/open-finance-report-2025"/>
+      <updated>2025-11-07T00:00:00Z</updated>
+      <published>2025-11-07T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png" alt="Open Finance Report 2025"/><p>Open Finance Report 2025</p>]]></content>
     </entry>
     <entry>
       <title>Web 3 Payment Acceptance Report 2025</title>
