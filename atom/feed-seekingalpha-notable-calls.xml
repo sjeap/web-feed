@@ -5,11 +5,81 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-02T19:15:50Z</updated>
+  <updated>2026-09-03T07:56:27Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>UTF: 3 Things Happening Under The Hood</title>
+      <id>4942648</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942648-utf-3-things-happening-under-the-hood?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T07:56:27Z</updated>
+      <published>2026-09-03T07:56:27Z</published>
+    </entry>
+    <entry>
+      <title>FXU: The Right Fund From A Beaten Down Sector</title>
+      <id>4942644</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942644-fxu-the-right-fund-from-a-beaten-down-sector?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T07:52:18Z</updated>
+      <published>2026-09-03T07:52:18Z</published>
+    </entry>
+    <entry>
+      <title>Asia AI ETF KAIT: Investing Across Shifting AI Bottlenecks, From HBM To Photonics To MLCCs And PCBs</title>
+      <id>4942643</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942643-asia-ai-etf-kait-investing-across-shifting-bottlenecks-hbm-photonics-mlccs-pcbs?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T07:49:00Z</updated>
+      <published>2026-09-03T07:49:00Z</published>
+    </entry>
+    <entry>
+      <title>AGIX Vs. CHAT: I&apos;m Buying The Loser</title>
+      <id>4942638</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942638-agix-vs-chat-im-buying-the-loser?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T07:36:37Z</updated>
+      <published>2026-09-03T07:36:37Z</published>
+    </entry>
+    <entry>
+      <title>Nvidia Q2 FY27 Earnings Call: What It Means For SMH</title>
+      <id>4942623</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942623-nvidia-q2-fy27-earnings-call-what-it-means-for-smh?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T06:50:00Z</updated>
+      <published>2026-09-03T06:50:00Z</published>
+    </entry>
+    <entry>
+      <title>Turn Investment Ideas Into Actions For The Second Half Of 2026: Outlook Implementation Guide</title>
+      <id>4942617</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942617-turn-investment-ideas-into-actions-for-second-half-2026-outlook-implementation-guide?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T05:30:00Z</updated>
+      <published>2026-09-03T05:30:00Z</published>
+    </entry>
+    <entry>
+      <title>U.S. Small-Cap Equities - Why Now May Be The Moment To Lean In</title>
+      <id>4942605</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942605-us-small-cap-equities-why-now-may-be-the-moment-to-lean-in?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T03:50:00Z</updated>
+      <published>2026-09-03T03:50:00Z</published>
+    </entry>
+    <entry>
+      <title>RFI: A Discount Worth Buying After The Turn (Rating Upgrade)</title>
+      <id>4942593</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942593-rfi-cef-discount-worth-buying-after-turn-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T03:08:32Z</updated>
+      <published>2026-09-03T03:08:32Z</published>
+    </entry>
+    <entry>
+      <title>UTF: The 7.3% Yield Comes With A New AI Power Risk</title>
+      <id>4942538</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942538-utf-the-7-3-percent-yield-comes-with-a-new-ai-power-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T22:36:00Z</updated>
+      <published>2026-09-02T22:36:00Z</published>
+    </entry>
+    <entry>
+      <title>MLPI: The Midstream Income Strategy Attracts Me</title>
+      <id>4942517</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942517-mlpi-midstream-income-strategy-attracts-me?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-02T19:43:28Z</updated>
+      <published>2026-09-02T19:43:28Z</published>
+    </entry>
     <entry>
       <title>PFFD: Same Risks Of Ultra-Long Duration</title>
       <id>4942511</id>
@@ -95,81 +165,11 @@
       <published>2026-09-02T14:59:42Z</published>
     </entry>
     <entry>
-      <title>RQI: 3 Things Happening Under The Hood</title>
-      <id>4942406</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942406-rqi-three-things-happening-under-the-hood?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T14:02:50Z</updated>
-      <published>2026-09-02T14:02:50Z</published>
-    </entry>
-    <entry>
-      <title>BUI: An Income Investor&apos;s Way To Play The AI Bottlenecks Game</title>
-      <id>4942401</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942401-bui-an-income-investors-way-to-play-the-ai-bottlenecks-game?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T13:55:35Z</updated>
-      <published>2026-09-02T13:55:35Z</published>
-    </entry>
-    <entry>
       <title>Taiwan Semi, GlobalFoundries, Tower Semi in focus as Stifel starts with Buy rating</title>
       <id>https://seekingalpha.com/MarketCurrent:4639442</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
       <updated>2026-09-02T13:18:39Z</updated>
       <published>2026-09-02T13:18:39Z</published>
-    </entry>
-    <entry>
-      <title>UTG: Rate Hike Fears Have Created A Buy-The-Dip Opportunity</title>
-      <id>4942345</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942345-utg-rate-hike-fears-have-created-a-buy-the-dip-opportunity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T12:30:47Z</updated>
-      <published>2026-09-02T12:30:47Z</published>
-    </entry>
-    <entry>
-      <title>China Semiconductors: The Investment Gap</title>
-      <id>4942363</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942363-china-semiconductors-investment-gap?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T11:00:00Z</updated>
-      <published>2026-09-02T11:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Why Brazil? Why BRAZ?</title>
-      <id>4942353</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942353-why-brazil-why-braz?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T10:30:00Z</updated>
-      <published>2026-09-02T10:30:00Z</published>
-    </entry>
-    <entry>
-      <title>GCOW: Global Dividends Assured By Free Cash Flow</title>
-      <id>4942336</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942336-gcow-global-dividends-assured-by-free-cash-flow?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T10:11:51Z</updated>
-      <published>2026-09-02T10:11:51Z</published>
-    </entry>
-    <entry>
-      <title>After Jackson Hole, Bonds No Longer Protect: It&apos;s Time For FOXY</title>
-      <id>4942310</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942310-after-jackson-hole-bonds-no-longer-protect-its-time-for-foxy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T08:37:58Z</updated>
-      <published>2026-09-02T08:37:58Z</published>
-    </entry>
-    <entry>
-      <title>Replenishment Is Extending The Defense Tech Earnings Runway</title>
-      <id>4942313</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942313-replenishment-extending-defense-tech-earnings-runway?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T08:00:00Z</updated>
-      <published>2026-09-02T08:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Measuring USD Leveraged Loans For The Brazilian Market</title>
-      <id>4942306</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942306-measuring-usd-leveraged-loans-for-brazilian-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T07:30:00Z</updated>
-      <published>2026-09-02T07:30:00Z</published>
-    </entry>
-    <entry>
-      <title>Amplify Digital Payments ETF: There Are Many Reasons To Look Elsewhere</title>
-      <id>4942292</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942292-amplify-digital-payments-etf-there-are-many-reasons-to-look-elsewhere?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T06:51:48Z</updated>
-      <published>2026-09-02T06:51:48Z</published>
     </entry>
     <entry>
       <title>Nokia set to rejoin Euro Stoxx 50 index as Volkswagen loses its spot</title>
