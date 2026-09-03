@@ -5,17 +5,33 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-09-02T12:44:20Z</updated>
+  <updated>2026-09-03T11:44:23Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>BioNTech-Aktie: Diese Daten könnten die Wende bringen</title>
-      <id>https://www.sharedeals.de/biontech-aktie-diese-daten-koennten-die-wende-bringen/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/biontech-aktie-diese-daten-koennten-die-wende-bringen/"/>
-      <updated>2026-09-02T12:44:20Z</updated>
-      <published>2026-09-02T12:44:20Z</published>
+      <title>Alumis-Aktie: No Brainer Club feiert zweistellige Kursgewinne zum Start</title>
+      <id>https://www.sharedeals.de/alumis-aktie-no-brainer-club-feiert-zweistellige-kursgewinne-zum-start/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/alumis-aktie-no-brainer-club-feiert-zweistellige-kursgewinne-zum-start/"/>
+      <updated>2026-09-03T11:44:23Z</updated>
+      <published>2026-09-03T11:44:23Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/nbc_max_ruth-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/nbc_max_ruth-540x350.jpg" alt="Smiling man in a navy polo stands next to a wall-mounted screen displaying the blue &#039;no brainer club&#039; logo and slogan: Real Experts, Real Profits."/><p>Alumis-Aktie: No Brainer Club feiert zweistellige Kursgewinne zum Start</p>]]></content>
+    </entry>
+    <entry>
+      <title>Valneva-Aktie: Analysten sehen über +150% Potenzial</title>
+      <id>https://www.sharedeals.de/valneva-aktie-analysten-trauen-ihr-ueber-150-zu/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/valneva-aktie-analysten-trauen-ihr-ueber-150-zu/"/>
+      <updated>2026-09-03T06:37:47Z</updated>
+      <published>2026-09-03T06:37:47Z</published>
+    </entry>
+    <entry>
+      <title>Almonty-Aktie: Droht jetzt die nächste Korrektur?</title>
+      <id>https://www.sharedeals.de/almonty-aktie-droht-jetzt-die-naechste-korrektur/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-droht-jetzt-die-naechste-korrektur/"/>
+      <updated>2026-09-03T04:20:29Z</updated>
+      <published>2026-09-03T04:20:29Z</published>
     </entry>
     <entry>
       <title>Almonty-Aktie: Dieser Kursanstieg könnte erst der Anfang sein</title>
@@ -23,13 +39,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-dieser-kursanstieg-koennte-erst-der-anfang-sein/"/>
       <updated>2026-09-02T11:16:02Z</updated>
       <published>2026-09-02T11:16:02Z</published>
-    </entry>
-    <entry>
-      <title>BYD-Aktie: Rekordzahlen verpuffen – was läuft hier schief?</title>
-      <id>https://www.sharedeals.de/byd-aktie-rekordzahlen-verpuffen-was-laeuft-hier-schief/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/byd-aktie-rekordzahlen-verpuffen-was-laeuft-hier-schief/"/>
-      <updated>2026-09-02T10:22:45Z</updated>
-      <published>2026-09-02T10:22:45Z</published>
     </entry>
     <entry>
       <title>Energy Transfer-Aktie +30% und Dividende: Unser Top-Tipp entwickelt sich prächtig</title>
@@ -71,14 +80,5 @@
       <published>2026-08-19T14:43:30Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/05/happytrader-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/05/happytrader-540x350.jpg" alt="Smiling man in a green shirt seated at a desk with a monitor displaying stock charts and trading data, in a bright office."/><p>BioNTech-Aktie: No Brainer Club realisiert +15% innerhalb weniger Stunden</p>]]></content>
-    </entry>
-    <entry>
-      <title>Moderna-Aktie knallt +400% nach sharedeals.de-Empfehlung</title>
-      <id>https://www.sharedeals.de/moderna-aktie-knallt-400-nach-sharedeals-de-empfehlung/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/moderna-aktie-knallt-400-nach-sharedeals-de-empfehlung/"/>
-      <updated>2026-08-19T14:04:11Z</updated>
-      <published>2026-08-19T14:04:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/09/wall_street_success_party-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/09/wall_street_success_party-540x350.jpg" alt="Moderna-Aktie knallt +400% nach sharedeals.de-Empfehlung"/><p>Moderna-Aktie knallt +400% nach sharedeals.de-Empfehlung</p>]]></content>
     </entry>
 </feed>
