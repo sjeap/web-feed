@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-03T19:03:06Z</updated>
+  <updated>2026-09-04T08:40:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Software Rebound Extends Moat Index Gains</title>
+      <id>4943053</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943053-software-rebound-extends-moat-index-gains?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T08:40:00Z</updated>
+      <published>2026-09-04T08:40:00Z</published>
+    </entry>
+    <entry>
+      <title>BTCI&apos;s 38% Yield Didn&apos;t Convince Me; YBTC&apos;s 70% Doesn&apos;t Either</title>
+      <id>4943030</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943030-btcis-38-percent-yield-didnt-convince-me-ybtcs-70-percent-doesnt-either?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T08:01:34Z</updated>
+      <published>2026-09-04T08:01:34Z</published>
+    </entry>
+    <entry>
+      <title>PDI: Too Cheap To Sell, Too Risky To Buy</title>
+      <id>4943017</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943017-pdi-too-cheap-to-sell-too-risky-to-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T07:29:05Z</updated>
+      <published>2026-09-04T07:29:05Z</published>
+    </entry>
+    <entry>
+      <title>TCW High Yield Bond ETF Q2 2026 Commentary</title>
+      <id>4943032</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943032-tcw-high-yield-bond-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T07:10:00Z</updated>
+      <published>2026-09-04T07:10:00Z</published>
+    </entry>
+    <entry>
+      <title>Why EM Ex-China? Why EMM?</title>
+      <id>4943000</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943000-why-em-ex-china-why-emm?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T05:10:00Z</updated>
+      <published>2026-09-04T05:10:00Z</published>
+    </entry>
+    <entry>
+      <title>Humanoid Robot ETF KOID: Did We Just Witness A &apos;Move 37&apos; Moment For Physical AI?</title>
+      <id>4942999</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942999-humanoid-robot-etf-koid-did-we-just-witness-move-37-moment-for-physical-ai?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T05:00:00Z</updated>
+      <published>2026-09-04T05:00:00Z</published>
+    </entry>
+    <entry>
+      <title>CLOZ: Rate Hikes Would Be Good News For This Fund</title>
+      <id>4942982</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942982-cloz-rate-hikes-would-be-good-news-for-this-cef?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T02:51:25Z</updated>
+      <published>2026-09-04T02:51:25Z</published>
+    </entry>
+    <entry>
+      <title>RPV: Strong YTD Returns But Persistently Weak Quality Looms</title>
+      <id>4942980</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942980-rpv-etf-strong-ytd-returns-but-persistently-weak-quality-looms?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-04T02:23:53Z</updated>
+      <published>2026-09-04T02:23:53Z</published>
+    </entry>
+    <entry>
+      <title>Harbor Long-Term Growers ETF Q2 2026 Commentary</title>
+      <id>4942958</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942958-harbor-long-term-growers-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T23:25:00Z</updated>
+      <published>2026-09-03T23:25:00Z</published>
+    </entry>
+    <entry>
+      <title>Volkswagen expands restructuring drive with 50,000 additional job cuts</title>
+      <id>https://seekingalpha.com/MarketCurrent:4640126</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
+      <updated>2026-09-03T19:44:06Z</updated>
+      <published>2026-09-03T19:44:06Z</published>
+    </entry>
+    <entry>
+      <title>3 Factors Lead Me To Maintain My Buy Recommendation On PDBA</title>
+      <id>4942898</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4942898-3-factors-lead-me-to-maintain-my-buy-recommendation-on-pdba?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-03T19:24:36Z</updated>
+      <published>2026-09-03T19:24:36Z</published>
+    </entry>
     <entry>
       <title>GSY: Low Duration Doesn&apos;t Protect Against Credit Widening</title>
       <id>4942893</id>
@@ -88,76 +165,6 @@
       <published>2026-09-03T10:29:44Z</published>
     </entry>
     <entry>
-      <title>MLPI: The 15% Distribution Comes At The Wrong Time</title>
-      <id>4942676</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942676-mlpi-the-15-percent-distribution-comes-at-the-wrong-time?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T09:51:57Z</updated>
-      <published>2026-09-03T09:51:57Z</published>
-    </entry>
-    <entry>
-      <title>UTF: 3 Things Happening Under The Hood</title>
-      <id>4942648</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942648-utf-3-things-happening-under-the-hood?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T07:56:27Z</updated>
-      <published>2026-09-03T07:56:27Z</published>
-    </entry>
-    <entry>
-      <title>FXU: The Right Fund From A Beaten Down Sector</title>
-      <id>4942644</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942644-fxu-the-right-fund-from-a-beaten-down-sector?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T07:52:18Z</updated>
-      <published>2026-09-03T07:52:18Z</published>
-    </entry>
-    <entry>
-      <title>Asia AI ETF KAIT: Investing Across Shifting AI Bottlenecks, From HBM To Photonics To MLCCs And PCBs</title>
-      <id>4942643</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942643-asia-ai-etf-kait-investing-across-shifting-bottlenecks-hbm-photonics-mlccs-pcbs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T07:49:00Z</updated>
-      <published>2026-09-03T07:49:00Z</published>
-    </entry>
-    <entry>
-      <title>AGIX Vs. CHAT: I&apos;m Buying The Loser</title>
-      <id>4942638</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942638-agix-vs-chat-im-buying-the-loser?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T07:36:37Z</updated>
-      <published>2026-09-03T07:36:37Z</published>
-    </entry>
-    <entry>
-      <title>Nvidia Q2 FY27 Earnings Call: What It Means For SMH</title>
-      <id>4942623</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942623-nvidia-q2-fy27-earnings-call-what-it-means-for-smh?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T06:50:00Z</updated>
-      <published>2026-09-03T06:50:00Z</published>
-    </entry>
-    <entry>
-      <title>Turn Investment Ideas Into Actions For The Second Half Of 2026: Outlook Implementation Guide</title>
-      <id>4942617</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942617-turn-investment-ideas-into-actions-for-second-half-2026-outlook-implementation-guide?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T05:30:00Z</updated>
-      <published>2026-09-03T05:30:00Z</published>
-    </entry>
-    <entry>
-      <title>U.S. Small-Cap Equities - Why Now May Be The Moment To Lean In</title>
-      <id>4942605</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942605-us-small-cap-equities-why-now-may-be-the-moment-to-lean-in?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T03:50:00Z</updated>
-      <published>2026-09-03T03:50:00Z</published>
-    </entry>
-    <entry>
-      <title>RFI: A Discount Worth Buying After The Turn (Rating Upgrade)</title>
-      <id>4942593</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942593-rfi-cef-discount-worth-buying-after-turn-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-03T03:08:32Z</updated>
-      <published>2026-09-03T03:08:32Z</published>
-    </entry>
-    <entry>
-      <title>UTF: The 7.3% Yield Comes With A New AI Power Risk</title>
-      <id>4942538</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4942538-utf-the-7-3-percent-yield-comes-with-a-new-ai-power-risk?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-02T22:36:00Z</updated>
-      <published>2026-09-02T22:36:00Z</published>
-    </entry>
-    <entry>
       <title>Tempus AI gains as Cantor issues new Overweight on Data and applications segment</title>
       <id>https://seekingalpha.com/MarketCurrent:4639537</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
@@ -170,13 +177,6 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
       <updated>2026-09-02T13:18:39Z</updated>
       <published>2026-09-02T13:18:39Z</published>
-    </entry>
-    <entry>
-      <title>Nokia set to rejoin Euro Stoxx 50 index as Volkswagen loses its spot</title>
-      <id>https://seekingalpha.com/MarketCurrent:4639261</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
-      <updated>2026-09-02T04:10:09Z</updated>
-      <published>2026-09-02T04:10:09Z</published>
     </entry>
     <entry>
       <title>Sea Limited&apos;s Rally Still Has Legs - H2 2026 Macro Risks To Note</title>
