@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-09-01T16:18:43Z</updated>
+  <updated>2026-09-04T13:06:56Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>60 Quadratmeter in New York: So schuf sich ein junger Schauspieler ein farbenfrohes Zuhause in Manhattan</title>
+      <id>https://www.ad-magazin.de/artikel/kleine-wohnung-so-schuf-sich-ein-schauspieler-auf-nur-60-quadratmetern-ein-farbenfrohes-zuhause</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/kleine-wohnung-so-schuf-sich-ein-schauspieler-auf-nur-60-quadratmetern-ein-farbenfrohes-zuhause"/>
+      <updated>2026-09-04T13:06:56Z</updated>
+      <published>2026-09-04T13:06:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a95210fe8a577bac06e3713/1:1/w_354%2Cc_limit/SC2633_0717_213.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a95210fe8a577bac06e3713/1:1/w_354%2Cc_limit/SC2633_0717_213.jpg" alt="60 Quadratmeter in New York: So schuf sich ein junger Schauspieler ein farbenfrohes Zuhause in Manhattan"/><p>60 Quadratmeter in New York: So schuf sich ein junger Schauspieler ein farbenfrohes Zuhause in Manhattan</p>]]></content>
+    </entry>
     <entry>
       <title>Kleine Wohnung in Paris: Wie minimalistische Eleganz und rustikales Flair auf kleinstem Raum verschmelzen</title>
       <id>https://www.ad-magazin.de/artikel/kleine-wohnung-in-paris-minimalistische-eleganz-trifft-rustikales-flair</id>
@@ -180,14 +189,5 @@
       <published>2026-06-14T05:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a1593df9d493a42ca799c83/1:1/w_354%2Cc_limit/NUMERO10%2520_%2520Casa%2520LB%2520(27).jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a1593df9d493a42ca799c83/1:1/w_354%2Cc_limit/NUMERO10%2520_%2520Casa%2520LB%2520(27).jpg" alt="Weiß, Rot und ein Spritzer Blau: So wurde diese kleine Altbauwohnung in Mailand mit Farbakzenten neu belebt"/><p>Weiß, Rot und ein Spritzer Blau: So wurde diese kleine Altbauwohnung in Mailand mit Farbakzenten neu belebt</p>]]></content>
-    </entry>
-    <entry>
-      <title>60 Quadratmeter im Frankfurter Nordend: Wie aus einer Zahnarztpraxis eine kleine Wohnung mit cleverem Grundriss wurde</title>
-      <id>https://www.ad-magazin.de/artikel/60-quadratmeter-wohnung-frankfurt</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/60-quadratmeter-wohnung-frankfurt"/>
-      <updated>2026-06-09T18:48:09Z</updated>
-      <published>2026-06-09T18:48:09Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/698ee61a4e9b6e485fb2dafc/1:1/w_354%2Cc_limit/Bo%25CC%2588ttger%2520Ku%25CC%2588che%2520Flur_JVL16939%25202_300px.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/698ee61a4e9b6e485fb2dafc/1:1/w_354%2Cc_limit/Bo%25CC%2588ttger%2520Ku%25CC%2588che%2520Flur_JVL16939%25202_300px.jpg" alt="60 Quadratmeter im Frankfurter Nordend: Wie aus einer Zahnarztpraxis eine kleine Wohnung mit cleverem Grundriss wurde"/><p>60 Quadratmeter im Frankfurter Nordend: Wie aus einer Zahnarztpraxis eine kleine Wohnung mit cleverem Grundriss wurde</p>]]></content>
     </entry>
 </feed>
