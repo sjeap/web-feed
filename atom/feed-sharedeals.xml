@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-09-03T11:44:23Z</updated>
+  <updated>2026-09-03T15:52:45Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>XRP-Kurs meldet sich zurück – reicht die Kraft für das nächste Hoch?</title>
+      <id>https://www.sharedeals.de/xrp-kurs-meldet-sich-zurueck-reicht-die-kraft-fuer-das-naechste-hoch/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/xrp-kurs-meldet-sich-zurueck-reicht-die-kraft-fuer-das-naechste-hoch/"/>
+      <updated>2026-09-03T15:52:45Z</updated>
+      <published>2026-09-03T15:52:45Z</published>
+    </entry>
     <entry>
       <title>Alumis-Aktie: No Brainer Club feiert zweistellige Kursgewinne zum Start</title>
       <id>https://www.sharedeals.de/alumis-aktie-no-brainer-club-feiert-zweistellige-kursgewinne-zum-start/</id>
@@ -55,13 +62,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-bricht-weiter-ein-drohen-jetzt-weitere-20/"/>
       <updated>2026-09-01T05:57:03Z</updated>
       <published>2026-09-01T05:57:03Z</published>
-    </entry>
-    <entry>
-      <title>Siemens Energy-Aktie -4%: Rücksetzer als neue Chance?</title>
-      <id>https://www.sharedeals.de/siemens-energy-aktie-4-ruecksetzer-als-neue-chance/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/siemens-energy-aktie-4-ruecksetzer-als-neue-chance/"/>
-      <updated>2026-08-31T12:28:32Z</updated>
-      <published>2026-08-31T12:28:32Z</published>
     </entry>
     <entry>
       <title>Kinross Gold-Aktie: +41% nach Kauftipp in 2 Monaten</title>
