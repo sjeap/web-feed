@@ -5,17 +5,19 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-09-03T15:52:45Z</updated>
+  <updated>2026-09-04T09:20:09Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>XRP-Kurs meldet sich zurück – reicht die Kraft für das nächste Hoch?</title>
-      <id>https://www.sharedeals.de/xrp-kurs-meldet-sich-zurueck-reicht-die-kraft-fuer-das-naechste-hoch/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/xrp-kurs-meldet-sich-zurueck-reicht-die-kraft-fuer-das-naechste-hoch/"/>
-      <updated>2026-09-03T15:52:45Z</updated>
-      <published>2026-09-03T15:52:45Z</published>
+      <title>Microsoft-Aktie: +43% seit Kauftipp in unter 10 Wochen</title>
+      <id>https://www.sharedeals.de/microsoft-aktie-43-seit-kauftipp-in-unter-10-wochen/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/microsoft-aktie-43-seit-kauftipp-in-unter-10-wochen/"/>
+      <updated>2026-09-04T09:20:09Z</updated>
+      <published>2026-09-04T09:20:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/trader_chilled-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/trader_chilled-540x350.jpg" alt="Person in a blue shirt sits back in a chair with hands behind their head, facing two monitors showing stock market charts a trading desk scene."/><p>Microsoft-Aktie: +43% seit Kauftipp in unter 10 Wochen</p>]]></content>
     </entry>
     <entry>
       <title>Alumis-Aktie: No Brainer Club feiert zweistellige Kursgewinne zum Start</title>
@@ -48,6 +50,13 @@
       <published>2026-09-02T11:16:02Z</published>
     </entry>
     <entry>
+      <title>Rheinmetall-Aktie: Wird das alles verändern?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-wird-das-alles-veraendern/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-wird-das-alles-veraendern/"/>
+      <updated>2026-09-02T09:46:41Z</updated>
+      <published>2026-09-02T09:46:41Z</published>
+    </entry>
+    <entry>
       <title>Energy Transfer-Aktie +30% und Dividende: Unser Top-Tipp entwickelt sich prächtig</title>
       <id>https://www.sharedeals.de/energy-transfer-aktie-30-und-dividende-unser-top-tipp-entwickelt-sich-praechtig/</id>
       <link rel="alternate" href="https://www.sharedeals.de/energy-transfer-aktie-30-und-dividende-unser-top-tipp-entwickelt-sich-praechtig/"/>
@@ -71,14 +80,5 @@
       <published>2026-08-27T06:12:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2025/01/Barrick_Gold_AdobeStock_948497324-540x350.jpeg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2025/01/Barrick_Gold_AdobeStock_948497324-540x350.jpeg" alt="gold stock investment chart financial business wealth currency banking golden bar analysis rate concept."/><p>Kinross Gold-Aktie: +41% nach Kauftipp in 2 Monaten</p>]]></content>
-    </entry>
-    <entry>
-      <title>BioNTech-Aktie: No Brainer Club realisiert +15% innerhalb weniger Stunden</title>
-      <id>https://www.sharedeals.de/biontech-aktie-no-brainer-club-realisiert-15-innerhalb-weniger-stunden/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/biontech-aktie-no-brainer-club-realisiert-15-innerhalb-weniger-stunden/"/>
-      <updated>2026-08-19T14:43:30Z</updated>
-      <published>2026-08-19T14:43:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/05/happytrader-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/05/happytrader-540x350.jpg" alt="Smiling man in a green shirt seated at a desk with a monitor displaying stock charts and trading data, in a bright office."/><p>BioNTech-Aktie: No Brainer Club realisiert +15% innerhalb weniger Stunden</p>]]></content>
     </entry>
 </feed>
