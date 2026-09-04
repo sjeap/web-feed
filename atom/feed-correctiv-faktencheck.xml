@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-08-31T00:00:00Z</updated>
+  <updated>2026-09-04T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Angeblicher Angriff auf Ulrich Siegmunds Büro ist fast zehn Jahre her</title>
+      <id>https://correctiv.org/faktencheck/2026/09/04/angeblicher-angriff-auf-siegmund-jahre-her/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/04/angeblicher-angriff-auf-siegmund-jahre-her/"/>
+      <updated>2026-09-04T00:00:00Z</updated>
+      <published>2026-09-04T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/Ulrich-Siegmund-Picture-Alliance-20260904-scaled-e1788529995734.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/Ulrich-Siegmund-Picture-Alliance-20260904-scaled-e1788529995734.jpg" alt="Angeblicher Angriff auf Ulrich Siegmunds Büro ist fast zehn Jahre her"/><p>Angeblicher Angriff auf Ulrich Siegmunds Büro ist fast zehn Jahre her</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nein, Sven Schulze kündigte nicht an, die Wahl in Sachsen-Anhalt zu blockieren</title>
+      <id>https://correctiv.org/faktencheck/2026/09/04/schulze-kuendigte-nicht-an-wahl-sachsen-anhalt-zu-blockieren/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/04/schulze-kuendigte-nicht-an-wahl-sachsen-anhalt-zu-blockieren/"/>
+      <updated>2026-09-04T00:00:00Z</updated>
+      <published>2026-09-04T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/Symbolbild-Sven-Schulze-Picture-Alliance-20260904-scaled-e1788524703763.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/Symbolbild-Sven-Schulze-Picture-Alliance-20260904-scaled-e1788524703763.jpg" alt="Nein, Sven Schulze kündigte nicht an, die Wahl in Sachsen-Anhalt zu blockieren"/><p>Nein, Sven Schulze kündigte nicht an, die Wahl in Sachsen-Anhalt zu blockieren</p>]]></content>
+    </entry>
+    <entry>
+      <title>Einflussnahme auf Landtagswahlen: Diese russischen Bots erreichen fast niemanden</title>
+      <id>https://correctiv.org/hybride-kriegsfuehrung/2026/09/04/einflussnahme-auf-landtagswahlen-diese-russischen-bots-erreichen-fast-niemanden/</id>
+      <link rel="alternate" href="https://correctiv.org/hybride-kriegsfuehrung/2026/09/04/einflussnahme-auf-landtagswahlen-diese-russischen-bots-erreichen-fast-niemanden/"/>
+      <updated>2026-09-04T00:00:00Z</updated>
+      <published>2026-09-04T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/matrjoschka-russland-landtagswahlen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/matrjoschka-russland-landtagswahlen.jpg" alt="Einflussnahme auf Landtagswahlen: Diese russischen Bots erreichen fast niemanden"/><p>Einflussnahme auf Landtagswahlen: Diese russischen Bots erreichen fast niemanden</p>]]></content>
+    </entry>
     <entry>
       <title>Historische Bilder von Niedrigwasser der Elbe sind kein Gegenbeweis zum Klimawandel</title>
       <id>https://correctiv.org/faktencheck/2026/08/31/historisches-niedrigwasser-der-elbe-kein-gegenbeweis-zu-klimawandel/</id>
@@ -207,32 +234,5 @@
       <published>2026-07-29T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/roboter-kung-fu-china-philippinen.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/roboter-kung-fu-china-philippinen.jpg" alt="Ausschnitt aus dem Video, das den durchgedrehten Roboter zeigen soll"/><p>Roboter greift Menschen an: Video ist inszeniert</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video zeigt nicht Angriff auf den CSD in Berlin, sondern Salsa-Festival in Kanada</title>
-      <id>https://correctiv.org/faktencheck/2026/07/28/video-zeigt-nicht-angriff-auf-den-csd-in-berlin-sondern-salsa-festival-in-kanada/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/28/video-zeigt-nicht-angriff-auf-den-csd-in-berlin-sondern-salsa-festival-in-kanada/"/>
-      <updated>2026-07-28T00:00:00Z</updated>
-      <published>2026-07-28T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/csd-berlin-attentat-angriff-scaled-e1785248574318.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/csd-berlin-attentat-angriff-scaled-e1785248574318.jpg" alt="Bei einem Angriff auf ein Salsa-Festival in Toronto, Kanada, wurden zwei Menschen getötet. Online wird ein Video, das in diesem Kontext entstand, fälschlich als Video vom CSD in Berlin ausgegeben."/><p>Video zeigt nicht Angriff auf den CSD in Berlin, sondern Salsa-Festival in Kanada</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nein, diese Studien belegen nicht, dass die Grippe-Impfung von Kleinkindern „völlig wirkungslos“ ist</title>
-      <id>https://correctiv.org/faktencheck/2026/07/27/nein-diese-studien-belegen-nicht-dass-die-grippe-impfung-von-kleinkindern-voellig-wirkungslos-ist/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/27/nein-diese-studien-belegen-nicht-dass-die-grippe-impfung-von-kleinkindern-voellig-wirkungslos-ist/"/>
-      <updated>2026-07-27T00:00:00Z</updated>
-      <published>2026-07-27T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/grippe-impfung-tkp-influenza-scaled.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/grippe-impfung-tkp-influenza-scaled.jpg" alt="Der österreichische Blog TKP stellt Grippe-Impfungen als „völlig wirkungslos“ dar, verzerrt dabei aber Studienergebnisse"/><p>Nein, diese Studien belegen nicht, dass die Grippe-Impfung von Kleinkindern „völlig wirkungslos“ ist</p>]]></content>
-    </entry>
-    <entry>
-      <title>New Yorker Bürgermeister Mamdani: Studie zu Millionären wird falsch wiedergegeben</title>
-      <id>https://correctiv.org/faktencheck/2026/07/27/new-yorker-buergermeister-mamdani-studie-zu-millionaeren-wird-falsch-wiedergegeben/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/27/new-yorker-buergermeister-mamdani-studie-zu-millionaeren-wird-falsch-wiedergegeben/"/>
-      <updated>2026-07-27T00:00:00Z</updated>
-      <published>2026-07-27T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/mamdani-millionaere-new-york-e1785159864771.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/mamdani-millionaere-new-york-e1785159864771.jpg" alt="New Yorker Bürgermeister Mamdani: Studie zu Millionären wird falsch wiedergegeben"/><p>New Yorker Bürgermeister Mamdani: Studie zu Millionären wird falsch wiedergegeben</p>]]></content>
     </entry>
 </feed>
