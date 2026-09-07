@@ -5,11 +5,67 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-07T08:54:42Z</updated>
+  <updated>2026-09-07T19:20:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>H1 2026 + 4%/+14%, Very Disappointing</title>
+      <id>4943608</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943608-h1-2026-plus-4-percent-plus-14-percent-very-disappointing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-07T19:20:00Z</updated>
+      <published>2026-09-07T19:20:00Z</published>
+    </entry>
+    <entry>
+      <title>Volkswagen: Earnings Review With An Eye On 2026-2028E</title>
+      <id>https://seekingalpha.com/Article:4943581</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943581-volkswagen-earnings-review-with-eye-on-2026minus-2028e?source=feed_symbol_VWAGY"/>
+      <updated>2026-09-07T15:38:20Z</updated>
+      <published>2026-09-07T15:38:20Z</published>
+    </entry>
+    <entry>
+      <title>NLR: The Nuclear Bull Case Just Got Another Catalyst</title>
+      <id>4943572</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943572-nlr-etf-nuclear-bull-case-just-got-another-catalyst?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-07T14:52:54Z</updated>
+      <published>2026-09-07T14:52:54Z</published>
+    </entry>
+    <entry>
+      <title>Investing Myths Dismantled (Chapter 4 Of 5)</title>
+      <id>4943571</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943571-investing-myths-dismantled-chapter-4-5?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-07T14:51:00Z</updated>
+      <published>2026-09-07T14:51:00Z</published>
+    </entry>
+    <entry>
+      <title>IVLU: A Value Leader With A Few Rivals</title>
+      <id>4943560</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943560-ivlu-value-leader-with-a-few-rivals?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-07T13:56:51Z</updated>
+      <published>2026-09-07T13:56:51Z</published>
+    </entry>
+    <entry>
+      <title>Audi targets Europe’s EV market with new A2 compact</title>
+      <id>https://seekingalpha.com/MarketCurrent:4640581</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
+      <updated>2026-09-07T13:12:49Z</updated>
+      <published>2026-09-07T13:12:49Z</published>
+    </entry>
+    <entry>
+      <title>RSPT: Why This Equal-Weight Tech Consolidation Is More Than Buyable</title>
+      <id>4943511</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943511-rspt-why-this-equal-weight-tech-consolidation-more-than-buyable?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-07T11:31:06Z</updated>
+      <published>2026-09-07T11:31:06Z</published>
+    </entry>
+    <entry>
+      <title>SPHD: Why SCHD Is Better For High Dividends And Low Volatility</title>
+      <id>4943450</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943450-sphd-why-schd-etf-better-for-high-dividends-low-volatility?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-07T11:30:00Z</updated>
+      <published>2026-09-07T11:30:00Z</published>
+    </entry>
     <entry>
       <title>TYG: The 13% Yield Isn&apos;t The Problem - The Price Tag Is</title>
       <id>4943506</id>
@@ -116,48 +172,6 @@
       <published>2026-09-05T13:47:00Z</published>
     </entry>
     <entry>
-      <title>NVDX: Good Set-Up For A Leveraged Play On Nvidia Stock</title>
-      <id>4943347</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943347-nvdx-good-set-up-for-a-leveraged-play-on-nvidia-stock?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-05T13:15:09Z</updated>
-      <published>2026-09-05T13:15:09Z</published>
-    </entry>
-    <entry>
-      <title>TYG: This Fund Sacrifices A Lot Of Performance For The Yield</title>
-      <id>4943340</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943340-tyg-this-fund-sacrifices-a-lot-of-performance-for-the-yield?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-05T12:33:36Z</updated>
-      <published>2026-09-05T12:33:36Z</published>
-    </entry>
-    <entry>
-      <title>3 Things I Think I Think</title>
-      <id>4943300</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943300-3-things-i-think-i-think?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-05T11:30:00Z</updated>
-      <published>2026-09-05T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>VYM: Why I Changed My Mind, And The Dividend Isn&apos;t The Only Reason (Rating Upgrade)</title>
-      <id>4943325</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943325-vym-why-i-changed-my-mind-and-the-dividend-isnt-the-only-reason?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-05T10:25:57Z</updated>
-      <published>2026-09-05T10:25:57Z</published>
-    </entry>
-    <entry>
-      <title>MMT - High Conviction Income Opportunity In Global Markets</title>
-      <id>4943315</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943315-mmt-high-conviction-income-opportunity-in-global-markets?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-05T09:11:52Z</updated>
-      <published>2026-09-05T09:11:52Z</published>
-    </entry>
-    <entry>
-      <title>RQI: A Wider Discount On A Growing NAV</title>
-      <id>4943313</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943313-rqi-a-wider-discount-on-a-growing-nav?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-05T09:08:06Z</updated>
-      <published>2026-09-05T09:08:06Z</published>
-    </entry>
-    <entry>
       <title>Volkswagen AG (VWA:CA) Shareholder/Analyst Call Transcript</title>
       <id>https://seekingalpha.com/Article:4943260</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4943260-volkswagen-ag-vwa-ca-shareholder-analyst-call-transcript?source=feed_symbol_VWAGY"/>
@@ -170,19 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4943263-volkswagen-ag-vwa-ca-shareholder-analyst-call-slideshow?source=feed_symbol_VWAGY"/>
       <updated>2026-09-05T01:00:38Z</updated>
       <published>2026-09-05T01:00:38Z</published>
-    </entry>
-    <entry>
-      <title>ASML&apos;s Valuation Makes No Sense: October 14 Could Prove It</title>
-      <id>https://seekingalpha.com/Article:4943239</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943239-asml-valuation-makes-no-sense-october-14-could-prove-it?source=feed_symbol_ASML"/>
-      <updated>2026-09-04T21:33:02Z</updated>
-      <published>2026-09-04T21:33:02Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen: The Market Is Still Mispricing This Massive Turnaround Plan</title>
-      <id>https://seekingalpha.com/Article:4943122</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943122-volkswagen-the-market-is-still-mispricing-this-massive-turnaround-plan?source=feed_symbol_VWAGY"/>
-      <updated>2026-09-04T13:59:23Z</updated>
-      <published>2026-09-04T13:59:23Z</published>
     </entry>
 </feed>
