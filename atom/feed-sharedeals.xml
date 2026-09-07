@@ -5,24 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-09-06T11:39:03Z</updated>
+  <updated>2026-09-07T10:20:15Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SK Hynix-Aktie: Beginnt jetzt Rallye Teil 2?</title>
+      <id>https://www.sharedeals.de/sk-hynix-aktie-beginn-jetzt-rallye-teil-2/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/sk-hynix-aktie-beginn-jetzt-rallye-teil-2/"/>
+      <updated>2026-09-07T10:20:15Z</updated>
+      <published>2026-09-07T10:20:15Z</published>
+    </entry>
+    <entry>
+      <title>Siemens Energy-Aktie: Fällt der Kurs auf 92€?</title>
+      <id>https://www.sharedeals.de/siemens-energy-aktie-faellt-der-kurs-auf-92e/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/siemens-energy-aktie-faellt-der-kurs-auf-92e/"/>
+      <updated>2026-09-07T04:40:56Z</updated>
+      <published>2026-09-07T04:40:56Z</published>
+    </entry>
+    <entry>
+      <title>Rheinmetall-Aktie: Lohnt sich der Kauf unter 1000€?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-lohnt-sich-der-kauf-unter-1000e/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-lohnt-sich-der-kauf-unter-1000e/"/>
+      <updated>2026-09-07T04:05:00Z</updated>
+      <published>2026-09-07T04:05:00Z</published>
+    </entry>
     <entry>
       <title>BioNTech-Aktie: Jetzt wird&apos;s richtig spannend</title>
       <id>https://www.sharedeals.de/biontech-aktie-jetzt-wirds-richtig-spannend/</id>
       <link rel="alternate" href="https://www.sharedeals.de/biontech-aktie-jetzt-wirds-richtig-spannend/"/>
       <updated>2026-09-06T11:39:03Z</updated>
       <published>2026-09-06T11:39:03Z</published>
-    </entry>
-    <entry>
-      <title>BYD-Aktie: Ist das jetzt der richtige Kaufzeitpunkt?</title>
-      <id>https://www.sharedeals.de/byd-aktie-ist-das-jetzt-der-richtige-kaufzeitpunkt-3/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/byd-aktie-ist-das-jetzt-der-richtige-kaufzeitpunkt-3/"/>
-      <updated>2026-09-06T10:10:29Z</updated>
-      <published>2026-09-06T10:10:29Z</published>
     </entry>
     <entry>
       <title>Almonty-Aktie: Die nächsten Kursziele liegen deutlich höher</title>
@@ -32,13 +46,6 @@
       <published>2026-09-04T13:54:47Z</published>
     </entry>
     <entry>
-      <title>Micron-Aktie: Steht die nächste Rallye vor der Tür?</title>
-      <id>https://www.sharedeals.de/micron-aktie-steht-die-naechste-rallye-vor-der-tuer/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/micron-aktie-steht-die-naechste-rallye-vor-der-tuer/"/>
-      <updated>2026-09-04T13:37:21Z</updated>
-      <published>2026-09-04T13:37:21Z</published>
-    </entry>
-    <entry>
       <title>Microsoft-Aktie: +43% seit Kauftipp in unter 10 Wochen</title>
       <id>https://www.sharedeals.de/microsoft-aktie-43-seit-kauftipp-in-unter-10-wochen/</id>
       <link rel="alternate" href="https://www.sharedeals.de/microsoft-aktie-43-seit-kauftipp-in-unter-10-wochen/"/>
@@ -46,13 +53,6 @@
       <published>2026-09-04T09:20:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/trader_chilled-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/trader_chilled-540x350.jpg" alt="Person in a blue shirt sits back in a chair with hands behind their head, facing two monitors showing stock market charts a trading desk scene."/><p>Microsoft-Aktie: +43% seit Kauftipp in unter 10 Wochen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Commerzbank-Aktie: Berlin öffnet die Tür – kommt jetzt ein höheres Angebot?</title>
-      <id>https://www.sharedeals.de/commerzbank-aktie-berlin-oeffnet-die-tuer-kommt-jetzt-ein-hoeheres-angebot/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/commerzbank-aktie-berlin-oeffnet-die-tuer-kommt-jetzt-ein-hoeheres-angebot/"/>
-      <updated>2026-09-04T08:58:16Z</updated>
-      <published>2026-09-04T08:58:16Z</published>
     </entry>
     <entry>
       <title>Alumis-Aktie: No Brainer Club feiert zweistellige Kursgewinne zum Start</title>
