@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-09-04T00:00:00Z</updated>
+  <updated>2026-09-08T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Landtagswahl 2026: Video mit AfD-Stimmzetteln zeigt keinen Wahlbetrug in Sachsen-Anhalt</title>
+      <id>https://correctiv.org/faktencheck/2026/09/08/landtagswahl-video-zeigt-keinen-briefwahlbetrug-in-sachsen-anhalt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/08/landtagswahl-video-zeigt-keinen-briefwahlbetrug-in-sachsen-anhalt/"/>
+      <updated>2026-09-08T00:00:00Z</updated>
+      <published>2026-09-08T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/Briefwahl-Sachsen-Anhalt_Sep-2026_dpa-Picture-Alliance-617306725-scaled.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/Briefwahl-Sachsen-Anhalt_Sep-2026_dpa-Picture-Alliance-617306725-scaled.jpg" alt="Briefwahl Sachsen-Anhalt im September 2026"/><p>Landtagswahl 2026: Video mit AfD-Stimmzetteln zeigt keinen Wahlbetrug in Sachsen-Anhalt</p>]]></content>
+    </entry>
     <entry>
       <title>Angeblicher Angriff auf Ulrich Siegmunds Büro ist fast zehn Jahre her</title>
       <id>https://correctiv.org/faktencheck/2026/09/04/angeblicher-angriff-auf-siegmund-jahre-her/</id>
@@ -225,14 +234,5 @@
       <published>2026-07-29T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/csd-anschlag-berlin-tagesschau-meldung-gefaelscht-russische-beteiligung-bundesanwaltschaft-islamistischer-terroranschlag-scaled-e1785332457435.jpeg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/csd-anschlag-berlin-tagesschau-meldung-gefaelscht-russische-beteiligung-bundesanwaltschaft-islamistischer-terroranschlag-scaled-e1785332457435.jpeg" alt="Menschen trauern nach dem Anschlag auf den Christopher Street Day (CSD) in Berlin und legen Blumen im Tiergarten nieder (Foto: Christian Ditsch / EPD-Bild / Picture Alliance)"/><p>CSD-Anschlag: Tagesschau-Meldung zu angeblicher russischer Beteiligung ist gefälscht</p>]]></content>
-    </entry>
-    <entry>
-      <title>Roboter greift Menschen an: Video ist inszeniert</title>
-      <id>https://correctiv.org/faktencheck/2026/07/29/roboter-greift-menschen-an-video-ist-inszeniert/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/29/roboter-greift-menschen-an-video-ist-inszeniert/"/>
-      <updated>2026-07-29T00:00:00Z</updated>
-      <published>2026-07-29T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/roboter-kung-fu-china-philippinen.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/roboter-kung-fu-china-philippinen.jpg" alt="Ausschnitt aus dem Video, das den durchgedrehten Roboter zeigen soll"/><p>Roboter greift Menschen an: Video ist inszeniert</p>]]></content>
     </entry>
 </feed>
