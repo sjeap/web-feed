@@ -5,11 +5,137 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-08T08:36:33Z</updated>
+  <updated>2026-09-08T17:25:02Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Semiconductor sales fall in July as memory revenue drops: UBS</title>
+      <id>https://seekingalpha.com/MarketCurrent:4640883</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-09-08T17:25:02Z</updated>
+      <published>2026-09-08T17:25:02Z</published>
+    </entry>
+    <entry>
+      <title>USMV: A Decent Idea, But I Don&apos;t Love The Portfolio&apos;s Composition</title>
+      <id>4943910</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943910-usmv-a-decent-idea-but-i-dont-love-the-portfolios-composition?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T17:15:00Z</updated>
+      <published>2026-09-08T17:15:00Z</published>
+    </entry>
+    <entry>
+      <title>PFN: Failure To Cover Distribution Comes Amidst Bond Market Struggles</title>
+      <id>4943931</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943931-pfn-failure-to-cover-distribution-comes-amidst-bond-market-struggles?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T16:53:10Z</updated>
+      <published>2026-09-08T16:53:10Z</published>
+    </entry>
+    <entry>
+      <title>ASML in focus as BoA praises TSMC, Intel, Samsung deals</title>
+      <id>https://seekingalpha.com/MarketCurrent:4640871</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
+      <updated>2026-09-08T16:22:49Z</updated>
+      <published>2026-09-08T16:22:49Z</published>
+    </entry>
+    <entry>
+      <title>NRK: The Income Cut Was Too Modest To Change My Outlook</title>
+      <id>4943906</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943906-nrk-the-income-cut-was-too-modest-to-change-my-outlook?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T16:08:57Z</updated>
+      <published>2026-09-08T16:08:57Z</published>
+    </entry>
+    <entry>
+      <title>Europe&apos;s Reputation Problem: 4 Myths The Market Keeps Repeating</title>
+      <id>4943930</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943930-europe-reputation-problem-4-myths-market-keeps-repeating?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T16:05:00Z</updated>
+      <published>2026-09-08T16:05:00Z</published>
+    </entry>
+    <entry>
+      <title>COPX: Mind The Fed, But I Might Buy The Next Dip</title>
+      <id>4943883</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943883-copx-mind-the-fed-but-i-might-buy-the-next-dip?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T15:38:24Z</updated>
+      <published>2026-09-08T15:38:24Z</published>
+    </entry>
+    <entry>
+      <title>The Quants Are Gone From CTA (Downgrade)</title>
+      <id>4943874</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943874-the-quants-are-gone-from-cta-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T15:23:42Z</updated>
+      <published>2026-09-08T15:23:42Z</published>
+    </entry>
+    <entry>
+      <title>BDJ: A Solid Income Fund That I Wouldn&apos;t Buy Yet</title>
+      <id>4943836</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943836-bdj-a-solid-income-fund-that-i-wouldnt-buy-yet?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T14:26:20Z</updated>
+      <published>2026-09-08T14:26:20Z</published>
+    </entry>
+    <entry>
+      <title>Weekly Closed-End Fund Roundup (August 30, 2026)</title>
+      <id>4943828</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943828-weekly-closed-end-fund-roundup-august-30-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T14:15:38Z</updated>
+      <published>2026-09-08T14:15:38Z</published>
+    </entry>
+    <entry>
+      <title>ASGI Sees Declining NAV As Utilities/Industrials Cooled Off In 2026</title>
+      <id>4943758</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943758-asgi-sees-declining-nav-utilities-industrials-cooled-off-in-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T12:00:33Z</updated>
+      <published>2026-09-08T12:00:33Z</published>
+    </entry>
+    <entry>
+      <title>BALI: Efficient Buy-And-Hold Option ETF (Rating Upgrade)</title>
+      <id>4943745</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943745-bali-efficient-buy-and-hold-option-etf-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T10:45:11Z</updated>
+      <published>2026-09-08T10:45:11Z</published>
+    </entry>
+    <entry>
+      <title>JPST: Not My Top Pick For Ultra-Short Income</title>
+      <id>4943744</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943744-jpst-not-my-top-pick-for-ultra-short-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T10:43:58Z</updated>
+      <published>2026-09-08T10:43:58Z</published>
+    </entry>
+    <entry>
+      <title>Equity Markets And The Weather: Escaping The Forecast Trap</title>
+      <id>4943743</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943743-equity-markets-weather-escaping-forecast-trap?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T10:34:00Z</updated>
+      <published>2026-09-08T10:34:00Z</published>
+    </entry>
+    <entry>
+      <title>CGMS&apos;s Golden Moment: Strong Jobs Report, OAS Declining</title>
+      <id>4943742</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943742-cgmss-golden-moment-strong-jobs-report-oas-declining?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T10:29:57Z</updated>
+      <published>2026-09-08T10:29:57Z</published>
+    </entry>
+    <entry>
+      <title>STIP: Short-Duration TIPS Still Holds Merit</title>
+      <id>4943739</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943739-stip-short-duration-tips-still-holds-merit?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T10:23:00Z</updated>
+      <published>2026-09-08T10:23:00Z</published>
+    </entry>
+    <entry>
+      <title>SOXS: Nvidia&apos;s China Problem Is Growing, But This 3x Trade Has A Bigger One</title>
+      <id>4943736</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943736-soxs-nvidias-china-problem-is-growing-but-this-3x-trade-has-a-bigger-one?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T10:18:51Z</updated>
+      <published>2026-09-08T10:18:51Z</published>
+    </entry>
+    <entry>
+      <title>SPDR Energy And S&amp;P E&amp;P ETFs: Not As Headline-Dependent As You Think, Still Pricing In Sub-$70 Oil</title>
+      <id>4943717</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4943717-spdr-energy-and-s-and-p-e-and-p-etfs-not-as-headline-dependent-as-you-think-still-pricing-in-sub-70-oil?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-08T09:13:42Z</updated>
+      <published>2026-09-08T09:13:42Z</published>
+    </entry>
     <entry>
       <title>Copper&apos;s 2026 Bull Market And The ICOP ETF</title>
       <id>4943707</id>
@@ -32,32 +158,11 @@
       <published>2026-09-08T08:23:00Z</published>
     </entry>
     <entry>
-      <title>ASML wins commitments from Samsung, TSMC for new chipmaking gear</title>
-      <id>https://seekingalpha.com/MarketCurrent:4640637</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
-      <updated>2026-09-08T07:59:07Z</updated>
-      <published>2026-09-08T07:59:07Z</published>
-    </entry>
-    <entry>
       <title>REM: Improving Fundamentals, But Caution Signs Remain (Upgrade)</title>
       <id>4943696</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4943696-rem-improving-fundamentals-but-caution-signs-remain-upgrade?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-09-08T07:57:39Z</updated>
       <published>2026-09-08T07:57:39Z</published>
-    </entry>
-    <entry>
-      <title>OMAH: Investing Like Buffett, Income Like Rockefeller</title>
-      <id>4943694</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943694-omah-investing-like-buffett-income-like-rockefeller?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-08T07:41:43Z</updated>
-      <published>2026-09-08T07:41:43Z</published>
-    </entry>
-    <entry>
-      <title>Collect Monthly Income To Wait For Silver&apos;s Next Run</title>
-      <id>4943691</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943691-collect-monthly-income-to-wait-for-silvers-next-run?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-08T07:30:52Z</updated>
-      <published>2026-09-08T07:30:52Z</published>
     </entry>
     <entry>
       <title>Volkswagen considers selling Ducati in review of holdings</title>
@@ -67,20 +172,6 @@
       <published>2026-09-08T07:24:15Z</published>
     </entry>
     <entry>
-      <title>Invesco CurrencyShares Euro Trust: Time To Get Long The Euro</title>
-      <id>4943671</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943671-invesco-currencyshares-euro-trust-time-to-get-long-the-euro?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-08T06:10:56Z</updated>
-      <published>2026-09-08T06:10:56Z</published>
-    </entry>
-    <entry>
-      <title>Why India? And Why NDIA?</title>
-      <id>4943675</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943675-why-india-why-ndia?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-08T05:40:00Z</updated>
-      <published>2026-09-08T05:40:00Z</published>
-    </entry>
-    <entry>
       <title>Rio Tinto to acquire Aurukun bauxite project from Glencore, Mitsubishi</title>
       <id>https://seekingalpha.com/MarketCurrent:4640614</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
@@ -88,101 +179,10 @@
       <published>2026-09-08T04:07:56Z</published>
     </entry>
     <entry>
-      <title>TCW Core Plus Bond ETF Q2 2026 Commentary</title>
-      <id>4943645</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943645-tcw-core-plus-bond-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-08T00:25:00Z</updated>
-      <published>2026-09-08T00:25:00Z</published>
-    </entry>
-    <entry>
-      <title>H1 2026 + 4%/+14%, Very Disappointing</title>
-      <id>4943608</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943608-h1-2026-plus-4-percent-plus-14-percent-very-disappointing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T19:20:00Z</updated>
-      <published>2026-09-07T19:20:00Z</published>
-    </entry>
-    <entry>
       <title>Volkswagen: Earnings Review With An Eye On 2026-2028E</title>
       <id>https://seekingalpha.com/Article:4943581</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4943581-volkswagen-earnings-review-with-eye-on-2026minus-2028e?source=feed_symbol_VWAGY"/>
       <updated>2026-09-07T15:38:20Z</updated>
       <published>2026-09-07T15:38:20Z</published>
-    </entry>
-    <entry>
-      <title>NLR: The Nuclear Bull Case Just Got Another Catalyst</title>
-      <id>4943572</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943572-nlr-etf-nuclear-bull-case-just-got-another-catalyst?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T14:52:54Z</updated>
-      <published>2026-09-07T14:52:54Z</published>
-    </entry>
-    <entry>
-      <title>Investing Myths Dismantled (Chapter 4 Of 5)</title>
-      <id>4943571</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943571-investing-myths-dismantled-chapter-4-5?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T14:51:00Z</updated>
-      <published>2026-09-07T14:51:00Z</published>
-    </entry>
-    <entry>
-      <title>IVLU: A Value Leader With A Few Rivals</title>
-      <id>4943560</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943560-ivlu-value-leader-with-a-few-rivals?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T13:56:51Z</updated>
-      <published>2026-09-07T13:56:51Z</published>
-    </entry>
-    <entry>
-      <title>RSPT: Why This Equal-Weight Tech Consolidation Is More Than Buyable</title>
-      <id>4943511</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943511-rspt-why-this-equal-weight-tech-consolidation-more-than-buyable?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T11:31:06Z</updated>
-      <published>2026-09-07T11:31:06Z</published>
-    </entry>
-    <entry>
-      <title>SPHD: Why SCHD Is Better For High Dividends And Low Volatility</title>
-      <id>4943450</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943450-sphd-why-schd-etf-better-for-high-dividends-low-volatility?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T11:30:00Z</updated>
-      <published>2026-09-07T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>TYG: The 13% Yield Isn&apos;t The Problem - The Price Tag Is</title>
-      <id>4943506</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943506-tyg-cef-13-percent-yield-not-the-problem-the-price-tag-is?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T08:54:42Z</updated>
-      <published>2026-09-07T08:54:42Z</published>
-    </entry>
-    <entry>
-      <title>PMMF: Working As Designed</title>
-      <id>4943474</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943474-pmmf-working-as-designed?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T05:15:03Z</updated>
-      <published>2026-09-07T05:15:03Z</published>
-    </entry>
-    <entry>
-      <title>GSEW: Quiet, But Outperforming 2026</title>
-      <id>4943462</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943462-gsew-quiet-but-outperforming-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T03:13:58Z</updated>
-      <published>2026-09-07T03:13:58Z</published>
-    </entry>
-    <entry>
-      <title>KGLD: Current Yield Looks Different After The Latest Jobs Surprise</title>
-      <id>4943449</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943449-kgld-current-yield-looks-different-after-the-latest-jobs-surprise?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-07T00:52:56Z</updated>
-      <published>2026-09-07T00:52:56Z</published>
-    </entry>
-    <entry>
-      <title>SMHX: Top Holdings Are Expanding The Market, Not Competing</title>
-      <id>4943446</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943446-smhx-top-holdings-are-expanding-the-market-not-competing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-06T23:46:45Z</updated>
-      <published>2026-09-06T23:46:45Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen AG (VWA:CA) Shareholder/Analyst Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4943260</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4943260-volkswagen-ag-vwa-ca-shareholder-analyst-call-transcript?source=feed_symbol_VWAGY"/>
-      <updated>2026-09-05T04:29:17Z</updated>
-      <published>2026-09-05T04:29:17Z</published>
     </entry>
 </feed>
