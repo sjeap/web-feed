@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-09-08T00:00:00Z</updated>
+  <updated>2026-09-09T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Für eine Reanimation spielt die Krankenkassen-Mitgliedschaft keine Rolle</title>
+      <id>https://correctiv.org/aktuelles/2026/09/09/reanimation-krankenkasse-techniker/</id>
+      <link rel="alternate" href="https://correctiv.org/aktuelles/2026/09/09/reanimation-krankenkasse-techniker/"/>
+      <updated>2026-09-09T00:00:00Z</updated>
+      <published>2026-09-09T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/615871366-scaled-e1788965969623.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/615871366-scaled-e1788965969623.jpg" alt="Für eine Reanimation spielt die Krankenkassen-Mitgliedschaft keine Rolle"/><p>Für eine Reanimation spielt die Krankenkassen-Mitgliedschaft keine Rolle</p>]]></content>
+    </entry>
     <entry>
       <title>Landtagswahl 2026: Video mit AfD-Stimmzetteln zeigt keinen Wahlbetrug in Sachsen-Anhalt</title>
       <id>https://correctiv.org/faktencheck/2026/09/08/landtagswahl-video-zeigt-keinen-briefwahlbetrug-in-sachsen-anhalt/</id>
@@ -225,14 +234,5 @@
       <published>2026-08-04T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/ceuta-migranten-deutschland-scaled-e1785855413165.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/ceuta-migranten-deutschland-scaled-e1785855413165.jpg" alt="Am 4. Juli feierten weltweit – wie etwa auf dem Bild in den Niederlanden – Marokkanerinnen und Marokkaner den Sieg ihrer Fußballmannschaft bei der WM gegen Kanada. Das zeigt auch ein aktuell auf Tiktok verbreitetes Video, das fälschlich in Zusammenhang mit Geschehnissen in Ceuta gebracht wird"/><p>Video zeigt feiernde Fußballfans, keine Menschen in Ceuta</p>]]></content>
-    </entry>
-    <entry>
-      <title>CSD-Anschlag: Tagesschau-Meldung zu angeblicher russischer Beteiligung ist gefälscht</title>
-      <id>https://correctiv.org/faktencheck/2026/07/29/csd-anschlag-tagesschau-meldung-zu-angeblicher-russischer-beteiligung-ist-gefaelscht/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/07/29/csd-anschlag-tagesschau-meldung-zu-angeblicher-russischer-beteiligung-ist-gefaelscht/"/>
-      <updated>2026-07-29T00:00:00Z</updated>
-      <published>2026-07-29T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/07/csd-anschlag-berlin-tagesschau-meldung-gefaelscht-russische-beteiligung-bundesanwaltschaft-islamistischer-terroranschlag-scaled-e1785332457435.jpeg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/07/csd-anschlag-berlin-tagesschau-meldung-gefaelscht-russische-beteiligung-bundesanwaltschaft-islamistischer-terroranschlag-scaled-e1785332457435.jpeg" alt="Menschen trauern nach dem Anschlag auf den Christopher Street Day (CSD) in Berlin und legen Blumen im Tiergarten nieder (Foto: Christian Ditsch / EPD-Bild / Picture Alliance)"/><p>CSD-Anschlag: Tagesschau-Meldung zu angeblicher russischer Beteiligung ist gefälscht</p>]]></content>
     </entry>
 </feed>
