@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-09-09T00:00:00Z</updated>
+  <updated>2026-09-10T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Youtube-Video erfindet Kriegserklärung an Russland</title>
+      <id>https://correctiv.org/faktencheck/politik/2026/09/10/youtube-video-erfindet-kriegserklaerung-an-russland/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/politik/2026/09/10/youtube-video-erfindet-kriegserklaerung-an-russland/"/>
+      <updated>2026-09-10T00:00:00Z</updated>
+      <published>2026-09-10T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/kriegserklaerung-russland-deutschland-merz-scaled-e1789034678966.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/kriegserklaerung-russland-deutschland-merz-scaled-e1789034678966.jpg" alt="Ein Bundeskanzler kann ohne Zustimmung des Parlaments gar keinen Krieg erklären"/><p>Youtube-Video erfindet Kriegserklärung an Russland</p>]]></content>
+    </entry>
     <entry>
       <title>Für eine Reanimation spielt die Krankenkassen-Mitgliedschaft keine Rolle</title>
       <id>https://correctiv.org/aktuelles/2026/09/09/reanimation-krankenkasse-techniker/</id>
@@ -225,14 +234,5 @@
       <published>2026-08-06T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/moschee-spanien-scaled.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/moschee-spanien-scaled.jpg" alt="Die Kathedralmoschee von Córdoba geht auf die maurische Herrschaft in Spanien im Jahr 785 zurück"/><p>5.000 neue Moscheen für Spanien? Tiktok-Account streut unbelegte Gerüchte</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video zeigt feiernde Fußballfans, keine Menschen in Ceuta</title>
-      <id>https://correctiv.org/faktencheck/2026/08/04/video-zeigt-feiernde-fussballfans-keine-menschen-in-ceuta/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/04/video-zeigt-feiernde-fussballfans-keine-menschen-in-ceuta/"/>
-      <updated>2026-08-04T00:00:00Z</updated>
-      <published>2026-08-04T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/ceuta-migranten-deutschland-scaled-e1785855413165.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/ceuta-migranten-deutschland-scaled-e1785855413165.jpg" alt="Am 4. Juli feierten weltweit – wie etwa auf dem Bild in den Niederlanden – Marokkanerinnen und Marokkaner den Sieg ihrer Fußballmannschaft bei der WM gegen Kanada. Das zeigt auch ein aktuell auf Tiktok verbreitetes Video, das fälschlich in Zusammenhang mit Geschehnissen in Ceuta gebracht wird"/><p>Video zeigt feiernde Fußballfans, keine Menschen in Ceuta</p>]]></content>
     </entry>
 </feed>
