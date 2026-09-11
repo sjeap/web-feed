@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-09-03T00:00:00Z</updated>
+  <updated>2026-09-11T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Stablecoin Integration in Europe: A Strategic Decision Framework</title>
+      <id>https://thepaypers.com/crypto-web3-and-cbdc/reports/stablecoin-integration-in-europe-a-strategic-decision-framework</id>
+      <link rel="alternate" href="https://thepaypers.com/crypto-web3-and-cbdc/reports/stablecoin-integration-in-europe-a-strategic-decision-framework"/>
+      <updated>2026-09-11T00:00:00Z</updated>
+      <published>2026-09-11T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ripple_report_stablecoins_2026.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ripple_report_stablecoins_2026.jpg" alt="Stablecoin Integration in Europe: A Strategic Decision Framework"/><p>Stablecoin Integration in Europe: A Strategic Decision Framework</p>]]></content>
+    </entry>
     <entry>
       <title>Modernisation without Disruption</title>
       <id>https://thepaypers.com/fintech/reports/modernisation-without-disruption</id>
@@ -72,14 +81,5 @@
       <published>2025-11-07T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png" alt="Open Finance Report 2025"/><p>Open Finance Report 2025</p>]]></content>
-    </entry>
-    <entry>
-      <title>Web 3 Payment Acceptance Report 2025</title>
-      <id>https://thepaypers.com/crypto-web3-and-cbdc/reports/web-3-payment-acceptance-report-2025</id>
-      <link rel="alternate" href="https://thepaypers.com/crypto-web3-and-cbdc/reports/web-3-payment-acceptance-report-2025"/>
-      <updated>2025-07-02T00:00:00Z</updated>
-      <published>2025-07-02T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/old/reports/crypto-report-2025-twitter-1024x512.png"/>
-      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/old/reports/crypto-report-2025-twitter-1024x512.png" alt="Web 3 Payment Acceptance Report 2025"/><p>Web 3 Payment Acceptance Report 2025</p>]]></content>
     </entry>
 </feed>
