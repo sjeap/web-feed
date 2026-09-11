@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-09-09T09:30:00Z</updated>
+  <updated>2026-09-11T13:14:08Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen</title>
+      <id>https://www.ad-magazin.de/artikel/kleine-wohnung-gemuetlich-louisiana-renovierung</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/kleine-wohnung-gemuetlich-louisiana-renovierung"/>
+      <updated>2026-09-11T13:14:08Z</updated>
+      <published>2026-09-11T13:14:08Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68c7b81a2c3f132c8acc5317/1:1/w_354%2Cc_limit/AD_HughesBroha_06_final%2520copy.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68c7b81a2c3f132c8acc5317/1:1/w_354%2Cc_limit/AD_HughesBroha_06_final%2520copy.jpg" alt="Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen"/><p>Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen</p>]]></content>
+    </entry>
     <entry>
       <title>61 Quadratmeter in Paris: Dunkles Holz, Marmor und Quarzit machen dieses kleine Apartment chic und gemütlich</title>
       <id>https://www.ad-magazin.de/artikel/apartment-paris-haussmann-stil-renovierung-gemuetlich</id>
@@ -180,14 +189,5 @@
       <published>2026-07-09T12:39:10Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/62212e7d3c56beef8a9b14e5/1:1/w_354%2Cc_limit/_MG_2383%2520Kopie_b.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/62212e7d3c56beef8a9b14e5/1:1/w_354%2Cc_limit/_MG_2383%2520Kopie_b.jpg" alt="Ein fünftes Dach für ein Tiny House: Hinter diesem Ferienhaus in Schleswig-Holstein steckt eine kluge Idee"/><p>Ein fünftes Dach für ein Tiny House: Hinter diesem Ferienhaus in Schleswig-Holstein steckt eine kluge Idee</p>]]></content>
-    </entry>
-    <entry>
-      <title>Vom Keramikatelier zur Mini-Wohnung: Diese 43 Quadratmeter in Paris verbinden Farben gekonnt mit geometrischen Formen</title>
-      <id>https://www.ad-magazin.de/artikel/mini-wohnung-paris-farben-geometrische-formen</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/mini-wohnung-paris-farben-geometrische-formen"/>
-      <updated>2026-07-07T16:51:59Z</updated>
-      <published>2026-07-07T16:51:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a4b64f75504d737ffee4897/1:1/w_354%2Cc_limit/06_AD.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a4b64f75504d737ffee4897/1:1/w_354%2Cc_limit/06_AD.jpg" alt="Vom Keramikatelier zur Mini-Wohnung: Diese 43 Quadratmeter in Paris verbinden Farben gekonnt mit geometrischen Formen"/><p>Vom Keramikatelier zur Mini-Wohnung: Diese 43 Quadratmeter in Paris verbinden Farben gekonnt mit geometrischen Formen</p>]]></content>
     </entry>
 </feed>
