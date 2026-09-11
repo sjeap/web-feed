@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-08-27T14:11:45Z</updated>
+  <updated>2026-09-08T12:05:07Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ranked: Countries With the Highest Debt-to-GDP Ratios</title>
+      <id>https://www.visualcapitalist.com/?p=204473</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-government-household-corporate-debt-by-country/"/>
+      <updated>2026-09-08T12:05:07Z</updated>
+      <published>2026-09-08T12:05:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/sharable-3.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/sharable-3.webp" alt="Ranked: Countries With the Highest Debt-to-GDP Ratios"/><p>Ranked: Countries With the Highest Debt-to-GDP Ratios</p>]]></content>
+    </entry>
     <entry>
       <title>Ranked: The World’s Largest Companies by Revenue (2020-2026)</title>
       <id>https://www.visualcapitalist.com/?p=204013</id>
@@ -90,14 +99,5 @@
       <published>2026-07-01T12:01:02Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/Carmakers_Top-15_04-share.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/Carmakers_Top-15_04-share.webp" alt="Ranked: The World’s Biggest Carmakers (2020–2025)"/><p>Ranked: The World’s Biggest Carmakers (2020–2025)</p>]]></content>
-    </entry>
-    <entry>
-      <title>Mapped: Which Countries Hold the Biggest Mineral Reserves?</title>
-      <id>https://www.visualcapitalist.com/?p=201423</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/mapped-the-worlds-biggest-mineral-reserves/"/>
-      <updated>2026-06-24T12:02:12Z</updated>
-      <published>2026-06-24T12:02:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/06/largest-mineral-reserves-shareable-1.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/06/largest-mineral-reserves-shareable-1.webp" alt="Mapped: Which Countries Hold the Biggest Mineral Reserves?"/><p>Mapped: Which Countries Hold the Biggest Mineral Reserves?</p>]]></content>
     </entry>
 </feed>
