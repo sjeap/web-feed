@@ -1061,7 +1061,14 @@ function parseHeadlines(html, site, baseUrl = site.url) {
     const dateStr = extractText(block, site.dateSelector);
     const pubDate = parseFlexibleDate(dateStr);
 
-    const { src: imgSrc, alt: imgAlt } = extractImage(block);
+    let { src: imgSrc, alt: imgAlt } = extractImage(block);
+    // Relative / protokoll-relative Bild-URLs gegen die Quelle auflösen — analog zum
+    // host-optionalen linkSelector. MHTML-Snapshots absolutieren <img src>, während die
+    // Live-Seite oft relativ ausliefert (das relativ gebliebene srcset ist das Indiz);
+    // sonst landet eine relative enclosure-URL im Feed. Absolute/data:-URLs bleiben unberührt.
+    if (imgSrc && !/^https?:\/\//i.test(imgSrc) && !imgSrc.startsWith("data:")) {
+      try { imgSrc = new URL(imgSrc, baseUrl).href; } catch (e) { /* im Zweifel unverändert lassen */ }
+    }
 
     items.push({
       title,
@@ -1440,19 +1447,38 @@ async function main() {
     // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH dem Cap → nur für die final
     // ausgelieferten Items wird ein Zweit-Fetch gemacht. Pro-Item fault-isoliert;
     // schlägt der Detail-Fetch fehl (Block/Timeout), bleibt das bisherige pubDate.
-    if (site.detailDateSelector && items.length) {
+    if ((site.detailDateSelector || site.detailImageSelector) && items.length) {
       const dEngine = site.detailEngine || site.engine || "https";
-      console.log(`   🔎 Detail-Fetch fürs Datum: ${items.length} Artikel (engine=${dEngine})`);
+      const want = [site.detailDateSelector && "Datum", site.detailImageSelector && "Bild"].filter(Boolean).join("+");
+      console.log(`   🔎 Detail-Fetch (${want}): ${items.length} Artikel (engine=${dEngine})`);
       const htmlByUrl = await fetchDetails(items.map(it => it.link), dEngine, PROXY);
-      let updated = 0;
+      let dSet = 0, iSet = 0;
       for (const it of items) {
         const dhtml = htmlByUrl.get(it.link);
         if (!dhtml) continue;
-        const ds = extractText(dhtml, site.detailDateSelector);
-        if (ds) { it.pubDate = parseFlexibleDate(ds); updated++; }
+        if (site.detailDateSelector) {
+          const ds = extractText(dhtml, site.detailDateSelector);
+          if (ds) { it.pubDate = parseFlexibleDate(ds); dSet++; }
+        }
+        // Bild von der Artikelseite (z. B. <meta property="og:image">), wenn das Listing
+        // keins liefert — etwa tagesschau-Kurzüberblick (nur SVG-Icons, kein <img>). Relative
+        // URLs gegen die Artikel-URL auflösen; MIME grob aus der Endung ableiten.
+        if (site.detailImageSelector && !it.imgSrc) {
+          let is = extractText(dhtml, site.detailImageSelector);
+          if (is) {
+            if (!/^https?:\/\//i.test(is) && !is.startsWith("data:")) {
+              try { is = new URL(is, it.link).href; } catch (e) { /* im Zweifel unverändert */ }
+            }
+            it.imgSrc   = is;
+            it.mimeType = /\.webp(?:[?#]|$)/i.test(is) ? "image/webp"
+                        : /\.png(?:[?#]|$)/i.test(is)  ? "image/png"
+                        : "image/jpeg";
+            iSet++;
+          }
+        }
       }
-      items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
-      console.log(`   📅 Detail-Datum gesetzt: ${updated}/${items.length}`);
+      if (site.detailDateSelector) items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
+      console.log(`   📅 Detail: Datum ${dSet}/${items.length}, Bild ${iSet}/${items.length}`);
     }
 
     if (sources.length > 1) {

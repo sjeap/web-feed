@@ -60,16 +60,18 @@
   },
   {
     "id": "tagesschau-topthemen",
-    "name": "tagesschau – LIVE und Topthemen",
+    "name": "tagesschau – Die wichtigsten Nachrichten",
     "url": "https://www.tagesschau.de/",
-    "engine": "tagesschau-carousel",
     "language": "de-DE",
+    "filter": null,
     "output": "atom/feed-tagesschau-topthemen.xml",
-    "carouselName": "LIVE UND TOPTHEMEN",
-    "skipLabels": ["Livestream"],
-    "skipUrlPatterns": ["/multimedia/livestreams"],
-    "thumbWidth": 320,
-    "thumbVariant": "16x9-small"
+    "containerStart": "Die wichtigsten Nachrichten",
+    "containerEnd": "</ul>",
+    "teaserSplit": "<li class=\"teaser-nano",
+    "titleSelector": "teaser-nano__headline\">([\\s\\S]*?)<\\/span>",
+    "linkSelector": "teaser-nano__link\" href=\"((?:https://www\\.tagesschau\\.de)?/[^\"]+)\"",
+    "detailEngine": "https",
+    "detailImageSelector": "<meta property=\"og:image\" content=\"([^\"]+)\""
   },
   {
     "id": "marketscreener",
@@ -157,5 +159,18 @@
         "teaserSplit": "<div class=\"article\" itemscope"
       }
     ]
+  },
+  {
+    "id": "forschung-wissen",
+    "name": "Forschung und Wissen – Neuste Nachrichten",
+    "url": "https://www.forschung-und-wissen.de/",
+    "language": "de-DE",
+    "filter": null,
+    "output": "atom/feed-forschung-wissen.xml",
+    "containerStart": "<!-- NEWS HEADER -->",
+    "containerEnd": "<!-- /NEWS HEADER -->",
+    "teaserSplit": "<picture>",
+    "titleSelector": "<h3 class=\"headline\">\\s*<a[^>]*>([\\s\\S]*?)<\\/a>",
+    "linkSelector": "href=\"((?:https://www\\.forschung-und-wissen\\.de)?/(?:nachrichten|magazin)/[^\"]+)\""
   }
 ]

@@ -76,14 +76,13 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   RSS-Endpunkte sind der „sauberere Weg", können aber ebenfalls geblockt werden.
 
 ### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
-- **Engine:** `tagesschau-carousel` — die „LIVE UND TOPTHEMEN"-Teaser stehen als
-  entity-kodiertes JSON im `data-v`-Attribut der Vue-`Carousel`-Instanz (nicht im Markup).
-  Der Parser iteriert `sliderItems[]`, filtert den Livestream via
-  `skipLabels`/`skipUrlPatterns`; reiner HTTPS-Fetch, Entry-`<id>` = Artikel-URL. Defekte
-  Entities in den Tracking-Blobs (`&qquot;`) werden vor `JSON.parse` repariert.
-- **Vorschaubild:** aus dem `meta.images`-Template gebaut — Größe/Variante via `thumbWidth`
-  (Default 320) / `thumbVariant` (`16x9-small`|`16x9-big`), JPG, `alt` = Schlagzeile,
-  Fallback `posterImage`.
+- **Engine:** Default (HTML). Die Vue-`Carousel` „LIVE UND TOPTHEMEN" existiert nicht mehr;
+  Quelle ist jetzt der server-gerenderte Block **„Die wichtigsten Nachrichten / Kurzüberblick"**
+  (`compact-list`): `containerStart` = `Die wichtigsten Nachrichten`, `containerEnd` = `</ul>`,
+  `teaserSplit` = `<li class="teaser-nano`, Titel `teaser-nano__headline`, Link host-optional.
+- **Vorschaubild via Detail-Fetch:** der Block hat kein `<img>` (nur SVG-Icons), daher holt der
+  Scraper pro Artikel das `og:image` (`detailImageSelector`, `detailEngine: "https"`). Kein Datum
+  im Block → `pubDate` = Laufzeit, Reader deduplizieren über den stabilen Link.
 
 ### `marketscreener` → `atom/feed-marketscreener.xml`
 - **Engine:** Default (HTTPS) **über Residential-Proxy** (`proxyCountry: "de"`). MarketScreener
@@ -151,10 +150,27 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   `engine`/`parser` auch `containerStart`/`containerEnd`/`teaserSplit`/Selektoren tragen
   (effektive Config = Site ∪ Override).
 
+### `forschung-wissen` → `atom/feed-forschung-wissen.xml`
+- **Engine:** Default (HTTPS) — forschung-und-wissen.de ist server-gerendert.
+- **Nur der erste Block „Neuste Nachrichten"** wird gescrapt, der Rest der Startseite
+  (Kategorie-Sektionen, Ads) bewusst ignoriert: `containerStart`/`containerEnd` isolieren den
+  `<!-- NEWS HEADER -->`…`<!-- /NEWS HEADER -->`-Bereich.
+- **Ein `teaserSplit` für zwei Item-Typen:** der Block mischt den Tab-`indexslider` (eine
+  Schlagzeile je Reiter — Technik, Biologie, Ökonomie, Psychologie, Umwelt, Geologie) mit der
+  darunter liegenden `magazin articlelist`. Beide teilen dieselbe innere Struktur, daher wird an
+  **`<picture>`** gesplittet (hält Bild + Titel im selben Block) und mit **einem** Selektor-Satz
+  geparst: Titel `<h3 class="headline"><a>…`, `linkSelector` host-optional auf `…/nachrichten/…`
+  bzw. `…/magazin/…`. Cap 25 (aktuell ~8 Items).
+- **Bild:** `<img src>` (Fallback `data-src`); relative `/bilder/…`-Pfade werden gegen die
+  Quelle absolutiert (siehe Default-Engine-Hinweis). **Kein Datum** im Block → `pubDate` =
+  Laufzeit, Dedup der Reader über den stabilen Link.
+
 ## Engines (in `scraper.js`)
 
 - **Default** — HTML laden, optional via `containerStart`/`containerEnd` zuschneiden, an
-  `teaserSplit` in Items zerlegen, Titel/Datum/Link per Regex-Selektoren extrahieren.
+  `teaserSplit` in Items zerlegen, Titel/Datum/Link per Regex-Selektoren extrahieren. Relative
+  bzw. protokoll-relative Bild-URLs werden gegen die Quelle absolutiert (analog zum host-optionalen
+  `linkSelector`; MHTML-Snapshots maskieren das, weil sie `src` absolutieren, `srcset` aber relativ lassen).
 - **`cnn-fear-greed`** — JSON-API statt HTML; eigener Output inkl. Gauge-SVG.
 - **`tagesschau-carousel`** — liest die Teaser aus dem `data-v`-JSON der
   Startseiten-Carousel-Instanz (per `carouselName` ausgewählt); filtert via
@@ -246,6 +262,7 @@ matrix:
     - thepaypers-reports
     - ad-magazin-smallspaces
     - sharedeals
+    - forschung-wissen
     - meine-site       # ← neu
 ```
 
