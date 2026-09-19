@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de-DE">
-  <title>tagesschau – LIVE und Topthemen</title>
-  <subtitle>tagesschau – LIVE und Topthemen</subtitle>
+  <title>tagesschau – Die wichtigsten Nachrichten</title>
+  <subtitle>tagesschau – Die wichtigsten Nachrichten</subtitle>
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-09-01T11:22:28Z</updated>
+  <updated>2026-09-19T11:53:30Z</updated>
   <author>
-    <name>tagesschau – LIVE und Topthemen</name>
+    <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Tina Hassel, ARD Brüssel zzt. Wicklow, über das EU-Außenministertreffen in Irland</title>
-      <id>https://www.tagesschau.de/video/video-1640756.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1640756.html"/>
-      <updated>2026-09-01T11:22:28Z</updated>
-      <published>2026-09-01T11:22:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ff1df3ad-0392-4109-859d-5d3f900580c6/AAABoFxG27g/AAABnSSvsdE/16x9-small/sendungsbild-1788906.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ff1df3ad-0392-4109-859d-5d3f900580c6/AAABoFxG27g/AAABnSSvsdE/16x9-small/sendungsbild-1788906.jpg?width=320" alt="Tina Hassel, ARD Brüssel zzt. Wicklow, über das EU-Außenministertreffen in Irland"/><p>Tina Hassel, ARD Brüssel zzt. Wicklow, über das EU-Außenministertreffen in Irland</p>]]></content>
+      <title>Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html"/>
+      <updated>2026-09-19T11:53:30Z</updated>
+      <published>2026-09-19T11:53:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/01bc2774-5169-4d70-9cc5-aefceab832d9/AAABoLiY_6s/AAABnSSvrFg/16x9-big/tankstelle-zapfsaeule-110.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/01bc2774-5169-4d70-9cc5-aefceab832d9/AAABoLiY_6s/AAABnSSvrFg/16x9-big/tankstelle-zapfsaeule-110.jpg?width=1280" alt="Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket"/><p>Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket</p>]]></content>
     </entry>
     <entry>
-      <title>Sophie Schlingmann, Deutscher Gewerkschaftsbund, zum Beginn des neuen Ausbildungsjahres</title>
-      <id>https://www.tagesschau.de/video/video-1640740.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1640740.html"/>
-      <updated>2026-09-01T11:15:54Z</updated>
-      <published>2026-09-01T11:15:54Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/437fb5d5-3c28-4370-8a92-aa483ce59590/AAABoFxA23w/AAABnSSvsdE/16x9-small/sendungsbild-1788902.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/437fb5d5-3c28-4370-8a92-aa483ce59590/AAABoFxA23w/AAABnSSvsdE/16x9-small/sendungsbild-1788902.jpg?width=320" alt="Sophie Schlingmann, Deutscher Gewerkschaftsbund, zum Beginn des neuen Ausbildungsjahres"/><p>Sophie Schlingmann, Deutscher Gewerkschaftsbund, zum Beginn des neuen Ausbildungsjahres</p>]]></content>
+      <title>Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer</title>
+      <id>https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html"/>
+      <updated>2026-09-19T11:53:30Z</updated>
+      <published>2026-09-19T11:53:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/59d547e0-8c3a-4e4e-9e97-9ab13dd91059/AAABoLWc--o/AAABnSSvrFg/16x9-big/klingbeil-dublin-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/59d547e0-8c3a-4e4e-9e97-9ab13dd91059/AAABoLWc--o/AAABnSSvrFg/16x9-big/klingbeil-dublin-102.jpg?width=1280" alt="Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer"/><p>Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer</p>]]></content>
     </entry>
     <entry>
-      <title>Deutschland plant Russland schärfer zu sanktionieren</title>
-      <id>https://www.tagesschau.de/video/video-1640730.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1640730.html"/>
-      <updated>2026-09-01T11:06:29Z</updated>
-      <published>2026-09-01T11:06:29Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/83f868c7-3779-4788-b66d-ab7d7dad825e/AAABoFw4Gi0/AAABnSSvsdE/16x9-small/sendungsbild-1788890.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/83f868c7-3779-4788-b66d-ab7d7dad825e/AAABoFw4Gi0/AAABnSSvsdE/16x9-small/sendungsbild-1788890.jpg?width=320" alt="Deutschland plant Russland schärfer zu sanktionieren"/><p>Deutschland plant Russland schärfer zu sanktionieren</p>]]></content>
+      <title>Dänemark und USA verkünden Einigung im Grönland-Streit</title>
+      <id>https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html"/>
+      <updated>2026-09-19T11:53:30Z</updated>
+      <published>2026-09-19T11:53:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d6ef7c9f-5cc7-4b1b-ac6b-9a3ea99ce004/AAABoLbNKng/AAABnSSvrFg/16x9-big/us-konsulat-nuuk-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d6ef7c9f-5cc7-4b1b-ac6b-9a3ea99ce004/AAABoLbNKng/AAABnSSvrFg/16x9-big/us-konsulat-nuuk-100.jpg?width=1280" alt="Dänemark und USA verkünden Einigung im Grönland-Streit"/><p>Dänemark und USA verkünden Einigung im Grönland-Streit</p>]]></content>
     </entry>
     <entry>
-      <title>Bevölkerungsrückgang seit Wiedervereinigung: Strukturwandel in Sachsen-Anhalt</title>
-      <id>https://www.tagesschau.de/video/video-1640732.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1640732.html"/>
-      <updated>2026-09-01T11:11:23Z</updated>
-      <published>2026-09-01T11:11:23Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5bc235b6-40b5-475e-9228-b2d83048d794/AAABoFw8sv0/AAABnSSvsdE/16x9-small/sendungsbild-1788900.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5bc235b6-40b5-475e-9228-b2d83048d794/AAABoFw8sv0/AAABnSSvsdE/16x9-small/sendungsbild-1788900.jpg?width=320" alt="Bevölkerungsrückgang seit Wiedervereinigung: Strukturwandel in Sachsen-Anhalt"/><p>Bevölkerungsrückgang seit Wiedervereinigung: Strukturwandel in Sachsen-Anhalt</p>]]></content>
+      <title>++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++</title>
+      <id>https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"/>
+      <updated>2026-09-19T11:53:30Z</updated>
+      <published>2026-09-19T11:53:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9c82a506-f1ec-4f1c-b039-a6e2a1939efb/AAABoKoupgo/AAABnSSvrFg/16x9-big/wahlplakate-mecklenburg-vorpommern-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9c82a506-f1ec-4f1c-b039-a6e2a1939efb/AAABoKoupgo/AAABnSSvrFg/16x9-big/wahlplakate-mecklenburg-vorpommern-102.jpg?width=1280" alt="++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++"/><p>++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++</p>]]></content>
     </entry>
     <entry>
-      <title>Janos Richter, Autor &quot;Verfassungsblog&quot;, zur Landtagswahl in Sachsen-Anhalt und über Gefahren für die Demokratie</title>
-      <id>https://www.tagesschau.de/video/video-1640310.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1640310.html"/>
-      <updated>2026-08-31T15:48:56Z</updated>
-      <published>2026-08-31T15:48:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ab3abafc-19d2-4d55-bba9-61916b4160d2/AAABoFgT3Lo/AAABnSSvsdE/16x9-small/sendungsbild-1788546.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ab3abafc-19d2-4d55-bba9-61916b4160d2/AAABoFgT3Lo/AAABnSSvsdE/16x9-small/sendungsbild-1788546.jpg?width=320" alt="Janos Richter, Autor "Verfassungsblog", zur Landtagswahl in Sachsen-Anhalt und über Gefahren für die Demokratie"/><p>Janos Richter, Autor &quot;Verfassungsblog&quot;, zur Landtagswahl in Sachsen-Anhalt und über Gefahren für die Demokratie</p>]]></content>
+      <title>Trump will CNN und andere Medien aus dem Weißen Haus verbannen</title>
+      <id>https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html"/>
+      <updated>2026-09-19T11:53:30Z</updated>
+      <published>2026-09-19T11:53:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dfecbe3e-503a-4a6f-b00b-762f8b37e53f/AAABoLgil4k/AAABnSSvrFg/16x9-big/weisses-haus-journalisten-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dfecbe3e-503a-4a6f-b00b-762f8b37e53f/AAABoLgil4k/AAABnSSvrFg/16x9-big/weisses-haus-journalisten-100.jpg?width=1280" alt="Trump will CNN und andere Medien aus dem Weißen Haus verbannen"/><p>Trump will CNN und andere Medien aus dem Weißen Haus verbannen</p>]]></content>
     </entry>
     <entry>
-      <title>Außenminister Wadephul im ARD-Interview beim Besuch in Tunesien und Algerien</title>
-      <id>https://www.tagesschau.de/video/video-1640298.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1640298.html"/>
-      <updated>2026-08-31T15:37:13Z</updated>
-      <published>2026-08-31T15:37:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/945db961-c84c-4fd0-bd82-a4d2c9af87b3/AAABoFgJmTk/AAABnSSvsdE/16x9-small/sendungsbild-1788538.jpg?width=320"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/945db961-c84c-4fd0-bd82-a4d2c9af87b3/AAABoFgJmTk/AAABnSSvsdE/16x9-small/sendungsbild-1788538.jpg?width=320" alt="Außenminister Wadephul im ARD-Interview beim Besuch in Tunesien und Algerien"/><p>Außenminister Wadephul im ARD-Interview beim Besuch in Tunesien und Algerien</p>]]></content>
+      <title>tagesschau in 100 Sekunden</title>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651602.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651602.html"/>
+      <updated>2026-09-19T11:53:30Z</updated>
+      <published>2026-09-19T11:53:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/658e749d-b608-4a29-952e-3fa3787b7f3d/AAABoLiYFtY/AAABnSSvrFg/16x9-big/sendungsbild-1798414.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/658e749d-b608-4a29-952e-3fa3787b7f3d/AAABoLiYFtY/AAABnSSvrFg/16x9-big/sendungsbild-1798414.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
