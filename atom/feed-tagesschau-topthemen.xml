@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-09-19T11:53:30Z</updated>
+  <updated>2026-09-19T18:41:38Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang</title>
+      <id>https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html"/>
+      <updated>2026-09-19T18:41:38Z</updated>
+      <published>2026-09-19T18:41:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/bda16257-6a26-4bf1-8c0d-30681da42c31/AAABoLoDdHo/AAABnSSvrFg/16x9-big/betsy-klein-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/bda16257-6a26-4bf1-8c0d-30681da42c31/AAABoLoDdHo/AAABnSSvrFg/16x9-big/betsy-klein-100.jpg?width=1280" alt="Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang"/><p>Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang</p>]]></content>
+    </entry>
+    <entry>
       <title>Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket</title>
       <id>https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html"/>
-      <updated>2026-09-19T11:53:30Z</updated>
-      <published>2026-09-19T11:53:30Z</published>
+      <updated>2026-09-19T18:41:38Z</updated>
+      <published>2026-09-19T18:41:38Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/01bc2774-5169-4d70-9cc5-aefceab832d9/AAABoLiY_6s/AAABnSSvrFg/16x9-big/tankstelle-zapfsaeule-110.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/01bc2774-5169-4d70-9cc5-aefceab832d9/AAABoLiY_6s/AAABnSSvrFg/16x9-big/tankstelle-zapfsaeule-110.jpg?width=1280" alt="Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket"/><p>Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket</p>]]></content>
     </entry>
     <entry>
-      <title>Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer</title>
-      <id>https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html"/>
-      <updated>2026-09-19T11:53:30Z</updated>
-      <published>2026-09-19T11:53:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/59d547e0-8c3a-4e4e-9e97-9ab13dd91059/AAABoLWc--o/AAABnSSvrFg/16x9-big/klingbeil-dublin-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/59d547e0-8c3a-4e4e-9e97-9ab13dd91059/AAABoLWc--o/AAABnSSvrFg/16x9-big/klingbeil-dublin-102.jpg?width=1280" alt="Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer"/><p>Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer</p>]]></content>
+      <title>Krankenkassen sollen doch über Beitragsanhebung informieren müssen</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html"/>
+      <updated>2026-09-19T18:41:38Z</updated>
+      <published>2026-09-19T18:41:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/32737bfb-4bc8-4320-a366-89eccc801321/AAABnT9aERE/AAABnSSvrFg/16x9-big/gesundheitskarten-116.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/32737bfb-4bc8-4320-a366-89eccc801321/AAABnT9aERE/AAABnSSvrFg/16x9-big/gesundheitskarten-116.jpg?width=1280" alt="Krankenkassen sollen doch über Beitragsanhebung informieren müssen"/><p>Krankenkassen sollen doch über Beitragsanhebung informieren müssen</p>]]></content>
+    </entry>
+    <entry>
+      <title>USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft</title>
+      <id>https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html"/>
+      <updated>2026-09-19T18:41:38Z</updated>
+      <published>2026-09-19T18:41:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fcf6ce91-69ab-47cc-8e06-ae3b20103673/AAABoLoUop4/AAABnSSvrFg/16x9-big/donald-trump-928.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fcf6ce91-69ab-47cc-8e06-ae3b20103673/AAABoLoUop4/AAABnSSvrFg/16x9-big/donald-trump-928.jpg?width=1280" alt="USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft"/><p>USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft</p>]]></content>
     </entry>
     <entry>
       <title>Dänemark und USA verkünden Einigung im Grönland-Streit</title>
       <id>https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html"/>
-      <updated>2026-09-19T11:53:30Z</updated>
-      <published>2026-09-19T11:53:30Z</published>
+      <updated>2026-09-19T18:41:38Z</updated>
+      <published>2026-09-19T18:41:38Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d6ef7c9f-5cc7-4b1b-ac6b-9a3ea99ce004/AAABoLbNKng/AAABnSSvrFg/16x9-big/us-konsulat-nuuk-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d6ef7c9f-5cc7-4b1b-ac6b-9a3ea99ce004/AAABoLbNKng/AAABnSSvrFg/16x9-big/us-konsulat-nuuk-100.jpg?width=1280" alt="Dänemark und USA verkünden Einigung im Grönland-Streit"/><p>Dänemark und USA verkünden Einigung im Grönland-Streit</p>]]></content>
     </entry>
     <entry>
-      <title>++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++</title>
-      <id>https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"/>
-      <updated>2026-09-19T11:53:30Z</updated>
-      <published>2026-09-19T11:53:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9c82a506-f1ec-4f1c-b039-a6e2a1939efb/AAABoKoupgo/AAABnSSvrFg/16x9-big/wahlplakate-mecklenburg-vorpommern-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9c82a506-f1ec-4f1c-b039-a6e2a1939efb/AAABoKoupgo/AAABnSSvrFg/16x9-big/wahlplakate-mecklenburg-vorpommern-102.jpg?width=1280" alt="++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++"/><p>++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++</p>]]></content>
-    </entry>
-    <entry>
-      <title>Trump will CNN und andere Medien aus dem Weißen Haus verbannen</title>
-      <id>https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html"/>
-      <updated>2026-09-19T11:53:30Z</updated>
-      <published>2026-09-19T11:53:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dfecbe3e-503a-4a6f-b00b-762f8b37e53f/AAABoLgil4k/AAABnSSvrFg/16x9-big/weisses-haus-journalisten-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dfecbe3e-503a-4a6f-b00b-762f8b37e53f/AAABoLgil4k/AAABnSSvrFg/16x9-big/weisses-haus-journalisten-100.jpg?width=1280" alt="Trump will CNN und andere Medien aus dem Weißen Haus verbannen"/><p>Trump will CNN und andere Medien aus dem Weißen Haus verbannen</p>]]></content>
-    </entry>
-    <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651602.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651602.html"/>
-      <updated>2026-09-19T11:53:30Z</updated>
-      <published>2026-09-19T11:53:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/658e749d-b608-4a29-952e-3fa3787b7f3d/AAABoLiYFtY/AAABnSSvrFg/16x9-big/sendungsbild-1798414.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/658e749d-b608-4a29-952e-3fa3787b7f3d/AAABoLiYFtY/AAABnSSvrFg/16x9-big/sendungsbild-1798414.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651858.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1651858.html"/>
+      <updated>2026-09-19T18:41:38Z</updated>
+      <published>2026-09-19T18:41:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a1b67802-2e90-4a23-8fde-993ddc4b4202/AAABoLq9ttc/AAABnSSvrFg/16x9-big/sendungsbild-1798656.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a1b67802-2e90-4a23-8fde-993ddc4b4202/AAABoLq9ttc/AAABnSSvrFg/16x9-big/sendungsbild-1798656.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
