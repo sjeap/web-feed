@@ -27,6 +27,7 @@ jobs:
           - thepaypers-reports
           - ad-magazin-smallspaces
           - sharedeals
+          - forschung-wissen
 
     steps:
       - name: Checkout
