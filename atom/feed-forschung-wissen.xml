@@ -5,17 +5,26 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-09-19T11:53:19Z</updated>
+  <updated>2026-09-19T18:42:19Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Eine einzige Spritze lässt verlorenen Knorpel nachwachsen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen-133712183</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen-133712183"/>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen.jpg" alt="Eine einzige Spritze lässt verlorenen Knorpel nachwachsen"/><p>Eine einzige Spritze lässt verlorenen Knorpel nachwachsen</p>]]></content>
+    </entry>
+    <entry>
       <title>Neue Solarzelle durchbricht physikalische Grenze von Silizium</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium-133712204</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium-133712204"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-08/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-08/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium.jpg" alt="Neue Solarzelle durchbricht physikalische Grenze von Silizium"/><p>Neue Solarzelle durchbricht physikalische Grenze von Silizium</p>]]></content>
     </entry>
@@ -23,8 +32,8 @@
       <title>Fast ausgerottete Meeresschildkröte gilt nicht mehr als gefährdet</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet-133712192</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet-133712192"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet.jpg" alt="Fast ausgerottete Meeresschildkröte gilt nicht mehr als gefährdet"/><p>Fast ausgerottete Meeresschildkröte gilt nicht mehr als gefährdet</p>]]></content>
     </entry>
@@ -32,8 +41,8 @@
       <title>Erneuerbare sparen weltweit 480 Milliarden Dollar an Kosten</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/oekonomie/erneuerbare-sparen-weltweit-480-milliarden-dollar-an-kosten-133712217</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/oekonomie/erneuerbare-sparen-weltweit-480-milliarden-dollar-an-kosten-133712217"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/oekonomie/Magazin-Gross/2026-08/erneuerbare-sparen-weltweit-480-milliarden-dollar-an-kosten.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/oekonomie/Magazin-Gross/2026-08/erneuerbare-sparen-weltweit-480-milliarden-dollar-an-kosten.jpg" alt="Erneuerbare sparen weltweit 480 Milliarden Dollar an Kosten"/><p>Erneuerbare sparen weltweit 480 Milliarden Dollar an Kosten</p>]]></content>
     </entry>
@@ -41,8 +50,8 @@
       <title>Rund die Hälfte aller Menschen erkrankt psychisch</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/rund-die-haelfte-aller-menschen-erkrankt-psychisch-133712165</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/rund-die-haelfte-aller-menschen-erkrankt-psychisch-133712165"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-08/rund-die-haelfte-aller-menschen-erkrankt-psychisch.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-08/rund-die-haelfte-aller-menschen-erkrankt-psychisch.jpg" alt="Rund die Hälfte aller Menschen erkrankt psychisch"/><p>Rund die Hälfte aller Menschen erkrankt psychisch</p>]]></content>
     </entry>
@@ -50,26 +59,17 @@
       <title>In 4.000 Metern Tiefe entsteht Sauerstoff ohne Sonne</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/in-4.000-metern-tiefe-entsteht-sauerstoff-ohne-sonne-133712909</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/in-4.000-metern-tiefe-entsteht-sauerstoff-ohne-sonne-133712909"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-09/in-4.000-metern-tiefe-entsteht-sauerstoff-ohne-sonne.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-09/in-4.000-metern-tiefe-entsteht-sauerstoff-ohne-sonne.jpg" alt="In 4.000 Metern Tiefe entsteht Sauerstoff ohne Sonne"/><p>In 4.000 Metern Tiefe entsteht Sauerstoff ohne Sonne</p>]]></content>
-    </entry>
-    <entry>
-      <title>Vor 466 Millionen Jahren zog ein Ring um die Erde</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/geologie/vor-466-millionen-jahren-zog-ein-ring-um-die-erde-133712908</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/vor-466-millionen-jahren-zog-ein-ring-um-die-erde-133712908"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-09/vor-466-millionen-jahren-zog-ein-ring-um-die-erde.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-09/vor-466-millionen-jahren-zog-ein-ring-um-die-erde.jpg" alt="Vor 466 Millionen Jahren zog ein Ring um die Erde"/><p>Vor 466 Millionen Jahren zog ein Ring um die Erde</p>]]></content>
     </entry>
     <entry>
       <title>Die Konservendose existierte 45 Jahre vor dem Dosenöffner</title>
       <id>https://www.forschung-und-wissen.de/magazin/die-konservendose-existierte-45-jahre-vor-dem-dosenoeffner-133712100</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/die-konservendose-existierte-45-jahre-vor-dem-dosenoeffner-133712100"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/die-konservendose-existierte-45-jahre-vor-dem-dosenoeffner.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/die-konservendose-existierte-45-jahre-vor-dem-dosenoeffner.jpg" alt="Die Konservendose existierte 45 Jahre vor dem Dosenöffner"/><p>Die Konservendose existierte 45 Jahre vor dem Dosenöffner</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>In der Sierra Nevada lag 1911 der Schnee über elf Meter hoch</title>
       <id>https://www.forschung-und-wissen.de/magazin/in-der-sierra-nevada-lag-1911-der-schnee-ueber-elf-meter-hoch-133712912</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-der-sierra-nevada-lag-1911-der-schnee-ueber-elf-meter-hoch-133712912"/>
-      <updated>2026-09-19T11:53:19Z</updated>
-      <published>2026-09-19T11:53:19Z</published>
+      <updated>2026-09-19T18:42:19Z</updated>
+      <published>2026-09-19T18:42:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-sierra-nevada-lag-1911-der-schnee-ueber-elf-meter-hoch.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-sierra-nevada-lag-1911-der-schnee-ueber-elf-meter-hoch.jpg" alt="In der Sierra Nevada lag 1911 der Schnee über elf Meter hoch"/><p>In der Sierra Nevada lag 1911 der Schnee über elf Meter hoch</p>]]></content>
     </entry>
