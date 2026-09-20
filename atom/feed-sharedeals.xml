@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-09-19T07:05:34Z</updated>
+  <updated>2026-09-19T21:36:32Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Robinhood-Aktie +9%: Wie weit trägt sie der Aufwärtstrend?</title>
+      <id>https://www.sharedeals.de/robinhood-aktie-9-wie-weit-traegt-sie-der-aufwaertstrend/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/robinhood-aktie-9-wie-weit-traegt-sie-der-aufwaertstrend/"/>
+      <updated>2026-09-19T21:36:32Z</updated>
+      <published>2026-09-19T21:36:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/Robinhood-Kurssteigerungen-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/Robinhood-Kurssteigerungen-540x350.jpg" alt="Robinhood logo with upward green stock graphs and the slogan &#039;Investing for everyone&#039; in a modern office background."/><p>Robinhood-Aktie +9%: Wie weit trägt sie der Aufwärtstrend?</p>]]></content>
+    </entry>
     <entry>
       <title>Alphabet-Aktie: KI macht Google mächtiger – jetzt noch kaufen?</title>
       <id>https://www.sharedeals.de/alphabet-aktie-ki-macht-google-maechtiger-jetzt-noch-kaufen/</id>
@@ -34,8 +43,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/vw-aktie-von-1-auf-9-marge-ist-das-noch-glaubwuerdig/"/>
       <updated>2026-09-19T05:28:06Z</updated>
       <published>2026-09-19T05:28:06Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/VW-Logo-kaputt-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/VW-Logo-kaputt-540x350.jpg" alt="Damaged silver Volkswagen emblem lying on a cracked asphalt surface with debris nearby."/><p>VW-Aktie: Von 1 auf 9% Marge – ist das noch glaubwürdig?</p>]]></content>
     </entry>
     <entry>
       <title>Rüstungsboom erreicht die Kommunikation: Diese Aktien könnten profitieren!</title>
@@ -137,20 +144,18 @@
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/08/Micron-540x350.jpg" alt="Close-up of a precision machine processing a silicon wafer in a Micron fabrication facility, with the Micron logo in the background."/><p>Micron-Aktie: Erst 1.000 US$ und dann 1.600 US$?</p>]]></content>
     </entry>
     <entry>
-      <title>Rheinmetall-Aktie: Kommt nach dem Absturz jetzt das Comeback?</title>
-      <id>https://www.sharedeals.de/rheinmetall-aktie-kommt-nach-dem-absturz-jetzt-das-comeback/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-kommt-nach-dem-absturz-jetzt-das-comeback/"/>
-      <updated>2026-09-18T10:38:05Z</updated>
-      <published>2026-09-18T10:38:05Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/08/Rheinmetall-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/08/Rheinmetall-540x350.jpg" alt="Exterior wall displaying Rheinmetall logo: blue geometric symbol and bold &#039;RHEINMETALL&#039; lettering on a white facade."/><p>Rheinmetall-Aktie: Kommt nach dem Absturz jetzt das Comeback?</p>]]></content>
-    </entry>
-    <entry>
       <title>Deutsche Telekom-Aktie -4%: Den Kursrückgang zum Kauf nutzen?</title>
       <id>https://www.sharedeals.de/deutsche-telekom-aktie-4-den-kursrueckgang-zum-kauf-nutzen/</id>
       <link rel="alternate" href="https://www.sharedeals.de/deutsche-telekom-aktie-4-den-kursrueckgang-zum-kauf-nutzen/"/>
       <updated>2026-09-18T07:52:56Z</updated>
       <published>2026-09-18T07:52:56Z</published>
+    </entry>
+    <entry>
+      <title>Bilfinger-Aktie -20%: Ist der Crash eine Einstiegschance?</title>
+      <id>https://www.sharedeals.de/bilfinger-aktie-20-ist-der-crash-eine-einstiegschance/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/bilfinger-aktie-20-ist-der-crash-eine-einstiegschance/"/>
+      <updated>2026-09-17T11:08:17Z</updated>
+      <published>2026-09-17T11:08:17Z</published>
     </entry>
     <entry>
       <title>Deutsche Telekom-Aktie: 43 € und noch mehr Dividende?</title>
@@ -183,19 +188,5 @@
       <published>2026-09-16T18:05:41Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/06/Artikelbilder-8-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/06/Artikelbilder-8-540x350.jpg" alt="US-Notenbank Fed"/><p>Fed erhöht Leitzins erstmals seit 2023</p>]]></content>
-    </entry>
-    <entry>
-      <title>Bayer-Aktie: Die Ruhe vor dem Sturm?</title>
-      <id>https://www.sharedeals.de/bayer-aktie-die-ruhe-vor-dem-sturm/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/bayer-aktie-die-ruhe-vor-dem-sturm/"/>
-      <updated>2026-09-16T09:26:19Z</updated>
-      <published>2026-09-16T09:26:19Z</published>
-    </entry>
-    <entry>
-      <title>Almonty-Aktie fällt auf 14 US$: Lohnt sich der Einstieg?</title>
-      <id>https://www.sharedeals.de/almonty-aktie-faellt-auf-14-us-lohnt-sich-der-einstieg/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-faellt-auf-14-us-lohnt-sich-der-einstieg/"/>
-      <updated>2026-09-16T06:40:13Z</updated>
-      <published>2026-09-16T06:40:13Z</published>
     </entry>
 </feed>
