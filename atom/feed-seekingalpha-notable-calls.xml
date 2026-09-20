@@ -5,11 +5,25 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-19T16:10:00Z</updated>
+  <updated>2026-09-20T03:59:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>PAPI: Differentiated Approach And Monthly Pay</title>
+      <id>4948110</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948110-papi-differentiated-approach-and-monthly-pay?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-20T03:59:00Z</updated>
+      <published>2026-09-20T03:59:00Z</published>
+    </entry>
+    <entry>
+      <title>IXN: Massive Multiple Compression In Tech YoY, Too Cheap Today</title>
+      <id>4948109</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948109-ixn-massive-multiple-compression-in-tech-yoy-too-cheap-today?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-20T03:57:22Z</updated>
+      <published>2026-09-20T03:57:22Z</published>
+    </entry>
     <entry>
       <title>Why Hyrdogen? Why HYDR?</title>
       <id>4948097</id>
@@ -142,20 +156,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4948005-healthcare-etf-treatment-breakthroughs-make-china-medical-destination?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-09-19T04:20:00Z</updated>
       <published>2026-09-19T04:20:00Z</published>
-    </entry>
-    <entry>
-      <title>FVD: DGRO And SCHD Are Better Dividend Bets Barring A Deep Recession</title>
-      <id>4947998</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4947998-fvd-dgro-and-schd-are-better-dividend-bets-barring-a-deep-recession?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-19T03:12:30Z</updated>
-      <published>2026-09-19T03:12:30Z</published>
-    </entry>
-    <entry>
-      <title>Super Micro Computer And SMCX: Impressive AI Growth, Yet Far From A Smooth Ride</title>
-      <id>4947971</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4947971-super-micro-computer-and-smcx-impressive-ai-growth-yet-far-from-a-smooth-ride?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-18T22:01:44Z</updated>
-      <published>2026-09-18T22:01:44Z</published>
     </entry>
     <entry>
       <title>10 mid-cap industrial stocks with weakest momentum grades</title>
