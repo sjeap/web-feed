@@ -11,15 +11,6 @@
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ukraine: Russlands Krieg kommt aus dem Himmel</title>
-      <id>https://correctiv.org/aktuelles/2026/09/18/ukraine-russlands-krieg-kommt-aus-dem-himmel/</id>
-      <link rel="alternate" href="https://correctiv.org/aktuelles/2026/09/18/ukraine-russlands-krieg-kommt-aus-dem-himmel/"/>
-      <updated>2026-09-18T00:00:00Z</updated>
-      <published>2026-09-18T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/image-4.jpeg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/image-4.jpeg" alt="Ukraine: Russlands Krieg kommt aus dem Himmel"/><p>Ukraine: Russlands Krieg kommt aus dem Himmel</p>]]></content>
-    </entry>
-    <entry>
       <title>Video von zerschnittenen AfD-Stimmzetteln in Berlin ist eine Fälschung</title>
       <id>https://correctiv.org/faktencheck/2026/09/18/video-von-zerschnittenen-afd-stimmzetteln-in-berlin-ist-eine-faelschung/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/18/video-von-zerschnittenen-afd-stimmzetteln-in-berlin-ist-eine-faelschung/"/>
@@ -234,5 +225,14 @@
       <published>2026-08-18T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Polizei-Polen-Picture-Alliance-20260818-scaled-e1787055829374.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Polizei-Polen-Picture-Alliance-20260818-scaled-e1787055829374.jpg" alt="Statistiken belegen nicht, dass Berlin krimineller ist als Polen"/><p>Statistiken belegen nicht, dass Berlin krimineller ist als Polen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nein, Merkel sagte nicht, sie habe Migranten ins Land geholt, um Rechtsextreme zu stoppen</title>
+      <id>https://correctiv.org/faktencheck/politik/2026/08/12/nein-merkel-sagte-nicht-sie-habe-migranten-ins-land-geholt-um-rechtsextreme-zu-stoppen/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/politik/2026/08/12/nein-merkel-sagte-nicht-sie-habe-migranten-ins-land-geholt-um-rechtsextreme-zu-stoppen/"/>
+      <updated>2026-08-12T00:00:00Z</updated>
+      <published>2026-08-12T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/angela-merkel-malte-ossowski-sven-simon-picturealliance.png"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/angela-merkel-malte-ossowski-sven-simon-picturealliance.png" alt="Angela Merkel sitzt vor zwei Mikrofonen."/><p>Nein, Merkel sagte nicht, sie habe Migranten ins Land geholt, um Rechtsextreme zu stoppen</p>]]></content>
     </entry>
 </feed>
