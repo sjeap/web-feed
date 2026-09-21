@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-09-20T18:57:13Z</updated>
+  <updated>2026-09-21T10:07:09Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Warum sich Candida auris nicht von der Haut entfernen lässt</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/warum-sich-candida-auris-nicht-von-der-haut-entfernen-laesst-133712437</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/warum-sich-candida-auris-nicht-von-der-haut-entfernen-laesst-133712437"/>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/warum-sich-candida-auris-nicht-von-der-haut-entfernen-laesst.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/warum-sich-candida-auris-nicht-von-der-haut-entfernen-laesst.jpg" alt="Warum sich Candida auris nicht von der Haut entfernen lässt"/><p>Warum sich Candida auris nicht von der Haut entfernen lässt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Menschliche Lebensspanne hat offenbar eine feste Obergrenze</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/menschliche-lebensspanne-hat-offenbar-eine-feste-obergrenze-133712283</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/menschliche-lebensspanne-hat-offenbar-eine-feste-obergrenze-133712283"/>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/menschliche-lebensspanne-hat-offenbar-eine-feste-obergrenze.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/menschliche-lebensspanne-hat-offenbar-eine-feste-obergrenze.jpg" alt="Menschliche Lebensspanne hat offenbar eine feste Obergrenze"/><p>Menschliche Lebensspanne hat offenbar eine feste Obergrenze</p>]]></content>
+    </entry>
+    <entry>
       <title>Daten aus 66 Ländern zeigen fünf Schlüssel zum Glück</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/daten-aus-66-laendern-zeigen-fuenf-schluessel-zum-glueck-133712198</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/daten-aus-66-laendern-zeigen-fuenf-schluessel-zum-glueck-133712198"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-08/daten-aus-66-laendern-zeigen-fuenf-schluessel-zum-glueck.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-08/daten-aus-66-laendern-zeigen-fuenf-schluessel-zum-glueck.jpg" alt="Daten aus 66 Ländern zeigen fünf Schlüssel zum Glück"/><p>Daten aus 66 Ländern zeigen fünf Schlüssel zum Glück</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>In immer mehr Knien wächst ein rätselhafter Knochen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/in-immer-mehr-knien-waechst-ein-raetselhafter-knochen-133712177</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/in-immer-mehr-knien-waechst-ein-raetselhafter-knochen-133712177"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/in-immer-mehr-knien-waechst-ein-raetselhafter-knochen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/in-immer-mehr-knien-waechst-ein-raetselhafter-knochen.jpg" alt="In immer mehr Knien wächst ein rätselhafter Knochen"/><p>In immer mehr Knien wächst ein rätselhafter Knochen</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Totgesagte Mangrovenwälder wachsen weltweit wieder</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/totgesagte-mangrovenwaelder-wachsen-weltweit-wieder-133712189</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/totgesagte-mangrovenwaelder-wachsen-weltweit-wieder-133712189"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-08/totgesagte-mangrovenwaelder-wachsen-weltweit-wieder.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-08/totgesagte-mangrovenwaelder-wachsen-weltweit-wieder.jpg" alt="Totgesagte Mangrovenwälder wachsen weltweit wieder"/><p>Totgesagte Mangrovenwälder wachsen weltweit wieder</p>]]></content>
     </entry>
@@ -41,45 +59,27 @@
       <title>Eine einzige Spritze lässt verlorenen Knorpel nachwachsen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen-133712183</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen-133712183"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-08/eine-einzige-spritze-laesst-verlorenen-knorpel-nachwachsen.jpg" alt="Eine einzige Spritze lässt verlorenen Knorpel nachwachsen"/><p>Eine einzige Spritze lässt verlorenen Knorpel nachwachsen</p>]]></content>
     </entry>
     <entry>
-      <title>Neue Solarzelle durchbricht physikalische Grenze von Silizium</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium-133712204</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium-133712204"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-08/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-08/neue-solarzelle-durchbricht-physikalische-grenze-von-silizium.jpg" alt="Neue Solarzelle durchbricht physikalische Grenze von Silizium"/><p>Neue Solarzelle durchbricht physikalische Grenze von Silizium</p>]]></content>
-    </entry>
-    <entry>
-      <title>Fast ausgerottete Meeresschildkröte gilt nicht mehr als gefährdet</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet-133712192</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet-133712192"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/fast-ausgerottete-meeresschildkroete-gilt-nicht-mehr-als-gefaehrdet.jpg" alt="Fast ausgerottete Meeresschildkröte gilt nicht mehr als gefährdet"/><p>Fast ausgerottete Meeresschildkröte gilt nicht mehr als gefährdet</p>]]></content>
+      <title>Seit über 100 Jahren regnet es in dieser Stadt Fische</title>
+      <id>https://www.forschung-und-wissen.de/magazin/seit-ueber-100-jahren-regnet-es-in-dieser-stadt-fische-133712108</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/seit-ueber-100-jahren-regnet-es-in-dieser-stadt-fische-133712108"/>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/seit-ueber-100-jahren-regnet-es-in-dieser-stadt-fische.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/seit-ueber-100-jahren-regnet-es-in-dieser-stadt-fische.jpg" alt="Seit über 100 Jahren regnet es in dieser Stadt Fische"/><p>Seit über 100 Jahren regnet es in dieser Stadt Fische</p>]]></content>
     </entry>
     <entry>
       <title>Point Nemo: Am abgelegensten Ort der Erde versinken Raumschiffe</title>
       <id>https://www.forschung-und-wissen.de/magazin/point-nemo-am-abgelegensten-ort-der-erde-versinken-raumschiffe-133712136</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/point-nemo-am-abgelegensten-ort-der-erde-versinken-raumschiffe-133712136"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
+      <updated>2026-09-21T10:07:09Z</updated>
+      <published>2026-09-21T10:07:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/point-nemo-am-abgelegensten-ort-der-erde-versinken-raumschiffe.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/point-nemo-am-abgelegensten-ort-der-erde-versinken-raumschiffe.jpg" alt="Point Nemo: Am abgelegensten Ort der Erde versinken Raumschiffe"/><p>Point Nemo: Am abgelegensten Ort der Erde versinken Raumschiffe</p>]]></content>
-    </entry>
-    <entry>
-      <title>Im Jahr 46 vor Christus gab es 445 Tage und 15 Monate</title>
-      <id>https://www.forschung-und-wissen.de/magazin/im-jahr-46-vor-christus-gab-es-445-tage-und-15-monate-133712887</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/im-jahr-46-vor-christus-gab-es-445-tage-und-15-monate-133712887"/>
-      <updated>2026-09-20T18:57:13Z</updated>
-      <published>2026-09-20T18:57:13Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/im-jahr-46-vor-christus-gab-es-445-tage-und-15-monate.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/im-jahr-46-vor-christus-gab-es-445-tage-und-15-monate.jpg" alt="Im Jahr 46 vor Christus gab es 445 Tage und 15 Monate"/><p>Im Jahr 46 vor Christus gab es 445 Tage und 15 Monate</p>]]></content>
     </entry>
 </feed>
