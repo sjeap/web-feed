@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-09-18T00:00:00Z</updated>
+  <updated>2026-09-23T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Video mit angeblichen Buhrufen gegen Campino ist manipuliert</title>
+      <id>https://correctiv.org/faktencheck/2026/09/23/video-mit-angeblichen-buhrufen-gegen-campino-wurde-manipuliert/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/23/video-mit-angeblichen-buhrufen-gegen-campino-wurde-manipuliert/"/>
+      <updated>2026-09-23T00:00:00Z</updated>
+      <published>2026-09-23T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/542679284-scaled.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/542679284-scaled.jpg" alt="Tote-Hosen-Frontmann Campino auf der Bühne"/><p>Video mit angeblichen Buhrufen gegen Campino ist manipuliert</p>]]></content>
+    </entry>
+    <entry>
+      <title>Tiktok-Video erfindet 550-Euro-Zuschuss für alleinerziehende Mütter</title>
+      <id>https://correctiv.org/faktencheck/2026/09/23/tiktok-video-erfindet-zuschuss-fuer-alleinerziehende-muetter/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/23/tiktok-video-erfindet-zuschuss-fuer-alleinerziehende-muetter/"/>
+      <updated>2026-09-23T00:00:00Z</updated>
+      <published>2026-09-23T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/tiktok-video-zuschuss-alleinerziehende-falsch-Michael-Bihlmayer-Chromorange-Picture-Alliance.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/tiktok-video-zuschuss-alleinerziehende-falsch-Michael-Bihlmayer-Chromorange-Picture-Alliance.jpg" alt="tiktok-video-zuschuss-alleinerziehende-falsch-Michael Bihlmayer- Chromorange-Picture Alliance"/><p>Tiktok-Video erfindet 550-Euro-Zuschuss für alleinerziehende Mütter</p>]]></content>
+    </entry>
     <entry>
       <title>Video von zerschnittenen AfD-Stimmzetteln in Berlin ist eine Fälschung</title>
       <id>https://correctiv.org/faktencheck/2026/09/18/video-von-zerschnittenen-afd-stimmzetteln-in-berlin-ist-eine-faelschung/</id>
@@ -216,23 +234,5 @@
       <published>2026-08-20T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/merz-kay-nietfeld-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/merz-kay-nietfeld-dpa-picture-alliance.jpg" alt="Bundeskanzler Merz steht hinter einem Mikrofon."/><p>Dobrindt-Video aus dem Kontext gerissen: Keine Vertrauensfrage von Merz</p>]]></content>
-    </entry>
-    <entry>
-      <title>Statistiken belegen nicht, dass Berlin krimineller ist als Polen</title>
-      <id>https://correctiv.org/faktencheck/2026/08/18/statistiken-belegen-nicht-dass-berlin-krimineller-ist-als-polen/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/18/statistiken-belegen-nicht-dass-berlin-krimineller-ist-als-polen/"/>
-      <updated>2026-08-18T00:00:00Z</updated>
-      <published>2026-08-18T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Polizei-Polen-Picture-Alliance-20260818-scaled-e1787055829374.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Polizei-Polen-Picture-Alliance-20260818-scaled-e1787055829374.jpg" alt="Statistiken belegen nicht, dass Berlin krimineller ist als Polen"/><p>Statistiken belegen nicht, dass Berlin krimineller ist als Polen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nein, Merkel sagte nicht, sie habe Migranten ins Land geholt, um Rechtsextreme zu stoppen</title>
-      <id>https://correctiv.org/faktencheck/politik/2026/08/12/nein-merkel-sagte-nicht-sie-habe-migranten-ins-land-geholt-um-rechtsextreme-zu-stoppen/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/politik/2026/08/12/nein-merkel-sagte-nicht-sie-habe-migranten-ins-land-geholt-um-rechtsextreme-zu-stoppen/"/>
-      <updated>2026-08-12T00:00:00Z</updated>
-      <published>2026-08-12T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/angela-merkel-malte-ossowski-sven-simon-picturealliance.png"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/angela-merkel-malte-ossowski-sven-simon-picturealliance.png" alt="Angela Merkel sitzt vor zwei Mikrofonen."/><p>Nein, Merkel sagte nicht, sie habe Migranten ins Land geholt, um Rechtsextreme zu stoppen</p>]]></content>
     </entry>
 </feed>
