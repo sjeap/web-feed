@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-22T19:24:00Z</updated>
+  <updated>2026-09-23T09:08:34Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>EPU: Hold But Stay Underweight</title>
+      <id>4948907</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948907-epu-hold-but-stay-underweight?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T09:08:34Z</updated>
+      <published>2026-09-23T09:08:34Z</published>
+    </entry>
+    <entry>
+      <title>Moat Index Rotates Out Of Software Winners</title>
+      <id>4948911</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948911-moat-index-rotates-out-of-software-winners?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T08:30:00Z</updated>
+      <published>2026-09-23T08:30:00Z</published>
+    </entry>
+    <entry>
+      <title>ONEQ: The Downside Requires A Perfect Storm Despite QQQ-Like Risks</title>
+      <id>4948878</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948878-oneq-the-downside-requires-a-perfect-storm-despite-qqq-like-risks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T07:39:52Z</updated>
+      <published>2026-09-23T07:39:52Z</published>
+    </entry>
+    <entry>
+      <title>VIXY: A High-Conviction Tactical October Hedge, Not A Long-Term Buy (Upgrade)</title>
+      <id>4948870</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948870-vixy-a-high-conviction-tactical-october-hedge-not-a-long-term-buy-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T07:03:10Z</updated>
+      <published>2026-09-23T07:03:10Z</published>
+    </entry>
+    <entry>
+      <title>XBCI: BTCI&apos;s Biggest Problem Now Has A Fix</title>
+      <id>4948863</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948863-xbci-btcis-biggest-problem-now-has-a-fix?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T06:48:46Z</updated>
+      <published>2026-09-23T06:48:46Z</published>
+    </entry>
+    <entry>
+      <title>Beyond Beta: Why Taiwan May Outlast The AI Debate</title>
+      <id>4948876</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948876-beyond-beta-why-taiwan-may-outlast-ai-debate?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T06:45:00Z</updated>
+      <published>2026-09-23T06:45:00Z</published>
+    </entry>
+    <entry>
+      <title>John Hancock Corporate Bond ETF Q2 2026 Commentary</title>
+      <id>4948866</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948866-john-hancock-corporate-bond-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T06:00:00Z</updated>
+      <published>2026-09-23T06:00:00Z</published>
+    </entry>
+    <entry>
+      <title>2 Closed-End Funds At Attractive Discounts</title>
+      <id>4948827</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948827-2-closed-end-funds-at-attractive-discounts?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T01:20:31Z</updated>
+      <published>2026-09-23T01:20:31Z</published>
+    </entry>
+    <entry>
+      <title>Harbor International Equity ETF Q2 2026 Commentary</title>
+      <id>4948829</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948829-harbor-international-equity-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-23T00:30:00Z</updated>
+      <published>2026-09-23T00:30:00Z</published>
+    </entry>
+    <entry>
+      <title>FINN:CA: Still Going Strong; Reiterating Buy</title>
+      <id>4948801</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948801-finnca-still-going-strong-reiterating-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-22T21:57:34Z</updated>
+      <published>2026-09-22T21:57:34Z</published>
+    </entry>
+    <entry>
+      <title>MOO: Tailwinds Are Priced In, AI Is A Threat And Boon (Downgrade)</title>
+      <id>4948793</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4948793-moo-downgrade-tailwinds-are-priced-in-ai-is-a-threat-and-boon?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-22T21:33:40Z</updated>
+      <published>2026-09-22T21:33:40Z</published>
+    </entry>
     <entry>
       <title>InfraCap MLP ETF Q2 2026 Commentary</title>
       <id>4948761</id>
@@ -74,39 +151,11 @@
       <published>2026-09-22T16:52:10Z</published>
     </entry>
     <entry>
-      <title>Gabelli Utility Trust Q2 2026 Commentary</title>
-      <id>4948685</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948685-gabelli-utility-trust-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T16:10:00Z</updated>
-      <published>2026-09-22T16:10:00Z</published>
-    </entry>
-    <entry>
-      <title>DBA: All Agriculture Eyes On Trump-Xi</title>
-      <id>4948661</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948661-dba-all-agriculture-eyes-on-trump-xi?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T15:27:08Z</updated>
-      <published>2026-09-22T15:27:08Z</published>
-    </entry>
-    <entry>
-      <title>Is The AI Build-Out Still On Track, And What Is The Semiconductor Selloff Telling Investors?</title>
-      <id>4948657</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948657-ai-build-out-still-track-what-semiconductor-selloff-telling-investors?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T14:46:00Z</updated>
-      <published>2026-09-22T14:46:00Z</published>
-    </entry>
-    <entry>
       <title>BNP Paribas: Stronger Capital, Better Earnings Quality, And A Valuation Gap Support A Buy (Rating Upgrade)</title>
       <id>https://seekingalpha.com/Article:4948646</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4948646-bnp-paribas-stronger-capital-better-earnings-quality-and-a-valuation-gap-support-a-buy-rating-upgrade?source=feed_symbol_BNPQF"/>
       <updated>2026-09-22T14:41:57Z</updated>
       <published>2026-09-22T14:41:57Z</published>
-    </entry>
-    <entry>
-      <title>SPXX: An ~8.7% Distribution Yield And Discounted Price Worth A &apos;Buy&apos;</title>
-      <id>4948625</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948625-spxx-an-8-7-percent-distribution-yield-and-discounted-price-worth-a-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T13:15:56Z</updated>
-      <published>2026-09-22T13:15:56Z</published>
     </entry>
     <entry>
       <title>Germany faces two-front squeeze from Chinese factory strength, ECB says</title>
@@ -116,60 +165,11 @@
       <published>2026-09-22T13:10:31Z</published>
     </entry>
     <entry>
-      <title>Brazil: Potential Positive Asymmetry Into The October Election</title>
-      <id>4948594</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948594-brazil-potential-positive-asymmetry-october-election?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T12:32:00Z</updated>
-      <published>2026-09-22T12:32:00Z</published>
-    </entry>
-    <entry>
-      <title>QDVO: This Tactical Covered Call ETF Is Still Beating The Market Two Years In</title>
-      <id>4948492</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948492-qdvo-this-tactical-covered-call-etf-is-still-beating-the-market-two-years-in?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T12:30:00Z</updated>
-      <published>2026-09-22T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>Gabelli Healthcare &amp; WellnessRX Trust Q2 2026 Commentary</title>
-      <id>4948589</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948589-gabelli-healthcare-and-wellnessrx-trust-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T12:13:00Z</updated>
-      <published>2026-09-22T12:13:00Z</published>
-    </entry>
-    <entry>
-      <title>Seeking Income: How A Portfolio Of Just 5 Holdings Could Generate $5k Per Month From $500k</title>
-      <id>4948416</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948416-seeking-income-how-portfolio-of-just-5-holdings-could-generate-5k-per-month-from-500k?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T11:30:00Z</updated>
-      <published>2026-09-22T11:30:00Z</published>
-    </entry>
-    <entry>
       <title>Tempus AI: High Risk, But With A Great Cause</title>
       <id>https://seekingalpha.com/Article:4948568</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4948568-tempus-ai-high-risk-but-with-a-great-cause?source=feed_symbol_TEM"/>
       <updated>2026-09-22T11:05:46Z</updated>
       <published>2026-09-22T11:05:46Z</published>
-    </entry>
-    <entry>
-      <title>LQD: Largest Investment-Grade Corporate Bond ETF In The Market, Weak Investment Thesis</title>
-      <id>4948567</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948567-lqd-largest-investment-grade-corporate-bond-etf-in-the-market-weak-investment-thesis?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T11:02:06Z</updated>
-      <published>2026-09-22T11:02:06Z</published>
-    </entry>
-    <entry>
-      <title>An Alternative Approach To Autocall Indices Contributor</title>
-      <id>4948582</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948582-alternative-approach-to-autocall-indices-contributor?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T10:50:00Z</updated>
-      <published>2026-09-22T10:50:00Z</published>
-    </entry>
-    <entry>
-      <title>JSI: Upgrading To Buy As Yields Peak And Rates Risk Asymmetry Shifts Positive</title>
-      <id>4948535</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948535-jsi-upgrading-to-buy-as-yields-peak-and-rates-risk-asymmetry-shifts-positive?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-22T08:51:11Z</updated>
-      <published>2026-09-22T08:51:11Z</published>
     </entry>
     <entry>
       <title>Tempus AI: Data And Applications Will Unlock More Upside</title>
