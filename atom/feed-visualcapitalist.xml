@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-09-19T11:58:02Z</updated>
+  <updated>2026-09-23T00:00:00Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ranked: Countries With the Most Government Debt Per Person</title>
+      <id>https://www.visualcapitalist.com/ranked-countries-with-the-most-government-debt-per-person/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-countries-with-the-most-government-debt-per-person/"/>
+      <updated>2026-09-23T00:00:00Z</updated>
+      <published>2026-09-23T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/Government_Debt_Per_Capita_SHARE02-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/Government_Debt_Per_Capita_SHARE02-80x80.webp" alt="Horizontal bar chart showing government debt per capita by country, adjusted for purchasing power."/><p>Ranked: Countries With the Most Government Debt Per Person</p>]]></content>
+    </entry>
     <entry>
       <title>Ranked: The World’s Best Countries at Math in 2026</title>
       <id>https://www.visualcapitalist.com/?p=204902</id>
@@ -29,6 +38,15 @@
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/new-un-map-SHARE.webp" alt="The New World Map the UN Wants You to Use"/><p>The New World Map the UN Wants You to Use</p>]]></content>
     </entry>
     <entry>
+      <title>Ranked: 100 Global Cities by Quality of Life and Cost</title>
+      <id>https://www.visualcapitalist.com/cp/100-global-cities-by-quality-of-life-and-cost/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/cp/100-global-cities-by-quality-of-life-and-cost/"/>
+      <updated>2026-09-09T00:00:00Z</updated>
+      <published>2026-09-09T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/where-life-is-better-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/where-life-is-better-80x80.webp" alt="Chart comparing cost of living and quality of life across 100 global cities, highlighting the world's best and worst cities for value."/><p>Ranked: 100 Global Cities by Quality of Life and Cost</p>]]></content>
+    </entry>
+    <entry>
       <title>Ranked: Countries With the Highest Debt-to-GDP Ratios</title>
       <id>https://www.visualcapitalist.com/?p=204473</id>
       <link rel="alternate" href="https://www.visualcapitalist.com/ranked-government-household-corporate-debt-by-country/"/>
@@ -36,6 +54,42 @@
       <published>2026-09-08T12:05:07Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/sharable-3.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/sharable-3.webp" alt="Ranked: Countries With the Highest Debt-to-GDP Ratios"/><p>Ranked: Countries With the Highest Debt-to-GDP Ratios</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: Cars That Hold and Lose Their Value the Most</title>
+      <id>https://www.visualcapitalist.com/ranked-cars-that-hold-and-lose-their-value-the-most/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-cars-that-hold-and-lose-their-value-the-most/"/>
+      <updated>2026-09-07T00:00:00Z</updated>
+      <published>2026-09-07T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/Car-Depreciation_02-share-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/Car-Depreciation_02-share-80x80.webp" alt="See which vehicles have the highest and lowest car depreciation in 2026, from Porsche sports cars to EVs and luxury SUVs."/><p>Ranked: Cars That Hold and Lose Their Value the Most</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: The Best and Worst Countries to Live In 2026</title>
+      <id>https://www.visualcapitalist.com/ranked-the-best-and-worst-countries-to-live-in-2026/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-best-and-worst-countries-to-live-in-2026/"/>
+      <updated>2026-09-06T00:00:00Z</updated>
+      <published>2026-09-06T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/Best-and-Worst-Countries-to-Live_Share-03-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/Best-and-Worst-Countries-to-Live_Share-03-80x80.webp" alt="Double-ranking showing the best and worst countries to live in 2026."/><p>Ranked: The Best and Worst Countries to Live In 2026</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ranked: The World’s Largest Countries by Land Area</title>
+      <id>https://www.visualcapitalist.com/ranked-the-worlds-largest-countries-by-land-area/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/ranked-the-worlds-largest-countries-by-land-area/"/>
+      <updated>2026-08-30T00:00:00Z</updated>
+      <published>2026-08-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/08/largest-Countries-by-Total-Area-share-1-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/08/largest-Countries-by-Total-Area-share-1-80x80.webp" alt="Voronoi showing the world's largest countries by land area."/><p>Ranked: The World’s Largest Countries by Land Area</p>]]></content>
+    </entry>
+    <entry>
+      <title>Mapped: The World’s Safest and Least Safe Cities in 2026</title>
+      <id>https://www.visualcapitalist.com/mapped-the-worlds-most-and-least-safe-cities-by-perceived-crime/</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/mapped-the-worlds-most-and-least-safe-cities-by-perceived-crime/"/>
+      <updated>2026-08-29T00:00:00Z</updated>
+      <published>2026-08-29T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/08/The-Worlds-Safest-and-Least-Safest-Major-Cities-in-the-World-2026_Shareable2_08242026-80x80.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/08/The-Worlds-Safest-and-Least-Safest-Major-Cities-in-the-World-2026_Shareable2_08242026-80x80.webp" alt="Map showing the world's most and least safe cities based on perceptions of crime in 2026."/><p>Mapped: The World’s Safest and Least Safe Cities in 2026</p>]]></content>
     </entry>
     <entry>
       <title>Ranked: The World’s Largest Companies by Revenue (2020-2026)</title>
