@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-09-27T10:07:21Z</updated>
+  <updated>2026-09-27T19:49:16Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Narzisstische Teenager gewinnen Ansehen statt Zuneigung</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/narzisstische-teenager-gewinnen-ansehen-statt-zuneigung-133713034</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/narzisstische-teenager-gewinnen-ansehen-statt-zuneigung-133713034"/>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-09/narzisstische-teenager-gewinnen-ansehen-statt-zuneigung.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-09/narzisstische-teenager-gewinnen-ansehen-statt-zuneigung.jpg" alt="Narzisstische Teenager gewinnen Ansehen statt Zuneigung"/><p>Narzisstische Teenager gewinnen Ansehen statt Zuneigung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Acker bei Köln gibt Deutschlands größten Hadrian-Münzschatz frei</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/acker-bei-koeln-gibt-deutschlands-groessten-hadrian-muenzschatz-frei-133713227</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/acker-bei-koeln-gibt-deutschlands-groessten-hadrian-muenzschatz-frei-133713227"/>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/acker-bei-koeln-gibt-deutschlands-groessten-hadrian-muenzschatz-frei.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/acker-bei-koeln-gibt-deutschlands-groessten-hadrian-muenzschatz-frei.jpg" alt="Acker bei Köln gibt Deutschlands größten Hadrian-Münzschatz frei"/><p>Acker bei Köln gibt Deutschlands größten Hadrian-Münzschatz frei</p>]]></content>
+    </entry>
+    <entry>
       <title>Magenkrebs soll schon vor seiner Entstehung gestoppt werden</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/magenkrebs-soll-schon-vor-seiner-entstehung-gestoppt-werden-133713235</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/magenkrebs-soll-schon-vor-seiner-entstehung-gestoppt-werden-133713235"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/magenkrebs-soll-schon-vor-seiner-entstehung-gestoppt-werden.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/magenkrebs-soll-schon-vor-seiner-entstehung-gestoppt-werden.jpg" alt="Magenkrebs soll schon vor seiner Entstehung gestoppt werden"/><p>Magenkrebs soll schon vor seiner Entstehung gestoppt werden</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>Eisfontänen vom Saturnmond Enceladus könnten Lebensspuren enthalten</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/eisfontaenen-vom-saturnmond-enceladus-koennten-lebensspuren-enthalten-133713232</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/eisfontaenen-vom-saturnmond-enceladus-koennten-lebensspuren-enthalten-133713232"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-09/eisfontaenen-vom-saturnmond-enceladus-koennten-lebensspuren-enthalten.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-09/eisfontaenen-vom-saturnmond-enceladus-koennten-lebensspuren-enthalten.jpg" alt="Eisfontänen vom Saturnmond Enceladus könnten Lebensspuren enthalten"/><p>Eisfontänen vom Saturnmond Enceladus könnten Lebensspuren enthalten</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Asteroid Bennu stammt aus zwei Hälften des Sonnensystems</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/asteroid-bennu-stammt-aus-zwei-haelften-des-sonnensystems-133713229</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/asteroid-bennu-stammt-aus-zwei-haelften-des-sonnensystems-133713229"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/asteroid-bennu-stammt-aus-zwei-haelften-des-sonnensystems.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/asteroid-bennu-stammt-aus-zwei-haelften-des-sonnensystems.jpg" alt="Asteroid Bennu stammt aus zwei Hälften des Sonnensystems"/><p>Asteroid Bennu stammt aus zwei Hälften des Sonnensystems</p>]]></content>
     </entry>
@@ -41,45 +59,27 @@
       <title>Blaues Glas aus Ägypten steckt in 2.000 Jahre altem Wagenring</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/blaues-glas-aus-aegypten-steckt-in-2.000-jahre-altem-wagenring-133713226</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/blaues-glas-aus-aegypten-steckt-in-2.000-jahre-altem-wagenring-133713226"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/blaues-glas-aus-aegypten-steckt-in-2.000-jahre-altem-wagenring.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/blaues-glas-aus-aegypten-steckt-in-2.000-jahre-altem-wagenring.jpg" alt="Blaues Glas aus Ägypten steckt in 2.000 Jahre altem Wagenring"/><p>Blaues Glas aus Ägypten steckt in 2.000 Jahre altem Wagenring</p>]]></content>
     </entry>
     <entry>
-      <title>Römerstadt an der Donau hatte eine Arena für 8.000 Zuschauer</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/roemerstadt-an-der-donau-hatte-eine-arena-fuer-8.000-zuschauer-133713224</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/roemerstadt-an-der-donau-hatte-eine-arena-fuer-8.000-zuschauer-133713224"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/roemerstadt-an-der-donau-hatte-eine-arena-fuer-8.000-zuschauer.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-09/roemerstadt-an-der-donau-hatte-eine-arena-fuer-8.000-zuschauer.jpg" alt="Römerstadt an der Donau hatte eine Arena für 8.000 Zuschauer"/><p>Römerstadt an der Donau hatte eine Arena für 8.000 Zuschauer</p>]]></content>
+      <title>Chinin: Die bittere Rinde aus den Anden, um die Weltreiche kämpften</title>
+      <id>https://www.forschung-und-wissen.de/magazin/chinin-die-bittere-rinde-aus-den-anden-um-die-weltreiche-kaempften-133713307</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/chinin-die-bittere-rinde-aus-den-anden-um-die-weltreiche-kaempften-133713307"/>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/chinin-die-bittere-rinde-aus-den-anden-um-die-weltreiche-kaempften.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/chinin-die-bittere-rinde-aus-den-anden-um-die-weltreiche-kaempften.jpg" alt="Chinin: Die bittere Rinde aus den Anden, um die Weltreiche kämpften"/><p>Chinin: Die bittere Rinde aus den Anden, um die Weltreiche kämpften</p>]]></content>
     </entry>
     <entry>
-      <title>Mit dem Internet schwindet weltweit die Religiosität</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/gesellschaft/mit-dem-internet-schwindet-weltweit-die-religiositaet-133713011</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/gesellschaft/mit-dem-internet-schwindet-weltweit-die-religiositaet-133713011"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-09/mit-dem-internet-schwindet-weltweit-die-religiositaet.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-09/mit-dem-internet-schwindet-weltweit-die-religiositaet.jpg" alt="Mit dem Internet schwindet weltweit die Religiosität"/><p>Mit dem Internet schwindet weltweit die Religiosität</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der Sender UVB-76 summt seit Jahrzehnten, niemand nennt den Zweck</title>
-      <id>https://www.forschung-und-wissen.de/magazin/der-sender-uvb-76-summt-seit-jahrzehnten-niemand-nennt-den-zweck-133712482</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/der-sender-uvb-76-summt-seit-jahrzehnten-niemand-nennt-den-zweck-133712482"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/der-sender-uvb-76-summt-seit-jahrzehnten-niemand-nennt-den-zweck.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/der-sender-uvb-76-summt-seit-jahrzehnten-niemand-nennt-den-zweck.jpg" alt="Der Sender UVB-76 summt seit Jahrzehnten, niemand nennt den Zweck"/><p>Der Sender UVB-76 summt seit Jahrzehnten, niemand nennt den Zweck</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Trovants in Rumänien scheinen nach Regen zu wachsen</title>
-      <id>https://www.forschung-und-wissen.de/magazin/die-trovants-in-rumaenien-scheinen-nach-regen-zu-wachsen-133712485</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/die-trovants-in-rumaenien-scheinen-nach-regen-zu-wachsen-133712485"/>
-      <updated>2026-09-27T10:07:21Z</updated>
-      <published>2026-09-27T10:07:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/die-trovants-in-rumaenien-scheinen-nach-regen-zu-wachsen.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/die-trovants-in-rumaenien-scheinen-nach-regen-zu-wachsen.jpg" alt="Die Trovants in Rumänien scheinen nach Regen zu wachsen"/><p>Die Trovants in Rumänien scheinen nach Regen zu wachsen</p>]]></content>
+      <title>Verlorene Bücher: Neun von zehn Werken der Antike gibt es nicht mehr</title>
+      <id>https://www.forschung-und-wissen.de/magazin/verlorene-buecher-neun-von-zehn-werken-der-antike-gibt-es-nicht-mehr-133713293</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/verlorene-buecher-neun-von-zehn-werken-der-antike-gibt-es-nicht-mehr-133713293"/>
+      <updated>2026-09-27T19:49:16Z</updated>
+      <published>2026-09-27T19:49:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/verlorene-buecher-neun-von-zehn-werken-der-antike-gibt-es-nicht-mehr.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/verlorene-buecher-neun-von-zehn-werken-der-antike-gibt-es-nicht-mehr.jpg" alt="Verlorene Bücher: Neun von zehn Werken der Antike gibt es nicht mehr"/><p>Verlorene Bücher: Neun von zehn Werken der Antike gibt es nicht mehr</p>]]></content>
     </entry>
 </feed>
