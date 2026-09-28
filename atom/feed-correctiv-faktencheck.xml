@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-09-24T00:00:00Z</updated>
+  <updated>2026-09-28T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Nach Aussage zu Deutschland-Fahne: Weder Grüne noch CDU forderten Klopps Rücktritt</title>
+      <id>https://correctiv.org/faktencheck/2026/09/28/nach-aussage-zu-deutschland-fahne-weder-gruene-noch-cdu-forderten-klopps-ruecktritt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/28/nach-aussage-zu-deutschland-fahne-weder-gruene-noch-cdu-forderten-klopps-ruecktritt/"/>
+      <updated>2026-09-28T00:00:00Z</updated>
+      <published>2026-09-28T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/klopp-cdu-gruene-ruecktritt-fahne-flagge-scaled-e1790607752972.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/klopp-cdu-gruene-ruecktritt-fahne-flagge-scaled-e1790607752972.jpg" alt="ürgen Klopp bei einer Pressekonferenz am 17. September 2026"/><p>Nach Aussage zu Deutschland-Fahne: Weder Grüne noch CDU forderten Klopps Rücktritt</p>]]></content>
+    </entry>
     <entry>
       <title>Schwarzfahren: Angebliche Erhöhung auf 220 Euro ist erfunden</title>
       <id>https://correctiv.org/faktencheck/2026/09/24/schwarzfahren-angebliche-erhoehung-auf-220-euro-ist-erfunden/</id>
@@ -225,14 +234,5 @@
       <published>2026-08-24T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/El-Jadida-Picture-Alliance-20260824-scaled-e1787577769436.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/El-Jadida-Picture-Alliance-20260824-scaled-e1787577769436.jpg" alt="Massive Festungsmauern mit Kanonen, flankiert vom Meer, El Jadida, Cité Portugaise, Marokko"/><p>Video von Schwimmer mit Selfie-Stick nicht in Ceuta aufgenommen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Falscher Vorwurf gegen die ARD: Schwimmdauer nach Ceuta schwankt</title>
-      <id>https://correctiv.org/faktencheck/2026/08/24/falscher-vorwurf-gegen-die-ard-schwimmdauer-nach-ceuta-schwankt/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/24/falscher-vorwurf-gegen-die-ard-schwimmdauer-nach-ceuta-schwankt/"/>
-      <updated>2026-08-24T00:00:00Z</updated>
-      <published>2026-08-24T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/611731664-scaled-e1787564752449.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/611731664-scaled-e1787564752449.jpg" alt="Falscher Vorwurf gegen die ARD: Schwimmdauer nach Ceuta schwankt"/><p>Falscher Vorwurf gegen die ARD: Schwimmdauer nach Ceuta schwankt</p>]]></content>
     </entry>
 </feed>
