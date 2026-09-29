@@ -5,17 +5,26 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-09-29T10:49:35Z</updated>
+  <updated>2026-09-29T20:56:52Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Genschere entfernt den wichtigsten Auslöser der Hundeallergie</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/genschere-entfernt-den-wichtigsten-ausloeser-der-hundeallergie-133712124</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/genschere-entfernt-den-wichtigsten-ausloeser-der-hundeallergie-133712124"/>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/genschere-entfernt-den-wichtigsten-ausloeser-der-hundeallergie.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-08/genschere-entfernt-den-wichtigsten-ausloeser-der-hundeallergie.jpg" alt="Genschere entfernt den wichtigsten Auslöser der Hundeallergie"/><p>Genschere entfernt den wichtigsten Auslöser der Hundeallergie</p>]]></content>
+    </entry>
+    <entry>
       <title>Hawaii baut Straßen aus alten Fischernetzen und Plastikmüll</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/hawaii-baut-strassen-aus-alten-fischernetzen-und-plastikmuell-133713046</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/hawaii-baut-strassen-aus-alten-fischernetzen-und-plastikmuell-133713046"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-09/hawaii-baut-strassen-aus-alten-fischernetzen-und-plastikmuell.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-09/hawaii-baut-strassen-aus-alten-fischernetzen-und-plastikmuell.jpg" alt="Hawaii baut Straßen aus alten Fischernetzen und Plastikmüll"/><p>Hawaii baut Straßen aus alten Fischernetzen und Plastikmüll</p>]]></content>
     </entry>
@@ -23,8 +32,8 @@
       <title>Seit der Teillegalisierung kiffen nur junge Männer mehr</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/seit-der-teillegalisierung-kiffen-nur-junge-maenner-mehr-133713061</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/seit-der-teillegalisierung-kiffen-nur-junge-maenner-mehr-133713061"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/seit-der-teillegalisierung-kiffen-nur-junge-maenner-mehr.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/seit-der-teillegalisierung-kiffen-nur-junge-maenner-mehr.jpg" alt="Seit der Teillegalisierung kiffen nur junge Männer mehr"/><p>Seit der Teillegalisierung kiffen nur junge Männer mehr</p>]]></content>
     </entry>
@@ -32,8 +41,8 @@
       <title>In Cannabisblättern stecken Dutzende nie beschriebene Pflanzenstoffe</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/in-cannabisblaettern-stecken-dutzende-nie-beschriebene-pflanzenstoffe-133713374</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/in-cannabisblaettern-stecken-dutzende-nie-beschriebene-pflanzenstoffe-133713374"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-09/in-cannabisblaettern-stecken-dutzende-nie-beschriebene-pflanzenstoffe.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-09/in-cannabisblaettern-stecken-dutzende-nie-beschriebene-pflanzenstoffe.jpg" alt="In Cannabisblättern stecken Dutzende nie beschriebene Pflanzenstoffe"/><p>In Cannabisblättern stecken Dutzende nie beschriebene Pflanzenstoffe</p>]]></content>
     </entry>
@@ -41,8 +50,8 @@
       <title>Im Traumschlaf strömt mehr Blut ins Gehirn und seine Energie sinkt</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/im-traumschlaf-stroemt-mehr-blut-ins-gehirn-und-seine-energie-sinkt-133713373</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/im-traumschlaf-stroemt-mehr-blut-ins-gehirn-und-seine-energie-sinkt-133713373"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/im-traumschlaf-stroemt-mehr-blut-ins-gehirn-und-seine-energie-sinkt.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/im-traumschlaf-stroemt-mehr-blut-ins-gehirn-und-seine-energie-sinkt.jpg" alt="Im Traumschlaf strömt mehr Blut ins Gehirn und seine Energie sinkt"/><p>Im Traumschlaf strömt mehr Blut ins Gehirn und seine Energie sinkt</p>]]></content>
     </entry>
@@ -50,36 +59,27 @@
       <title>Duftende Putzmittel füllen die Wohnung mit Milliarden Nanopartikeln</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/duftende-putzmittel-fuellen-die-wohnung-mit-milliarden-nanopartikeln-133713370</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/duftende-putzmittel-fuellen-die-wohnung-mit-milliarden-nanopartikeln-133713370"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-09/duftende-putzmittel-fuellen-die-wohnung-mit-milliarden-nanopartikeln.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-09/duftende-putzmittel-fuellen-die-wohnung-mit-milliarden-nanopartikeln.jpg" alt="Duftende Putzmittel füllen die Wohnung mit Milliarden Nanopartikeln"/><p>Duftende Putzmittel füllen die Wohnung mit Milliarden Nanopartikeln</p>]]></content>
     </entry>
     <entry>
-      <title>CERN baut nach 20 Jahren 28 Magnete aus dem größten Beschleuniger aus</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/physik/cern-baut-nach-20-jahren-28-magnete-aus-dem-groessten-beschleuniger-aus-133713367</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/cern-baut-nach-20-jahren-28-magnete-aus-dem-groessten-beschleuniger-aus-133713367"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-09/cern-baut-nach-20-jahren-28-magnete-aus-dem-groessten-beschleuniger-aus.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-09/cern-baut-nach-20-jahren-28-magnete-aus-dem-groessten-beschleuniger-aus.jpg" alt="CERN baut nach 20 Jahren 28 Magnete aus dem größten Beschleuniger aus"/><p>CERN baut nach 20 Jahren 28 Magnete aus dem größten Beschleuniger aus</p>]]></content>
+      <title>Maxentius: Der letzte Kaiser, der in Rom regierte</title>
+      <id>https://www.forschung-und-wissen.de/magazin/maxentius-der-letzte-kaiser-der-in-rom-regierte-133713326</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/maxentius-der-letzte-kaiser-der-in-rom-regierte-133713326"/>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/maxentius-der-letzte-kaiser-der-in-rom-regierte.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/maxentius-der-letzte-kaiser-der-in-rom-regierte.jpg" alt="Maxentius: Der letzte Kaiser, der in Rom regierte"/><p>Maxentius: Der letzte Kaiser, der in Rom regierte</p>]]></content>
     </entry>
     <entry>
-      <title>Auf zwei Planeten unseres Sonnensystems regnet es Diamanten</title>
-      <id>https://www.forschung-und-wissen.de/magazin/auf-zwei-planeten-unseres-sonnensystems-regnet-es-diamanten-133712560</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/auf-zwei-planeten-unseres-sonnensystems-regnet-es-diamanten-133712560"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/auf-zwei-planeten-unseres-sonnensystems-regnet-es-diamanten.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-08/auf-zwei-planeten-unseres-sonnensystems-regnet-es-diamanten.jpg" alt="Auf zwei Planeten unseres Sonnensystems regnet es Diamanten"/><p>Auf zwei Planeten unseres Sonnensystems regnet es Diamanten</p>]]></content>
-    </entry>
-    <entry>
-      <title>Senf: Das älteste Gewürz der Welt wurde erst vor 200 Jahren zur Marke</title>
-      <id>https://www.forschung-und-wissen.de/magazin/senf-das-aelteste-gewuerz-der-welt-wurde-erst-vor-200-jahren-zur-marke-133713322</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/senf-das-aelteste-gewuerz-der-welt-wurde-erst-vor-200-jahren-zur-marke-133713322"/>
-      <updated>2026-09-29T10:49:35Z</updated>
-      <published>2026-09-29T10:49:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/senf-das-aelteste-gewuerz-der-welt-wurde-erst-vor-200-jahren-zur-marke.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/senf-das-aelteste-gewuerz-der-welt-wurde-erst-vor-200-jahren-zur-marke.jpg" alt="Senf: Das älteste Gewürz der Welt wurde erst vor 200 Jahren zur Marke"/><p>Senf: Das älteste Gewürz der Welt wurde erst vor 200 Jahren zur Marke</p>]]></content>
+      <title>Sauerstoffkatastrophe: Als Bakterien die Erde vergifteten</title>
+      <id>https://www.forschung-und-wissen.de/magazin/sauerstoffkatastrophe-als-bakterien-die-erde-vergifteten-133713532</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/sauerstoffkatastrophe-als-bakterien-die-erde-vergifteten-133713532"/>
+      <updated>2026-09-29T20:56:52Z</updated>
+      <published>2026-09-29T20:56:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/sauerstoffkatastrophe-als-bakterien-die-erde-vergifteten.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/sauerstoffkatastrophe-als-bakterien-die-erde-vergifteten.jpg" alt="Sauerstoffkatastrophe: Als Bakterien die Erde vergifteten"/><p>Sauerstoffkatastrophe: Als Bakterien die Erde vergifteten</p>]]></content>
     </entry>
 </feed>
