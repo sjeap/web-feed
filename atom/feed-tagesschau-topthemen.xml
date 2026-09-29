@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-09-28T22:12:27Z</updated>
+  <updated>2026-09-29T10:49:33Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Papst in Metz - Eine Rede an Europas Gewissen</title>
-      <id>https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html"/>
-      <updated>2026-09-28T22:12:27Z</updated>
-      <published>2026-09-28T22:12:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e96ed314-357f-424b-9db6-f786af32689c/AAABoOkXPzA/AAABnSSvrFg/16x9-big/papst-rede2-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e96ed314-357f-424b-9db6-f786af32689c/AAABoOkXPzA/AAABnSSvrFg/16x9-big/papst-rede2-100.jpg?width=1280" alt="Papst in Metz - Eine Rede an Europas Gewissen"/><p>Papst in Metz - Eine Rede an Europas Gewissen</p>]]></content>
+      <title>Koalition ringt um Kompromiss zur Pflegereform</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html"/>
+      <updated>2026-09-29T10:49:33Z</updated>
+      <published>2026-09-29T10:49:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ece30962-8ddc-4d8f-8ab7-a82e0243ad61/AAABoOvsKow/AAABnSSvrFg/16x9-big/cdu-linnemann-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ece30962-8ddc-4d8f-8ab7-a82e0243ad61/AAABoOvsKow/AAABnSSvrFg/16x9-big/cdu-linnemann-104.jpg?width=1280" alt="Koalition ringt um Kompromiss zur Pflegereform"/><p>Koalition ringt um Kompromiss zur Pflegereform</p>]]></content>
     </entry>
     <entry>
-      <title>Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen</title>
-      <id>https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html"/>
-      <updated>2026-09-28T22:12:27Z</updated>
-      <published>2026-09-28T22:12:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8d872476-6b46-4895-85f2-542df21cfdfb/AAABoOgTkhk/AAABnSSvrFg/16x9-big/kiew-560.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8d872476-6b46-4895-85f2-542df21cfdfb/AAABoOgTkhk/AAABnSSvrFg/16x9-big/kiew-560.jpg?width=1280" alt="Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen"/><p>Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen</p>]]></content>
+      <title>Jens Spahn: Vom politischen Instinkt verlassen</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-110.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-110.html"/>
+      <updated>2026-09-29T10:49:33Z</updated>
+      <published>2026-09-29T10:49:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7019887a-0a20-4348-bcea-f5d251624780/AAABoOvdatI/AAABnSSvrFg/16x9-big/spahn-806.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7019887a-0a20-4348-bcea-f5d251624780/AAABoOvdatI/AAABnSSvrFg/16x9-big/spahn-806.jpg?width=1280" alt="Jens Spahn: Vom politischen Instinkt verlassen"/><p>Jens Spahn: Vom politischen Instinkt verlassen</p>]]></content>
     </entry>
     <entry>
-      <title>Russland stellt Metros Vermögenswerte unter Zwangsverwaltung</title>
-      <id>https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html"/>
-      <updated>2026-09-28T22:12:27Z</updated>
-      <published>2026-09-28T22:12:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8317f509-b380-4be1-9c0c-12d5be111077/AAABoOjgIDo/AAABnSSvrFg/16x9-big/metro-einkaufswagen-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8317f509-b380-4be1-9c0c-12d5be111077/AAABoOjgIDo/AAABnSSvrFg/16x9-big/metro-einkaufswagen-100.jpg?width=1280" alt="Russland stellt Metros Vermögenswerte unter Zwangsverwaltung"/><p>Russland stellt Metros Vermögenswerte unter Zwangsverwaltung</p>]]></content>
+      <title>Debattenkultur im Bundestag: Klöckner droht Störern im Bundestag mit Rauswurf</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/kloeckner-stoerer-bundestag-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/kloeckner-stoerer-bundestag-100.html"/>
+      <updated>2026-09-29T10:49:33Z</updated>
+      <published>2026-09-29T10:49:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b4d0c3b2-e5e3-4f34-a1e7-b7fef29cfc82/AAABoOwGQb4/AAABnSSvrFg/16x9-big/kloeckner-286.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b4d0c3b2-e5e3-4f34-a1e7-b7fef29cfc82/AAABoOwGQb4/AAABnSSvrFg/16x9-big/kloeckner-286.jpg?width=1280" alt="Debattenkultur im Bundestag: Klöckner droht Störern im Bundestag mit Rauswurf"/><p>Debattenkultur im Bundestag: Klöckner droht Störern im Bundestag mit Rauswurf</p>]]></content>
     </entry>
     <entry>
-      <title>Drei deutsche BioNTech-Werke müssen schließen</title>
-      <id>https://www.tagesschau.de/wirtschaft/unternehmen/biontech-standorte-schliessung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/biontech-standorte-schliessung-100.html"/>
-      <updated>2026-09-28T22:12:27Z</updated>
-      <published>2026-09-28T22:12:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1a3f2835-dfc7-461c-8f88-9418e842146d/AAABoOgW11o/AAABnSSvrFg/16x9-big/biontech-194.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1a3f2835-dfc7-461c-8f88-9418e842146d/AAABoOgW11o/AAABnSSvrFg/16x9-big/biontech-194.jpg?width=1280" alt="Drei deutsche BioNTech-Werke müssen schließen"/><p>Drei deutsche BioNTech-Werke müssen schließen</p>]]></content>
+      <title>Schule in Hessen gewinnt Schulpreis</title>
+      <id>https://www.tagesschau.de/inland/gesellschaft/deutscher-schulpreis-2026-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/gesellschaft/deutscher-schulpreis-2026-100.html"/>
+      <updated>2026-09-29T10:49:33Z</updated>
+      <published>2026-09-29T10:49:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a65a87fd-7bd3-43ba-a533-7da509713740/AAABoOyGBGo/AAABnSSvrFg/16x9-big/schulpreis-134.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a65a87fd-7bd3-43ba-a533-7da509713740/AAABoOyGBGo/AAABnSSvrFg/16x9-big/schulpreis-134.jpg?width=1280" alt="Schule in Hessen gewinnt Schulpreis"/><p>Schule in Hessen gewinnt Schulpreis</p>]]></content>
     </entry>
     <entry>
-      <title>SPD und Sozialverbände drängen auf Änderungen der geplanten Pflegereform</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-102.html"/>
-      <updated>2026-09-28T22:12:27Z</updated>
-      <published>2026-09-28T22:12:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/aba948b9-163b-4cac-8da3-91e73f08ead2/AAABoOe7234/AAABnSSvrFg/16x9-big/demenz-116.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/aba948b9-163b-4cac-8da3-91e73f08ead2/AAABoOe7234/AAABnSSvrFg/16x9-big/demenz-116.jpg?width=1280" alt="SPD und Sozialverbände drängen auf Änderungen der geplanten Pflegereform"/><p>SPD und Sozialverbände drängen auf Änderungen der geplanten Pflegereform</p>]]></content>
+      <title>Oktoberfest - Das Geschäft mit den &quot;Teufelsrad&quot;-Videos</title>
+      <id>https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/investigativ/br-recherche/oktoberfest-muenchen-teufelsrad-videos-100.html"/>
+      <updated>2026-09-29T10:49:33Z</updated>
+      <published>2026-09-29T10:49:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/588466a2-7a08-45b1-b8c3-9abbb2c11409/AAABoOcf-D0/AAABnSSvrFg/16x9-big/teufelsrad-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/588466a2-7a08-45b1-b8c3-9abbb2c11409/AAABoOcf-D0/AAABnSSvrFg/16x9-big/teufelsrad-104.jpg?width=1280" alt="Oktoberfest - Das Geschäft mit den "Teufelsrad"-Videos"/><p>Oktoberfest - Das Geschäft mit den &quot;Teufelsrad&quot;-Videos</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657198.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657198.html"/>
-      <updated>2026-09-28T22:12:27Z</updated>
-      <published>2026-09-28T22:12:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/793b1a04-b600-4717-9c2b-33458dfa64e4/AAABoOmILs4/AAABnSSvrFg/16x9-big/sendungsbild-1803924.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/793b1a04-b600-4717-9c2b-33458dfa64e4/AAABoOmILs4/AAABnSSvrFg/16x9-big/sendungsbild-1803924.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657366.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1657366.html"/>
+      <updated>2026-09-29T10:49:33Z</updated>
+      <published>2026-09-29T10:49:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f0631a9b-6784-4dfd-abbd-eaf612f53ffa/AAABoOxr0Xg/AAABnSSvrFg/16x9-big/sendungsbild-1804138.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f0631a9b-6784-4dfd-abbd-eaf612f53ffa/AAABoOxr0Xg/AAABnSSvrFg/16x9-big/sendungsbild-1804138.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
