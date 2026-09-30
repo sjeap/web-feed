@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-09-30T10:37:28Z</updated>
+  <updated>2026-09-30T20:55:17Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Bundeskabinett einigt sich auf Pflegereform</title>
-      <id>https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html"/>
-      <updated>2026-09-30T10:37:28Z</updated>
-      <published>2026-09-30T10:37:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/078c627f-07e4-45b1-a52d-6943a0887117/AAABoPGeoy8/AAABnSSvrFg/16x9-big/frau-pfleger-altenheim-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/078c627f-07e4-45b1-a52d-6943a0887117/AAABoPGeoy8/AAABnSSvrFg/16x9-big/frau-pfleger-altenheim-100.jpg?width=1280" alt="Bundeskabinett einigt sich auf Pflegereform"/><p>Bundeskabinett einigt sich auf Pflegereform</p>]]></content>
+      <title>Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html"/>
+      <updated>2026-09-30T20:55:17Z</updated>
+      <published>2026-09-30T20:55:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6958916d-abc6-43f7-ac41-93afb4fbbdfd/AAABoFcuSnc/AAABnSSvrFg/16x9-big/pflege-592.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6958916d-abc6-43f7-ac41-93afb4fbbdfd/AAABoFcuSnc/AAABnSSvrFg/16x9-big/pflege-592.jpg?width=1280" alt="Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll"/><p>Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll</p>]]></content>
     </entry>
     <entry>
-      <title>Deutschlandticket wird wohl wieder teurer</title>
-      <id>https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html"/>
-      <updated>2026-09-30T10:37:28Z</updated>
-      <published>2026-09-30T10:37:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8168d06a-0b2e-430e-ae22-782977fe2829/AAABlO7PUfU/AAABnSSvrFg/16x9-big/deutschlandticket-162.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8168d06a-0b2e-430e-ae22-782977fe2829/AAABlO7PUfU/AAABnSSvrFg/16x9-big/deutschlandticket-162.jpg?width=1280" alt="Deutschlandticket wird wohl wieder teurer"/><p>Deutschlandticket wird wohl wieder teurer</p>]]></content>
+      <title>Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht</title>
+      <id>https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html"/>
+      <updated>2026-09-30T20:55:17Z</updated>
+      <published>2026-09-30T20:55:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a6bdc28e-d028-4126-9f7e-0e85ca1d4e7a/AAABoPMBsZA/AAABnSSvrFg/16x9-big/beschaeftigte-chemnitz-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a6bdc28e-d028-4126-9f7e-0e85ca1d4e7a/AAABoPMBsZA/AAABnSSvrFg/16x9-big/beschaeftigte-chemnitz-100.jpg?width=1280" alt="Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht"/><p>Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht</p>]]></content>
     </entry>
     <entry>
-      <title>Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html"/>
-      <updated>2026-09-30T10:37:28Z</updated>
-      <published>2026-09-30T10:37:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/087ffccd-9aec-4157-a442-f15647fdb723/AAABoO_1qa8/AAABnSSvrFg/16x9-big/kind-kinderwagen-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/087ffccd-9aec-4157-a442-f15647fdb723/AAABoO_1qa8/AAABnSSvrFg/16x9-big/kind-kinderwagen-100.jpg?width=1280" alt="Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform"/><p>Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform</p>]]></content>
+      <title>Preis für Deutschlandticket steigt im Januar auf 66,80 Euro</title>
+      <id>https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html"/>
+      <updated>2026-09-30T20:55:17Z</updated>
+      <published>2026-09-30T20:55:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/91a2b51a-480a-4960-a263-bfb11d9c5042/AAABoPKcg50/AAABnSSvrFg/16x9-big/regionalzug-hbf-berlin-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/91a2b51a-480a-4960-a263-bfb11d9c5042/AAABoPKcg50/AAABnSSvrFg/16x9-big/regionalzug-hbf-berlin-100.jpg?width=1280" alt="Preis für Deutschlandticket steigt im Januar auf 66,80 Euro"/><p>Preis für Deutschlandticket steigt im Januar auf 66,80 Euro</p>]]></content>
     </entry>
     <entry>
-      <title>Reformdebatte in der schwarz-roten Koalition</title>
-      <id>https://www.tagesschau.de/inland/reformen-bundesregierung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/reformen-bundesregierung-100.html"/>
-      <updated>2026-09-30T10:37:28Z</updated>
-      <published>2026-09-30T10:37:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d12ac541-6376-4d93-96d1-fc4e0a9713c6/AAABoO2w0wU/AAABnSSvrFg/16x9-big/klingenbeil-merz-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d12ac541-6376-4d93-96d1-fc4e0a9713c6/AAABoO2w0wU/AAABnSSvrFg/16x9-big/klingenbeil-merz-100.jpg?width=1280" alt="Reformdebatte in der schwarz-roten Koalition"/><p>Reformdebatte in der schwarz-roten Koalition</p>]]></content>
+      <title>Inflationsrate steigt im September auf 3,3 Prozent</title>
+      <id>https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html"/>
+      <updated>2026-09-30T20:55:17Z</updated>
+      <published>2026-09-30T20:55:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/86e333d7-691a-4408-9ead-0c32dcf8faf0/AAABoPJVB2k/AAABnSSvrFg/16x9-big/tanken-280.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/86e333d7-691a-4408-9ead-0c32dcf8faf0/AAABoPJVB2k/AAABnSSvrFg/16x9-big/tanken-280.jpg?width=1280" alt="Inflationsrate steigt im September auf 3,3 Prozent"/><p>Inflationsrate steigt im September auf 3,3 Prozent</p>]]></content>
     </entry>
     <entry>
-      <title>Hat die Schufa ihr Transparenz-Versprechen gebrochen?</title>
-      <id>https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html"/>
-      <updated>2026-09-30T10:37:28Z</updated>
-      <published>2026-09-30T10:37:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/77257305-6634-4404-b03e-0950c3b791bc/AAABoO0sync/AAABnSSvrFg/16x9-big/schufa-190.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/77257305-6634-4404-b03e-0950c3b791bc/AAABoO0sync/AAABnSSvrFg/16x9-big/schufa-190.jpg?width=1280" alt="Hat die Schufa ihr Transparenz-Versprechen gebrochen?"/><p>Hat die Schufa ihr Transparenz-Versprechen gebrochen?</p>]]></content>
+      <title>Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt</title>
+      <id>https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html"/>
+      <updated>2026-09-30T20:55:17Z</updated>
+      <published>2026-09-30T20:55:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1e788de3-80ed-4017-9499-b85ed1a316d4/AAABoPM-dVo/AAABnSSvrFg/16x9-big/polizei-fairford-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1e788de3-80ed-4017-9499-b85ed1a316d4/AAABoPM-dVo/AAABnSSvrFg/16x9-big/polizei-fairford-100.jpg?width=1280" alt="Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt"/><p>Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1658006.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1658006.html"/>
-      <updated>2026-09-30T10:37:28Z</updated>
-      <published>2026-09-30T10:37:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/160f6549-5f3c-4021-a752-7a71f9918a59/AAABoPGYzzI/AAABnSSvrFg/16x9-big/sendungsbild-1804642.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/160f6549-5f3c-4021-a752-7a71f9918a59/AAABoPGYzzI/AAABnSSvrFg/16x9-big/sendungsbild-1804642.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1658370.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1658370.html"/>
+      <updated>2026-09-30T20:55:17Z</updated>
+      <published>2026-09-30T20:55:17Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/47a9740f-62d2-4876-bab0-c4966fe76f88/AAABoPPziSY/AAABnSSvrFg/16x9-big/sendungsbild-1804970.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/47a9740f-62d2-4876-bab0-c4966fe76f88/AAABoPPziSY/AAABnSSvrFg/16x9-big/sendungsbild-1804970.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
