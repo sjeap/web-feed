@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-09-30T10:37:29Z</updated>
+  <updated>2026-09-30T20:55:19Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,37 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-09-30T10:37:29Z</updated>
-      <published>2026-09-30T10:37:29Z</published>
+      <updated>2026-09-30T20:55:19Z</updated>
+      <published>2026-09-30T20:55:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Tiktok-Videos erfinden Eilmeldungen zur Unterbringung von Geflüchteten</title>
+      <id>https://correctiv.org/faktencheck/2026/09/30/tiktok-videos-erfinden-eilmeldungen-zur-unterbringung-von-gefluechteten/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/30/tiktok-videos-erfinden-eilmeldungen-zur-unterbringung-von-gefluechteten/"/>
+      <updated>2026-09-30T00:00:00Z</updated>
+      <published>2026-09-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/tempelhofer-feld-gefluechtete-2022-lena-lachnit-dpa-picture-alliance.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/tempelhofer-feld-gefluechtete-2022-lena-lachnit-dpa-picture-alliance.jpg" alt="tempelhofer-feld-geflüchtete-2022-lena-lachnit-dpa-picture-alliance"/><p>Tiktok-Videos erfinden Eilmeldungen zur Unterbringung von Geflüchteten</p>]]></content>
+    </entry>
+    <entry>
+      <title>140 Million Dollar in Kartons: Korruptionsskandal um ukrainischen Politiker ist gefälscht</title>
+      <id>https://correctiv.org/faktencheck/2026/09/30/140-million-dollar-in-kartons-korruptionsskandal-um-ukrainischen-politiker-ist-gefaelscht/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/30/140-million-dollar-in-kartons-korruptionsskandal-um-ukrainischen-politiker-ist-gefaelscht/"/>
+      <updated>2026-09-30T00:00:00Z</updated>
+      <published>2026-09-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/korruption-ukraine-arsen-zhumadilov-scaled-e1790770371339.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/korruption-ukraine-arsen-zhumadilov-scaled-e1790770371339.jpg" alt="Arsen Zhumadilov im Dezember 2023"/><p>140 Million Dollar in Kartons: Korruptionsskandal um ukrainischen Politiker ist gefälscht</p>]]></content>
+    </entry>
+    <entry>
+      <title>Video von „genderfreier Schule“ ist KI-generiert</title>
+      <id>https://correctiv.org/faktencheck/2026/09/30/video-von-genderfreier-schule-ist-ki-generiert/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/30/video-von-genderfreier-schule-ist-ki-generiert/"/>
+      <updated>2026-09-30T00:00:00Z</updated>
+      <published>2026-09-30T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/unnamed-e1790767748476.png"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/unnamed-e1790767748476.png" alt="Bunte Kreidestücke auf dunklem Untergrund"/><p>Video von „genderfreier Schule“ ist KI-generiert</p>]]></content>
     </entry>
     <entry>
       <title>Keine Belege für angebliches AfD-Zitat von Sarah Connor</title>
@@ -207,32 +234,5 @@
       <published>2026-08-28T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Blackrock-Picture-Alliance-20260828-scaled-e1787927493485.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Blackrock-Picture-Alliance-20260828-scaled-e1787927493485.jpg" alt="Ein Bild belegt kein Treffen von Merz und Epstein bei Blackrock"/><p>Ein Bild belegt kein Treffen von Merz und Epstein bei Blackrock</p>]]></content>
-    </entry>
-    <entry>
-      <title>Landtagswahl in Sachsen-Anhalt: So wird die Briefwahl vor Manipulation geschützt</title>
-      <id>https://correctiv.org/faktencheck/2026/08/26/landtagswahl-in-sachsen-anhalt-so-wird-die-briefwahl-vor-manipulation-geschuetzt/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/26/landtagswahl-in-sachsen-anhalt-so-wird-die-briefwahl-vor-manipulation-geschuetzt/"/>
-      <updated>2026-08-26T00:00:00Z</updated>
-      <published>2026-08-26T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/briefwahl-matthias-bein-dpa-picture-alliance.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/briefwahl-matthias-bein-dpa-picture-alliance.jpg" alt="Ein Schild, auf dem &quot;Briefwahl&quot; steht."/><p>Landtagswahl in Sachsen-Anhalt: So wird die Briefwahl vor Manipulation geschützt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video zeigt keine Grenzüberquerungen nach Ceuta am 15. August</title>
-      <id>https://correctiv.org/faktencheck/2026/08/26/video-zeigt-keine-grenzueberquerungen-nach-ceuta-am-15-august/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/26/video-zeigt-keine-grenzueberquerungen-nach-ceuta-am-15-august/"/>
-      <updated>2026-08-26T00:00:00Z</updated>
-      <published>2026-08-26T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/wasserwerfer-ceuta-findeq-hicham-rachidi-picture-alliance-anadolu.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/wasserwerfer-ceuta-findeq-hicham-rachidi-picture-alliance-anadolu.jpg" alt="wasserwerfer-ceuta-findeq-hicham-rachidi-picture-alliance-anadolu"/><p>Video zeigt keine Grenzüberquerungen nach Ceuta am 15. August</p>]]></content>
-    </entry>
-    <entry>
-      <title>Erfundene Geschichte über Olena Selenska und „Libellenfrau“-Schmuck</title>
-      <id>https://correctiv.org/faktencheck/2026/08/26/erfundene-geschichte-ueber-olena-selenska-und-libellenfrau/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/26/erfundene-geschichte-ueber-olena-selenska-und-libellenfrau/"/>
-      <updated>2026-08-26T00:00:00Z</updated>
-      <published>2026-08-26T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Olena-Selenska-Wolodymyr-Selensyj-Julien-Mattia-Zumapress-Picture-Alliance.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Olena-Selenska-Wolodymyr-Selensyj-Julien-Mattia-Zumapress-Picture-Alliance.jpg" alt="Olena-Selenska-Wolodymyr-Selensyj-Julien Mattia-Zumapress-Picture-Alliance"/><p>Erfundene Geschichte über Olena Selenska und „Libellenfrau“-Schmuck</p>]]></content>
     </entry>
 </feed>
