@@ -5,17 +5,87 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-30T10:15:19Z</updated>
+  <updated>2026-09-30T16:26:18Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>A Switch From AWP To RQI May Be Warranted</title>
+      <id>4951081</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951081-switch-from-awp-to-rqi-may-be-warranted?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T16:26:18Z</updated>
+      <published>2026-09-30T16:26:18Z</published>
+    </entry>
+    <entry>
+      <title>A 7.43% Monthly-Paying Yield From UTG As Utilities Retreat</title>
+      <id>4951034</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951034-a-7-43-percent-monthly-paying-yield-from-utg-as-utilities-retreat?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T14:26:24Z</updated>
+      <published>2026-09-30T14:26:24Z</published>
+    </entry>
+    <entry>
+      <title>JCE: Bond Market Turmoil Could Pose Problems For This Tech-Heavy Fund</title>
+      <id>4951028</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951028-jce-bond-market-turmoil-could-pose-problems-for-this-tech-heavy-fund?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T14:16:40Z</updated>
+      <published>2026-09-30T14:16:40Z</published>
+    </entry>
+    <entry>
+      <title>Panic In Real Estate CEFs: Trading NRO&apos;s Historic Discount (Upgrade)</title>
+      <id>4951018</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951018-panic-in-real-estate-cefs-trading-nros-historic-discount-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T13:53:31Z</updated>
+      <published>2026-09-30T13:53:31Z</published>
+    </entry>
+    <entry>
+      <title>AVGV: Leading Core Global ETF Focused On Value And Quality</title>
+      <id>4951016</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951016-avgv-leading-core-global-etf-focused-on-value-and-quality?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T13:48:34Z</updated>
+      <published>2026-09-30T13:48:34Z</published>
+    </entry>
+    <entry>
+      <title>CDL: Low Volatility Doesn&apos;t Make Up For Low Quality, Choose SCHD Instead</title>
+      <id>4951008</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951008-cdl-low-volatility-doesnt-make-up-for-low-quality-choose-schd-instead?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T13:35:26Z</updated>
+      <published>2026-09-30T13:35:26Z</published>
+    </entry>
+    <entry>
+      <title>Chile copper output sinks to 15-yr low as supply strains deepen</title>
+      <id>https://seekingalpha.com/MarketCurrent:4648510</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-09-30T13:16:49Z</updated>
+      <published>2026-09-30T13:16:49Z</published>
+    </entry>
+    <entry>
+      <title>Grayscale Hyperliquid Staking ETF: Heraclitus Would Have Loved Hyperliquid</title>
+      <id>4950971</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950971-grayscale-hyperliquid-staking-etf-heraclitus-would-have-loved-hyperliquid?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T12:23:48Z</updated>
+      <published>2026-09-30T12:23:48Z</published>
+    </entry>
+    <entry>
+      <title>abrdn Global Infrastructure Income Fund Rights Offering Quick Notes</title>
+      <id>4950942</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950942-abrdn-global-infrastructure-income-fund-rights-offering-quick-notes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T10:30:31Z</updated>
+      <published>2026-09-30T10:30:31Z</published>
+    </entry>
     <entry>
       <title>TSMC weighs Texas investment to expand U.S. chip production: report</title>
       <id>https://seekingalpha.com/MarketCurrent:4648375</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
       <updated>2026-09-30T10:15:19Z</updated>
       <published>2026-09-30T10:15:19Z</published>
+    </entry>
+    <entry>
+      <title>2 Roads To The Same Megatrend</title>
+      <id>4950898</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950898-2-roads-to-same-megatrend?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T10:05:00Z</updated>
+      <published>2026-09-30T10:05:00Z</published>
     </entry>
     <entry>
       <title>ASML, TSM earnings could test market expectations, Sara Awad says</title>
@@ -25,6 +95,13 @@
       <published>2026-09-30T09:48:48Z</published>
     </entry>
     <entry>
+      <title>CSHI Offers A Premium Over T-Bill Yields In Exchange For A Hidden But Manageable Risk</title>
+      <id>4950925</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950925-cshi-offers-a-premium-over-t-bill-yields-in-exchange-for-a-hidden-but-manageable-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T09:43:48Z</updated>
+      <published>2026-09-30T09:43:48Z</published>
+    </entry>
+    <entry>
       <title>Rio Tinto: Copper&apos;s Growing Significance Is A Positive</title>
       <id>https://seekingalpha.com/Article:4950909</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4950909-rio-tinto-coppers-growing-significance-is-a-positive?source=feed_symbol_RIO"/>
@@ -32,157 +109,80 @@
       <published>2026-09-30T08:52:13Z</published>
     </entry>
     <entry>
+      <title>The Next Generation Of Thematic Indexing</title>
+      <id>4950908</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950908-next-generation-thematic-indexing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T08:00:00Z</updated>
+      <published>2026-09-30T08:00:00Z</published>
+    </entry>
+    <entry>
+      <title>PSK: Interest Rate Sensitive In A Concerning Direction</title>
+      <id>4950886</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950886-psk-interest-rate-sensitive-in-a-concerning-direction?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T07:24:31Z</updated>
+      <published>2026-09-30T07:24:31Z</published>
+    </entry>
+    <entry>
+      <title>TECL: AI Investment Cycle Holds As Risks Look Macro-Driven, Reiterate Buy Rating</title>
+      <id>4950883</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950883-tecl-ai-investment-cycle-holds-as-risks-look-macro-driven-reiterate-buy-rating?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T07:20:43Z</updated>
+      <published>2026-09-30T07:20:43Z</published>
+    </entry>
+    <entry>
+      <title>Weekly Closed-End Fund Roundup (September 20, 2026)</title>
+      <id>4950881</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950881-weekly-closed-end-fund-roundup-september-20-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T07:06:47Z</updated>
+      <published>2026-09-30T07:06:47Z</published>
+    </entry>
+    <entry>
+      <title>Alas, Free Cash Flow I Knew You Well</title>
+      <id>4950891</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950891-alas-free-cash-flow-i-knew-you-well?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T06:50:00Z</updated>
+      <published>2026-09-30T06:50:00Z</published>
+    </entry>
+    <entry>
+      <title>QQQY: A Strong Play For Weekly Income</title>
+      <id>4950878</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950878-qqqy-a-strong-play-for-weekly-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T06:47:57Z</updated>
+      <published>2026-09-30T06:47:57Z</published>
+    </entry>
+    <entry>
+      <title>AI Boom Revives Dotcom Lessons On Wide Moat Focus</title>
+      <id>4950877</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950877-ai-boom-revives-dotcom-lessons-on-wide-moat-focus?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T05:50:00Z</updated>
+      <published>2026-09-30T05:50:00Z</published>
+    </entry>
+    <entry>
+      <title>EWI: Capturing Italy&apos;s Banking And Infrastructure Investment Cycle</title>
+      <id>4950867</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950867-ewi-capturing-italys-banking-and-infrastructure-investment-cycle?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T05:35:50Z</updated>
+      <published>2026-09-30T05:35:50Z</published>
+    </entry>
+    <entry>
+      <title>PDX: Upgrading Back To A Strong Buy As The Discount Widens</title>
+      <id>4950857</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950857-pdx-upgrading-back-to-a-strong-buy-as-the-discount-widens?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T03:40:48Z</updated>
+      <published>2026-09-30T03:40:48Z</published>
+    </entry>
+    <entry>
+      <title>KYN: The Payout Is Up 19%, But The Stock Hasn&apos;t Kept Up</title>
+      <id>4950853</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950853-kyn-the-payout-is-up-19-percent-but-the-stock-hasnt-kept-up?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T03:29:08Z</updated>
+      <published>2026-09-30T03:29:08Z</published>
+    </entry>
+    <entry>
       <title>TSMC: Market Is Mistaken In Pricing In A Big AI Slowdown</title>
       <id>https://seekingalpha.com/Article:4950789</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4950789-tsmc-market-is-mistaken-in-pricing-in-a-big-ai-slowdown?source=feed_symbol_TSM"/>
       <updated>2026-09-29T19:40:48Z</updated>
       <published>2026-09-29T19:40:48Z</published>
-    </entry>
-    <entry>
-      <title>Joby: Absurdly Cheap Right Before A Year Stacked With Catalysts</title>
-      <id>https://seekingalpha.com/Article:4950760</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950760-joby-absurdly-cheap-right-before-a-year-stacked-with-catalysts?source=feed_symbol_JOBY"/>
-      <updated>2026-09-29T17:51:03Z</updated>
-      <published>2026-09-29T17:51:03Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: 2nm Is Moving Into High Gear</title>
-      <id>https://seekingalpha.com/Article:4950690</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950690-tsmc-2nm-is-moving-into-high-gear?source=feed_symbol_TSM"/>
-      <updated>2026-09-29T15:10:40Z</updated>
-      <published>2026-09-29T15:10:40Z</published>
-    </entry>
-    <entry>
-      <title>Joby Vs. Archer: The Race Is No Longer About Who Certifies First</title>
-      <id>https://seekingalpha.com/Article:4950683</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950683-joby-vs-archer-the-race-is-no-longer-about-who-certifies-first?source=feed_symbol_JOBY"/>
-      <updated>2026-09-29T14:44:36Z</updated>
-      <published>2026-09-29T14:44:36Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen and Gotion High-tech to invest €3.22B to expand battery manufacturing across Europe and Africa</title>
-      <id>https://seekingalpha.com/MarketCurrent:4647846</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
-      <updated>2026-09-29T06:25:51Z</updated>
-      <published>2026-09-29T06:25:51Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: Set For All-Time Highs On Surging AI Chip Demand</title>
-      <id>https://seekingalpha.com/Article:4950088</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950088-taiwan-semiconductor-stock-tsmc-all-time-highs-surging-ai-chip-demand?source=feed_symbol_TSM"/>
-      <updated>2026-09-28T02:28:09Z</updated>
-      <published>2026-09-28T02:28:09Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: An AI Technology Leader Trading At Just 0.7x PEG</title>
-      <id>https://seekingalpha.com/Article:4950055</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950055-tsmc-an-ai-technology-leader-trading-at-just-0-7x-peg?source=feed_symbol_TSM"/>
-      <updated>2026-09-27T13:57:23Z</updated>
-      <published>2026-09-27T13:57:23Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The Crown Jewel In The World Of Silicon Is Trading At A Discount Today</title>
-      <id>https://seekingalpha.com/Article:4949914</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4949914-tsmc-the-crown-jewel-in-the-world-of-silicon-is-trading-at-a-discount-today?source=feed_symbol_TSM"/>
-      <updated>2026-09-26T06:50:01Z</updated>
-      <published>2026-09-26T06:50:01Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto gets up to $995M defense logistics deal: Details inside</title>
-      <id>https://seekingalpha.com/MarketCurrent:4647361</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-09-25T21:40:29Z</updated>
-      <published>2026-09-25T21:40:29Z</published>
-    </entry>
-    <entry>
-      <title>TSMC Offers AI Upside No Matter Who Wins The Race</title>
-      <id>https://seekingalpha.com/Article:4949801</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4949801-tsmc-offers-ai-upside-no-matter-who-wins-the-race?source=feed_symbol_TSM"/>
-      <updated>2026-09-25T16:26:57Z</updated>
-      <published>2026-09-25T16:26:57Z</published>
-    </entry>
-    <entry>
-      <title>Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued</title>
-      <id>https://seekingalpha.com/Article:4949681</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4949681-taiwan-semiconductor-ai-capex-keeps-climbing-and-tsmc-looks-undervalued?source=feed_symbol_TSM"/>
-      <updated>2026-09-25T12:30:39Z</updated>
-      <published>2026-09-25T12:30:39Z</published>
-    </entry>
-    <entry>
-      <title>Taiwan Semiconductor: AI Hiccups Lately, But Strong Growth Persists</title>
-      <id>https://seekingalpha.com/Article:4949629</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4949629-taiwan-semiconductor-ai-hiccups-lately-but-strong-growth-persists?source=feed_symbol_TSM"/>
-      <updated>2026-09-25T01:31:24Z</updated>
-      <published>2026-09-25T01:31:24Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas expands Google Cloud pact to support agentic AI</title>
-      <id>https://seekingalpha.com/MarketCurrent:4646791</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/BNPQF/news?source=feed_symbol_BNPQF"/>
-      <updated>2026-09-24T16:51:09Z</updated>
-      <published>2026-09-24T16:51:09Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto: Copper Is Taking Over, But China Adds A New Risk</title>
-      <id>https://seekingalpha.com/Article:4949429</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4949429-rio-tinto-copper-is-taking-over-but-china-adds-a-new-risk?source=feed_symbol_RIO"/>
-      <updated>2026-09-24T14:32:21Z</updated>
-      <published>2026-09-24T14:32:21Z</published>
-    </entry>
-    <entry>
-      <title>Danaher Isn&apos;t Anything Special, Even After Absorbing Masimo</title>
-      <id>https://seekingalpha.com/Article:4949281</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4949281-danaher-stock-not-anything-special-even-after-absorbing-masimo?source=feed_symbol_DHR"/>
-      <updated>2026-09-24T06:49:19Z</updated>
-      <published>2026-09-24T06:49:19Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas: Stronger Capital, Better Earnings Quality, And A Valuation Gap Support A Buy (Rating Upgrade)</title>
-      <id>https://seekingalpha.com/Article:4948646</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948646-bnp-paribas-stronger-capital-better-earnings-quality-and-a-valuation-gap-support-a-buy-rating-upgrade?source=feed_symbol_BNPQF"/>
-      <updated>2026-09-22T14:41:57Z</updated>
-      <published>2026-09-22T14:41:57Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI: High Risk, But With A Great Cause</title>
-      <id>https://seekingalpha.com/Article:4948568</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948568-tempus-ai-high-risk-but-with-a-great-cause?source=feed_symbol_TEM"/>
-      <updated>2026-09-22T11:05:46Z</updated>
-      <published>2026-09-22T11:05:46Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI: Data And Applications Will Unlock More Upside</title>
-      <id>https://seekingalpha.com/Article:4948478</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948478-tempus-ai-stock-data-applications-will-unlock-more-upside?source=feed_symbol_TEM"/>
-      <updated>2026-09-22T03:37:10Z</updated>
-      <published>2026-09-22T03:37:10Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI: Market Is Hyping On An Uncertain Number</title>
-      <id>https://seekingalpha.com/Article:4948316</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4948316-tempus-ai-market-is-hyping-on-an-uncertain-number?source=feed_symbol_TEM"/>
-      <updated>2026-09-21T13:37:58Z</updated>
-      <published>2026-09-21T13:37:58Z</published>
-    </entry>
-    <entry>
-      <title>10 mid-cap industrial stocks with weakest momentum grades</title>
-      <id>https://seekingalpha.com/MarketCurrent:4644252</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
-      <updated>2026-09-18T17:45:39Z</updated>
-      <published>2026-09-18T17:45:39Z</published>
-    </entry>
-    <entry>
-      <title>Danaher declares $0.40 dividend</title>
-      <id>https://seekingalpha.com/MarketCurrent:4643237</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/DHR/news?source=feed_symbol_DHR"/>
-      <updated>2026-09-16T06:23:59Z</updated>
-      <published>2026-09-16T06:23:59Z</published>
-    </entry>
-    <entry>
-      <title>Thermo Fisher Scientific Inc. (TMO) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript</title>
-      <id>https://seekingalpha.com/Article:4946511</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4946511-thermo-fisher-scientific-inc-tmo-presents-at-morgan-stanley-24th-annual-global-healthcare?source=feed_symbol_TMO"/>
-      <updated>2026-09-15T15:31:46Z</updated>
-      <published>2026-09-15T15:31:46Z</published>
     </entry>
 </feed>
