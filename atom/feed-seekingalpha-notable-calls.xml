@@ -5,11 +5,102 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-09-30T16:26:18Z</updated>
+  <updated>2026-10-01T10:42:57Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>KORU: The Victim Of South Korea&apos;s Semiconductor Bottleneck</title>
+      <id>4951279</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951279-koru-the-victim-of-south-koreas-semiconductor-bottleneck?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-01T10:42:57Z</updated>
+      <published>2026-10-01T10:42:57Z</published>
+    </entry>
+    <entry>
+      <title>Don&apos;t Quit AI, Insure It: A 10-ETF Diversification Portfolio</title>
+      <id>4951263</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951263-dont-quit-ai-insure-it-a-10-etf-diversification-portfolio?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-01T08:52:46Z</updated>
+      <published>2026-10-01T08:52:46Z</published>
+    </entry>
+    <entry>
+      <title>CHPY: A 39% Yielding Semiconductor Bet I&apos;m Adding To My 21%+ Income Portfolio</title>
+      <id>4951257</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951257-chpy-a-39-percent-yielding-semiconductor-bet-im-adding-to-my-21-percent-plus-income-portfolio?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-01T07:42:45Z</updated>
+      <published>2026-10-01T07:42:45Z</published>
+    </entry>
+    <entry>
+      <title>The Top HealthTech Questions Landing On Our Desks</title>
+      <id>4951253</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951253-top-healthtech-questions-landing-our-desks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-01T07:31:00Z</updated>
+      <published>2026-10-01T07:31:00Z</published>
+    </entry>
+    <entry>
+      <title>TSMC Vs. Intel: Goliath Is Defeating David</title>
+      <id>https://seekingalpha.com/Article:4951244</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951244-tsmc-vs-intel-goliath-is-defeating-david?source=feed_symbol_TSM"/>
+      <updated>2026-10-01T05:54:47Z</updated>
+      <published>2026-10-01T05:54:47Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto secures operation of Bell Bay Aluminium through 2031</title>
+      <id>https://seekingalpha.com/MarketCurrent:4648830</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-10-01T04:51:03Z</updated>
+      <published>2026-10-01T04:51:03Z</published>
+    </entry>
+    <entry>
+      <title>AVUS: Recent Returns Merit More Attention</title>
+      <id>4951234</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951234-avantis-us-equity-etf-recent-returns-merit-more-attention-upgrade-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-01T03:39:16Z</updated>
+      <published>2026-10-01T03:39:16Z</published>
+    </entry>
+    <entry>
+      <title>PSCI: SMID Industrials Are Likely To Trail IVV Amid Higher Rates</title>
+      <id>4951207</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951207-psci-smid-industrials-are-likely-to-trail-ivv-amid-higher-rates?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-01T00:27:57Z</updated>
+      <published>2026-10-01T00:27:57Z</published>
+    </entry>
+    <entry>
+      <title>FNDE: Still A Leader In EM Value With High Geopolitical Risk</title>
+      <id>4951182</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951182-fnde-still-leader-in-em-value-with-high-geopolitical-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T21:55:18Z</updated>
+      <published>2026-09-30T21:55:18Z</published>
+    </entry>
+    <entry>
+      <title>FDVV: Fidelity&apos;s High-Dividend ETF Keeps Passing The Test</title>
+      <id>4951170</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951170-fdvv-fidelitys-high-dividend-etf-keeps-passing-the-test?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T21:20:14Z</updated>
+      <published>2026-09-30T21:20:14Z</published>
+    </entry>
+    <entry>
+      <title>NUGT: Strong Employment Data May Be Bad For Gold</title>
+      <id>4951169</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951169-nugt-strong-employment-data-may-be-bad-for-gold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T21:15:09Z</updated>
+      <published>2026-09-30T21:15:09Z</published>
+    </entry>
+    <entry>
+      <title>IVW: The Great Rotation Fizzled; Growth Looks Attractive For Q4 And 2027</title>
+      <id>4951167</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951167-ivw-the-great-rotation-fizzled-growth-looks-attractive-for-q4-and-2027?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T21:12:17Z</updated>
+      <published>2026-09-30T21:12:17Z</published>
+    </entry>
+    <entry>
+      <title>IDE: Interest Rate Policy And High Oil Prices May Pressure Growth - Downgrade To Hold</title>
+      <id>4951161</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951161-ide-interest-rate-policy-and-high-oil-prices-may-pressure-growth-rating-downgrade-to-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-09-30T21:01:08Z</updated>
+      <published>2026-09-30T21:01:08Z</published>
+    </entry>
     <entry>
       <title>A Switch From AWP To RQI May Be Warranted</title>
       <id>4951081</id>
@@ -53,13 +144,6 @@
       <published>2026-09-30T13:35:26Z</published>
     </entry>
     <entry>
-      <title>Chile copper output sinks to 15-yr low as supply strains deepen</title>
-      <id>https://seekingalpha.com/MarketCurrent:4648510</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-09-30T13:16:49Z</updated>
-      <published>2026-09-30T13:16:49Z</published>
-    </entry>
-    <entry>
       <title>Grayscale Hyperliquid Staking ETF: Heraclitus Would Have Loved Hyperliquid</title>
       <id>4950971</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4950971-grayscale-hyperliquid-staking-etf-heraclitus-would-have-loved-hyperliquid?source=feed_tag_etf_portfolio_strategy"/>
@@ -95,94 +179,10 @@
       <published>2026-09-30T09:48:48Z</published>
     </entry>
     <entry>
-      <title>CSHI Offers A Premium Over T-Bill Yields In Exchange For A Hidden But Manageable Risk</title>
-      <id>4950925</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950925-cshi-offers-a-premium-over-t-bill-yields-in-exchange-for-a-hidden-but-manageable-risk?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T09:43:48Z</updated>
-      <published>2026-09-30T09:43:48Z</published>
-    </entry>
-    <entry>
       <title>Rio Tinto: Copper&apos;s Growing Significance Is A Positive</title>
       <id>https://seekingalpha.com/Article:4950909</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4950909-rio-tinto-coppers-growing-significance-is-a-positive?source=feed_symbol_RIO"/>
       <updated>2026-09-30T08:52:13Z</updated>
       <published>2026-09-30T08:52:13Z</published>
-    </entry>
-    <entry>
-      <title>The Next Generation Of Thematic Indexing</title>
-      <id>4950908</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950908-next-generation-thematic-indexing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T08:00:00Z</updated>
-      <published>2026-09-30T08:00:00Z</published>
-    </entry>
-    <entry>
-      <title>PSK: Interest Rate Sensitive In A Concerning Direction</title>
-      <id>4950886</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950886-psk-interest-rate-sensitive-in-a-concerning-direction?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T07:24:31Z</updated>
-      <published>2026-09-30T07:24:31Z</published>
-    </entry>
-    <entry>
-      <title>TECL: AI Investment Cycle Holds As Risks Look Macro-Driven, Reiterate Buy Rating</title>
-      <id>4950883</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950883-tecl-ai-investment-cycle-holds-as-risks-look-macro-driven-reiterate-buy-rating?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T07:20:43Z</updated>
-      <published>2026-09-30T07:20:43Z</published>
-    </entry>
-    <entry>
-      <title>Weekly Closed-End Fund Roundup (September 20, 2026)</title>
-      <id>4950881</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950881-weekly-closed-end-fund-roundup-september-20-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T07:06:47Z</updated>
-      <published>2026-09-30T07:06:47Z</published>
-    </entry>
-    <entry>
-      <title>Alas, Free Cash Flow I Knew You Well</title>
-      <id>4950891</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950891-alas-free-cash-flow-i-knew-you-well?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T06:50:00Z</updated>
-      <published>2026-09-30T06:50:00Z</published>
-    </entry>
-    <entry>
-      <title>QQQY: A Strong Play For Weekly Income</title>
-      <id>4950878</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950878-qqqy-a-strong-play-for-weekly-income?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T06:47:57Z</updated>
-      <published>2026-09-30T06:47:57Z</published>
-    </entry>
-    <entry>
-      <title>AI Boom Revives Dotcom Lessons On Wide Moat Focus</title>
-      <id>4950877</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950877-ai-boom-revives-dotcom-lessons-on-wide-moat-focus?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T05:50:00Z</updated>
-      <published>2026-09-30T05:50:00Z</published>
-    </entry>
-    <entry>
-      <title>EWI: Capturing Italy&apos;s Banking And Infrastructure Investment Cycle</title>
-      <id>4950867</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950867-ewi-capturing-italys-banking-and-infrastructure-investment-cycle?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T05:35:50Z</updated>
-      <published>2026-09-30T05:35:50Z</published>
-    </entry>
-    <entry>
-      <title>PDX: Upgrading Back To A Strong Buy As The Discount Widens</title>
-      <id>4950857</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950857-pdx-upgrading-back-to-a-strong-buy-as-the-discount-widens?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T03:40:48Z</updated>
-      <published>2026-09-30T03:40:48Z</published>
-    </entry>
-    <entry>
-      <title>KYN: The Payout Is Up 19%, But The Stock Hasn&apos;t Kept Up</title>
-      <id>4950853</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950853-kyn-the-payout-is-up-19-percent-but-the-stock-hasnt-kept-up?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-09-30T03:29:08Z</updated>
-      <published>2026-09-30T03:29:08Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: Market Is Mistaken In Pricing In A Big AI Slowdown</title>
-      <id>https://seekingalpha.com/Article:4950789</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4950789-tsmc-market-is-mistaken-in-pricing-in-a-big-ai-slowdown?source=feed_symbol_TSM"/>
-      <updated>2026-09-29T19:40:48Z</updated>
-      <published>2026-09-29T19:40:48Z</published>
     </entry>
 </feed>
