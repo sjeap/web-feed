@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-01T11:05:19Z</updated>
+  <updated>2026-10-01T21:11:03Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Zwei bislang unbekannte Asselspinnen vor Kanadas Küste entdeckt</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt-133713698</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt-133713698"/>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt.jpg" alt="Zwei bislang unbekannte Asselspinnen vor Kanadas Küste entdeckt"/><p>Zwei bislang unbekannte Asselspinnen vor Kanadas Küste entdeckt</p>]]></content>
+    </entry>
+    <entry>
+      <title>25 Tonnen schwere Steinriesen kamen aus 18 Kilometern Ferne</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne-133713683</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne-133713683"/>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne.jpg" alt="25 Tonnen schwere Steinriesen kamen aus 18 Kilometern Ferne"/><p>25 Tonnen schwere Steinriesen kamen aus 18 Kilometern Ferne</p>]]></content>
+    </entry>
+    <entry>
       <title>Kristalle könnten verborgenen Magnetismus im Licht zeigen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/physik/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen-133713679</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen-133713679"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen.jpg" alt="Kristalle könnten verborgenen Magnetismus im Licht zeigen"/><p>Kristalle könnten verborgenen Magnetismus im Licht zeigen</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>McDonald’s lässt KI an den Preisen des Big Mac mitrechnen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/oekonomie/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen-133713677</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/oekonomie/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen-133713677"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/oekonomie/Magazin-Gross/2026-10/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/oekonomie/Magazin-Gross/2026-10/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen.jpg" alt="McDonald’s lässt KI an den Preisen des Big Mac mitrechnen"/><p>McDonald’s lässt KI an den Preisen des Big Mac mitrechnen</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Abnehmspritzen könnten bei Männern Haarausfall fördern</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern-133713058</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern-133713058"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern.jpg" alt="Abnehmspritzen könnten bei Männern Haarausfall fördern"/><p>Abnehmspritzen könnten bei Männern Haarausfall fördern</p>]]></content>
     </entry>
@@ -41,35 +59,17 @@
       <title>Impfpflaster bringen hitzestabile mRNA durch die Haut</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut-133713673</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut-133713673"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut.jpg" alt="Impfpflaster bringen hitzestabile mRNA durch die Haut"/><p>Impfpflaster bringen hitzestabile mRNA durch die Haut</p>]]></content>
-    </entry>
-    <entry>
-      <title>Riemenfische treiben bis zu acht Meter Körper mit einer Flosse an</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/riemenfische-treiben-bis-zu-acht-meter-koerper-mit-einer-flosse-an-133713670</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/riemenfische-treiben-bis-zu-acht-meter-koerper-mit-einer-flosse-an-133713670"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/riemenfische-treiben-bis-zu-acht-meter-koerper-mit-einer-flosse-an.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/riemenfische-treiben-bis-zu-acht-meter-koerper-mit-einer-flosse-an.jpg" alt="Riemenfische treiben bis zu acht Meter Körper mit einer Flosse an"/><p>Riemenfische treiben bis zu acht Meter Körper mit einer Flosse an</p>]]></content>
-    </entry>
-    <entry>
-      <title>Polarlichter lassen sich erstmals 45 Stunden ohne Pause verfolgen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/polarlichter-lassen-sich-erstmals-45-stunden-ohne-pause-verfolgen-133713667</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/polarlichter-lassen-sich-erstmals-45-stunden-ohne-pause-verfolgen-133713667"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/polarlichter-lassen-sich-erstmals-45-stunden-ohne-pause-verfolgen.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/polarlichter-lassen-sich-erstmals-45-stunden-ohne-pause-verfolgen.jpg" alt="Polarlichter lassen sich erstmals 45 Stunden ohne Pause verfolgen"/><p>Polarlichter lassen sich erstmals 45 Stunden ohne Pause verfolgen</p>]]></content>
     </entry>
     <entry>
       <title>Auf dem Baikalsee entstehen Eisringe von mehreren Kilometern Größe</title>
       <id>https://www.forschung-und-wissen.de/magazin/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse-133712666</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse-133712666"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse.jpg" alt="Auf dem Baikalsee entstehen Eisringe von mehreren Kilometern Größe"/><p>Auf dem Baikalsee entstehen Eisringe von mehreren Kilometern Größe</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>Veuve Clicquot: Eine Witwe machte ab 1805 Champagner zum Weltgetränk</title>
       <id>https://www.forschung-und-wissen.de/magazin/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk-133713331</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk-133713331"/>
-      <updated>2026-10-01T11:05:19Z</updated>
-      <published>2026-10-01T11:05:19Z</published>
+      <updated>2026-10-01T21:11:03Z</updated>
+      <published>2026-10-01T21:11:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk.jpg" alt="Veuve Clicquot: Eine Witwe machte ab 1805 Champagner zum Weltgetränk"/><p>Veuve Clicquot: Eine Witwe machte ab 1805 Champagner zum Weltgetränk</p>]]></content>
     </entry>
