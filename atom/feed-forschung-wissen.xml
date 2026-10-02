@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-01T21:11:03Z</updated>
+  <updated>2026-10-02T10:38:04Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>KI-Agenten umgehen Zugangssperren bei einer Recherche</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/ki-agenten-umgehen-zugangssperren-bei-einer-recherche-133713676</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/ki-agenten-umgehen-zugangssperren-bei-einer-recherche-133713676"/>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-agenten-umgehen-zugangssperren-bei-einer-recherche.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-agenten-umgehen-zugangssperren-bei-einer-recherche.jpg" alt="KI-Agenten umgehen Zugangssperren bei einer Recherche"/><p>KI-Agenten umgehen Zugangssperren bei einer Recherche</p>]]></content>
+    </entry>
+    <entry>
+      <title>222 Meter breiter Mondkrater wird auf neuen Bildern sichtbar</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/222-meter-breiter-mondkrater-wird-auf-neuen-bildern-sichtbar-133713686</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/222-meter-breiter-mondkrater-wird-auf-neuen-bildern-sichtbar-133713686"/>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/222-meter-breiter-mondkrater-wird-auf-neuen-bildern-sichtbar.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/222-meter-breiter-mondkrater-wird-auf-neuen-bildern-sichtbar.jpg" alt="222 Meter breiter Mondkrater wird auf neuen Bildern sichtbar"/><p>222 Meter breiter Mondkrater wird auf neuen Bildern sichtbar</p>]]></content>
+    </entry>
+    <entry>
       <title>Zwei bislang unbekannte Asselspinnen vor Kanadas Küste entdeckt</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt-133713698</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt-133713698"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/zwei-bislang-unbekannte-asselspinnen-vor-kanadas-kueste-entdeckt.jpg" alt="Zwei bislang unbekannte Asselspinnen vor Kanadas Küste entdeckt"/><p>Zwei bislang unbekannte Asselspinnen vor Kanadas Küste entdeckt</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>25 Tonnen schwere Steinriesen kamen aus 18 Kilometern Ferne</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne-133713683</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne-133713683"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/25-tonnen-schwere-steinriesen-kamen-aus-18-kilometern-ferne.jpg" alt="25 Tonnen schwere Steinriesen kamen aus 18 Kilometern Ferne"/><p>25 Tonnen schwere Steinriesen kamen aus 18 Kilometern Ferne</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Kristalle könnten verborgenen Magnetismus im Licht zeigen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/physik/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen-133713679</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen-133713679"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/kristalle-koennten-verborgenen-magnetismus-im-licht-zeigen.jpg" alt="Kristalle könnten verborgenen Magnetismus im Licht zeigen"/><p>Kristalle könnten verborgenen Magnetismus im Licht zeigen</p>]]></content>
     </entry>
@@ -41,45 +59,27 @@
       <title>McDonald’s lässt KI an den Preisen des Big Mac mitrechnen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/oekonomie/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen-133713677</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/oekonomie/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen-133713677"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/oekonomie/Magazin-Gross/2026-10/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/oekonomie/Magazin-Gross/2026-10/mcdonalds-laesst-ki-an-den-preisen-des-big-mac-mitrechnen.jpg" alt="McDonald’s lässt KI an den Preisen des Big Mac mitrechnen"/><p>McDonald’s lässt KI an den Preisen des Big Mac mitrechnen</p>]]></content>
     </entry>
     <entry>
-      <title>Abnehmspritzen könnten bei Männern Haarausfall fördern</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern-133713058</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern-133713058"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/abnehmspritzen-koennten-bei-maennern-haarausfall-foerdern.jpg" alt="Abnehmspritzen könnten bei Männern Haarausfall fördern"/><p>Abnehmspritzen könnten bei Männern Haarausfall fördern</p>]]></content>
-    </entry>
-    <entry>
-      <title>Impfpflaster bringen hitzestabile mRNA durch die Haut</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut-133713673</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut-133713673"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/impfpflaster-bringen-hitzestabile-mrna-durch-die-haut.jpg" alt="Impfpflaster bringen hitzestabile mRNA durch die Haut"/><p>Impfpflaster bringen hitzestabile mRNA durch die Haut</p>]]></content>
+      <title>In der Antarktis fließt rostrotes Wasser aus dem Eis</title>
+      <id>https://www.forschung-und-wissen.de/magazin/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis-133712779</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis-133712779"/>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis.jpg" alt="In der Antarktis fließt rostrotes Wasser aus dem Eis"/><p>In der Antarktis fließt rostrotes Wasser aus dem Eis</p>]]></content>
     </entry>
     <entry>
       <title>Auf dem Baikalsee entstehen Eisringe von mehreren Kilometern Größe</title>
       <id>https://www.forschung-und-wissen.de/magazin/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse-133712666</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse-133712666"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
+      <updated>2026-10-02T10:38:04Z</updated>
+      <published>2026-10-02T10:38:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/auf-dem-baikalsee-entstehen-eisringe-von-mehreren-kilometern-groesse.jpg" alt="Auf dem Baikalsee entstehen Eisringe von mehreren Kilometern Größe"/><p>Auf dem Baikalsee entstehen Eisringe von mehreren Kilometern Größe</p>]]></content>
-    </entry>
-    <entry>
-      <title>Veuve Clicquot: Eine Witwe machte ab 1805 Champagner zum Weltgetränk</title>
-      <id>https://www.forschung-und-wissen.de/magazin/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk-133713331</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk-133713331"/>
-      <updated>2026-10-01T21:11:03Z</updated>
-      <published>2026-10-01T21:11:03Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/veuve-clicquot-eine-witwe-machte-ab-1805-champagner-zum-weltgetraenk.jpg" alt="Veuve Clicquot: Eine Witwe machte ab 1805 Champagner zum Weltgetränk"/><p>Veuve Clicquot: Eine Witwe machte ab 1805 Champagner zum Weltgetränk</p>]]></content>
     </entry>
 </feed>
