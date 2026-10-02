@@ -5,11 +5,74 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-02T10:31:32Z</updated>
+  <updated>2026-10-02T19:09:42Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Sea Limited: A Buy-The-Dip Case Is Taking Shape</title>
+      <id>https://seekingalpha.com/Article:4951669</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951669-sea-limited-a-buy-the-dip-case-is-taking-shape?source=feed_symbol_SE"/>
+      <updated>2026-10-02T19:09:42Z</updated>
+      <published>2026-10-02T19:09:42Z</published>
+    </entry>
+    <entry>
+      <title>PDBC And The Case For Commodities</title>
+      <id>4951666</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951666-pdbc-and-the-case-for-commodities?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-02T18:44:38Z</updated>
+      <published>2026-10-02T18:44:38Z</published>
+    </entry>
+    <entry>
+      <title>MGC: Less Attractive As Earnings Broaden</title>
+      <id>4951656</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951656-mgc-less-attractive-as-earnings-broaden?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-02T17:45:35Z</updated>
+      <published>2026-10-02T17:45:35Z</published>
+    </entry>
+    <entry>
+      <title>Virtus Convertible &amp; Income Fund II: Balancing High Yield And Capital Protection</title>
+      <id>4951653</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951653-virtus-convertible-and-income-fund-ii-balancing-high-yield-and-capital-protection?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-02T17:33:22Z</updated>
+      <published>2026-10-02T17:33:22Z</published>
+    </entry>
+    <entry>
+      <title>JEPQ: The Asymmetry Investors Are Missing</title>
+      <id>4951641</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951641-jepq-asymmetry-investors-are-missing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-02T16:48:45Z</updated>
+      <published>2026-10-02T16:48:45Z</published>
+    </entry>
+    <entry>
+      <title>CLM: The 23%-Yielding Money Glitch</title>
+      <id>4951637</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951637-clm-the-23-percent-yielding-money-glitch?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-02T16:30:08Z</updated>
+      <published>2026-10-02T16:30:08Z</published>
+    </entry>
+    <entry>
+      <title>RSF: Quarterly Tender Offers Provide Opportunities</title>
+      <id>4951634</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951634-rsf-quarterly-tender-offers-provide-opportunities?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-02T16:18:27Z</updated>
+      <published>2026-10-02T16:18:27Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Resolving The Valuation Conundrum</title>
+      <id>https://seekingalpha.com/Article:4951614</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951614-tsmc-resolving-the-valuation-conundrum?source=feed_symbol_TSM"/>
+      <updated>2026-10-02T14:36:07Z</updated>
+      <published>2026-10-02T14:36:07Z</published>
+    </entry>
+    <entry>
+      <title>Joby Aviation: Revenue Is Growing, But So Is The Share Count</title>
+      <id>https://seekingalpha.com/Article:4951551</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951551-joby-aviation-stock-revenue-growing-so-share-count?source=feed_symbol_JOBY"/>
+      <updated>2026-10-02T11:30:23Z</updated>
+      <published>2026-10-02T11:30:23Z</published>
+    </entry>
     <entry>
       <title>SPYM: S&amp;P 500 Monthly Dashboard For October</title>
       <id>4951561</id>
@@ -116,73 +179,10 @@
       <published>2026-10-01T19:17:58Z</published>
     </entry>
     <entry>
-      <title>September AAII Asset Allocation Survey: Cash Allocations Fall</title>
-      <id>4951442</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951442-september-aaii-asset-allocation-survey-cash-allocations-fall?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-01T19:07:51Z</updated>
-      <published>2026-10-01T19:07:51Z</published>
-    </entry>
-    <entry>
       <title>Airbus names ASML, Michelin CEOs to board as Obermann steps down</title>
       <id>https://seekingalpha.com/MarketCurrent:4649263</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
       <updated>2026-10-01T17:13:29Z</updated>
       <published>2026-10-01T17:13:29Z</published>
-    </entry>
-    <entry>
-      <title>4 Signs Of A Bear Market, And Why I Am Still Fully Invested</title>
-      <id>4951416</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951416-4-signs-bear-market-why-i-still-fully-invested?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-01T16:54:00Z</updated>
-      <published>2026-10-01T16:54:00Z</published>
-    </entry>
-    <entry>
-      <title>MSOS: Pause On Cannabis Rescheduling - And Why Trulieve Is A Sneaky Pick</title>
-      <id>4951405</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951405-msos-pause-on-cannabis-rescheduling-and-why-trulieve-is-a-sneaky-pick?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-01T16:09:21Z</updated>
-      <published>2026-10-01T16:09:21Z</published>
-    </entry>
-    <entry>
-      <title>HOOY: A Hold For The YieldMax HOOD Option Income Strategy ETF</title>
-      <id>4951384</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951384-hooy-a-hold-for-the-yieldmax-hood-option-income-strategy-etf?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-01T15:29:39Z</updated>
-      <published>2026-10-01T15:29:39Z</published>
-    </entry>
-    <entry>
-      <title>VB: The Time To Buy Small Caps Is At Hand</title>
-      <id>4951356</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951356-vb-the-time-to-buy-small-caps-is-at-hand?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-01T14:11:48Z</updated>
-      <published>2026-10-01T14:11:48Z</published>
-    </entry>
-    <entry>
-      <title>XMVM: Value-Heavy, Quality-Light Mix Likely To Underperform IVV Into 2027</title>
-      <id>4951239</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951239-xmvm-value-heavy-quality-light-mix-likely-to-underperform-ivv-into-2027?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-01T13:30:00Z</updated>
-      <published>2026-10-01T13:30:00Z</published>
-    </entry>
-    <entry>
-      <title>TSMC Vs. Intel: Goliath Is Defeating David</title>
-      <id>https://seekingalpha.com/Article:4951244</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951244-tsmc-vs-intel-goliath-is-defeating-david?source=feed_symbol_TSM"/>
-      <updated>2026-10-01T05:54:47Z</updated>
-      <published>2026-10-01T05:54:47Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto secures operation of Bell Bay Aluminium through 2031</title>
-      <id>https://seekingalpha.com/MarketCurrent:4648830</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-10-01T04:51:03Z</updated>
-      <published>2026-10-01T04:51:03Z</published>
-    </entry>
-    <entry>
-      <title>TSMC weighs Texas investment to expand U.S. chip production: report</title>
-      <id>https://seekingalpha.com/MarketCurrent:4648375</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-09-30T10:15:19Z</updated>
-      <published>2026-09-30T10:15:19Z</published>
     </entry>
 </feed>
