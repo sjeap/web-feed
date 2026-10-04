@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-10-04T06:49:25Z</updated>
+  <updated>2026-10-04T19:02:12Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ethereum: Über 2.815 US$ fliegt der Deckel</title>
+      <id>https://www.sharedeals.de/ethereum-ueber-2-815-us-fliegt-der-deckel/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/ethereum-ueber-2-815-us-fliegt-der-deckel/"/>
+      <updated>2026-10-04T19:02:12Z</updated>
+      <published>2026-10-04T19:02:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/01/black-and-white-star-logo-8iIUDnRq87o-540x350.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/01/black-and-white-star-logo-8iIUDnRq87o-540x350.jpeg" alt="black and white star logo"/><p>Ethereum: Über 2.815 US$ fliegt der Deckel</p>]]></content>
+    </entry>
     <entry>
       <title>Allianz-Aktie: Muse-Schock – trotzdem sind 684 € drin!</title>
       <id>https://www.sharedeals.de/allianz-aktie-muse-schock-trotzdem-sind-684-e-drin/</id>
@@ -52,8 +61,6 @@
       <link rel="alternate" href="https://www.sharedeals.de/infineon-aktie-kann-sich-der-kurs-verdoppeln/"/>
       <updated>2026-10-04T04:05:06Z</updated>
       <published>2026-10-04T04:05:06Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/Infineon-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/Infineon-540x350.jpg" alt="Infineon logo with a close-up of a microchip on a circuit board in a high-tech factory setting."/><p>Infineon-Aktie: Kann sich der Kurs verdoppeln?</p>]]></content>
     </entry>
     <entry>
       <title>Sportartikel-Hersteller unter Druck: Diese Aktien könnten jetzt profitieren!</title>
@@ -115,6 +122,8 @@
       <link rel="alternate" href="https://www.sharedeals.de/droneshield-aktie-mit-20-erholung-gestartet/"/>
       <updated>2026-10-03T04:05:18Z</updated>
       <published>2026-10-03T04:05:18Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/Droneshield-1-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/Droneshield-1-540x350.jpg" alt="DroneShield anti-drone system firing a red targeting beam at multiple drones over a base with a fortress wall and logo visible at sunset."/><p>DroneShield-Aktie mit +20% – Erholung gestartet?</p>]]></content>
     </entry>
     <entry>
       <title>XRP in Lauerstellung für +50%?</title>
@@ -133,15 +142,6 @@
       <published>2026-10-02T14:45:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/08/Infineon-540x350.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/08/Infineon-540x350.jpg" alt="Infineon logo on a modern office building with silicon chips in the foreground and a rising stock chart in the background, depicting tech growth."/><p>Infineon-Aktie +9% zum Wochenabschluss</p>]]></content>
-    </entry>
-    <entry>
-      <title>Seagate-Aktie -15%: Ist hier Buy-the-Dip angesagt?</title>
-      <id>https://www.sharedeals.de/seagate-aktie-15-ist-hier-buy-the-dip-angesagt/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/seagate-aktie-15-ist-hier-buy-the-dip-angesagt/"/>
-      <updated>2026-10-02T13:47:38Z</updated>
-      <published>2026-10-02T13:47:38Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/10/Toshiba-Seagate-540x350.jpeg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/10/Toshiba-Seagate-540x350.jpeg" alt="Two armored robots clash in a high-tech data center; glowing weapons clash and server racks surround them, with Toshiba and Seagate logos on their shields/armor."/><p>Seagate-Aktie -15%: Ist hier Buy-the-Dip angesagt?</p>]]></content>
     </entry>
     <entry>
       <title>Versamet-Aktie: Diese vier Kurstreiber machen Hoffnung</title>
