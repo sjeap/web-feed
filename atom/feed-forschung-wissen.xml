@@ -5,17 +5,44 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-03T19:19:27Z</updated>
+  <updated>2026-10-04T10:41:24Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>322 Jahre alte Mumie verbirgt Bleistift und Metall im Mund</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/322-jahre-alte-mumie-verbirgt-bleistift-und-metall-im-mund-133713763</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/322-jahre-alte-mumie-verbirgt-bleistift-und-metall-im-mund-133713763"/>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/322-jahre-alte-mumie-verbirgt-bleistift-und-metall-im-mund.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/322-jahre-alte-mumie-verbirgt-bleistift-und-metall-im-mund.jpg" alt="322 Jahre alte Mumie verbirgt Bleistift und Metall im Mund"/><p>322 Jahre alte Mumie verbirgt Bleistift und Metall im Mund</p>]]></content>
+    </entry>
+    <entry>
+      <title>57 bislang unbekannte Meeresarten in nur zwei Wochen identifiziert</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/57-bislang-unbekannte-meeresarten-in-nur-zwei-wochen-identifiziert-133713721</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/57-bislang-unbekannte-meeresarten-in-nur-zwei-wochen-identifiziert-133713721"/>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/57-bislang-unbekannte-meeresarten-in-nur-zwei-wochen-identifiziert.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/57-bislang-unbekannte-meeresarten-in-nur-zwei-wochen-identifiziert.jpg" alt="57 bislang unbekannte Meeresarten in nur zwei Wochen identifiziert"/><p>57 bislang unbekannte Meeresarten in nur zwei Wochen identifiziert</p>]]></content>
+    </entry>
+    <entry>
+      <title>Miniroboter trifft seine Sprunghöhe auf einen Zentimeter genau</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/miniroboter-trifft-seine-sprunghoehe-auf-einen-zentimeter-genau-133713716</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/miniroboter-trifft-seine-sprunghoehe-auf-einen-zentimeter-genau-133713716"/>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/miniroboter-trifft-seine-sprunghoehe-auf-einen-zentimeter-genau.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/miniroboter-trifft-seine-sprunghoehe-auf-einen-zentimeter-genau.jpg" alt="Miniroboter trifft seine Sprunghöhe auf einen Zentimeter genau"/><p>Miniroboter trifft seine Sprunghöhe auf einen Zentimeter genau</p>]]></content>
+    </entry>
+    <entry>
       <title>Semaglutid senkt bei Alkoholkranken die Trinkmenge</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/semaglutid-senkt-bei-alkoholkranken-die-trinkmenge-133713071</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/semaglutid-senkt-bei-alkoholkranken-die-trinkmenge-133713071"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/semaglutid-senkt-bei-alkoholkranken-die-trinkmenge.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-09/semaglutid-senkt-bei-alkoholkranken-die-trinkmenge.jpg" alt="Semaglutid senkt bei Alkoholkranken die Trinkmenge"/><p>Semaglutid senkt bei Alkoholkranken die Trinkmenge</p>]]></content>
     </entry>
@@ -23,8 +50,8 @@
       <title>Quanten-Sensor aus Göttingen misst Magnetfelder 500-mal empfindlicher</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/quanten-sensor-aus-goettingen-misst-magnetfelder-500-mal-empfindlicher-133713790</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/quanten-sensor-aus-goettingen-misst-magnetfelder-500-mal-empfindlicher-133713790"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/quanten-sensor-aus-goettingen-misst-magnetfelder-500-mal-empfindlicher.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/quanten-sensor-aus-goettingen-misst-magnetfelder-500-mal-empfindlicher.jpg" alt="Quanten-Sensor aus Göttingen misst Magnetfelder 500-mal empfindlicher"/><p>Quanten-Sensor aus Göttingen misst Magnetfelder 500-mal empfindlicher</p>]]></content>
     </entry>
@@ -32,54 +59,27 @@
       <title>Nach Krakatau-Ausbruch tauchen zwei neue Inseln im Meer auf</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/geologie/nach-krakatau-ausbruch-tauchen-zwei-neue-inseln-im-meer-auf-133713760</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/nach-krakatau-ausbruch-tauchen-zwei-neue-inseln-im-meer-auf-133713760"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/nach-krakatau-ausbruch-tauchen-zwei-neue-inseln-im-meer-auf.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/nach-krakatau-ausbruch-tauchen-zwei-neue-inseln-im-meer-auf.jpg" alt="Nach Krakatau-Ausbruch tauchen zwei neue Inseln im Meer auf"/><p>Nach Krakatau-Ausbruch tauchen zwei neue Inseln im Meer auf</p>]]></content>
     </entry>
     <entry>
-      <title>95 Prozent der viralen Glass-Skin-Videos führen in die Irre</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/95-prozent-der-viralen-glass-skin-videos-fuehren-in-die-irre-133713740</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/95-prozent-der-viralen-glass-skin-videos-fuehren-in-die-irre-133713740"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/95-prozent-der-viralen-glass-skin-videos-fuehren-in-die-irre.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/95-prozent-der-viralen-glass-skin-videos-fuehren-in-die-irre.jpg" alt="95 Prozent der viralen Glass-Skin-Videos führen in die Irre"/><p>95 Prozent der viralen Glass-Skin-Videos führen in die Irre</p>]]></content>
-    </entry>
-    <entry>
-      <title>KI-Modelle berichten nach gezielten Eingriffen von Schmerzen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/ki-modelle-berichten-nach-gezielten-eingriffen-von-schmerzen-133713708</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/ki-modelle-berichten-nach-gezielten-eingriffen-von-schmerzen-133713708"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-modelle-berichten-nach-gezielten-eingriffen-von-schmerzen.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-modelle-berichten-nach-gezielten-eingriffen-von-schmerzen.jpg" alt="KI-Modelle berichten nach gezielten Eingriffen von Schmerzen"/><p>KI-Modelle berichten nach gezielten Eingriffen von Schmerzen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Verschwörungsglaube untergräbt den Glauben an Leistung</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/verschwoerungsglaube-untergraebt-den-glauben-an-leistung-133713037</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/verschwoerungsglaube-untergraebt-den-glauben-an-leistung-133713037"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-09/verschwoerungsglaube-untergraebt-den-glauben-an-leistung.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-09/verschwoerungsglaube-untergraebt-den-glauben-an-leistung.jpg" alt="Verschwörungsglaube untergräbt den Glauben an Leistung"/><p>Verschwörungsglaube untergräbt den Glauben an Leistung</p>]]></content>
+      <title>Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen</title>
+      <id>https://www.forschung-und-wissen.de/magazin/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen-133712939</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen-133712939"/>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen.jpg" alt="Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen"/><p>Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen</p>]]></content>
     </entry>
     <entry>
       <title>In Son Doong bilden sich Wolken unter der Erde</title>
       <id>https://www.forschung-und-wissen.de/magazin/in-son-doong-bilden-sich-wolken-unter-der-erde-133712782</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-son-doong-bilden-sich-wolken-unter-der-erde-133712782"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
+      <updated>2026-10-04T10:41:24Z</updated>
+      <published>2026-10-04T10:41:24Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-son-doong-bilden-sich-wolken-unter-der-erde.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-son-doong-bilden-sich-wolken-unter-der-erde.jpg" alt="In Son Doong bilden sich Wolken unter der Erde"/><p>In Son Doong bilden sich Wolken unter der Erde</p>]]></content>
-    </entry>
-    <entry>
-      <title>In der Antarktis fließt rostrotes Wasser aus dem Eis</title>
-      <id>https://www.forschung-und-wissen.de/magazin/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis-133712779</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis-133712779"/>
-      <updated>2026-10-03T19:19:27Z</updated>
-      <published>2026-10-03T19:19:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-antarktis-fliesst-rostrotes-wasser-aus-dem-eis.jpg" alt="In der Antarktis fließt rostrotes Wasser aus dem Eis"/><p>In der Antarktis fließt rostrotes Wasser aus dem Eis</p>]]></content>
     </entry>
 </feed>
