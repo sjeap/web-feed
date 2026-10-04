@@ -5,11 +5,18 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-03T15:41:01Z</updated>
+  <updated>2026-10-04T02:35:11Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>CEF Weekly Review: XFLT Launches Promised Tender Offer</title>
+      <id>4951799</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951799-cef-weekly-review-xflt-launches-promised-tender-offer?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T02:35:11Z</updated>
+      <published>2026-10-04T02:35:11Z</published>
+    </entry>
     <entry>
       <title>BIZD: It&apos;s Time For Cherry-Picking</title>
       <id>4951790</id>
@@ -170,13 +177,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4951535-inside-september-2026-sp-500-momentum-index-reconstitution?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-02T07:40:00Z</updated>
       <published>2026-10-02T07:40:00Z</published>
-    </entry>
-    <entry>
-      <title>High Altitudes</title>
-      <id>4951518</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951518-high-altitudes?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T06:25:00Z</updated>
-      <published>2026-10-02T06:25:00Z</published>
     </entry>
     <entry>
       <title>Sea: Scaling Is Evident For Shopee, With Raised Profit Targets</title>
