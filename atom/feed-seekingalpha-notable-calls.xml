@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-04T02:35:11Z</updated>
+  <updated>2026-10-04T19:14:39Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>NVDY: NVIDIA Shares Break To Record Highs, Don&apos;t Cede The Upside Now</title>
+      <id>4951860</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951860-nvdy-nvidia-shares-break-to-record-highs-dont-cede-the-upside-now?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T19:14:39Z</updated>
+      <published>2026-10-04T19:14:39Z</published>
+    </entry>
+    <entry>
+      <title>VTG: A Low Cost But Smaller ETF, Facing Anti-Duration Macro Developments</title>
+      <id>4951859</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951859-vtg-a-low-cost-but-smaller-etf-facing-anti-duration-macro-developments?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T18:47:45Z</updated>
+      <published>2026-10-04T18:47:45Z</published>
+    </entry>
+    <entry>
+      <title>CGDV: Why Dividend Quality Matters More Than Quantity</title>
+      <id>4951858</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951858-cgdv-why-dividend-quality-matters-more-than-quantity?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T18:38:56Z</updated>
+      <published>2026-10-04T18:38:56Z</published>
+    </entry>
+    <entry>
+      <title>BKLC: Zero Fees, Weak Risk-Reward</title>
+      <id>4951857</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951857-bklc-zero-fees-weak-risk-reward?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T18:33:05Z</updated>
+      <published>2026-10-04T18:33:05Z</published>
+    </entry>
+    <entry>
+      <title>TSMC Q3 Earnings Preview: I&apos;m Loading Up Before The Print, And You Should Too</title>
+      <id>https://seekingalpha.com/Article:4951851</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951851-tsmc-q3-earnings-preview-i-am-loading-up-before-print-you-should-too?source=feed_symbol_TSM"/>
+      <updated>2026-10-04T14:22:51Z</updated>
+      <published>2026-10-04T14:22:51Z</published>
+    </entry>
+    <entry>
+      <title>Meltdown Income: 2 Covered Call ETFs Yielding Up To 13%</title>
+      <id>4951827</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951827-meltdown-income-2-covered-call-etfs-yielding-up-to-13-percent?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T13:15:00Z</updated>
+      <published>2026-10-04T13:15:00Z</published>
+    </entry>
+    <entry>
+      <title>DNP: A Smart Utilities Play In The Age Of AI</title>
+      <id>4951835</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951835-dnp-smart-utilities-play-in-age-of-ai?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T12:32:00Z</updated>
+      <published>2026-10-04T12:32:00Z</published>
+    </entry>
+    <entry>
+      <title>UTF: Rate Shock Lifted The Yield To 7.87% And Opened An Entry Point For Income Investors</title>
+      <id>4951841</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951841-utf-rate-shock-lifted-yield-to-7_87-percent-opened-entry-point-for-income?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T12:30:00Z</updated>
+      <published>2026-10-04T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>The 60/40 Portfolio Looks Dead Again: Here&apos;s What To Do</title>
+      <id>4951418</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951418-the-6040-portfolio-looks-dead-again-heres-what-to-do?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T12:00:00Z</updated>
+      <published>2026-10-04T12:00:00Z</published>
+    </entry>
+    <entry>
+      <title>SMDV: Lackluster Growth And Questionable Quality Mean Underperformance Into 2027</title>
+      <id>4951828</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951828-smdv-lackluster-growth-and-questionable-quality-mean-underperformance-into-2027?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T11:33:21Z</updated>
+      <published>2026-10-04T11:33:21Z</published>
+    </entry>
+    <entry>
+      <title>VYM: Consistent Dividend ETF, But This 3-ETF Portfolio Looks Better</title>
+      <id>4951826</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951826-vym-consistent-dividend-etf-but-this-3-etf-portfolio-looks-better?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-04T11:06:30Z</updated>
+      <published>2026-10-04T11:06:30Z</published>
+    </entry>
     <entry>
       <title>CEF Weekly Review: XFLT Launches Promised Tender Offer</title>
       <id>4951799</id>
@@ -95,34 +172,6 @@
       <published>2026-10-02T17:45:35Z</published>
     </entry>
     <entry>
-      <title>Virtus Convertible &amp; Income Fund II: Balancing High Yield And Capital Protection</title>
-      <id>4951653</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951653-virtus-convertible-and-income-fund-ii-balancing-high-yield-and-capital-protection?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T17:33:22Z</updated>
-      <published>2026-10-02T17:33:22Z</published>
-    </entry>
-    <entry>
-      <title>JEPQ: The Asymmetry Investors Are Missing</title>
-      <id>4951641</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951641-jepq-asymmetry-investors-are-missing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T16:48:45Z</updated>
-      <published>2026-10-02T16:48:45Z</published>
-    </entry>
-    <entry>
-      <title>CLM: The 23%-Yielding Money Glitch</title>
-      <id>4951637</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951637-clm-the-23-percent-yielding-money-glitch?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T16:30:08Z</updated>
-      <published>2026-10-02T16:30:08Z</published>
-    </entry>
-    <entry>
-      <title>RSF: Quarterly Tender Offers Provide Opportunities</title>
-      <id>4951634</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951634-rsf-quarterly-tender-offers-provide-opportunities?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T16:18:27Z</updated>
-      <published>2026-10-02T16:18:27Z</published>
-    </entry>
-    <entry>
       <title>TSMC: Resolving The Valuation Conundrum</title>
       <id>https://seekingalpha.com/Article:4951614</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4951614-tsmc-resolving-the-valuation-conundrum?source=feed_symbol_TSM"/>
@@ -130,59 +179,10 @@
       <published>2026-10-02T14:36:07Z</published>
     </entry>
     <entry>
-      <title>MSOS: Missing A Catalyst In The Near-Term (Rating Downgrade)</title>
-      <id>4951729</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951729-msos-missing-a-catalyst-in-the-near-term-rating-downgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T12:30:16Z</updated>
-      <published>2026-10-02T12:30:16Z</published>
-    </entry>
-    <entry>
       <title>Joby Aviation: Revenue Is Growing, But So Is The Share Count</title>
       <id>https://seekingalpha.com/Article:4951551</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4951551-joby-aviation-stock-revenue-growing-so-share-count?source=feed_symbol_JOBY"/>
       <updated>2026-10-02T11:30:23Z</updated>
       <published>2026-10-02T11:30:23Z</published>
-    </entry>
-    <entry>
-      <title>SPYM: S&amp;P 500 Monthly Dashboard For October</title>
-      <id>4951561</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951561-spym-sp500-monthly-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T10:31:32Z</updated>
-      <published>2026-10-02T10:31:32Z</published>
-    </entry>
-    <entry>
-      <title>BNDX: A Dovish BoE/ECB Repricing Favors Hedged International Bonds</title>
-      <id>4951550</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951550-bndx-a-dovish-boeecb-repricing-favors-hedged-international-bonds?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T09:42:41Z</updated>
-      <published>2026-10-02T09:42:41Z</published>
-    </entry>
-    <entry>
-      <title>BNDX: Great Diversification, But The Yield Is Hard To Love</title>
-      <id>4951529</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951529-bndx-great-diversification-but-the-yield-is-hard-to-love?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T08:11:35Z</updated>
-      <published>2026-10-02T08:11:35Z</published>
-    </entry>
-    <entry>
-      <title>WEEI: High Yield But Could Underperform Pure Equity Funds</title>
-      <id>4951524</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951524-weei-high-yield-but-could-underperform-pure-equity-funds?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T07:58:14Z</updated>
-      <published>2026-10-02T07:58:14Z</published>
-    </entry>
-    <entry>
-      <title>Inside The September 2026 S&amp;P 500 Momentum Index Reconstitution</title>
-      <id>4951535</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951535-inside-september-2026-sp-500-momentum-index-reconstitution?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-02T07:40:00Z</updated>
-      <published>2026-10-02T07:40:00Z</published>
-    </entry>
-    <entry>
-      <title>Sea: Scaling Is Evident For Shopee, With Raised Profit Targets</title>
-      <id>https://seekingalpha.com/Article:4951492</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951492-sea-scaling-is-evident-for-shopee-with-raised-profit-targets?source=feed_symbol_SE"/>
-      <updated>2026-10-02T01:58:48Z</updated>
-      <published>2026-10-02T01:58:48Z</published>
     </entry>
 </feed>
