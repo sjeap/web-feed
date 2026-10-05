@@ -5,17 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-05T11:43:24Z</updated>
+  <updated>2026-10-05T22:49:00Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima-133713973</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima-133713973"/>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima.png" alt="58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima"/><p>58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima</p>]]></content>
+    </entry>
+    <entry>
+      <title>Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel-133713971</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel-133713971"/>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel.jpg" alt="Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel"/><p>Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel</p>]]></content>
+    </entry>
+    <entry>
+      <title>KI mit Frauengesicht wird für gleiche Arbeit schlechter bezahlt</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/gesellschaft/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt-133713967</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/gesellschaft/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt-133713967"/>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-10/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-10/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt.png" alt="KI mit Frauengesicht wird für gleiche Arbeit schlechter bezahlt"/><p>KI mit Frauengesicht wird für gleiche Arbeit schlechter bezahlt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Meteorit lässt sich Molekül für Molekül auf Lebensspuren prüfen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen-133713964</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen-133713964"/>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen.png" alt="Meteorit lässt sich Molekül für Molekül auf Lebensspuren prüfen"/><p>Meteorit lässt sich Molekül für Molekül auf Lebensspuren prüfen</p>]]></content>
+    </entry>
+    <entry>
       <title>Spenderlebern werden in der Maschine biologisch jünger</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/spenderlebern-werden-in-der-maschine-biologisch-juenger-133713962</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/spenderlebern-werden-in-der-maschine-biologisch-juenger-133713962"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/spenderlebern-werden-in-der-maschine-biologisch-juenger.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/spenderlebern-werden-in-der-maschine-biologisch-juenger.jpg" alt="Spenderlebern werden in der Maschine biologisch jünger"/><p>Spenderlebern werden in der Maschine biologisch jünger</p>]]></content>
     </entry>
@@ -23,63 +59,27 @@
       <title>9 Quadratmeter Schornstein-Abwärme liefern im Modell fast 3 Kilowatt</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt-133713959</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt-133713959"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt.png" alt="9 Quadratmeter Schornstein-Abwärme liefern im Modell fast 3 Kilowatt"/><p>9 Quadratmeter Schornstein-Abwärme liefern im Modell fast 3 Kilowatt</p>]]></content>
     </entry>
     <entry>
-      <title>Knoblauchschalen bauen Farbstoff in 20 Minuten fast vollständig ab</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/chemie/knoblauchschalen-bauen-farbstoff-in-20-minuten-fast-vollstaendig-ab-133713958</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/chemie/knoblauchschalen-bauen-farbstoff-in-20-minuten-fast-vollstaendig-ab-133713958"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/knoblauchschalen-bauen-farbstoff-in-20-minuten-fast-vollstaendig-ab.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/knoblauchschalen-bauen-farbstoff-in-20-minuten-fast-vollstaendig-ab.png" alt="Knoblauchschalen bauen Farbstoff in 20 Minuten fast vollständig ab"/><p>Knoblauchschalen bauen Farbstoff in 20 Minuten fast vollständig ab</p>]]></content>
-    </entry>
-    <entry>
-      <title>Autonomes Auto findet ohne GPS auf wenige Meter genau seinen Weg</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/autonomes-auto-findet-ohne-gps-auf-wenige-meter-genau-seinen-weg-133713955</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/autonomes-auto-findet-ohne-gps-auf-wenige-meter-genau-seinen-weg-133713955"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/autonomes-auto-findet-ohne-gps-auf-wenige-meter-genau-seinen-weg.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/autonomes-auto-findet-ohne-gps-auf-wenige-meter-genau-seinen-weg.png" alt="Autonomes Auto findet ohne GPS auf wenige Meter genau seinen Weg"/><p>Autonomes Auto findet ohne GPS auf wenige Meter genau seinen Weg</p>]]></content>
-    </entry>
-    <entry>
-      <title>5000 Jahre alte Schädel belegen tödliche Gewalt an Pharaonengräbern</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/5000-jahre-alte-schaedel-belegen-toedliche-gewalt-an-pharaonengraebern-133713953</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/5000-jahre-alte-schaedel-belegen-toedliche-gewalt-an-pharaonengraebern-133713953"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/5000-jahre-alte-schaedel-belegen-toedliche-gewalt-an-pharaonengraebern.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/5000-jahre-alte-schaedel-belegen-toedliche-gewalt-an-pharaonengraebern.png" alt="5000 Jahre alte Schädel belegen tödliche Gewalt an Pharaonengräbern"/><p>5000 Jahre alte Schädel belegen tödliche Gewalt an Pharaonengräbern</p>]]></content>
-    </entry>
-    <entry>
-      <title>Stille Körpersignale können auf ein Herz-Kreislauf-Risiko hindeuten</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/stille-koerpersignale-koennen-auf-ein-herz-kreislauf-risiko-hindeuten-133713944</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/stille-koerpersignale-koennen-auf-ein-herz-kreislauf-risiko-hindeuten-133713944"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/stille-koerpersignale-koennen-auf-ein-herz-kreislauf-risiko-hindeuten.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/stille-koerpersignale-koennen-auf-ein-herz-kreislauf-risiko-hindeuten.jpg" alt="Stille Körpersignale können auf ein Herz-Kreislauf-Risiko hindeuten"/><p>Stille Körpersignale können auf ein Herz-Kreislauf-Risiko hindeuten</p>]]></content>
+      <title>Der Gombe-Schimpansenkrieg dauerte vier Jahre</title>
+      <id>https://www.forschung-und-wissen.de/magazin/der-gombe-schimpansenkrieg-dauerte-vier-jahre-133713977</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/der-gombe-schimpansenkrieg-dauerte-vier-jahre-133713977"/>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/der-gombe-schimpansenkrieg-dauerte-vier-jahre.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/der-gombe-schimpansenkrieg-dauerte-vier-jahre.png" alt="Der Gombe-Schimpansenkrieg dauerte vier Jahre"/><p>Der Gombe-Schimpansenkrieg dauerte vier Jahre</p>]]></content>
     </entry>
     <entry>
       <title>In der höchsten Stadt der Welt leben 50.000 Menschen auf 5.100 Metern</title>
       <id>https://www.forschung-und-wissen.de/magazin/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern-133712933</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern-133712933"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
+      <updated>2026-10-05T22:49:00Z</updated>
+      <published>2026-10-05T22:49:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern.jpg" alt="In der höchsten Stadt der Welt leben 50.000 Menschen auf 5.100 Metern"/><p>In der höchsten Stadt der Welt leben 50.000 Menschen auf 5.100 Metern</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen</title>
-      <id>https://www.forschung-und-wissen.de/magazin/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen-133712939</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen-133712939"/>
-      <updated>2026-10-05T11:43:24Z</updated>
-      <published>2026-10-05T11:43:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/die-weissen-punkte-am-blauen-himmel-sind-die-eigenen-blutkoerperchen.jpg" alt="Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen"/><p>Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen</p>]]></content>
     </entry>
 </feed>
