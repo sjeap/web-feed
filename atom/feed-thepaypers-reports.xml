@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-10-01T00:00:00Z</updated>
+  <updated>2026-10-05T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Win customer loyalty with better subscription management</title>
+      <id>https://thepaypers.com/payments/reports/win-customer-loyalty-with-better-subscription-management</id>
+      <link rel="alternate" href="https://thepaypers.com/payments/reports/win-customer-loyalty-with-better-subscription-management"/>
+      <updated>2026-10-05T00:00:00Z</updated>
+      <published>2026-10-05T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Mastercard-report.jpg?w=1152&amp;amp;func=crop"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Mastercard-report.jpg?w=1152&amp;func=crop" alt="Win customer loyalty with better subscription management"/><p>Win customer loyalty with better subscription management</p>]]></content>
+    </entry>
     <entry>
       <title>Account-to-Account Payments Report 2026</title>
       <id>https://thepaypers.com/payments/reports/account-to-account-payments-report-2026</id>
@@ -18,15 +27,6 @@
       <published>2026-10-01T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/PAY282-A2A-Report-2026-Twitter-1024x512.png?w=1152&amp;amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/PAY282-A2A-Report-2026-Twitter-1024x512.png?w=1152&amp;func=crop" alt="Account-to-Account Payments Report 2026"/><p>Account-to-Account Payments Report 2026</p>]]></content>
-    </entry>
-    <entry>
-      <title>Connected Economies: The Next Era of Global Financial Connectivity</title>
-      <id>https://thepaypers.com/payments/reports/connected-economies-the-next-era-of-global-financial-connectivity</id>
-      <link rel="alternate" href="https://thepaypers.com/payments/reports/connected-economies-the-next-era-of-global-financial-connectivity"/>
-      <updated>2026-09-24T00:00:00Z</updated>
-      <published>2026-09-24T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Terrapay_report_website.jpg?w=1152&amp;amp;func=crop"/>
-      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Terrapay_report_website.jpg?w=1152&amp;func=crop" alt="Connected Economies: The Next Era of Global Financial Connectivity"/><p>Connected Economies: The Next Era of Global Financial Connectivity</p>]]></content>
     </entry>
     <entry>
       <title>Stablecoin Integration in Europe: A Strategic Decision Framework</title>
