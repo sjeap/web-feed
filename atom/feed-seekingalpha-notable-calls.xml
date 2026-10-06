@@ -5,101 +5,17 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-05T20:38:29Z</updated>
+  <updated>2026-10-06T08:23:27Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>KOMP: Innovation-Driven Performance</title>
-      <id>4952069</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952069-komp-etf-innovation-driven-performance?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T20:38:29Z</updated>
-      <published>2026-10-05T20:38:29Z</published>
-    </entry>
-    <entry>
-      <title>NASA Vs. UFO Is Already Decided</title>
-      <id>4952062</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952062-nasa-vs-ufo-is-already-decided?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T20:08:52Z</updated>
-      <published>2026-10-05T20:08:52Z</published>
-    </entry>
-    <entry>
-      <title>ENOR: 40% Of The Portfolio Clear Winners In Enduring, Asymmetric Hormuz Situation</title>
-      <id>4952061</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952061-enor-40-percent-of-the-portfolio-clear-winners-in-enduring-asymmetric-hormuz-situation?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T20:02:05Z</updated>
-      <published>2026-10-05T20:02:05Z</published>
-    </entry>
-    <entry>
-      <title>FTEC: Dominated By The AI Trade</title>
-      <id>4952059</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952059-ftec-dominated-by-the-ai-trade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T19:57:19Z</updated>
-      <published>2026-10-05T19:57:19Z</published>
-    </entry>
-    <entry>
-      <title>INFL: Why An Inflation ETF Isn&apos;t A Clear Buy In An Inflationary Market</title>
-      <id>4952056</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952056-infl-why-an-inflation-etf-isnt-a-clear-buy-in-an-inflationary-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T19:51:03Z</updated>
-      <published>2026-10-05T19:51:03Z</published>
-    </entry>
-    <entry>
-      <title>Using PLTY Instead Of Betting On Palantir In The Run-Up To Earnings</title>
-      <id>4952053</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952053-using-plty-instead-of-betting-on-palantir-in-the-run-up-to-earnings?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T19:44:10Z</updated>
-      <published>2026-10-05T19:44:10Z</published>
-    </entry>
-    <entry>
-      <title>UVIX As The Election Approaches</title>
-      <id>4952043</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952043-uvix-as-the-election-approaches?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T18:25:00Z</updated>
-      <published>2026-10-05T18:25:00Z</published>
-    </entry>
-    <entry>
-      <title>EWZ: The Brazil Trade Everyone Suddenly Wants To Chase</title>
-      <id>4952039</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952039-ewz-the-brazil-trade-everyone-suddenly-wants-to-chase?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T18:18:13Z</updated>
-      <published>2026-10-05T18:18:13Z</published>
-    </entry>
-    <entry>
-      <title>LAZR: How To Buy Anthropic Before The IPO Via This ETF</title>
-      <id>4952036</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952036-lazr-how-to-buy-anthropic-before-the-ipo-via-this-etf?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T18:10:10Z</updated>
-      <published>2026-10-05T18:10:10Z</published>
-    </entry>
-    <entry>
-      <title>FVAL: Deep Value Now Lives In Growth Stocks</title>
-      <id>4952034</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952034-fval-deep-value-now-lives-in-growth-stocks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T18:03:26Z</updated>
-      <published>2026-10-05T18:03:26Z</published>
-    </entry>
-    <entry>
-      <title>Grayscale Solana Staking ETF: This Is Now Becoming A Cash-Flow Product</title>
-      <id>4952025</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952025-grayscale-solana-etf-this-is-now-becoming-a-cash-flow-product?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T17:30:00Z</updated>
-      <published>2026-10-05T17:30:00Z</published>
-    </entry>
-    <entry>
-      <title>EWZ: Why Brazil&apos;s Election Is The Upside Catalyst Investors Have Been Waiting For</title>
-      <id>4952026</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952026-ewz-why-brazils-election-is-the-upside-catalyst-investors-have-been-waiting-for?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T17:27:55Z</updated>
-      <published>2026-10-05T17:27:55Z</published>
-    </entry>
-    <entry>
-      <title>ACP: 29% Distribution Cut, But Still A Coverage Gap</title>
-      <id>4952016</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952016-acp-29-percent-distribution-cut-but-still-coverage-gap?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T17:03:57Z</updated>
-      <published>2026-10-05T17:03:57Z</published>
+      <title>AMD CEO Lisa Su sees &apos;very high&apos; chip demand continuing for years, praises TSMC expansion</title>
+      <id>https://seekingalpha.com/MarketCurrent:4650416</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-10-06T08:23:27Z</updated>
+      <published>2026-10-06T08:23:27Z</published>
     </entry>
     <entry>
       <title>L&apos;Air Liquide S.A. (AIQUY) Analyst/Investor Day - Slideshow</title>
@@ -109,60 +25,11 @@
       <published>2026-10-05T16:31:54Z</published>
     </entry>
     <entry>
-      <title>Greek Myths And Icelandic Sagas: Reclassifications In The Global Market Library</title>
-      <id>4952003</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952003-greek-myths-and-icelandic-sagas-reclassifications-in-global-market-library?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T15:00:00Z</updated>
-      <published>2026-10-05T15:00:00Z</published>
-    </entry>
-    <entry>
-      <title>GAM: This Fund May Be A Better Bet Than The S&amp;P 500 Index</title>
-      <id>4951978</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951978-gam-this-fund-may-be-a-better-bet-than-the-s-and-p-500-index?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T14:15:16Z</updated>
-      <published>2026-10-05T14:15:16Z</published>
-    </entry>
-    <entry>
-      <title>EYLD: A Leader In Emerging Market Dividends And Value</title>
-      <id>4951962</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951962-eyld-a-leader-in-em-dividends-and-value?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T13:04:33Z</updated>
-      <published>2026-10-05T13:04:33Z</published>
-    </entry>
-    <entry>
       <title>Air Liquide aims for 5% annual compound sales growth in new strategic plan</title>
       <id>https://seekingalpha.com/MarketCurrent:4650137</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/AIQUY/news?source=feed_symbol_AIQUY"/>
       <updated>2026-10-05T11:47:10Z</updated>
       <published>2026-10-05T11:47:10Z</published>
-    </entry>
-    <entry>
-      <title>FIW: Massive Water Infrastructure Needs Aren&apos;t Enough To Justify A Buy</title>
-      <id>4951893</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951893-fiw-etf-massive-water-infrastructure-needs-not-enough-justify-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T11:30:57Z</updated>
-      <published>2026-10-05T11:30:57Z</published>
-    </entry>
-    <entry>
-      <title>CIO Weekly: Rising Rates Raise Risks</title>
-      <id>4951927</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951927-cio-weekly-rising-rates-raise-risks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T09:51:00Z</updated>
-      <published>2026-10-05T09:51:00Z</published>
-    </entry>
-    <entry>
-      <title>QTUM: Former Tailwinds Are Subsiding (Downgrade)</title>
-      <id>4951902</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951902-qtum-former-tailwinds-are-subsiding-downgrade-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T07:28:40Z</updated>
-      <published>2026-10-05T07:28:40Z</published>
-    </entry>
-    <entry>
-      <title>NEHI: Wait Out The November Call Cycle Before Buying</title>
-      <id>4951899</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4951899-nehi-wait-out-the-november-call-cycle-before-buying?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-05T07:21:55Z</updated>
-      <published>2026-10-05T07:21:55Z</published>
     </entry>
     <entry>
       <title>TSMC Q3 Earnings Preview: I&apos;m Loading Up Before The Print, And You Should Too</title>
@@ -184,5 +51,138 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4951669-sea-limited-a-buy-the-dip-case-is-taking-shape?source=feed_symbol_SE"/>
       <updated>2026-10-02T19:09:42Z</updated>
       <published>2026-10-02T19:09:42Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Resolving The Valuation Conundrum</title>
+      <id>https://seekingalpha.com/Article:4951614</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951614-tsmc-resolving-the-valuation-conundrum?source=feed_symbol_TSM"/>
+      <updated>2026-10-02T14:36:07Z</updated>
+      <published>2026-10-02T14:36:07Z</published>
+    </entry>
+    <entry>
+      <title>Joby Aviation: Revenue Is Growing, But So Is The Share Count</title>
+      <id>https://seekingalpha.com/Article:4951551</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951551-joby-aviation-stock-revenue-growing-so-share-count?source=feed_symbol_JOBY"/>
+      <updated>2026-10-02T11:30:23Z</updated>
+      <published>2026-10-02T11:30:23Z</published>
+    </entry>
+    <entry>
+      <title>Sea: Scaling Is Evident For Shopee, With Raised Profit Targets</title>
+      <id>https://seekingalpha.com/Article:4951492</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951492-sea-scaling-is-evident-for-shopee-with-raised-profit-targets?source=feed_symbol_SE"/>
+      <updated>2026-10-02T01:58:48Z</updated>
+      <published>2026-10-02T01:58:48Z</published>
+    </entry>
+    <entry>
+      <title>Airbus names ASML, Michelin CEOs to board as Obermann steps down</title>
+      <id>https://seekingalpha.com/MarketCurrent:4649263</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
+      <updated>2026-10-01T17:13:29Z</updated>
+      <published>2026-10-01T17:13:29Z</published>
+    </entry>
+    <entry>
+      <title>TSMC Vs. Intel: Goliath Is Defeating David</title>
+      <id>https://seekingalpha.com/Article:4951244</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4951244-tsmc-vs-intel-goliath-is-defeating-david?source=feed_symbol_TSM"/>
+      <updated>2026-10-01T05:54:47Z</updated>
+      <published>2026-10-01T05:54:47Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto secures operation of Bell Bay Aluminium through 2031</title>
+      <id>https://seekingalpha.com/MarketCurrent:4648830</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-10-01T04:51:03Z</updated>
+      <published>2026-10-01T04:51:03Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto: Copper&apos;s Growing Significance Is A Positive</title>
+      <id>https://seekingalpha.com/Article:4950909</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950909-rio-tinto-coppers-growing-significance-is-a-positive?source=feed_symbol_RIO"/>
+      <updated>2026-09-30T08:52:13Z</updated>
+      <published>2026-09-30T08:52:13Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Market Is Mistaken In Pricing In A Big AI Slowdown</title>
+      <id>https://seekingalpha.com/Article:4950789</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950789-tsmc-market-is-mistaken-in-pricing-in-a-big-ai-slowdown?source=feed_symbol_TSM"/>
+      <updated>2026-09-29T19:40:48Z</updated>
+      <published>2026-09-29T19:40:48Z</published>
+    </entry>
+    <entry>
+      <title>Joby: Absurdly Cheap Right Before A Year Stacked With Catalysts</title>
+      <id>https://seekingalpha.com/Article:4950760</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950760-joby-absurdly-cheap-right-before-a-year-stacked-with-catalysts?source=feed_symbol_JOBY"/>
+      <updated>2026-09-29T17:51:03Z</updated>
+      <published>2026-09-29T17:51:03Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: 2nm Is Moving Into High Gear</title>
+      <id>https://seekingalpha.com/Article:4950690</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950690-tsmc-2nm-is-moving-into-high-gear?source=feed_symbol_TSM"/>
+      <updated>2026-09-29T15:10:40Z</updated>
+      <published>2026-09-29T15:10:40Z</published>
+    </entry>
+    <entry>
+      <title>Joby Vs. Archer: The Race Is No Longer About Who Certifies First</title>
+      <id>https://seekingalpha.com/Article:4950683</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950683-joby-vs-archer-the-race-is-no-longer-about-who-certifies-first?source=feed_symbol_JOBY"/>
+      <updated>2026-09-29T14:44:36Z</updated>
+      <published>2026-09-29T14:44:36Z</published>
+    </entry>
+    <entry>
+      <title>Volkswagen and Gotion High-tech to invest €3.22B to expand battery manufacturing across Europe and Africa</title>
+      <id>https://seekingalpha.com/MarketCurrent:4647846</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
+      <updated>2026-09-29T06:25:51Z</updated>
+      <published>2026-09-29T06:25:51Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Set For All-Time Highs On Surging AI Chip Demand</title>
+      <id>https://seekingalpha.com/Article:4950088</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950088-taiwan-semiconductor-stock-tsmc-all-time-highs-surging-ai-chip-demand?source=feed_symbol_TSM"/>
+      <updated>2026-09-28T02:28:09Z</updated>
+      <published>2026-09-28T02:28:09Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: An AI Technology Leader Trading At Just 0.7x PEG</title>
+      <id>https://seekingalpha.com/Article:4950055</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4950055-tsmc-an-ai-technology-leader-trading-at-just-0-7x-peg?source=feed_symbol_TSM"/>
+      <updated>2026-09-27T13:57:23Z</updated>
+      <published>2026-09-27T13:57:23Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: The Crown Jewel In The World Of Silicon Is Trading At A Discount Today</title>
+      <id>https://seekingalpha.com/Article:4949914</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4949914-tsmc-the-crown-jewel-in-the-world-of-silicon-is-trading-at-a-discount-today?source=feed_symbol_TSM"/>
+      <updated>2026-09-26T06:50:01Z</updated>
+      <published>2026-09-26T06:50:01Z</published>
+    </entry>
+    <entry>
+      <title>TSMC Offers AI Upside No Matter Who Wins The Race</title>
+      <id>https://seekingalpha.com/Article:4949801</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4949801-tsmc-offers-ai-upside-no-matter-who-wins-the-race?source=feed_symbol_TSM"/>
+      <updated>2026-09-25T16:26:57Z</updated>
+      <published>2026-09-25T16:26:57Z</published>
+    </entry>
+    <entry>
+      <title>Taiwan Semiconductor: AI CapEx Keeps Climbing, And TSMC Looks Undervalued</title>
+      <id>https://seekingalpha.com/Article:4949681</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4949681-taiwan-semiconductor-ai-capex-keeps-climbing-and-tsmc-looks-undervalued?source=feed_symbol_TSM"/>
+      <updated>2026-09-25T12:30:39Z</updated>
+      <published>2026-09-25T12:30:39Z</published>
+    </entry>
+    <entry>
+      <title>Taiwan Semiconductor: AI Hiccups Lately, But Strong Growth Persists</title>
+      <id>https://seekingalpha.com/Article:4949629</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4949629-taiwan-semiconductor-ai-hiccups-lately-but-strong-growth-persists?source=feed_symbol_TSM"/>
+      <updated>2026-09-25T01:31:24Z</updated>
+      <published>2026-09-25T01:31:24Z</published>
+    </entry>
+    <entry>
+      <title>BNP Paribas expands Google Cloud pact to support agentic AI</title>
+      <id>https://seekingalpha.com/MarketCurrent:4646791</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/BNPQF/news?source=feed_symbol_BNPQF"/>
+      <updated>2026-09-24T16:51:09Z</updated>
+      <published>2026-09-24T16:51:09Z</published>
     </entry>
 </feed>
