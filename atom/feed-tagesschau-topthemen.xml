@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-05T11:43:20Z</updated>
+  <updated>2026-10-06T11:25:45Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA</title>
-      <id>https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html"/>
-      <updated>2026-10-05T11:43:20Z</updated>
-      <published>2026-10-05T11:43:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/37da1fc0-e9ca-4787-bd9f-125fea2a8fea/AAABoQtxaxk/AAABnSSvrFg/16x9-big/deisseroth-hegemann-nagel-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/37da1fc0-e9ca-4787-bd9f-125fea2a8fea/AAABoQtxaxk/AAABnSSvrFg/16x9-big/deisseroth-hegemann-nagel-100.jpg?width=1280" alt="Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA"/><p>Medizin-Nobelpreis für Optogenetik-Forscher aus Deutschland und USA</p>]]></content>
+      <title>Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html"/>
+      <updated>2026-10-06T11:25:45Z</updated>
+      <published>2026-10-06T11:25:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ed00db6e-c352-4848-a15d-6883b096a1d0/AAABoRDmx-I/AAABnSSvrFg/16x9-big/rausch-siegmund-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ed00db6e-c352-4848-a15d-6883b096a1d0/AAABoRDmx-I/AAABnSSvrFg/16x9-big/rausch-siegmund-100.jpg?width=1280" alt="Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt"/><p>Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt</p>]]></content>
     </entry>
     <entry>
-      <title>BND-Chef warnt vor &quot;gewaltsamem Konflikt mit Russland&quot;</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html"/>
-      <updated>2026-10-05T11:43:20Z</updated>
-      <published>2026-10-05T11:43:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/88f3f015-90b7-44e4-90db-2992c5b99f6a/AAABoQtll-M/AAABnSSvrFg/16x9-big/martin-jaeger-bnd-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/88f3f015-90b7-44e4-90db-2992c5b99f6a/AAABoQtll-M/AAABnSSvrFg/16x9-big/martin-jaeger-bnd-100.jpg?width=1280" alt="BND-Chef warnt vor "gewaltsamem Konflikt mit Russland""/><p>BND-Chef warnt vor &quot;gewaltsamem Konflikt mit Russland&quot;</p>]]></content>
+      <title>Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen</title>
+      <id>https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html"/>
+      <updated>2026-10-06T11:25:45Z</updated>
+      <published>2026-10-06T11:25:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/35f76724-8698-463f-b1c4-fcb8cd7de739/AAABoRC0WTM/AAABnSSvrFg/16x9-big/halzen-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/35f76724-8698-463f-b1c4-fcb8cd7de739/AAABoRC0WTM/AAABnSSvrFg/16x9-big/halzen-100.jpg?width=1280" alt="Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen"/><p>Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen</p>]]></content>
     </entry>
     <entry>
-      <title>Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt</title>
-      <id>https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html"/>
-      <updated>2026-10-05T11:43:20Z</updated>
-      <published>2026-10-05T11:43:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/07ee5ee4-7679-4ca5-aa77-7905aae59d6b/AAABnvMttoc/AAABnSSvrFg/16x9-big/e-auto-126.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/07ee5ee4-7679-4ca5-aa77-7905aae59d6b/AAABnvMttoc/AAABnSSvrFg/16x9-big/e-auto-126.jpg?width=1280" alt="Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt"/><p>Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt</p>]]></content>
+      <title>Ermittler nehmen Ex-BND-Chef Hanning fest</title>
+      <id>https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-100.html"/>
+      <updated>2026-10-06T11:25:45Z</updated>
+      <published>2026-10-06T11:25:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/91d7c35c-bedb-4b9c-ac4d-181eb89307b9/AAABoRBHWng/AAABnSSvrFg/16x9-big/august-hanning-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/91d7c35c-bedb-4b9c-ac4d-181eb89307b9/AAABoRBHWng/AAABnSSvrFg/16x9-big/august-hanning-100.jpg?width=1280" alt="Ermittler nehmen Ex-BND-Chef Hanning fest"/><p>Ermittler nehmen Ex-BND-Chef Hanning fest</p>]]></content>
     </entry>
     <entry>
-      <title>Spanien: Regierungschef Sánchez kündigt Neuwahlen an</title>
-      <id>https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html"/>
-      <updated>2026-10-05T11:43:20Z</updated>
-      <published>2026-10-05T11:43:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5e1ad8ea-740a-4eef-9a72-c56e9fa0713b/AAABoQsgTPk/AAABnSSvrFg/16x9-big/sanchez-256.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5e1ad8ea-740a-4eef-9a72-c56e9fa0713b/AAABoQsgTPk/AAABnSSvrFg/16x9-big/sanchez-256.jpg?width=1280" alt="Spanien: Regierungschef Sánchez kündigt Neuwahlen an"/><p>Spanien: Regierungschef Sánchez kündigt Neuwahlen an</p>]]></content>
+      <title>Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html"/>
+      <updated>2026-10-06T11:25:45Z</updated>
+      <published>2026-10-06T11:25:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3eebd116-6b9e-4c06-9b3d-3e55f8bdb99d/AAABoQ3Anjw/AAABnSSvrFg/16x9-big/landtag-sachsen-anhalt-336.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3eebd116-6b9e-4c06-9b3d-3e55f8bdb99d/AAABoQ3Anjw/AAABnSSvrFg/16x9-big/landtag-sachsen-anhalt-336.jpg?width=1280" alt="Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne"/><p>Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne</p>]]></content>
     </entry>
     <entry>
-      <title>Ukraine: Neuer deutscher Besuch, neue russische Angriffe</title>
-      <id>https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html"/>
-      <updated>2026-10-05T11:43:20Z</updated>
-      <published>2026-10-05T11:43:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0177c0b8-df3e-47a9-99be-213b4a309878/AAABoQqiK2Q/AAABnSSvrFg/16x9-big/prien-ruge-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0177c0b8-df3e-47a9-99be-213b4a309878/AAABoQqiK2Q/AAABnSSvrFg/16x9-big/prien-ruge-100.jpg?width=1280" alt="Ukraine: Neuer deutscher Besuch, neue russische Angriffe"/><p>Ukraine: Neuer deutscher Besuch, neue russische Angriffe</p>]]></content>
+      <title>Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation</title>
+      <id>https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html"/>
+      <updated>2026-10-06T11:25:45Z</updated>
+      <published>2026-10-06T11:25:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e7487b2e-5ff8-4e02-a0fe-6cb3771f0b90/AAABoRATTgo/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e7487b2e-5ff8-4e02-a0fe-6cb3771f0b90/AAABoRATTgo/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-104.jpg?width=1280" alt="Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation"/><p>Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660636.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1660636.html"/>
-      <updated>2026-10-05T11:43:20Z</updated>
-      <published>2026-10-05T11:43:20Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cb0f9b84-3465-42c3-835e-e3f21cf13197/AAABoQt4qC8/AAABnSSvrFg/16x9-big/sendungsbild-1807010.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cb0f9b84-3465-42c3-835e-e3f21cf13197/AAABoQt4qC8/AAABnSSvrFg/16x9-big/sendungsbild-1807010.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661258.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661258.html"/>
+      <updated>2026-10-06T11:25:45Z</updated>
+      <published>2026-10-06T11:25:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/91b8c673-8f13-495a-83d4-f9519f4d6263/AAABoRBmyoY/AAABnSSvrFg/16x9-big/sendungsbild-1807448.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/91b8c673-8f13-495a-83d4-f9519f4d6263/AAABoRBmyoY/AAABnSSvrFg/16x9-big/sendungsbild-1807448.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
