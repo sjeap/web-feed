@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-06T11:25:45Z</updated>
+  <updated>2026-10-06T21:06:09Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
@@ -14,54 +14,54 @@
       <title>Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt</title>
       <id>https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html"/>
-      <updated>2026-10-06T11:25:45Z</updated>
-      <published>2026-10-06T11:25:45Z</published>
+      <updated>2026-10-06T21:06:09Z</updated>
+      <published>2026-10-06T21:06:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ed00db6e-c352-4848-a15d-6883b096a1d0/AAABoRDmx-I/AAABnSSvrFg/16x9-big/rausch-siegmund-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ed00db6e-c352-4848-a15d-6883b096a1d0/AAABoRDmx-I/AAABnSSvrFg/16x9-big/rausch-siegmund-100.jpg?width=1280" alt="Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt"/><p>Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt</p>]]></content>
     </entry>
     <entry>
-      <title>Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen</title>
-      <id>https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html"/>
-      <updated>2026-10-06T11:25:45Z</updated>
-      <published>2026-10-06T11:25:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/35f76724-8698-463f-b1c4-fcb8cd7de739/AAABoRC0WTM/AAABnSSvrFg/16x9-big/halzen-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/35f76724-8698-463f-b1c4-fcb8cd7de739/AAABoRC0WTM/AAABnSSvrFg/16x9-big/halzen-100.jpg?width=1280" alt="Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen"/><p>Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen</p>]]></content>
+      <title>Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident</title>
+      <id>https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html"/>
+      <updated>2026-10-06T21:06:09Z</updated>
+      <published>2026-10-06T21:06:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ea50635e-a528-42ff-9cd4-e572356aaf37/AAABoRGOYd4/AAABnSSvrFg/16x9-big/tillschneider-132.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ea50635e-a528-42ff-9cd4-e572356aaf37/AAABoRGOYd4/AAABnSSvrFg/16x9-big/tillschneider-132.jpg?width=1280" alt="Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident"/><p>Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident</p>]]></content>
+    </entry>
+    <entry>
+      <title>Schülerproteste in Frankreich: &quot;Uns wird nicht zugehört&quot;</title>
+      <id>https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html"/>
+      <updated>2026-10-06T21:06:09Z</updated>
+      <published>2026-10-06T21:06:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/028b7f51-994b-454a-807f-fd0547005c6a/AAABoRK84j0/AAABnSSvrFg/16x9-big/proteste-paris-108.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/028b7f51-994b-454a-807f-fd0547005c6a/AAABoRK84j0/AAABnSSvrFg/16x9-big/proteste-paris-108.jpg?width=1280" alt="Schülerproteste in Frankreich: "Uns wird nicht zugehört""/><p>Schülerproteste in Frankreich: &quot;Uns wird nicht zugehört&quot;</p>]]></content>
     </entry>
     <entry>
       <title>Ermittler nehmen Ex-BND-Chef Hanning fest</title>
       <id>https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-100.html"/>
-      <updated>2026-10-06T11:25:45Z</updated>
-      <published>2026-10-06T11:25:45Z</published>
+      <updated>2026-10-06T21:06:09Z</updated>
+      <published>2026-10-06T21:06:09Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/91d7c35c-bedb-4b9c-ac4d-181eb89307b9/AAABoRBHWng/AAABnSSvrFg/16x9-big/august-hanning-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/91d7c35c-bedb-4b9c-ac4d-181eb89307b9/AAABoRBHWng/AAABnSSvrFg/16x9-big/august-hanning-100.jpg?width=1280" alt="Ermittler nehmen Ex-BND-Chef Hanning fest"/><p>Ermittler nehmen Ex-BND-Chef Hanning fest</p>]]></content>
     </entry>
     <entry>
-      <title>Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html"/>
-      <updated>2026-10-06T11:25:45Z</updated>
-      <published>2026-10-06T11:25:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3eebd116-6b9e-4c06-9b3d-3e55f8bdb99d/AAABoQ3Anjw/AAABnSSvrFg/16x9-big/landtag-sachsen-anhalt-336.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3eebd116-6b9e-4c06-9b3d-3e55f8bdb99d/AAABoQ3Anjw/AAABnSSvrFg/16x9-big/landtag-sachsen-anhalt-336.jpg?width=1280" alt="Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne"/><p>Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne</p>]]></content>
-    </entry>
-    <entry>
-      <title>Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation</title>
-      <id>https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-schuelerdemos-100.html"/>
-      <updated>2026-10-06T11:25:45Z</updated>
-      <published>2026-10-06T11:25:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e7487b2e-5ff8-4e02-a0fe-6cb3771f0b90/AAABoRATTgo/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-104.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e7487b2e-5ff8-4e02-a0fe-6cb3771f0b90/AAABoRATTgo/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-104.jpg?width=1280" alt="Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation"/><p>Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation</p>]]></content>
+      <title>Bahn-Sanierung: Verkehrsministerium legt &quot;Infraplan&quot; vor</title>
+      <id>https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html"/>
+      <updated>2026-10-06T21:06:09Z</updated>
+      <published>2026-10-06T21:06:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ccf7ee47-f049-4cea-9194-dbf807b0efa9/AAABoRJ_-YU/AAABnSSvrFg/16x9-big/bahn-schienen-netz-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ccf7ee47-f049-4cea-9194-dbf807b0efa9/AAABoRJ_-YU/AAABnSSvrFg/16x9-big/bahn-schienen-netz-100.jpg?width=1280" alt="Bahn-Sanierung: Verkehrsministerium legt "Infraplan" vor"/><p>Bahn-Sanierung: Verkehrsministerium legt &quot;Infraplan&quot; vor</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661258.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661258.html"/>
-      <updated>2026-10-06T11:25:45Z</updated>
-      <published>2026-10-06T11:25:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/91b8c673-8f13-495a-83d4-f9519f4d6263/AAABoRBmyoY/AAABnSSvrFg/16x9-big/sendungsbild-1807448.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/91b8c673-8f13-495a-83d4-f9519f4d6263/AAABoRBmyoY/AAABnSSvrFg/16x9-big/sendungsbild-1807448.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661738.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1661738.html"/>
+      <updated>2026-10-06T21:06:09Z</updated>
+      <published>2026-10-06T21:06:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f9199b96-426a-4ad5-b206-002ec59ab9b6/AAABoRK6pHQ/AAABnSSvrFg/16x9-big/sendungsbild-1807708.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f9199b96-426a-4ad5-b206-002ec59ab9b6/AAABoRK6pHQ/AAABnSSvrFg/16x9-big/sendungsbild-1807708.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
