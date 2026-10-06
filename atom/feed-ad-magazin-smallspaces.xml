@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-09-27T06:00:00Z</updated>
+  <updated>2026-10-06T08:12:57Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Wie diese 30-Quadratmeter-Wohnung in Gent plötzlich großzügig wirkt – dank diesen cleveren Tricks</title>
+      <id>https://www.ad-magazin.de/artikel/wie-diese-30-quadratmeter-wohnung-in-gent-ploetzlich-grosszuegig-wirkt-dank-diesen-cleveren-tricks</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/wie-diese-30-quadratmeter-wohnung-in-gent-ploetzlich-grosszuegig-wirkt-dank-diesen-cleveren-tricks"/>
+      <updated>2026-10-06T08:12:57Z</updated>
+      <published>2026-10-06T08:12:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a74ec20ec12a4e726ad409b/1:1/w_354%2Cc_limit/_M9A1660.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a74ec20ec12a4e726ad409b/1:1/w_354%2Cc_limit/_M9A1660.jpg" alt="Wie diese 30-Quadratmeter-Wohnung in Gent plötzlich großzügig wirkt &amp;#8211; dank diesen cleveren Tricks"/><p>Wie diese 30-Quadratmeter-Wohnung in Gent plötzlich großzügig wirkt – dank diesen cleveren Tricks</p>]]></content>
+    </entry>
     <entry>
       <title>Mikro-Wohnung in New York: Wie sich ein Balletttänzer auf 32 Quadratmetern clever einrichtete – mit genug Platz für Stretching</title>
       <id>https://www.ad-magazin.de/artikel/mikro-wohnung-von-profitaenzer-new-york-smarte-umgestaltung</id>
@@ -180,14 +189,5 @@
       <published>2026-08-10T11:55:16Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68a34d7c3c4ab4485e92a52c/1:1/w_354%2Cc_limit/Portofino_6099.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68a34d7c3c4ab4485e92a52c/1:1/w_354%2Cc_limit/Portofino_6099.jpg" alt="Grotte am Meer: Diese 65-Quadratmeter-Wohnung in Portofino überrascht mit smarter Schlafnische und Blick auf den Hafen"/><p>Grotte am Meer: Diese 65-Quadratmeter-Wohnung in Portofino überrascht mit smarter Schlafnische und Blick auf den Hafen</p>]]></content>
-    </entry>
-    <entry>
-      <title>30 Quadratmeter in Weiß und Blau: So smart wurde eine kleine Wohnung in Paris optisch erweitert</title>
-      <id>https://www.ad-magazin.de/artikel/30-quadratmeter-in-weiss-und-blau-kleine-wohnung-paris</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/30-quadratmeter-in-weiss-und-blau-kleine-wohnung-paris"/>
-      <updated>2026-08-04T12:23:32Z</updated>
-      <published>2026-08-04T12:23:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a6c9d3f5adac537c1c223aa/1:1/w_354%2Cc_limit/%25C2%25A9JUANJEREZ_BENJAMIN-GODINIAUX-FBT-WEB-3248.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a6c9d3f5adac537c1c223aa/1:1/w_354%2Cc_limit/%25C2%25A9JUANJEREZ_BENJAMIN-GODINIAUX-FBT-WEB-3248.jpg" alt="30 Quadratmeter in Weiß und Blau: So smart wurde eine kleine Wohnung in Paris optisch erweitert"/><p>30 Quadratmeter in Weiß und Blau: So smart wurde eine kleine Wohnung in Paris optisch erweitert</p>]]></content>
     </entry>
 </feed>
