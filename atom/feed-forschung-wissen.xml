@@ -5,17 +5,44 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-06T11:25:05Z</updated>
+  <updated>2026-10-06T21:06:08Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Im Dauertest hält ein Luftfilter fast zwei Jahre Außenluft stand</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/im-dauertest-haelt-ein-luftfilter-fast-zwei-jahre-aussenluft-stand-133714042</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/im-dauertest-haelt-ein-luftfilter-fast-zwei-jahre-aussenluft-stand-133714042"/>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/im-dauertest-haelt-ein-luftfilter-fast-zwei-jahre-aussenluft-stand.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/im-dauertest-haelt-ein-luftfilter-fast-zwei-jahre-aussenluft-stand.jpg" alt="Im Dauertest hält ein Luftfilter fast zwei Jahre Außenluft stand"/><p>Im Dauertest hält ein Luftfilter fast zwei Jahre Außenluft stand</p>]]></content>
+    </entry>
+    <entry>
+      <title>Kleine Schäden können Texels Dünen dauerhaft verändern</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/kleine-schaeden-koennen-texels-duenen-dauerhaft-veraendern-133714039</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/kleine-schaeden-koennen-texels-duenen-dauerhaft-veraendern-133714039"/>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/kleine-schaeden-koennen-texels-duenen-dauerhaft-veraendern.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/kleine-schaeden-koennen-texels-duenen-dauerhaft-veraendern.png" alt="Kleine Schäden können Texels Dünen dauerhaft verändern"/><p>Kleine Schäden können Texels Dünen dauerhaft verändern</p>]]></content>
+    </entry>
+    <entry>
+      <title>20 Genome aus Denisova-Höhle enthüllen unbekannten Yak-Verwandten</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/20-genome-aus-denisova-hoehle-enthuellen-unbekannten-yak-verwandten-133714036</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/20-genome-aus-denisova-hoehle-enthuellen-unbekannten-yak-verwandten-133714036"/>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/20-genome-aus-denisova-hoehle-enthuellen-unbekannten-yak-verwandten.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/20-genome-aus-denisova-hoehle-enthuellen-unbekannten-yak-verwandten.png" alt="20 Genome aus Denisova-Höhle enthüllen unbekannten Yak-Verwandten"/><p>20 Genome aus Denisova-Höhle enthüllen unbekannten Yak-Verwandten</p>]]></content>
+    </entry>
+    <entry>
       <title>620 Millionen Jahre alte Fossilien zeigen Leben nach der Schneeball-Erde</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde-133714034</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde-133714034"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde.png" alt="620 Millionen Jahre alte Fossilien zeigen Leben nach der Schneeball-Erde"/><p>620 Millionen Jahre alte Fossilien zeigen Leben nach der Schneeball-Erde</p>]]></content>
     </entry>
@@ -23,8 +50,8 @@
       <title>Neues Kohlenstoffmaterial zerlegt Ewigkeitschemikalien mit Licht</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/chemie/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht-133714033</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/chemie/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht-133714033"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht.png" alt="Neues Kohlenstoffmaterial zerlegt Ewigkeitschemikalien mit Licht"/><p>Neues Kohlenstoffmaterial zerlegt Ewigkeitschemikalien mit Licht</p>]]></content>
     </entry>
@@ -32,44 +59,17 @@
       <title>Elektromotoren verbrauchen über die Hälfte des Stroms weltweit</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit-133714006</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit-133714006"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit.jpg" alt="Elektromotoren verbrauchen über die Hälfte des Stroms weltweit"/><p>Elektromotoren verbrauchen über die Hälfte des Stroms weltweit</p>]]></content>
-    </entry>
-    <entry>
-      <title>Zombie-Zellen entkommen im Alter immer leichter der Immunabwehr</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr-133713970</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr-133713970"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr.png" alt="Zombie-Zellen entkommen im Alter immer leichter der Immunabwehr"/><p>Zombie-Zellen entkommen im Alter immer leichter der Immunabwehr</p>]]></content>
-    </entry>
-    <entry>
-      <title>58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima-133713973</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima-133713973"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima.png" alt="58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima"/><p>58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima</p>]]></content>
-    </entry>
-    <entry>
-      <title>Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel-133713971</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel-133713971"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel.jpg" alt="Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel"/><p>Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel</p>]]></content>
     </entry>
     <entry>
       <title>1963 fuhren Autos über den Bodensee und Flugzeuge landeten auf dem Eis</title>
       <id>https://www.forschung-und-wissen.de/magazin/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis-133712936</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis-133712936"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis.jpg" alt="1963 fuhren Autos über den Bodensee und Flugzeuge landeten auf dem Eis"/><p>1963 fuhren Autos über den Bodensee und Flugzeuge landeten auf dem Eis</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>&apos;Kilroy war hier&apos; wurde zum weltweiten Graffiti-Phänomen</title>
       <id>https://www.forschung-und-wissen.de/magazin/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen-133714004</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen-133714004"/>
-      <updated>2026-10-06T11:25:05Z</updated>
-      <published>2026-10-06T11:25:05Z</published>
+      <updated>2026-10-06T21:06:08Z</updated>
+      <published>2026-10-06T21:06:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen.png" alt="'Kilroy war hier' wurde zum weltweiten Graffiti-Phänomen"/><p>&apos;Kilroy war hier&apos; wurde zum weltweiten Graffiti-Phänomen</p>]]></content>
     </entry>
