@@ -5,17 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-05T22:49:00Z</updated>
+  <updated>2026-10-06T11:25:05Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>620 Millionen Jahre alte Fossilien zeigen Leben nach der Schneeball-Erde</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde-133714034</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde-133714034"/>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/620-millionen-jahre-alte-fossilien-zeigen-leben-nach-der-schneeball-erde.png" alt="620 Millionen Jahre alte Fossilien zeigen Leben nach der Schneeball-Erde"/><p>620 Millionen Jahre alte Fossilien zeigen Leben nach der Schneeball-Erde</p>]]></content>
+    </entry>
+    <entry>
+      <title>Neues Kohlenstoffmaterial zerlegt Ewigkeitschemikalien mit Licht</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/chemie/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht-133714033</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/chemie/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht-133714033"/>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/neues-kohlenstoffmaterial-zerlegt-ewigkeitschemikalien-mit-licht.png" alt="Neues Kohlenstoffmaterial zerlegt Ewigkeitschemikalien mit Licht"/><p>Neues Kohlenstoffmaterial zerlegt Ewigkeitschemikalien mit Licht</p>]]></content>
+    </entry>
+    <entry>
+      <title>Elektromotoren verbrauchen über die Hälfte des Stroms weltweit</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit-133714006</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit-133714006"/>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektromotoren-verbrauchen-ueber-die-haelfte-des-stroms-weltweit.jpg" alt="Elektromotoren verbrauchen über die Hälfte des Stroms weltweit"/><p>Elektromotoren verbrauchen über die Hälfte des Stroms weltweit</p>]]></content>
+    </entry>
+    <entry>
+      <title>Zombie-Zellen entkommen im Alter immer leichter der Immunabwehr</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr-133713970</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr-133713970"/>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/zombie-zellen-entkommen-im-alter-immer-leichter-der-immunabwehr.png" alt="Zombie-Zellen entkommen im Alter immer leichter der Immunabwehr"/><p>Zombie-Zellen entkommen im Alter immer leichter der Immunabwehr</p>]]></content>
+    </entry>
+    <entry>
       <title>58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima-133713973</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima-133713973"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/58-zentimeter-grosse-riesenmuschel-bewahrt-30-jahre-klima.png" alt="58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima"/><p>58 Zentimeter große Riesenmuschel bewahrt 30 Jahre Klima</p>]]></content>
     </entry>
@@ -23,63 +59,27 @@
       <title>Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel-133713971</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel-133713971"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/metallteile-aus-dem-spritzguss-schrumpfen-im-ofen-um-ein-fuenftel.jpg" alt="Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel"/><p>Metallteile aus dem Spritzguss schrumpfen im Ofen um ein Fünftel</p>]]></content>
     </entry>
     <entry>
-      <title>KI mit Frauengesicht wird für gleiche Arbeit schlechter bezahlt</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/gesellschaft/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt-133713967</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/gesellschaft/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt-133713967"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-10/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-10/ki-mit-frauengesicht-wird-fuer-gleiche-arbeit-schlechter-bezahlt.png" alt="KI mit Frauengesicht wird für gleiche Arbeit schlechter bezahlt"/><p>KI mit Frauengesicht wird für gleiche Arbeit schlechter bezahlt</p>]]></content>
+      <title>1963 fuhren Autos über den Bodensee und Flugzeuge landeten auf dem Eis</title>
+      <id>https://www.forschung-und-wissen.de/magazin/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis-133712936</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis-133712936"/>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/1963-fuhren-autos-ueber-den-bodensee-und-flugzeuge-landeten-auf-dem-eis.jpg" alt="1963 fuhren Autos über den Bodensee und Flugzeuge landeten auf dem Eis"/><p>1963 fuhren Autos über den Bodensee und Flugzeuge landeten auf dem Eis</p>]]></content>
     </entry>
     <entry>
-      <title>Meteorit lässt sich Molekül für Molekül auf Lebensspuren prüfen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen-133713964</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen-133713964"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/meteorit-laesst-sich-molekuel-fuer-molekuel-auf-lebensspuren-pruefen.png" alt="Meteorit lässt sich Molekül für Molekül auf Lebensspuren prüfen"/><p>Meteorit lässt sich Molekül für Molekül auf Lebensspuren prüfen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Spenderlebern werden in der Maschine biologisch jünger</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/spenderlebern-werden-in-der-maschine-biologisch-juenger-133713962</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/spenderlebern-werden-in-der-maschine-biologisch-juenger-133713962"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/spenderlebern-werden-in-der-maschine-biologisch-juenger.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/spenderlebern-werden-in-der-maschine-biologisch-juenger.jpg" alt="Spenderlebern werden in der Maschine biologisch jünger"/><p>Spenderlebern werden in der Maschine biologisch jünger</p>]]></content>
-    </entry>
-    <entry>
-      <title>9 Quadratmeter Schornstein-Abwärme liefern im Modell fast 3 Kilowatt</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt-133713959</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt-133713959"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/9-quadratmeter-schornstein-abwaerme-liefern-im-modell-fast-3-kilowatt.png" alt="9 Quadratmeter Schornstein-Abwärme liefern im Modell fast 3 Kilowatt"/><p>9 Quadratmeter Schornstein-Abwärme liefern im Modell fast 3 Kilowatt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der Gombe-Schimpansenkrieg dauerte vier Jahre</title>
-      <id>https://www.forschung-und-wissen.de/magazin/der-gombe-schimpansenkrieg-dauerte-vier-jahre-133713977</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/der-gombe-schimpansenkrieg-dauerte-vier-jahre-133713977"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/der-gombe-schimpansenkrieg-dauerte-vier-jahre.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/der-gombe-schimpansenkrieg-dauerte-vier-jahre.png" alt="Der Gombe-Schimpansenkrieg dauerte vier Jahre"/><p>Der Gombe-Schimpansenkrieg dauerte vier Jahre</p>]]></content>
-    </entry>
-    <entry>
-      <title>In der höchsten Stadt der Welt leben 50.000 Menschen auf 5.100 Metern</title>
-      <id>https://www.forschung-und-wissen.de/magazin/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern-133712933</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern-133712933"/>
-      <updated>2026-10-05T22:49:00Z</updated>
-      <published>2026-10-05T22:49:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-der-hoechsten-stadt-der-welt-leben-50.000-menschen-auf-5.100-metern.jpg" alt="In der höchsten Stadt der Welt leben 50.000 Menschen auf 5.100 Metern"/><p>In der höchsten Stadt der Welt leben 50.000 Menschen auf 5.100 Metern</p>]]></content>
+      <title>&apos;Kilroy war hier&apos; wurde zum weltweiten Graffiti-Phänomen</title>
+      <id>https://www.forschung-und-wissen.de/magazin/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen-133714004</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen-133714004"/>
+      <updated>2026-10-06T11:25:05Z</updated>
+      <published>2026-10-06T11:25:05Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/kilroy-war-hier-wurde-zum-weltweiten-graffiti-phaenomen.png" alt="'Kilroy war hier' wurde zum weltweiten Graffiti-Phänomen"/><p>&apos;Kilroy war hier&apos; wurde zum weltweiten Graffiti-Phänomen</p>]]></content>
     </entry>
 </feed>
