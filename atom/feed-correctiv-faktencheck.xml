@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-07T11:13:34Z</updated>
+  <updated>2026-10-07T21:27:28Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-07T11:13:34Z</updated>
-      <published>2026-10-07T11:13:34Z</published>
+      <updated>2026-10-07T21:27:28Z</updated>
+      <published>2026-10-07T21:27:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Digitaler Euro: Welche Rolle die Europäische Zentralbank bei Obergrenzen spielen soll</title>
+      <id>https://correctiv.org/faktencheck/2026/10/07/digitaler-euro-welche-rolle-die-europaeische-zentralbank-bei-obergrenzen-spielen-soll/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/07/digitaler-euro-welche-rolle-die-europaeische-zentralbank-bei-obergrenzen-spielen-soll/"/>
+      <updated>2026-10-07T00:00:00Z</updated>
+      <published>2026-10-07T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/617176753-scaled-e1791382276785.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/617176753-scaled-e1791382276785.jpg" alt="Über die Einführung des digitalen Euro wird seit Jahren in der EU verhandelt"/><p>Digitaler Euro: Welche Rolle die Europäische Zentralbank bei Obergrenzen spielen soll</p>]]></content>
     </entry>
     <entry>
       <title>Was hinter der Zahl von einer Million abgelehnten Asylanträgen steckt</title>
@@ -225,14 +234,5 @@
       <published>2026-08-31T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Bildschirmfoto-2026-08-20-um-09.02.05.png"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Bildschirmfoto-2026-08-20-um-09.02.05.png" alt="Historisches Niedrigwasser am Rhein ist kein Beleg gegen den Klimawandel"/><p>Historisches Niedrigwasser am Rhein ist kein Beleg gegen den Klimawandel</p>]]></content>
-    </entry>
-    <entry>
-      <title>Videos zeigen Bauernproteste 2025 in Brüssel – Keine aktuellen Aufnahmen</title>
-      <id>https://correctiv.org/faktencheck/2026/08/28/alte-videos-zeigen-keine-bauernproteste-in-bruessel/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/28/alte-videos-zeigen-keine-bauernproteste-in-bruessel/"/>
-      <updated>2026-08-28T00:00:00Z</updated>
-      <published>2026-08-28T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/542611109-scaled-e1787934781117.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/542611109-scaled-e1787934781117.jpg" alt="Videos zeigen Bauernproteste 2025 in Brüssel – Keine aktuellen Aufnahmen"/><p>Videos zeigen Bauernproteste 2025 in Brüssel – Keine aktuellen Aufnahmen</p>]]></content>
     </entry>
 </feed>
