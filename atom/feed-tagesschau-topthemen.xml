@@ -5,61 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-09T11:26:24Z</updated>
+  <updated>2026-10-09T21:05:42Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Friedensnobelpreis geht an Navanethem &quot;Navi&quot; Pillay</title>
-      <id>https://www.tagesschau.de/ausland/europa/friedensnobelpreis-navi-pillay-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/friedensnobelpreis-navi-pillay-100.html"/>
-      <updated>2026-10-09T11:26:24Z</updated>
-      <published>2026-10-09T11:26:24Z</published>
+      <title>Nobelpreisträgerin Pillay in den tagesthemen: &quot;Die Nürnberger Prozesse haben mich inspiriert&quot;</title>
+      <id>https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html"/>
+      <updated>2026-10-09T21:05:42Z</updated>
+      <published>2026-10-09T21:05:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/af3d075d-0d7e-402e-8142-63b15ca47cce/AAABoSJg6RY/AAABnSSvrFg/16x9-big/navanethem-pillay-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/af3d075d-0d7e-402e-8142-63b15ca47cce/AAABoSJg6RY/AAABnSSvrFg/16x9-big/navanethem-pillay-100.jpg?width=1280" alt="Nobelpreisträgerin Pillay in den tagesthemen: "Die Nürnberger Prozesse haben mich inspiriert""/><p>Nobelpreisträgerin Pillay in den tagesthemen: &quot;Die Nürnberger Prozesse haben mich inspiriert&quot;</p>]]></content>
     </entry>
     <entry>
-      <title>Führerschein könnte laut Verkehrsminister Bilger viel billiger werden</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html"/>
-      <updated>2026-10-09T11:26:24Z</updated>
-      <published>2026-10-09T11:26:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/80a0c2c1-df0d-464d-8638-609344a9de4c/AAABoR_K0os/AAABnSSvrFg/16x9-big/fuehrerschein-250.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/80a0c2c1-df0d-464d-8638-609344a9de4c/AAABoR_K0os/AAABnSSvrFg/16x9-big/fuehrerschein-250.jpg?width=1280" alt="Führerschein könnte laut Verkehrsminister Bilger viel billiger werden"/><p>Führerschein könnte laut Verkehrsminister Bilger viel billiger werden</p>]]></content>
+      <title>Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht</title>
+      <id>https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html"/>
+      <updated>2026-10-09T21:05:42Z</updated>
+      <published>2026-10-09T21:05:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/420aa046-f169-4322-82ff-a4c079d6e917/AAABoSC9fiE/AAABnSSvrFg/16x9-big/pillay-110.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/420aa046-f169-4322-82ff-a4c079d6e917/AAABoSC9fiE/AAABnSSvrFg/16x9-big/pillay-110.jpg?width=1280" alt="Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht"/><p>Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht</p>]]></content>
     </entry>
     <entry>
-      <title>Arbeiten für die ukrainische Bahn - in ständiger Gefahr</title>
-      <id>https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html"/>
-      <updated>2026-10-09T11:26:24Z</updated>
-      <published>2026-10-09T11:26:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a5eb8166-6adb-421e-8154-7f1bd910ed9e/AAABoR9kPTY/AAABnSSvrFg/16x9-big/sendungsbild-1808830.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a5eb8166-6adb-421e-8154-7f1bd910ed9e/AAABoR9kPTY/AAABnSSvrFg/16x9-big/sendungsbild-1808830.jpg?width=1280" alt="Arbeiten für die ukrainische Bahn - in ständiger Gefahr"/><p>Arbeiten für die ukrainische Bahn - in ständiger Gefahr</p>]]></content>
+      <title>Neue US-Sanktionen gegen Internationalen Strafgerichtshof</title>
+      <id>https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html"/>
+      <updated>2026-10-09T21:05:42Z</updated>
+      <published>2026-10-09T21:05:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9ca0255a-e565-4ade-9499-c2737cf5429e/AAABoB-ybDQ/AAABnSSvrFg/16x9-big/istgh-internationaler-strafgerichtshof-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9ca0255a-e565-4ade-9499-c2737cf5429e/AAABoB-ybDQ/AAABnSSvrFg/16x9-big/istgh-internationaler-strafgerichtshof-100.jpg?width=1280" alt="Neue US-Sanktionen gegen Internationalen Strafgerichtshof"/><p>Neue US-Sanktionen gegen Internationalen Strafgerichtshof</p>]]></content>
+    </entry>
+    <entry>
+      <title>Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html"/>
+      <updated>2026-10-09T21:05:42Z</updated>
+      <published>2026-10-09T21:05:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e4009594-a546-4422-a5e1-05a9365ec49e/AAABoSBoICY/AAABnSSvrFg/16x9-big/schroeder-putin-122.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e4009594-a546-4422-a5e1-05a9365ec49e/AAABoSBoICY/AAABnSSvrFg/16x9-big/schroeder-putin-122.jpg?width=1280" alt="Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung"/><p>Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung</p>]]></content>
     </entry>
     <entry>
       <title>Verhandlungen in den USA während massiver Angriffe in der Ukraine</title>
       <id>https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html"/>
-      <updated>2026-10-09T11:26:24Z</updated>
-      <published>2026-10-09T11:26:24Z</published>
+      <updated>2026-10-09T21:05:42Z</updated>
+      <published>2026-10-09T21:05:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/26d69c80-f0b6-4586-b3e1-5e77b7d86096/AAABoR9xg9U/AAABnSSvrFg/16x9-big/autowracks-ukraine-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/26d69c80-f0b6-4586-b3e1-5e77b7d86096/AAABoR9xg9U/AAABnSSvrFg/16x9-big/autowracks-ukraine-100.jpg?width=1280" alt="Verhandlungen in den USA während massiver Angriffe in der Ukraine"/><p>Verhandlungen in den USA während massiver Angriffe in der Ukraine</p>]]></content>
     </entry>
     <entry>
-      <title>USA wollen Hinrichtung von Attentäter per Livestream übertragen</title>
-      <id>https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"/>
-      <updated>2026-10-09T11:26:24Z</updated>
-      <published>2026-10-09T11:26:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/deacc2ce-adcf-49ce-92d4-541bbb4d72f5/AAABoR8leGQ/AAABnSSvrFg/16x9-big/hegseth-182.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/deacc2ce-adcf-49ce-92d4-541bbb4d72f5/AAABoR8leGQ/AAABnSSvrFg/16x9-big/hegseth-182.jpg?width=1280" alt="USA wollen Hinrichtung von Attentäter per Livestream übertragen"/><p>USA wollen Hinrichtung von Attentäter per Livestream übertragen</p>]]></content>
-    </entry>
-    <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1663220.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1663220.html"/>
-      <updated>2026-10-09T11:26:24Z</updated>
-      <published>2026-10-09T11:26:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9b88e2ef-2ecd-4445-a34b-5ab044666eb1/AAABoSAvWTE/AAABnSSvrFg/16x9-big/sendungsbild-1808932.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9b88e2ef-2ecd-4445-a34b-5ab044666eb1/AAABoSAvWTE/AAABnSSvrFg/16x9-big/sendungsbild-1808932.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1663636.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1663636.html"/>
+      <updated>2026-10-09T21:05:42Z</updated>
+      <published>2026-10-09T21:05:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ff918e44-8a17-4008-8a76-fb565661ac66/AAABoSI4lFQ/AAABnSSvrFg/16x9-big/sendungsbild-1809192.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ff918e44-8a17-4008-8a76-fb565661ac66/AAABoSI4lFQ/AAABnSSvrFg/16x9-big/sendungsbild-1809192.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
