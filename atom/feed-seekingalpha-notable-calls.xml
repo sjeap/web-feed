@@ -5,94 +5,171 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-09T11:09:36Z</updated>
+  <updated>2026-10-09T21:05:09Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>DRAM: Buy The Dip In The Most Important AI Bottleneck</title>
+      <id>4953174</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953174-dram-buy-the-dip-in-the-most-important-ai-bottleneck?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T21:05:09Z</updated>
+      <published>2026-10-09T21:05:09Z</published>
+    </entry>
+    <entry>
+      <title>QYLG Vs. QDVO: Market Fear Is Good For These Paychecks</title>
+      <id>4953172</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953172-qylg-vs-qdvo-market-fear-is-good-for-these-paychecks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T20:55:35Z</updated>
+      <published>2026-10-09T20:55:35Z</published>
+    </entry>
+    <entry>
+      <title>MLPA Vs. AMLP: Why I&apos;m Buying The Higher-Yielding Underdog</title>
+      <id>4953170</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953170-mlpa-vs-amlp-why-im-buying-the-higher-yielding-underdog?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T20:41:55Z</updated>
+      <published>2026-10-09T20:41:55Z</published>
+    </entry>
+    <entry>
+      <title>SMBS: 11 Points Of Pull-To-Par, A Positive OAS At Equal Credit Risk</title>
+      <id>4953167</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953167-smbs-11-points-of-pull-to-par-a-positive-oas-at-equal-credit-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T20:30:15Z</updated>
+      <published>2026-10-09T20:30:15Z</published>
+    </entry>
+    <entry>
+      <title>AWF: Long-Term Macroeconomic Pressures Could Weigh On This Fund</title>
+      <id>4953145</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953145-awf-long-term-macroeconomic-pressures-could-weigh-on-this-fund?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T18:31:39Z</updated>
+      <published>2026-10-09T18:31:39Z</published>
+    </entry>
+    <entry>
+      <title>PIT: Reiterate Buy On This Actively Managed Commodity ETF</title>
+      <id>4953140</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953140-pit-reiterate-buy-on-this-actively-managed-commodity-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T17:34:00Z</updated>
+      <published>2026-10-09T17:34:00Z</published>
+    </entry>
+    <entry>
+      <title>Made In Europe</title>
+      <id>4953141</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953141-made-in-europe?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T16:45:00Z</updated>
+      <published>2026-10-09T16:45:00Z</published>
+    </entry>
+    <entry>
+      <title>EU-China understanding could halve Chinese hybrid car exports</title>
+      <id>https://seekingalpha.com/MarketCurrent:4651822</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
+      <updated>2026-10-09T16:04:11Z</updated>
+      <published>2026-10-09T16:04:11Z</published>
+    </entry>
+    <entry>
+      <title>NMAI: Highly Diversified Exposure With A Discount Slipping A Bit Wider</title>
+      <id>4953111</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953111-nmai-highly-diversified-exposure-with-a-discount-slipping-a-bit-wider?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T15:42:58Z</updated>
+      <published>2026-10-09T15:42:58Z</published>
+    </entry>
+    <entry>
+      <title>SHYG: 7% Yield Meets CCC Stress And A Weak Trend</title>
+      <id>4953090</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953090-shyg-7-percent-yield-meets-ccc-stress-and-a-weak-trend?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T14:44:49Z</updated>
+      <published>2026-10-09T14:44:49Z</published>
+    </entry>
+    <entry>
+      <title>ILS: When A Lack Of Hurricanes Is A Sell Signal (Downgrade)</title>
+      <id>4953089</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953089-ils-when-a-lack-of-hurricanes-is-a-sell-signal-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T14:41:58Z</updated>
+      <published>2026-10-09T14:41:58Z</published>
+    </entry>
+    <entry>
+      <title>ASML: The High Expectations May Be Justified (Earnings Preview)</title>
+      <id>https://seekingalpha.com/Article:4953080</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953080-asml-the-high-expectations-may-be-justified-earnings-preview?source=feed_symbol_ASML"/>
+      <updated>2026-10-09T14:26:33Z</updated>
+      <published>2026-10-09T14:26:33Z</published>
+    </entry>
+    <entry>
+      <title>SCHK: Broad Exposure, Narrow Leadership</title>
+      <id>4953078</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953078-schk-broad-exposure-narrow-leadership?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T14:23:12Z</updated>
+      <published>2026-10-09T14:23:12Z</published>
+    </entry>
+    <entry>
+      <title>Stock Prices, Earnings And Cash Flows: The AI Effect Plays Through</title>
+      <id>4953104</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953104-stock-prices-earnings-cash-flows-ai-effect-plays-through?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T14:20:00Z</updated>
+      <published>2026-10-09T14:20:00Z</published>
+    </entry>
+    <entry>
+      <title>GNT And GNT.PR.A: Balancing Yield, Security, And Interest Rate Risk</title>
+      <id>4953070</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953070-gnt-and-gntpra-balancing-yield-security-and-interest-rate-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T13:49:50Z</updated>
+      <published>2026-10-09T13:49:50Z</published>
+    </entry>
+    <entry>
+      <title>Taiwan Semiconductor&apos;s strong Q3 sales a positive sign for Q4, Wedbush says</title>
+      <id>https://seekingalpha.com/MarketCurrent:4651740</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-10-09T13:05:14Z</updated>
+      <published>2026-10-09T13:05:14Z</published>
+    </entry>
+    <entry>
+      <title>How To Position In A High Interest Rate Environment</title>
+      <id>4953028</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953028-how-to-position-in-a-high-interest-rate-environment?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T13:00:17Z</updated>
+      <published>2026-10-09T13:00:17Z</published>
+    </entry>
+    <entry>
+      <title>RDTE Vs. IWMI: Same Index But Very Different Income Outcomes</title>
+      <id>4952972</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4952972-rdte-vs-iwmi-same-index-but-very-different-income-outcomes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T12:45:00Z</updated>
+      <published>2026-10-09T12:45:00Z</published>
+    </entry>
+    <entry>
+      <title>MUNI: A PIMCO ETF I Considered But Decided Against</title>
+      <id>4952801</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4952801-muni-a-pimco-etf-i-considered-but-decided-against?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T12:30:00Z</updated>
+      <published>2026-10-09T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>LITX: A Poor Idea Compared To Owning Lumentum</title>
+      <id>4952963</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4952963-a-poor-idea-compared-to-owning-lumentum?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T12:30:00Z</updated>
+      <published>2026-10-09T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>NVDU: Double Down On Nvidia&apos;s Growth For Short-Term Gains</title>
+      <id>4953008</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953008-nvdu-double-down-on-nvidias-growth-for-short-term-gains?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T12:25:02Z</updated>
+      <published>2026-10-09T12:25:02Z</published>
+    </entry>
+    <entry>
+      <title>CGDV Has Been A Winner In My Portfolio, And I Think It Continues, Here&apos;s Why</title>
+      <id>4952673</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4952673-cgdv-etf-winner-in-my-portfolio-and-it-continues-heres-why?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-09T12:20:00Z</updated>
+      <published>2026-10-09T12:20:00Z</published>
+    </entry>
     <entry>
       <title>LDP: Sustainable Distribution, But Rising Yields And Inflation Could Pressure Returns</title>
       <id>4953032</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4953032-ldp-sustainable-distribution-rising-yields-inflation-could-pressure-returns?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-09T11:09:36Z</updated>
       <published>2026-10-09T11:09:36Z</published>
-    </entry>
-    <entry>
-      <title>FDVV: Still The Best Of The Bunch, But High Yields Make SPY A Better Alternative</title>
-      <id>4952996</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952996-fdvv-still-the-best-of-the-bunch-but-high-yields-make-spy-a-better-alternative?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-09T08:59:18Z</updated>
-      <published>2026-10-09T08:59:18Z</published>
-    </entry>
-    <entry>
-      <title>COPP: Copper Backwardation Meets A Pullback Toward Its 200-Day Average</title>
-      <id>4952974</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952974-copp-copper-backwardation-meets-a-pullback-toward-its-200-day-average?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-09T07:30:33Z</updated>
-      <published>2026-10-09T07:30:33Z</published>
-    </entry>
-    <entry>
-      <title>XMHQ: Becoming More Interesting In The Current Environment</title>
-      <id>4952971</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952971-xmhq-becoming-more-interesting-in-the-current-environment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-09T07:08:44Z</updated>
-      <published>2026-10-09T07:08:44Z</published>
-    </entry>
-    <entry>
-      <title>VYM And HDV: Two Dividend ETFs That Complement Each Other</title>
-      <id>4952967</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952967-vym-and-hdv-two-dividend-etfs-that-complement-each-other?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-09T06:54:45Z</updated>
-      <published>2026-10-09T06:54:45Z</published>
-    </entry>
-    <entry>
-      <title>LVHI: Currency Hedging Has Been A Game Changer, But Risks Remain</title>
-      <id>4952942</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952942-lvhi-currency-hedging-has-been-game-changer-but-risks-remain?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-09T02:04:14Z</updated>
-      <published>2026-10-09T02:04:14Z</published>
-    </entry>
-    <entry>
-      <title>NCZ To NCV: The Virtus Convertible Twins Trade Unusually Far Apart</title>
-      <id>4952903</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952903-ncz-to-ncv-the-virtus-convertible-twins-trade-unusually-far-apart?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T20:32:15Z</updated>
-      <published>2026-10-08T20:32:15Z</published>
-    </entry>
-    <entry>
-      <title>VPL: Pacific Stocks Sport Big EPS Growth And A Low P/E</title>
-      <id>4952897</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952897-vpl-pacific-stocks-sport-big-eps-growth-and-a-low-pe?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T19:38:07Z</updated>
-      <published>2026-10-08T19:38:07Z</published>
-    </entry>
-    <entry>
-      <title>REET: The Two Enemies I Can&apos;t Ignore</title>
-      <id>4952895</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952895-reet-the-two-enemies-i-cant-ignore?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T19:32:19Z</updated>
-      <published>2026-10-08T19:32:19Z</published>
-    </entry>
-    <entry>
-      <title>SPTM: The Valuation Premium Is Hard To Justify</title>
-      <id>4952890</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952890-sptm-the-valuation-premium-is-hard-to-justify?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T19:18:16Z</updated>
-      <published>2026-10-08T19:18:16Z</published>
-    </entry>
-    <entry>
-      <title>FLIN: Economy Growing At A Fast Pace And Valuation Becoming Cheaper (Rating Upgrade)</title>
-      <id>4952888</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952888-flin-economy-growing-at-a-fast-pace-and-valuation-becoming-cheaper-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T19:11:36Z</updated>
-      <published>2026-10-08T19:11:36Z</published>
-    </entry>
-    <entry>
-      <title>EQL: Balanced By Design, Cheap As A Result</title>
-      <id>4952872</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952872-eql-balanced-by-design-cheap-as-a-result?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T17:59:13Z</updated>
-      <published>2026-10-08T17:59:13Z</published>
     </entry>
     <entry>
       <title>L&apos;Air Liquide S.A. (AIQUY) Analyst/Investor Day Transcript</title>
@@ -107,82 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4952847-tsmc-is-likely-to-beat-q3-earnings-and-rise-preview?source=feed_symbol_TSM"/>
       <updated>2026-10-08T16:31:42Z</updated>
       <published>2026-10-08T16:31:42Z</published>
-    </entry>
-    <entry>
-      <title>EDD: Diversify Your Currency Risk While Getting A High Yield</title>
-      <id>4952819</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952819-edd-diversify-your-currency-risk-while-getting-a-high-yield?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T15:32:46Z</updated>
-      <published>2026-10-08T15:32:46Z</published>
-    </entry>
-    <entry>
-      <title>THNQ: A Diversified Bet On The AI Ecosystem</title>
-      <id>4952794</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952794-thnq-a-diversified-bet-on-the-ai-ecosystem?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T14:21:59Z</updated>
-      <published>2026-10-08T14:21:59Z</published>
-    </entry>
-    <entry>
-      <title>SPYT: The 20% Yield Fails To Justify NAV Erosion</title>
-      <id>4952793</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952793-spyt-the-20-percent-yield-fails-to-justify-nav-erosion?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T14:17:43Z</updated>
-      <published>2026-10-08T14:17:43Z</published>
-    </entry>
-    <entry>
-      <title>Rate Shock Hits TSI Hard - Here Is Why It&apos;s A Buy Amid The Carnage</title>
-      <id>4952780</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952780-rate-shock-hits-tsi-hard-here-is-why-its-a-buy-amid-the-carnage?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T13:31:19Z</updated>
-      <published>2026-10-08T13:31:19Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: Global Chip Demand Shows No Signs Of Slowing</title>
-      <id>https://seekingalpha.com/Article:4952778</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952778-tsmc-global-chip-demand-shows-no-signs-of-slowing?source=feed_symbol_TSM"/>
-      <updated>2026-10-08T13:28:09Z</updated>
-      <published>2026-10-08T13:28:09Z</published>
-    </entry>
-    <entry>
-      <title>RQI: When A 10% Yield Doesn&apos;t Beat Risk-Free Treasuries</title>
-      <id>4952771</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952771-rqi-when-a-10-percent-yield-doesnt-beat-risk-free-treasuries?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T13:05:04Z</updated>
-      <published>2026-10-08T13:05:04Z</published>
-    </entry>
-    <entry>
-      <title>Valuations Matter - Just Not The Way Wall Street Says</title>
-      <id>4952785</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952785-valuations-matter-not-the-way-wall-street-says?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T12:55:00Z</updated>
-      <published>2026-10-08T12:55:00Z</published>
-    </entry>
-    <entry>
-      <title>BTCI: I Am Upgrading It To Hold</title>
-      <id>4952763</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952763-btci-i-am-upgrading-it-to-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T12:54:07Z</updated>
-      <published>2026-10-08T12:54:07Z</published>
-    </entry>
-    <entry>
-      <title>The Case For Real Assets: Demand Is Rising While Supply Stays Constrained</title>
-      <id>4952734</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952734-case-for-real-assets-demand-rising-supply-stays-constrained?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-08T12:45:00Z</updated>
-      <published>2026-10-08T12:45:00Z</published>
-    </entry>
-    <entry>
-      <title>GlobalFoundries partners with TSMC to establish US-based production of silicon interposers</title>
-      <id>https://seekingalpha.com/MarketCurrent:4651326</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-10-08T12:34:18Z</updated>
-      <published>2026-10-08T12:34:18Z</published>
-    </entry>
-    <entry>
-      <title>ASML Has All The Ingredients For A Breakout (Q3 Earnings Preview)</title>
-      <id>https://seekingalpha.com/Article:4952644</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952644-asml-has-all-the-ingredients-for-a-breakout-q3-earnings-preview?source=feed_symbol_ASML"/>
-      <updated>2026-10-08T03:07:20Z</updated>
-      <published>2026-10-08T03:07:20Z</published>
     </entry>
 </feed>
