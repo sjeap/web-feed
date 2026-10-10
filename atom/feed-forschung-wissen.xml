@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-10T10:44:00Z</updated>
+  <updated>2026-10-10T20:13:03Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Vibrierende Einlagen verbessern das Gleichgewicht im Test</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/vibrierende-einlagen-verbessern-das-gleichgewicht-im-test-133714205</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/vibrierende-einlagen-verbessern-das-gleichgewicht-im-test-133714205"/>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/vibrierende-einlagen-verbessern-das-gleichgewicht-im-test.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/vibrierende-einlagen-verbessern-das-gleichgewicht-im-test.png" alt="Vibrierende Einlagen verbessern das Gleichgewicht im Test"/><p>Vibrierende Einlagen verbessern das Gleichgewicht im Test</p>]]></content>
+    </entry>
+    <entry>
+      <title>Netzhautchip in Lübeck soll einer 80-Jährigen das Lesen zurückgeben</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/netzhautchip-in-luebeck-soll-einer-80-jaehrigen-das-lesen-zurueckgeben-133714202</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/netzhautchip-in-luebeck-soll-einer-80-jaehrigen-das-lesen-zurueckgeben-133714202"/>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/netzhautchip-in-luebeck-soll-einer-80-jaehrigen-das-lesen-zurueckgeben.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/netzhautchip-in-luebeck-soll-einer-80-jaehrigen-das-lesen-zurueckgeben.png" alt="Netzhautchip in Lübeck soll einer 80-Jährigen das Lesen zurückgeben"/><p>Netzhautchip in Lübeck soll einer 80-Jährigen das Lesen zurückgeben</p>]]></content>
+    </entry>
+    <entry>
       <title>Körpereigener Zucker wird als Ansatz gegen MS untersucht</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/koerpereigener-zucker-wird-als-ansatz-gegen-ms-untersucht-133714201</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/koerpereigener-zucker-wird-als-ansatz-gegen-ms-untersucht-133714201"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/koerpereigener-zucker-wird-als-ansatz-gegen-ms-untersucht.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/koerpereigener-zucker-wird-als-ansatz-gegen-ms-untersucht.png" alt="Körpereigener Zucker wird als Ansatz gegen MS untersucht"/><p>Körpereigener Zucker wird als Ansatz gegen MS untersucht</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>Immunzellen im Blut verraten Unterschiede beim Altern</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/immunzellen-im-blut-verraten-unterschiede-beim-altern-133714195</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/immunzellen-im-blut-verraten-unterschiede-beim-altern-133714195"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/immunzellen-im-blut-verraten-unterschiede-beim-altern.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/immunzellen-im-blut-verraten-unterschiede-beim-altern.png" alt="Immunzellen im Blut verraten Unterschiede beim Altern"/><p>Immunzellen im Blut verraten Unterschiede beim Altern</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>El Niño könnte zum stärksten Ereignis seit 1950 werden</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/el-nino-koennte-zum-staerksten-ereignis-seit-1950-werden-133714184</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/el-nino-koennte-zum-staerksten-ereignis-seit-1950-werden-133714184"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/el-nino-koennte-zum-staerksten-ereignis-seit-1950-werden.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/el-nino-koennte-zum-staerksten-ereignis-seit-1950-werden.png" alt="El Niño könnte zum stärksten Ereignis seit 1950 werden"/><p>El Niño könnte zum stärksten Ereignis seit 1950 werden</p>]]></content>
     </entry>
@@ -41,35 +59,17 @@
       <title>Elektroauto warnt im Test neun Minuten früher vor Akkubrand</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/elektroauto-warnt-im-test-neun-minuten-frueher-vor-akkubrand-133714175</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/elektroauto-warnt-im-test-neun-minuten-frueher-vor-akkubrand-133714175"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektroauto-warnt-im-test-neun-minuten-frueher-vor-akkubrand.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektroauto-warnt-im-test-neun-minuten-frueher-vor-akkubrand.png" alt="Elektroauto warnt im Test neun Minuten früher vor Akkubrand"/><p>Elektroauto warnt im Test neun Minuten früher vor Akkubrand</p>]]></content>
-    </entry>
-    <entry>
-      <title>Königsmünze aus Norwegen hat nur vier bekannte Gegenstücke</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/koenigsmuenze-aus-norwegen-hat-nur-vier-bekannte-gegenstuecke-133714172</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/koenigsmuenze-aus-norwegen-hat-nur-vier-bekannte-gegenstuecke-133714172"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/koenigsmuenze-aus-norwegen-hat-nur-vier-bekannte-gegenstuecke.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/koenigsmuenze-aus-norwegen-hat-nur-vier-bekannte-gegenstuecke.png" alt="Königsmünze aus Norwegen hat nur vier bekannte Gegenstücke"/><p>Königsmünze aus Norwegen hat nur vier bekannte Gegenstücke</p>]]></content>
-    </entry>
-    <entry>
-      <title>Zwillinge verändern den Blick auf Bildschirmzeit und Depressionen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/zwillinge-veraendern-den-blick-auf-bildschirmzeit-und-depressionen-133714166</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/zwillinge-veraendern-den-blick-auf-bildschirmzeit-und-depressionen-133714166"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/zwillinge-veraendern-den-blick-auf-bildschirmzeit-und-depressionen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/zwillinge-veraendern-den-blick-auf-bildschirmzeit-und-depressionen.png" alt="Zwillinge verändern den Blick auf Bildschirmzeit und Depressionen"/><p>Zwillinge verändern den Blick auf Bildschirmzeit und Depressionen</p>]]></content>
     </entry>
     <entry>
       <title>Gewitterwolken sind zehnmal zu schwach, um einen Blitz zu zünden</title>
       <id>https://www.forschung-und-wissen.de/magazin/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden-133712947</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden-133712947"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden.jpg" alt="Gewitterwolken sind zehnmal zu schwach, um einen Blitz zu zünden"/><p>Gewitterwolken sind zehnmal zu schwach, um einen Blitz zu zünden</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>Mercedes W123 legt auf Gran Canaria sieben Millionen Kilometer zurück</title>
       <id>https://www.forschung-und-wissen.de/magazin/mercedes-w123-legt-auf-gran-canaria-sieben-millionen-kilometer-zurueck-133712941</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/mercedes-w123-legt-auf-gran-canaria-sieben-millionen-kilometer-zurueck-133712941"/>
-      <updated>2026-10-10T10:44:00Z</updated>
-      <published>2026-10-10T10:44:00Z</published>
+      <updated>2026-10-10T20:13:03Z</updated>
+      <published>2026-10-10T20:13:03Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/mercedes-w123-legt-auf-gran-canaria-sieben-millionen-kilometer-zurueck.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/mercedes-w123-legt-auf-gran-canaria-sieben-millionen-kilometer-zurueck.jpg" alt="Mercedes W123 legt auf Gran Canaria sieben Millionen Kilometer zurück"/><p>Mercedes W123 legt auf Gran Canaria sieben Millionen Kilometer zurück</p>]]></content>
     </entry>
