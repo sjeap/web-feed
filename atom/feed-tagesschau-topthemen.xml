@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-11T10:56:57Z</updated>
+  <updated>2026-10-11T20:27:28Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck</title>
-      <id>https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html"/>
-      <updated>2026-10-11T10:56:57Z</updated>
-      <published>2026-10-11T10:56:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7455981f-e3d9-45ca-a02d-1ae6903baa5c/AAABoSl3KO0/AAABnSSvrFg/16x9-big/selenskyj-1200.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7455981f-e3d9-45ca-a02d-1ae6903baa5c/AAABoSl3KO0/AAABnSSvrFg/16x9-big/selenskyj-1200.jpg?width=1280" alt="Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck"/><p>Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck</p>]]></content>
+      <title>Russland greift trotz angeblicher &quot;Energie-Waffenruhe&quot; weiter Anlagen an</title>
+      <id>https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html"/>
+      <updated>2026-10-11T20:27:28Z</updated>
+      <published>2026-10-11T20:27:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/16b64033-9463-4382-876c-7c6c79d3c93f/AAABoSyXu9k/AAABnSSvrFg/16x9-big/angriff-kiew-138.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/16b64033-9463-4382-876c-7c6c79d3c93f/AAABoSyXu9k/AAABnSSvrFg/16x9-big/angriff-kiew-138.jpg?width=1280" alt="Russland greift trotz angeblicher "Energie-Waffenruhe" weiter Anlagen an"/><p>Russland greift trotz angeblicher &quot;Energie-Waffenruhe&quot; weiter Anlagen an</p>]]></content>
     </entry>
     <entry>
-      <title>Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad</title>
-      <id>https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html"/>
-      <updated>2026-10-11T10:56:57Z</updated>
-      <published>2026-10-11T10:56:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7fe37f68-085a-4fe4-a697-d96c3dd3b092/AAABoSgZKIk/AAABnSSvrFg/16x9-big/riad-airport-101.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7fe37f68-085a-4fe4-a697-d96c3dd3b092/AAABoSgZKIk/AAABnSSvrFg/16x9-big/riad-airport-101.jpg?width=1280" alt="Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad"/><p>Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad</p>]]></content>
+      <title>Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation</title>
+      <id>https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html"/>
+      <updated>2026-10-11T20:27:28Z</updated>
+      <published>2026-10-11T20:27:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/25da5b7b-b3a8-4539-a20a-1ab7298a3e65/AAABoSwWJCY/AAABnSSvrFg/16x9-big/huthi-drohung-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/25da5b7b-b3a8-4539-a20a-1ab7298a3e65/AAABoSwWJCY/AAABnSSvrFg/16x9-big/huthi-drohung-100.jpg?width=1280" alt="Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation"/><p>Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation</p>]]></content>
     </entry>
     <entry>
-      <title>Mehrere Tote und etliche ohne Strom durch Sturm &quot;Isaias&quot;</title>
-      <id>https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html"/>
-      <updated>2026-10-11T10:56:57Z</updated>
-      <published>2026-10-11T10:56:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7370d223-ada8-4767-b5db-1cd5156f78c6/AAABoSeO-94/AAABnSSvrFg/16x9-big/isaias-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7370d223-ada8-4767-b5db-1cd5156f78c6/AAABoSeO-94/AAABnSSvrFg/16x9-big/isaias-102.jpg?width=1280" alt="Mehrere Tote und etliche ohne Strom durch Sturm "Isaias""/><p>Mehrere Tote und etliche ohne Strom durch Sturm &quot;Isaias&quot;</p>]]></content>
+      <title>&quot;Die Stromsteuer muss für alle gesenkt werden&quot;</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html"/>
+      <updated>2026-10-11T20:27:28Z</updated>
+      <published>2026-10-11T20:27:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2b4bc4c2-a221-4ce0-9195-80a06046f252/AAABoSv1uag/AAABnSSvrFg/16x9-big/sendungsbild-1809912.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2b4bc4c2-a221-4ce0-9195-80a06046f252/AAABoSv1uag/AAABnSSvrFg/16x9-big/sendungsbild-1809912.jpg?width=1280" alt=""Die Stromsteuer muss für alle gesenkt werden""/><p>&quot;Die Stromsteuer muss für alle gesenkt werden&quot;</p>]]></content>
     </entry>
     <entry>
       <title>Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe</title>
       <id>https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html"/>
-      <updated>2026-10-11T10:56:57Z</updated>
-      <published>2026-10-11T10:56:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSE1c7s/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSE1c7s/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1280" alt="Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe"/><p>Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe</p>]]></content>
+      <updated>2026-10-11T20:27:28Z</updated>
+      <published>2026-10-11T20:27:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSqnoK0/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSqnoK0/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1280" alt="Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe"/><p>Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe</p>]]></content>
     </entry>
     <entry>
-      <title>Weg frei für Koalitionsverhandlungen in Schwerin</title>
-      <id>https://www.tagesschau.de/</id>
-      <link rel="alternate" href="https://www.tagesschau.de/"/>
-      <updated>2026-10-11T10:56:57Z</updated>
-      <published>2026-10-11T10:56:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABlpITK5s/AAABnSSvrFg/16x9-big/tagesschau-logo-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABlpITK5s/AAABnSSvrFg/16x9-big/tagesschau-logo-100.jpg?width=1280" alt="Weg frei für Koalitionsverhandlungen in Schwerin"/><p>Weg frei für Koalitionsverhandlungen in Schwerin</p>]]></content>
+      <title>Schutzstatus in Deutschland: Asylklagen dauern wieder länger</title>
+      <id>https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html"/>
+      <updated>2026-10-11T20:27:28Z</updated>
+      <published>2026-10-11T20:27:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/82b12dce-29d2-4f5f-adc5-d71b44010860/AAABoSnTVyM/AAABnSSvrFg/16x9-big/bundesamt-fuer-migration-und-fluechtlinge-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/82b12dce-29d2-4f5f-adc5-d71b44010860/AAABoSnTVyM/AAABnSSvrFg/16x9-big/bundesamt-fuer-migration-und-fluechtlinge-104.jpg?width=1280" alt="Schutzstatus in Deutschland: Asylklagen dauern wieder länger"/><p>Schutzstatus in Deutschland: Asylklagen dauern wieder länger</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664232.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664232.html"/>
-      <updated>2026-10-11T10:56:57Z</updated>
-      <published>2026-10-11T10:56:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/365dea55-4a23-4395-a6e8-f78f209643cb/AAABoSosEwY/AAABnSSvrFg/16x9-big/sendungsbild-1809736.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/365dea55-4a23-4395-a6e8-f78f209643cb/AAABoSosEwY/AAABnSSvrFg/16x9-big/sendungsbild-1809736.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664598.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1664598.html"/>
+      <updated>2026-10-11T20:27:28Z</updated>
+      <published>2026-10-11T20:27:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/273b5c5b-fb57-4c4a-8122-2b372020a364/AAABoSxfvGs/AAABnSSvrFg/16x9-big/sendungsbild-1809994.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/273b5c5b-fb57-4c4a-8122-2b372020a364/AAABoSxfvGs/AAABnSSvrFg/16x9-big/sendungsbild-1809994.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
