@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-12T12:17:04Z</updated>
+  <updated>2026-10-12T23:07:25Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-12T12:17:04Z</updated>
-      <published>2026-10-12T12:17:04Z</published>
+      <updated>2026-10-12T23:07:25Z</updated>
+      <published>2026-10-12T23:07:25Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet</title>
+      <id>https://correctiv.org/faktencheck/2026/10/12/proteste-in-frankreich-feuerwehrmann-in-bordeaux-wurde-nicht-von-jugendlichen-angezuendet/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/12/proteste-in-frankreich-feuerwehrmann-in-bordeaux-wurde-nicht-von-jugendlichen-angezuendet/"/>
+      <updated>2026-10-12T00:00:00Z</updated>
+      <published>2026-10-12T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/tinywow_622405435_92143273-scaled-e1791803341687.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/tinywow_622405435_92143273-scaled-e1791803341687.jpg" alt="Protestanten mit französischsprachigen Schildern"/><p>Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet</p>]]></content>
     </entry>
     <entry>
       <title>Digitaler Euro: Welche Rolle die Europäische Zentralbank bei Obergrenzen spielen soll</title>
@@ -225,14 +234,5 @@
       <published>2026-08-31T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/ceuta-minderjaehrige-scaled-e1788191488875.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/ceuta-minderjaehrige-scaled-e1788191488875.jpg" alt="Minderjährige Geflüchtete auf Ceuta sollen angeblich in die EU gebracht worden sein, behauptet unter anderem Maximilian Krah"/><p>So geht Spanien mit minderjährigen Geflüchteten in Ceuta um</p>]]></content>
-    </entry>
-    <entry>
-      <title>Historisches Niedrigwasser am Rhein ist kein Beleg gegen den Klimawandel</title>
-      <id>https://correctiv.org/faktencheck/2026/08/31/historisches-niedrigwasser-am-rhein-ist-kein-beleg-gegen-den-klimawandel/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/31/historisches-niedrigwasser-am-rhein-ist-kein-beleg-gegen-den-klimawandel/"/>
-      <updated>2026-08-31T00:00:00Z</updated>
-      <published>2026-08-31T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Bildschirmfoto-2026-08-20-um-09.02.05.png"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Bildschirmfoto-2026-08-20-um-09.02.05.png" alt="Historisches Niedrigwasser am Rhein ist kein Beleg gegen den Klimawandel"/><p>Historisches Niedrigwasser am Rhein ist kein Beleg gegen den Klimawandel</p>]]></content>
     </entry>
 </feed>
