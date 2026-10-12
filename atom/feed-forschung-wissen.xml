@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-11T20:27:30Z</updated>
+  <updated>2026-10-12T12:17:06Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Abnehmspritzen gehen bei 39 Prozent mit Nagelablösung einher</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/abnehmspritzen-gehen-bei-39-prozent-mit-nagelabloesung-einher-133713743</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/abnehmspritzen-gehen-bei-39-prozent-mit-nagelabloesung-einher-133713743"/>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/abnehmspritzen-gehen-bei-39-prozent-mit-nagelabloesung-einher.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/abnehmspritzen-gehen-bei-39-prozent-mit-nagelabloesung-einher.jpg" alt="Abnehmspritzen gehen bei 39 Prozent mit Nagelablösung einher"/><p>Abnehmspritzen gehen bei 39 Prozent mit Nagelablösung einher</p>]]></content>
+    </entry>
+    <entry>
+      <title>Wasser macht neuen CO2-Fänger in Fabrikabgasen sogar wirksamer</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/wasser-macht-neuen-co2-faenger-in-fabrikabgasen-sogar-wirksamer-133713784</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/wasser-macht-neuen-co2-faenger-in-fabrikabgasen-sogar-wirksamer-133713784"/>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/wasser-macht-neuen-co2-faenger-in-fabrikabgasen-sogar-wirksamer.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/wasser-macht-neuen-co2-faenger-in-fabrikabgasen-sogar-wirksamer.jpg" alt="Wasser macht neuen CO2-Fänger in Fabrikabgasen sogar wirksamer"/><p>Wasser macht neuen CO2-Fänger in Fabrikabgasen sogar wirksamer</p>]]></content>
+    </entry>
+    <entry>
       <title>Freizeit mit Haustieren ist mit mehr Wohlbefinden verbunden</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/freizeit-mit-haustieren-ist-mit-mehr-wohlbefinden-verbunden-133714247</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/freizeit-mit-haustieren-ist-mit-mehr-wohlbefinden-verbunden-133714247"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/freizeit-mit-haustieren-ist-mit-mehr-wohlbefinden-verbunden.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/freizeit-mit-haustieren-ist-mit-mehr-wohlbefinden-verbunden.png" alt="Freizeit mit Haustieren ist mit mehr Wohlbefinden verbunden"/><p>Freizeit mit Haustieren ist mit mehr Wohlbefinden verbunden</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>15 Meter langes Wrackstück gehört zu einem unbekannten Schiff</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/15-meter-langes-wrackstueck-gehoert-zu-einem-unbekannten-schiff-133714238</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/15-meter-langes-wrackstueck-gehoert-zu-einem-unbekannten-schiff-133714238"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/15-meter-langes-wrackstueck-gehoert-zu-einem-unbekannten-schiff.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/15-meter-langes-wrackstueck-gehoert-zu-einem-unbekannten-schiff.png" alt="15 Meter langes Wrackstück gehört zu einem unbekannten Schiff"/><p>15 Meter langes Wrackstück gehört zu einem unbekannten Schiff</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Neue Immuntherapie nach Darmkrebsoperation erhält US-Zulassung</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/medizin/neue-immuntherapie-nach-darmkrebsoperation-erhaelt-us-zulassung-133714208</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/neue-immuntherapie-nach-darmkrebsoperation-erhaelt-us-zulassung-133714208"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/neue-immuntherapie-nach-darmkrebsoperation-erhaelt-us-zulassung.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/neue-immuntherapie-nach-darmkrebsoperation-erhaelt-us-zulassung.png" alt="Neue Immuntherapie nach Darmkrebsoperation erhält US-Zulassung"/><p>Neue Immuntherapie nach Darmkrebsoperation erhält US-Zulassung</p>]]></content>
     </entry>
@@ -41,45 +59,27 @@
       <title>Neue Mondbilder zeigen eine 54 Minuten lange Sonnenfinsternis</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/neue-mondbilder-zeigen-eine-54-minuten-lange-sonnenfinsternis-133714225</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/neue-mondbilder-zeigen-eine-54-minuten-lange-sonnenfinsternis-133714225"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/neue-mondbilder-zeigen-eine-54-minuten-lange-sonnenfinsternis.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/neue-mondbilder-zeigen-eine-54-minuten-lange-sonnenfinsternis.png" alt="Neue Mondbilder zeigen eine 54 Minuten lange Sonnenfinsternis"/><p>Neue Mondbilder zeigen eine 54 Minuten lange Sonnenfinsternis</p>]]></content>
     </entry>
     <entry>
-      <title>Versunkener Palast gibt einen Ring mit verlorenem Weltwunder frei</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/versunkener-palast-gibt-einen-ring-mit-verlorenem-weltwunder-frei-133714223</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/versunkener-palast-gibt-einen-ring-mit-verlorenem-weltwunder-frei-133714223"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/versunkener-palast-gibt-einen-ring-mit-verlorenem-weltwunder-frei.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/versunkener-palast-gibt-einen-ring-mit-verlorenem-weltwunder-frei.png" alt="Versunkener Palast gibt einen Ring mit verlorenem Weltwunder frei"/><p>Versunkener Palast gibt einen Ring mit verlorenem Weltwunder frei</p>]]></content>
-    </entry>
-    <entry>
-      <title>Schwert aus einem See ist nach über 3000 Jahren noch scharf</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/schwert-aus-einem-see-ist-nach-ueber-3000-jahren-noch-scharf-133714217</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/schwert-aus-einem-see-ist-nach-ueber-3000-jahren-noch-scharf-133714217"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/schwert-aus-einem-see-ist-nach-ueber-3000-jahren-noch-scharf.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/schwert-aus-einem-see-ist-nach-ueber-3000-jahren-noch-scharf.png" alt="Schwert aus einem See ist nach über 3000 Jahren noch scharf"/><p>Schwert aus einem See ist nach über 3000 Jahren noch scharf</p>]]></content>
+      <title>1529 tötete in Hamburg eine Seuche binnen Stunden und verschwand für immer</title>
+      <id>https://www.forschung-und-wissen.de/magazin/1529-toetete-in-hamburg-eine-seuche-binnen-stunden-und-verschwand-fuer-immer-133712954</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/1529-toetete-in-hamburg-eine-seuche-binnen-stunden-und-verschwand-fuer-immer-133712954"/>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/1529-toetete-in-hamburg-eine-seuche-binnen-stunden-und-verschwand-fuer-immer.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/1529-toetete-in-hamburg-eine-seuche-binnen-stunden-und-verschwand-fuer-immer.jpg" alt="1529 tötete in Hamburg eine Seuche binnen Stunden und verschwand für immer"/><p>1529 tötete in Hamburg eine Seuche binnen Stunden und verschwand für immer</p>]]></content>
     </entry>
     <entry>
       <title>Auf dem Mond ist ein 70 Kilometer langer Wirbel, der keinen Schatten wirft</title>
       <id>https://www.forschung-und-wissen.de/magazin/auf-dem-mond-ist-ein-70-kilometer-langer-wirbel-der-keinen-schatten-wirft-133712960</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/auf-dem-mond-ist-ein-70-kilometer-langer-wirbel-der-keinen-schatten-wirft-133712960"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
+      <updated>2026-10-12T12:17:06Z</updated>
+      <published>2026-10-12T12:17:06Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/auf-dem-mond-ist-ein-70-kilometer-langer-wirbel-der-keinen-schatten-wirft.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/auf-dem-mond-ist-ein-70-kilometer-langer-wirbel-der-keinen-schatten-wirft.jpg" alt="Auf dem Mond ist ein 70 Kilometer langer Wirbel, der keinen Schatten wirft"/><p>Auf dem Mond ist ein 70 Kilometer langer Wirbel, der keinen Schatten wirft</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gewitterwolken sind zehnmal zu schwach, um einen Blitz zu zünden</title>
-      <id>https://www.forschung-und-wissen.de/magazin/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden-133712947</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden-133712947"/>
-      <updated>2026-10-11T20:27:30Z</updated>
-      <published>2026-10-11T20:27:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/gewitterwolken-sind-zehnmal-zu-schwach-um-einen-blitz-zu-zuenden.jpg" alt="Gewitterwolken sind zehnmal zu schwach, um einen Blitz zu zünden"/><p>Gewitterwolken sind zehnmal zu schwach, um einen Blitz zu zünden</p>]]></content>
     </entry>
 </feed>
