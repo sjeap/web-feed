@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-13T12:01:27Z</updated>
+  <updated>2026-10-13T21:23:46Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-13T12:01:27Z</updated>
-      <published>2026-10-13T12:01:27Z</published>
+      <updated>2026-10-13T21:23:46Z</updated>
+      <published>2026-10-13T21:23:46Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Liste von angeblichen Positionen der Berliner Linke teils richtig, teils verkürzt</title>
+      <id>https://correctiv.org/faktencheck/2026/10/13/liste-von-angeblichen-positionen-der-berliner-linke-teils-richtig-teils-verkuerzt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/13/liste-von-angeblichen-positionen-der-berliner-linke-teils-richtig-teils-verkuerzt/"/>
+      <updated>2026-10-13T00:00:00Z</updated>
+      <published>2026-10-13T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/rathaus-berlin-sebastian-gollnow-dpa-picture-alliance-scaled-e1791898286960.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/rathaus-berlin-sebastian-gollnow-dpa-picture-alliance-scaled-e1791898286960.jpg" alt="Außenaufnahme des Berliner Rathauses."/><p>Liste von angeblichen Positionen der Berliner Linke teils richtig, teils verkürzt</p>]]></content>
     </entry>
     <entry>
       <title>Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet</title>
@@ -225,14 +234,5 @@
       <published>2026-08-31T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Merz-Chrupalla-Picture-Alliance-20260831-scaled-e1788192917425.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Merz-Chrupalla-Picture-Alliance-20260831-scaled-e1788192917425.jpg" alt="Gefälschter Artikel: Maischberger-Gespräch zwischen Merz und Chrupalla erfunden"/><p>Gefälschter Artikel: Maischberger-Gespräch zwischen Merz und Chrupalla erfunden</p>]]></content>
-    </entry>
-    <entry>
-      <title>So geht Spanien mit minderjährigen Geflüchteten in Ceuta um</title>
-      <id>https://correctiv.org/faktencheck/2026/08/31/so-geht-spanien-mit-minderjaehrigen-gefluechteten-in-ceuta-um/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/31/so-geht-spanien-mit-minderjaehrigen-gefluechteten-in-ceuta-um/"/>
-      <updated>2026-08-31T00:00:00Z</updated>
-      <published>2026-08-31T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/ceuta-minderjaehrige-scaled-e1788191488875.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/ceuta-minderjaehrige-scaled-e1788191488875.jpg" alt="Minderjährige Geflüchtete auf Ceuta sollen angeblich in die EU gebracht worden sein, behauptet unter anderem Maximilian Krah"/><p>So geht Spanien mit minderjährigen Geflüchteten in Ceuta um</p>]]></content>
     </entry>
 </feed>
