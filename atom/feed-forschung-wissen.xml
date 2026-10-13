@@ -5,17 +5,26 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-13T12:01:24Z</updated>
+  <updated>2026-10-13T21:23:53Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Plastikspuren stecken im Fischmuskel aus drei Weltmeeren</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/plastikspuren-stecken-im-fischmuskel-aus-drei-weltmeeren-133714405</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/plastikspuren-stecken-im-fischmuskel-aus-drei-weltmeeren-133714405"/>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/plastikspuren-stecken-im-fischmuskel-aus-drei-weltmeeren.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/plastikspuren-stecken-im-fischmuskel-aus-drei-weltmeeren.png" alt="Plastikspuren stecken im Fischmuskel aus drei Weltmeeren"/><p>Plastikspuren stecken im Fischmuskel aus drei Weltmeeren</p>]]></content>
+    </entry>
+    <entry>
       <title>NASA-Bild zeigt vier Kilometer breite Spinnenform in Australien</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/geologie/nasa-bild-zeigt-vier-kilometer-breite-spinnenform-in-australien-133714420</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/nasa-bild-zeigt-vier-kilometer-breite-spinnenform-in-australien-133714420"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/nasa-bild-zeigt-vier-kilometer-breite-spinnenform-in-australien.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/nasa-bild-zeigt-vier-kilometer-breite-spinnenform-in-australien.png" alt="NASA-Bild zeigt vier Kilometer breite Spinnenform in Australien"/><p>NASA-Bild zeigt vier Kilometer breite Spinnenform in Australien</p>]]></content>
     </entry>
@@ -23,8 +32,8 @@
       <title>170 Millionen Jahre altes Krokodil hatte Zähne wie Nadeln</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/170-millionen-jahre-altes-krokodil-hatte-zaehne-wie-nadeln-133714418</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/170-millionen-jahre-altes-krokodil-hatte-zaehne-wie-nadeln-133714418"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/170-millionen-jahre-altes-krokodil-hatte-zaehne-wie-nadeln.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/170-millionen-jahre-altes-krokodil-hatte-zaehne-wie-nadeln.png" alt="170 Millionen Jahre altes Krokodil hatte Zähne wie Nadeln"/><p>170 Millionen Jahre altes Krokodil hatte Zähne wie Nadeln</p>]]></content>
     </entry>
@@ -32,8 +41,8 @@
       <title>Marsrover bricht nach 45 Kilometern einen Weltraumrekord</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/marsrover-bricht-nach-45-kilometern-einen-weltraumrekord-133714415</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/marsrover-bricht-nach-45-kilometern-einen-weltraumrekord-133714415"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/marsrover-bricht-nach-45-kilometern-einen-weltraumrekord.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/marsrover-bricht-nach-45-kilometern-einen-weltraumrekord.png" alt="Marsrover bricht nach 45 Kilometern einen Weltraumrekord"/><p>Marsrover bricht nach 45 Kilometern einen Weltraumrekord</p>]]></content>
     </entry>
@@ -41,8 +50,8 @@
       <title>3400 Jahre alte Tontafeln enthüllen die Not eines Königreichs</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/3400-jahre-alte-tontafeln-enthuellen-die-not-eines-koenigreichs-133714412</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/3400-jahre-alte-tontafeln-enthuellen-die-not-eines-koenigreichs-133714412"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/3400-jahre-alte-tontafeln-enthuellen-die-not-eines-koenigreichs.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/3400-jahre-alte-tontafeln-enthuellen-die-not-eines-koenigreichs.png" alt="3400 Jahre alte Tontafeln enthüllen die Not eines Königreichs"/><p>3400 Jahre alte Tontafeln enthüllen die Not eines Königreichs</p>]]></content>
     </entry>
@@ -50,36 +59,27 @@
       <title>Taucher bergen möglichen Steinzeitanker aus 20 Metern Tiefe</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/taucher-bergen-moeglichen-steinzeitanker-aus-20-metern-tiefe-133714411</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/taucher-bergen-moeglichen-steinzeitanker-aus-20-metern-tiefe-133714411"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/taucher-bergen-moeglichen-steinzeitanker-aus-20-metern-tiefe.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/taucher-bergen-moeglichen-steinzeitanker-aus-20-metern-tiefe.png" alt="Taucher bergen möglichen Steinzeitanker aus 20 Metern Tiefe"/><p>Taucher bergen möglichen Steinzeitanker aus 20 Metern Tiefe</p>]]></content>
     </entry>
     <entry>
-      <title>Hawaii und die Osterinsel verbindet eine unerwartete DNA-Spur</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/hawaii-und-die-osterinsel-verbindet-eine-unerwartete-dna-spur-133714399</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/hawaii-und-die-osterinsel-verbindet-eine-unerwartete-dna-spur-133714399"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/hawaii-und-die-osterinsel-verbindet-eine-unerwartete-dna-spur.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/hawaii-und-die-osterinsel-verbindet-eine-unerwartete-dna-spur.png" alt="Hawaii und die Osterinsel verbindet eine unerwartete DNA-Spur"/><p>Hawaii und die Osterinsel verbindet eine unerwartete DNA-Spur</p>]]></content>
+      <title>Templerorden: Die reichste Macht des Mittelalters fiel an einem Freitag</title>
+      <id>https://www.forschung-und-wissen.de/magazin/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag-133713350</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag-133713350"/>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag.jpg" alt="Templerorden: Die reichste Macht des Mittelalters fiel an einem Freitag"/><p>Templerorden: Die reichste Macht des Mittelalters fiel an einem Freitag</p>]]></content>
     </entry>
     <entry>
       <title>Um 1809 kühlte ein Vulkan die Erde ab, den niemand je gefunden hat</title>
       <id>https://www.forschung-und-wissen.de/magazin/um-1809-kuehlte-ein-vulkan-die-erde-ab-den-niemand-je-gefunden-hat-133712956</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/um-1809-kuehlte-ein-vulkan-die-erde-ab-den-niemand-je-gefunden-hat-133712956"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
+      <updated>2026-10-13T21:23:53Z</updated>
+      <published>2026-10-13T21:23:53Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/um-1809-kuehlte-ein-vulkan-die-erde-ab-den-niemand-je-gefunden-hat.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/um-1809-kuehlte-ein-vulkan-die-erde-ab-den-niemand-je-gefunden-hat.jpg" alt="Um 1809 kühlte ein Vulkan die Erde ab, den niemand je gefunden hat"/><p>Um 1809 kühlte ein Vulkan die Erde ab, den niemand je gefunden hat</p>]]></content>
-    </entry>
-    <entry>
-      <title>Wladimir Demichow führte Kopftransplantationen an Hunden durch</title>
-      <id>https://www.forschung-und-wissen.de/magazin/wladimir-demichow-fuehrte-kopftransplantationen-an-hunden-durch-133714334</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/wladimir-demichow-fuehrte-kopftransplantationen-an-hunden-durch-133714334"/>
-      <updated>2026-10-13T12:01:24Z</updated>
-      <published>2026-10-13T12:01:24Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/wladimir-demichow-fuehrte-kopftransplantationen-an-hunden-durch.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/wladimir-demichow-fuehrte-kopftransplantationen-an-hunden-durch.png" alt="Wladimir Demichow führte Kopftransplantationen an Hunden durch"/><p>Wladimir Demichow führte Kopftransplantationen an Hunden durch</p>]]></content>
     </entry>
 </feed>
