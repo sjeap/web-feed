@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-13T21:23:43Z</updated>
+  <updated>2026-10-14T09:38:30Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Papst Leo XIV. hat Lungenkrebs</title>
-      <id>https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"/>
-      <updated>2026-10-13T21:23:43Z</updated>
-      <published>2026-10-13T21:23:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1280" alt="Papst Leo XIV. hat Lungenkrebs"/><p>Papst Leo XIV. hat Lungenkrebs</p>]]></content>
+      <title>Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html"/>
+      <updated>2026-10-14T09:38:30Z</updated>
+      <published>2026-10-14T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/75dec400-9e99-451c-8ebb-1c020bd82953/AAABk4LjAO8/AAABnSSvrFg/16x9-big/franziska-brantner-106.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/75dec400-9e99-451c-8ebb-1c020bd82953/AAABk4LjAO8/AAABnSSvrFg/16x9-big/franziska-brantner-106.jpg?width=1280" alt="Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin"/><p>Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin</p>]]></content>
     </entry>
     <entry>
-      <title>Berlin: Grüne und SPD unterbrechen Sondierungen mit Berliner Linken</title>
-      <id>https://www.tagesschau.de/inland/regional/berlin/rbb-gruene-und-spd-unterbrechen-sondierungen-mit-berliner-linken-104.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/regional/berlin/rbb-gruene-und-spd-unterbrechen-sondierungen-mit-berliner-linken-104.html"/>
-      <updated>2026-10-13T21:23:43Z</updated>
-      <published>2026-10-13T21:23:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/30812d7f-f4a5-4b62-b27d-e27ad86b6faf/AAABoTaLA60/AAABnSSvrFg/16x9-big/rbb-krach-wolter-graf-623935825-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/30812d7f-f4a5-4b62-b27d-e27ad86b6faf/AAABoTaLA60/AAABnSSvrFg/16x9-big/rbb-krach-wolter-graf-623935825-100.jpg?width=1280" alt="Berlin: Grüne und SPD unterbrechen Sondierungen mit Berliner Linken"/><p>Berlin: Grüne und SPD unterbrechen Sondierungen mit Berliner Linken</p>]]></content>
+      <title>Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"/>
+      <updated>2026-10-14T09:38:30Z</updated>
+      <published>2026-10-14T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1280" alt="Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell"/><p>Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell</p>]]></content>
     </entry>
     <entry>
-      <title>Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html"/>
-      <updated>2026-10-13T21:23:43Z</updated>
-      <published>2026-10-13T21:23:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f1bc49a1-2c61-40e1-acc3-e2b487cf6afe/AAABoTXdz4s/AAABnSSvrFg/16x9-big/merz-steinmeier-schweitzer-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f1bc49a1-2c61-40e1-acc3-e2b487cf6afe/AAABoTXdz4s/AAABnSSvrFg/16x9-big/merz-steinmeier-schweitzer-100.jpg?width=1280" alt="Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister"/><p>Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister</p>]]></content>
+      <title>Nord-Stream-Anschlag - ein Prozess mit politischer Dimension</title>
+      <id>https://www.tagesschau.de/inland/prozess-nord-stream-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/prozess-nord-stream-100.html"/>
+      <updated>2026-10-14T09:38:30Z</updated>
+      <published>2026-10-14T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/934f0a79-cee7-44bd-91ec-0c9732c94d7a/AAABoTi9luM/AAABnSSvrFg/16x9-big/nordstream-festnahme-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/934f0a79-cee7-44bd-91ec-0c9732c94d7a/AAABoTi9luM/AAABnSSvrFg/16x9-big/nordstream-festnahme-102.jpg?width=1280" alt="Nord-Stream-Anschlag - ein Prozess mit politischer Dimension"/><p>Nord-Stream-Anschlag - ein Prozess mit politischer Dimension</p>]]></content>
     </entry>
     <entry>
-      <title>Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker</title>
-      <id>https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html"/>
-      <updated>2026-10-13T21:23:43Z</updated>
-      <published>2026-10-13T21:23:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f13a2394-6315-4e5f-9fa2-94cb6dfa6b4a/AAABoTWc5ac/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-112.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f13a2394-6315-4e5f-9fa2-94cb6dfa6b4a/AAABoTWc5ac/AAABnSSvrFg/16x9-big/schuelerproteste-frankreich-112.jpg?width=1280" alt="Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker"/><p>Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker</p>]]></content>
+      <title>Selenskyj beklagt fehlende Warnung vor russischen Angriffen</title>
+      <id>https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html"/>
+      <updated>2026-10-14T09:38:30Z</updated>
+      <published>2026-10-14T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/123187b8-d1a2-4418-b479-715f1e50991a/AAABoTg3ano/AAABnSSvrFg/16x9-big/kiew-hochhaus-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/123187b8-d1a2-4418-b479-715f1e50991a/AAABoTg3ano/AAABnSSvrFg/16x9-big/kiew-hochhaus-102.jpg?width=1280" alt="Selenskyj beklagt fehlende Warnung vor russischen Angriffen"/><p>Selenskyj beklagt fehlende Warnung vor russischen Angriffen</p>]]></content>
     </entry>
     <entry>
-      <title>Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz</title>
-      <id>https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html"/>
-      <updated>2026-10-13T21:23:43Z</updated>
-      <published>2026-10-13T21:23:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1eb6fbe4-7c08-4800-b6de-619aa376b7ab/AAABoTUQyAw/AAABnSSvrFg/16x9-big/pride-marsch-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1eb6fbe4-7c08-4800-b6de-619aa376b7ab/AAABoTUQyAw/AAABnSSvrFg/16x9-big/pride-marsch-100.jpg?width=1280" alt="Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz"/><p>Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz</p>]]></content>
+      <title>&quot;We are Jane Doe&quot; - Protestdemo an US-Eliteuni</title>
+      <id>https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html"/>
+      <updated>2026-10-14T09:38:30Z</updated>
+      <published>2026-10-14T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5115c4ba-6bbc-42fb-bc06-a1ea25809510/AAABoTl1_vI/AAABnSSvrFg/16x9-big/proteste-cornell-universitaet-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5115c4ba-6bbc-42fb-bc06-a1ea25809510/AAABoTl1_vI/AAABnSSvrFg/16x9-big/proteste-cornell-universitaet-100.jpg?width=1280" alt=""We are Jane Doe" - Protestdemo an US-Eliteuni"/><p>&quot;We are Jane Doe&quot; - Protestdemo an US-Eliteuni</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665770.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665770.html"/>
-      <updated>2026-10-13T21:23:43Z</updated>
-      <published>2026-10-13T21:23:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5b85e5a5-df86-4c62-a16f-7aed55817c7d/AAABoTbiar4/AAABnSSvrFg/16x9-big/sendungsbild-1811042.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5b85e5a5-df86-4c62-a16f-7aed55817c7d/AAABoTbiar4/AAABnSSvrFg/16x9-big/sendungsbild-1811042.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665942.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1665942.html"/>
+      <updated>2026-10-14T09:38:30Z</updated>
+      <published>2026-10-14T09:38:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/75ec508b-9d7c-487a-8cb1-20a7dcbe74f7/AAABoTmbhEI/AAABnSSvrFg/16x9-big/sendungsbild-1811266.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/75ec508b-9d7c-487a-8cb1-20a7dcbe74f7/AAABoTmbhEI/AAABnSSvrFg/16x9-big/sendungsbild-1811266.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
