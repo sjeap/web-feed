@@ -5,11 +5,102 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-13T19:59:24Z</updated>
+  <updated>2026-10-14T08:58:09Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>FBY: Meta&apos;s Capex Surge Meets A Capped Income Wrapper</title>
+      <id>4954007</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954007-fby-metas-capex-surge-meets-a-capped-income-wrapper?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T08:58:09Z</updated>
+      <published>2026-10-14T08:58:09Z</published>
+    </entry>
+    <entry>
+      <title>FITZ: The Must-Have Strategy For The AI Investment Cycle</title>
+      <id>4954006</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954006-fitz-the-must-have-strategy-for-the-ai-investment-cycle?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T08:54:30Z</updated>
+      <published>2026-10-14T08:54:30Z</published>
+    </entry>
+    <entry>
+      <title>ASML says supply will not meet demand at least until 2028</title>
+      <id>https://seekingalpha.com/MarketCurrent:4652755</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
+      <updated>2026-10-14T07:42:07Z</updated>
+      <published>2026-10-14T07:42:07Z</published>
+    </entry>
+    <entry>
+      <title>Rethinking Trend Investing: Alternative Signals, Not Alternative Markets</title>
+      <id>4954002</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954002-rethinking-trend-investing-alternative-signals-not-alternative-markets?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T07:40:00Z</updated>
+      <published>2026-10-14T07:40:00Z</published>
+    </entry>
+    <entry>
+      <title>TDV: I Changed My Mind; There Is A Better Option For Dividend Investors</title>
+      <id>4953985</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953985-tdv-i-changed-my-mind-there-is-a-better-option-for-dividend-investors?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T07:08:52Z</updated>
+      <published>2026-10-14T07:08:52Z</published>
+    </entry>
+    <entry>
+      <title>EMB: I Still Don&apos;t See A Bullish Investment Case</title>
+      <id>4953977</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953977-emb-i-still-dont-see-a-bullish-investment-case?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T06:41:30Z</updated>
+      <published>2026-10-14T06:41:30Z</published>
+    </entry>
+    <entry>
+      <title>VanEck Retail ETF: Premium Even With Weak Consumer Signals</title>
+      <id>4953976</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953976-vaneck-retail-etf-premium-even-with-weak-consumer-signals?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T06:36:11Z</updated>
+      <published>2026-10-14T06:36:11Z</published>
+    </entry>
+    <entry>
+      <title>AVMV: The Mid-Cap Drought May Finally Be Ending</title>
+      <id>4953975</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953975-avmv-the-mid-cap-drought-may-finally-be-ending?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T06:32:20Z</updated>
+      <published>2026-10-14T06:32:20Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto on track to unlock $5B as Q3 iron ore sales beat estimates</title>
+      <id>https://seekingalpha.com/MarketCurrent:4652748</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-10-14T05:20:50Z</updated>
+      <published>2026-10-14T05:20:50Z</published>
+    </entry>
+    <entry>
+      <title>HYLB: Shorter Duration Helps, But Credit Risk Is Rising</title>
+      <id>4953955</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953955-hylb-shorter-duration-helps-but-credit-risk-is-rising?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T03:51:02Z</updated>
+      <published>2026-10-14T03:51:02Z</published>
+    </entry>
+    <entry>
+      <title>TCAF: Recent Gains Are Encouraging, But Valuation Remains A Concern</title>
+      <id>4953950</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953950-tcaf-recent-gains-encouraging-valuation-remains-a-concern?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T03:14:34Z</updated>
+      <published>2026-10-14T03:14:34Z</published>
+    </entry>
+    <entry>
+      <title>What True &apos;Buy And Hold&apos; Investors Must Navigate</title>
+      <id>4953945</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953945-what-true-buy-hold-investors-must-navigate?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T01:05:00Z</updated>
+      <published>2026-10-14T01:05:00Z</published>
+    </entry>
+    <entry>
+      <title>Investing For A U.S. Fiscal Crisis</title>
+      <id>4953940</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4953940-investing-for-a-us-fiscal-crisis?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-14T00:38:23Z</updated>
+      <published>2026-10-14T00:38:23Z</published>
+    </entry>
     <entry>
       <title>ClearBridge International Growth ADR Strategy adds Linde, Techtronic Industries; exits Pan Pacific among Q3 moves</title>
       <id>https://seekingalpha.com/MarketCurrent:4652646</id>
@@ -81,13 +172,6 @@
       <published>2026-10-13T15:41:10Z</published>
     </entry>
     <entry>
-      <title>ASML’s 7-of-8 double-beat record raises Q3 bar: What to watch?</title>
-      <id>https://seekingalpha.com/MarketCurrent:4652432</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
-      <updated>2026-10-13T14:48:42Z</updated>
-      <published>2026-10-13T14:48:42Z</published>
-    </entry>
-    <entry>
       <title>BLV: Long-Bond Yields At 2002 Highs, But Duration Risk Remains</title>
       <id>4953807</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4953807-blv-long-bond-yields-at-2002-highs-but-duration-risk-remains?source=feed_tag_etf_portfolio_strategy"/>
@@ -100,89 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4953800-iemg-why-emerging-markets-next-leg-higher-is-just-ahead-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-13T14:37:09Z</updated>
       <published>2026-10-13T14:37:09Z</published>
-    </entry>
-    <entry>
-      <title>GOVZ: Time To Turn Constructive On Long Bonds (Upgrade)</title>
-      <id>4953797</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953797-govz-time-to-turn-constructive-on-long-bonds-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T14:31:37Z</updated>
-      <published>2026-10-13T14:31:37Z</published>
-    </entry>
-    <entry>
-      <title>LGI: Over 10 Years Later, LOR&apos;s Successor Trades At A Discount Again</title>
-      <id>4953796</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953796-lgi-over-10-years-later-lors-successor-trades-at-a-discount-again?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T14:31:32Z</updated>
-      <published>2026-10-13T14:31:32Z</published>
-    </entry>
-    <entry>
-      <title>TY: AI Exposure And Underperformance Are Real Risks</title>
-      <id>4953782</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953782-ty-ai-exposure-and-underperformance-are-real-risks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T14:07:43Z</updated>
-      <published>2026-10-13T14:07:43Z</published>
-    </entry>
-    <entry>
-      <title>GHY: Unsustainable Distribution And Bond Market Challenges May Result In Cut</title>
-      <id>4953778</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953778-ghy-unsustainable-distribution-and-bond-market-challenges-may-result-in-cut?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T14:02:33Z</updated>
-      <published>2026-10-13T14:02:33Z</published>
-    </entry>
-    <entry>
-      <title>S&amp;P 500 Concentration Is Even Worse Than It Looks, How I&apos;m Attacking It</title>
-      <id>4953744</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953744-s-and-p-500-concentration-is-even-worse-than-it-looks-how-im-attacking-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T13:39:18Z</updated>
-      <published>2026-10-13T13:39:18Z</published>
-    </entry>
-    <entry>
-      <title>TSMC Earnings Preview: High Growth Likely, But Mind The CapEx (Downgrade)</title>
-      <id>https://seekingalpha.com/Article:4953750</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953750-tsmc-earnings-preview-high-growth-likely-but-mind-the-capex-downgrade?source=feed_symbol_TSM"/>
-      <updated>2026-10-13T12:49:34Z</updated>
-      <published>2026-10-13T12:49:34Z</published>
-    </entry>
-    <entry>
-      <title>DGRO: The Rate Backdrop Has Turned, But It Is Still A Well Balanced Dividend Growth Fund (Downgrade To Buy)</title>
-      <id>4953706</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953706-dgro-the-rate-backdrop-has-turned-but-it-is-still-a-well-balanced-dividend-growth-fund-downgrade-to-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T10:31:05Z</updated>
-      <published>2026-10-13T10:31:05Z</published>
-    </entry>
-    <entry>
-      <title>FTSE China A50: Technology Moves Into The Large-Cap Mainstream</title>
-      <id>4953699</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953699-ftse-china-a50-technology-moves-large-cap-mainstream?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T10:05:00Z</updated>
-      <published>2026-10-13T10:05:00Z</published>
-    </entry>
-    <entry>
-      <title>DFSV: A &apos;New&apos; Yet Already Proven Value Fund</title>
-      <id>4953632</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953632-dfsv-a-new-yet-already-proven-value-fund?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T10:00:00Z</updated>
-      <published>2026-10-13T10:00:00Z</published>
-    </entry>
-    <entry>
-      <title>NIHI: High Monthly Income With Global Diversification</title>
-      <id>4953691</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953691-nihi-high-monthly-income-with-global-diversification?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T09:32:52Z</updated>
-      <published>2026-10-13T09:32:52Z</published>
-    </entry>
-    <entry>
-      <title>PDI: Contrarian Buy When Ideas Are Out Of Favor (Rating Upgrade)</title>
-      <id>4953685</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953685-pdi-contrarian-buy-when-ideas-are-out-of-favor-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T09:19:32Z</updated>
-      <published>2026-10-13T09:19:32Z</published>
-    </entry>
-    <entry>
-      <title>ANGL: A 7.5% Yield, With Rates Calling The Shots</title>
-      <id>4953669</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4953669-angl-a-7-5-percent-yield-with-rates-calling-the-shots?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-13T07:46:12Z</updated>
-      <published>2026-10-13T07:46:12Z</published>
     </entry>
 </feed>
