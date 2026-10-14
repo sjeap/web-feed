@@ -5,71 +5,71 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-14T09:38:30Z</updated>
+  <updated>2026-10-14T20:16:25Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Römisches Fenstergitter taucht unter einem Parkplatz auf</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/roemisches-fenstergitter-taucht-unter-einem-parkplatz-auf-133714483</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/roemisches-fenstergitter-taucht-unter-einem-parkplatz-auf-133714483"/>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/roemisches-fenstergitter-taucht-unter-einem-parkplatz-auf.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/roemisches-fenstergitter-taucht-unter-einem-parkplatz-auf.png" alt="Römisches Fenstergitter taucht unter einem Parkplatz auf"/><p>Römisches Fenstergitter taucht unter einem Parkplatz auf</p>]]></content>
+    </entry>
+    <entry>
+      <title>Mondlander übersteht Härtetest zwischen minus 100 und 75 Grad</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/mondlander-uebersteht-haertetest-zwischen-minus-100-und-75-grad-133714486</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/mondlander-uebersteht-haertetest-zwischen-minus-100-und-75-grad-133714486"/>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/mondlander-uebersteht-haertetest-zwischen-minus-100-und-75-grad.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/mondlander-uebersteht-haertetest-zwischen-minus-100-und-75-grad.png" alt="Mondlander übersteht Härtetest zwischen minus 100 und 75 Grad"/><p>Mondlander übersteht Härtetest zwischen minus 100 und 75 Grad</p>]]></content>
+    </entry>
+    <entry>
+      <title>Hurrikan Simon hinterlässt riesige Wellen hoch über den Wolken</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/hurrikan-simon-hinterlaesst-riesige-wellen-hoch-ueber-den-wolken-133714481</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/hurrikan-simon-hinterlaesst-riesige-wellen-hoch-ueber-den-wolken-133714481"/>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/hurrikan-simon-hinterlaesst-riesige-wellen-hoch-ueber-den-wolken.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/hurrikan-simon-hinterlaesst-riesige-wellen-hoch-ueber-den-wolken.png" alt="Hurrikan Simon hinterlässt riesige Wellen hoch über den Wolken"/><p>Hurrikan Simon hinterlässt riesige Wellen hoch über den Wolken</p>]]></content>
+    </entry>
+    <entry>
+      <title>Basstölpel überstehen den Aufprall aufs Meer mit 110 km/h</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/basstoelpel-ueberstehen-den-aufprall-aufs-meer-mit-110-kmh-133714480</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/basstoelpel-ueberstehen-den-aufprall-aufs-meer-mit-110-kmh-133714480"/>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/basstoelpel-ueberstehen-den-aufprall-aufs-meer-mit-110-kmh.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/basstoelpel-ueberstehen-den-aufprall-aufs-meer-mit-110-kmh.png" alt="Basstölpel überstehen den Aufprall aufs Meer mit 110 km/h"/><p>Basstölpel überstehen den Aufprall aufs Meer mit 110 km/h</p>]]></content>
+    </entry>
+    <entry>
+      <title>160 Zentimeter hoher Pharaonenkopf taucht vor einem Wohnhaus auf</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/160-zentimeter-hoher-pharaonenkopf-taucht-vor-einem-wohnhaus-auf-133714477</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/160-zentimeter-hoher-pharaonenkopf-taucht-vor-einem-wohnhaus-auf-133714477"/>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/160-zentimeter-hoher-pharaonenkopf-taucht-vor-einem-wohnhaus-auf.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/160-zentimeter-hoher-pharaonenkopf-taucht-vor-einem-wohnhaus-auf.png" alt="160 Zentimeter hoher Pharaonenkopf taucht vor einem Wohnhaus auf"/><p>160 Zentimeter hoher Pharaonenkopf taucht vor einem Wohnhaus auf</p>]]></content>
+    </entry>
+    <entry>
       <title>Menschen sprechen gleiche Laute mit verschiedenen Mundbewegungen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/menschen-sprechen-gleiche-laute-mit-verschiedenen-mundbewegungen-133714475</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/menschen-sprechen-gleiche-laute-mit-verschiedenen-mundbewegungen-133714475"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/menschen-sprechen-gleiche-laute-mit-verschiedenen-mundbewegungen.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/menschen-sprechen-gleiche-laute-mit-verschiedenen-mundbewegungen.png" alt="Menschen sprechen gleiche Laute mit verschiedenen Mundbewegungen"/><p>Menschen sprechen gleiche Laute mit verschiedenen Mundbewegungen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Fremde Planetensysteme zeigen zwei sehr verschiedene Baupläne</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/fremde-planetensysteme-zeigen-zwei-sehr-verschiedene-bauplaene-133714471</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/fremde-planetensysteme-zeigen-zwei-sehr-verschiedene-bauplaene-133714471"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/fremde-planetensysteme-zeigen-zwei-sehr-verschiedene-bauplaene.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/fremde-planetensysteme-zeigen-zwei-sehr-verschiedene-bauplaene.png" alt="Fremde Planetensysteme zeigen zwei sehr verschiedene Baupläne"/><p>Fremde Planetensysteme zeigen zwei sehr verschiedene Baupläne</p>]]></content>
-    </entry>
-    <entry>
-      <title>Laborroboter findet in 30 Tagen vier neue chemische Reaktionen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/chemie/laborroboter-findet-in-30-tagen-vier-neue-chemische-reaktionen-133714468</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/chemie/laborroboter-findet-in-30-tagen-vier-neue-chemische-reaktionen-133714468"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/laborroboter-findet-in-30-tagen-vier-neue-chemische-reaktionen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/laborroboter-findet-in-30-tagen-vier-neue-chemische-reaktionen.png" alt="Laborroboter findet in 30 Tagen vier neue chemische Reaktionen"/><p>Laborroboter findet in 30 Tagen vier neue chemische Reaktionen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Brille gewinnt beim Blinzeln Strom für winzige Sensoren</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/physik/brille-gewinnt-beim-blinzeln-strom-fuer-winzige-sensoren-133714466</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/brille-gewinnt-beim-blinzeln-strom-fuer-winzige-sensoren-133714466"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/brille-gewinnt-beim-blinzeln-strom-fuer-winzige-sensoren-1.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/brille-gewinnt-beim-blinzeln-strom-fuer-winzige-sensoren-1.png" alt="Brille gewinnt beim Blinzeln Strom für winzige Sensoren"/><p>Brille gewinnt beim Blinzeln Strom für winzige Sensoren</p>]]></content>
-    </entry>
-    <entry>
-      <title>90 Meter lange Plattform war Teil eines Sonnenkalenders</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/90-meter-lange-plattform-war-teil-eines-sonnenkalenders-133714463</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/90-meter-lange-plattform-war-teil-eines-sonnenkalenders-133714463"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/90-meter-lange-plattform-war-teil-eines-sonnenkalenders.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/90-meter-lange-plattform-war-teil-eines-sonnenkalenders.png" alt="90 Meter lange Plattform war Teil eines Sonnenkalenders"/><p>90 Meter lange Plattform war Teil eines Sonnenkalenders</p>]]></content>
-    </entry>
-    <entry>
-      <title>Weicher Roboter greift rohes Eigelb ohne es zu zerdrücken</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/weicher-roboter-greift-rohes-eigelb-ohne-es-zu-zerdruecken-133714462</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/weicher-roboter-greift-rohes-eigelb-ohne-es-zu-zerdruecken-133714462"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/weicher-roboter-greift-rohes-eigelb-ohne-es-zu-zerdruecken.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/weicher-roboter-greift-rohes-eigelb-ohne-es-zu-zerdruecken.png" alt="Weicher Roboter greift rohes Eigelb ohne es zu zerdrücken"/><p>Weicher Roboter greift rohes Eigelb ohne es zu zerdrücken</p>]]></content>
     </entry>
     <entry>
       <title>In Sibirien ragt ein 40 Meter hoher unerklärlicher Steinkegel auf</title>
       <id>https://www.forschung-und-wissen.de/magazin/in-sibirien-ragt-ein-40-meter-hoher-unerklaerlicher-steinkegel-auf-133712959</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/in-sibirien-ragt-ein-40-meter-hoher-unerklaerlicher-steinkegel-auf-133712959"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-sibirien-ragt-ein-40-meter-hoher-unerklaerlicher-steinkegel-auf.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/in-sibirien-ragt-ein-40-meter-hoher-unerklaerlicher-steinkegel-auf.jpg" alt="In Sibirien ragt ein 40 Meter hoher unerklärlicher Steinkegel auf"/><p>In Sibirien ragt ein 40 Meter hoher unerklärlicher Steinkegel auf</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>Templerorden: Die reichste Macht des Mittelalters fiel an einem Freitag</title>
       <id>https://www.forschung-und-wissen.de/magazin/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag-133713350</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag-133713350"/>
-      <updated>2026-10-14T09:38:30Z</updated>
-      <published>2026-10-14T09:38:30Z</published>
+      <updated>2026-10-14T20:16:25Z</updated>
+      <published>2026-10-14T20:16:25Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/templerorden-die-reichste-macht-des-mittelalters-fiel-an-einem-freitag.jpg" alt="Templerorden: Die reichste Macht des Mittelalters fiel an einem Freitag"/><p>Templerorden: Die reichste Macht des Mittelalters fiel an einem Freitag</p>]]></content>
     </entry>
