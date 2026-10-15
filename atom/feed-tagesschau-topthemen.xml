@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-14T20:16:26Z</updated>
+  <updated>2026-10-15T09:16:56Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html"/>
-      <updated>2026-10-14T20:16:26Z</updated>
-      <published>2026-10-14T20:16:26Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2d8e9f13-1f20-4c6e-985d-39aa2e419db4/AAABoTrTEdA/AAABnSSvrFg/16x9-big/feuerwehrmann-rauch-ukraine-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2d8e9f13-1f20-4c6e-985d-39aa2e419db4/AAABoTrTEdA/AAABnSSvrFg/16x9-big/feuerwehrmann-rauch-ukraine-100.jpg?width=1280" alt="Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen"/><p>Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nord-Stream-Prozess in Hamburg gestartet: Angeklagter schweigt</title>
-      <id>https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/regional/hamburg/nord-stream-prozess-in-hamburg-gestartet-angeklagter-schweigt,nord-stream-prozess-120.html"/>
-      <updated>2026-10-14T20:16:26Z</updated>
-      <published>2026-10-14T20:16:26Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.ndr.de/image/259cd84d-e011-40e6-9309-0fe7de9f4f77/AAABoTtmdNI/AAABnSSvrFg/16x9-big/nordstreamproztess-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.ndr.de/image/259cd84d-e011-40e6-9309-0fe7de9f4f77/AAABoTtmdNI/AAABnSSvrFg/16x9-big/nordstreamproztess-100.jpg?width=1280" alt="Nord-Stream-Prozess in Hamburg gestartet: Angeklagter schweigt"/><p>Nord-Stream-Prozess in Hamburg gestartet: Angeklagter schweigt</p>]]></content>
+      <title>Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?</title>
+      <id>https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html"/>
+      <updated>2026-10-15T09:16:56Z</updated>
+      <published>2026-10-15T09:16:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1280" alt="Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?"/><p>Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?</p>]]></content>
     </entry>
     <entry>
       <title>Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben</title>
       <id>https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"/>
-      <updated>2026-10-14T20:16:26Z</updated>
-      <published>2026-10-14T20:16:26Z</published>
+      <updated>2026-10-15T09:16:56Z</updated>
+      <published>2026-10-15T09:16:56Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c4ef8a21-a224-4e74-95e8-71b2296e54e8/AAABoI8M2XI/AAABnSSvrFg/16x9-big/gesundheitskarten-126.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c4ef8a21-a224-4e74-95e8-71b2296e54e8/AAABoI8M2XI/AAABnSSvrFg/16x9-big/gesundheitskarten-126.jpg?width=1280" alt="Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben"/><p>Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben</p>]]></content>
     </entry>
     <entry>
-      <title>Pflegekommission eingesetzt: Was Experten jetzt klären sollen</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html"/>
-      <updated>2026-10-14T20:16:26Z</updated>
-      <published>2026-10-14T20:16:26Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6192713a-9dc8-49c8-acff-3c41ee298bc2/AAABoToJay0/AAABnSSvrFg/16x9-big/pflege-krankenhaus-104.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6192713a-9dc8-49c8-acff-3c41ee298bc2/AAABoToJay0/AAABnSSvrFg/16x9-big/pflege-krankenhaus-104.jpg?width=1280" alt="Pflegekommission eingesetzt: Was Experten jetzt klären sollen"/><p>Pflegekommission eingesetzt: Was Experten jetzt klären sollen</p>]]></content>
+      <title>Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul</title>
+      <id>https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html"/>
+      <updated>2026-10-15T09:16:56Z</updated>
+      <published>2026-10-15T09:16:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1280" alt="Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul"/><p>Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul</p>]]></content>
     </entry>
     <entry>
-      <title>Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"/>
-      <updated>2026-10-14T20:16:26Z</updated>
-      <published>2026-10-14T20:16:26Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1280" alt="Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell"/><p>Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell</p>]]></content>
+      <title>EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen</title>
+      <id>https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html"/>
+      <updated>2026-10-15T09:16:56Z</updated>
+      <published>2026-10-15T09:16:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0d030d7c-d33c-49e6-9e69-d69546189452/AAABoTte4fo/AAABnSSvrFg/16x9-big/merz-1734.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0d030d7c-d33c-49e6-9e69-d69546189452/AAABoTte4fo/AAABnSSvrFg/16x9-big/merz-1734.jpg?width=1280" alt="EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen"/><p>EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe</title>
+      <id>https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html"/>
+      <updated>2026-10-15T09:16:56Z</updated>
+      <published>2026-10-15T09:16:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/93d5491b-792f-4b81-bb76-7c4b73078e8d/AAABoT4RSuQ/AAABnSSvrFg/16x9-big/kiew-570.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/93d5491b-792f-4b81-bb76-7c4b73078e8d/AAABoT4RSuQ/AAABnSSvrFg/16x9-big/kiew-570.jpg?width=1280" alt="Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe"/><p>Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666410.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666410.html"/>
-      <updated>2026-10-14T20:16:26Z</updated>
-      <published>2026-10-14T20:16:26Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/362d0258-12c9-4d7a-a64f-877d71a1054b/AAABoTwF0GI/AAABnSSvrFg/16x9-big/sendungsbild-1811636.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/362d0258-12c9-4d7a-a64f-877d71a1054b/AAABoTwF0GI/AAABnSSvrFg/16x9-big/sendungsbild-1811636.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666576.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666576.html"/>
+      <updated>2026-10-15T09:16:56Z</updated>
+      <published>2026-10-15T09:16:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/07f0b91e-0540-4dd9-9966-38c1084057f1/AAABoT7Nen8/AAABnSSvrFg/16x9-big/sendungsbild-1811850.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/07f0b91e-0540-4dd9-9966-38c1084057f1/AAABoT7Nen8/AAABnSSvrFg/16x9-big/sendungsbild-1811850.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
