@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-15T09:16:55Z</updated>
+  <updated>2026-10-16T09:10:40Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-15T09:16:55Z</updated>
-      <published>2026-10-15T09:16:55Z</published>
+      <updated>2026-10-16T09:10:40Z</updated>
+      <published>2026-10-16T09:10:40Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Angriffe auf Yandex: Keine Belege für Rückgang von Bot-Aktivitäten in Sozialen Medien</title>
+      <id>https://correctiv.org/faktencheck/russische-desinformation/2026/10/15/angriffe-auf-yandex-keine-belege-fuer-rueckgang-von-bot-aktivitaeten-in-sozialen-medien/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/russische-desinformation/2026/10/15/angriffe-auf-yandex-keine-belege-fuer-rueckgang-von-bot-aktivitaeten-in-sozialen-medien/"/>
+      <updated>2026-10-15T00:00:00Z</updated>
+      <published>2026-10-15T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/yandex-ukraine-bots-scaled-e1792074208287.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/yandex-ukraine-bots-scaled-e1792074208287.jpg" alt="Nach ukrainischen Angriffen auf das russische Unternehmen Yandex kursieren online Spekulationen darüber, welche Folge das für Bots hat"/><p>Angriffe auf Yandex: Keine Belege für Rückgang von Bot-Aktivitäten in Sozialen Medien</p>]]></content>
     </entry>
     <entry>
       <title>Liste von angeblichen Positionen der Berliner Linke teils richtig, teils verkürzt</title>
@@ -225,14 +234,5 @@
       <published>2026-08-31T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Niedrigwasser-Elbe-Picture-Alliance-20260831-scaled-e1788194133456.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Niedrigwasser-Elbe-Picture-Alliance-20260831-scaled-e1788194133456.jpg" alt="Historische Bilder von Niedrigwasser der Elbe sind kein Gegenbeweis zum Klimawandel"/><p>Historische Bilder von Niedrigwasser der Elbe sind kein Gegenbeweis zum Klimawandel</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gefälschter Artikel: Maischberger-Gespräch zwischen Merz und Chrupalla erfunden</title>
-      <id>https://correctiv.org/faktencheck/2026/08/31/maischberger-gespraech-zwischen-merz-und-chrupalla-erfunden/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/08/31/maischberger-gespraech-zwischen-merz-und-chrupalla-erfunden/"/>
-      <updated>2026-08-31T00:00:00Z</updated>
-      <published>2026-08-31T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Merz-Chrupalla-Picture-Alliance-20260831-scaled-e1788192917425.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/08/Symbolbild-Merz-Chrupalla-Picture-Alliance-20260831-scaled-e1788192917425.jpg" alt="Gefälschter Artikel: Maischberger-Gespräch zwischen Merz und Chrupalla erfunden"/><p>Gefälschter Artikel: Maischberger-Gespräch zwischen Merz und Chrupalla erfunden</p>]]></content>
     </entry>
 </feed>
