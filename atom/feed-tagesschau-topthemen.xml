@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-15T09:16:56Z</updated>
+  <updated>2026-10-16T09:10:33Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?</title>
-      <id>https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html"/>
-      <updated>2026-10-15T09:16:56Z</updated>
-      <published>2026-10-15T09:16:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/720bb6a6-b48d-4dbf-97ce-0ff8d73b88b8/AAABoT5gWoA/AAABnSSvrFg/16x9-big/alkoholverbot-bahnhof-plakat-100.jpg?width=1280" alt="Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?"/><p>Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?</p>]]></content>
+      <title>Bundestag beschließt Anhebung der Tabaksteuer</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html"/>
+      <updated>2026-10-16T09:10:33Z</updated>
+      <published>2026-10-16T09:10:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1280" alt="Bundestag beschließt Anhebung der Tabaksteuer"/><p>Bundestag beschließt Anhebung der Tabaksteuer</p>]]></content>
     </entry>
     <entry>
-      <title>Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"/>
-      <updated>2026-10-15T09:16:56Z</updated>
-      <published>2026-10-15T09:16:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c4ef8a21-a224-4e74-95e8-71b2296e54e8/AAABoI8M2XI/AAABnSSvrFg/16x9-big/gesundheitskarten-126.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c4ef8a21-a224-4e74-95e8-71b2296e54e8/AAABoI8M2XI/AAABnSSvrFg/16x9-big/gesundheitskarten-126.jpg?width=1280" alt="Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben"/><p>Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben</p>]]></content>
+      <title>Frankreich und Deutschland wollen Verbrenner-Aus aufweichen</title>
+      <id>https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html"/>
+      <updated>2026-10-16T09:10:33Z</updated>
+      <published>2026-10-16T09:10:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/90974820-1ec2-40d2-b13a-d64595a79d49/AAABoUJAJ4Q/AAABnSSvrFg/16x9-big/verbrenner-abgase-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/90974820-1ec2-40d2-b13a-d64595a79d49/AAABoUJAJ4Q/AAABnSSvrFg/16x9-big/verbrenner-abgase-100.jpg?width=1280" alt="Frankreich und Deutschland wollen Verbrenner-Aus aufweichen"/><p>Frankreich und Deutschland wollen Verbrenner-Aus aufweichen</p>]]></content>
     </entry>
     <entry>
-      <title>Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul</title>
-      <id>https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html"/>
-      <updated>2026-10-15T09:16:56Z</updated>
-      <published>2026-10-15T09:16:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1280" alt="Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul"/><p>Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul</p>]]></content>
+      <title>Ringen um neuen EU-Haushalt: Showdown in Zeitlupe</title>
+      <id>https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html"/>
+      <updated>2026-10-16T09:10:33Z</updated>
+      <published>2026-10-16T09:10:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/09adb787-49a4-43c2-b573-1b52792d3255/AAABoUCNBBw/AAABnSSvrFg/16x9-big/teilnehmer-eu-gipfel-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/09adb787-49a4-43c2-b573-1b52792d3255/AAABoUCNBBw/AAABnSSvrFg/16x9-big/teilnehmer-eu-gipfel-104.jpg?width=1280" alt="Ringen um neuen EU-Haushalt: Showdown in Zeitlupe"/><p>Ringen um neuen EU-Haushalt: Showdown in Zeitlupe</p>]]></content>
     </entry>
     <entry>
-      <title>EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen</title>
-      <id>https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html"/>
-      <updated>2026-10-15T09:16:56Z</updated>
-      <published>2026-10-15T09:16:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0d030d7c-d33c-49e6-9e69-d69546189452/AAABoTte4fo/AAABnSSvrFg/16x9-big/merz-1734.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0d030d7c-d33c-49e6-9e69-d69546189452/AAABoTte4fo/AAABnSSvrFg/16x9-big/merz-1734.jpg?width=1280" alt="EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen"/><p>EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen</p>]]></content>
+      <title>Fünf Tote bei Schüssen an Grundschule in Oregon</title>
+      <id>https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/schuesse-grundschule-oregon-100.html"/>
+      <updated>2026-10-16T09:10:33Z</updated>
+      <published>2026-10-16T09:10:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1e566a4d-f6e0-40e2-a4bf-3efffde657b2/AAABoUPvrKU/AAABnSSvrFg/16x9-big/grundschule-oregon-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1e566a4d-f6e0-40e2-a4bf-3efffde657b2/AAABoUPvrKU/AAABnSSvrFg/16x9-big/grundschule-oregon-100.jpg?width=1280" alt="Fünf Tote bei Schüssen an Grundschule in Oregon"/><p>Fünf Tote bei Schüssen an Grundschule in Oregon</p>]]></content>
     </entry>
     <entry>
-      <title>Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html"/>
-      <updated>2026-10-15T09:16:56Z</updated>
-      <published>2026-10-15T09:16:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/93d5491b-792f-4b81-bb76-7c4b73078e8d/AAABoT4RSuQ/AAABnSSvrFg/16x9-big/kiew-570.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/93d5491b-792f-4b81-bb76-7c4b73078e8d/AAABoT4RSuQ/AAABnSSvrFg/16x9-big/kiew-570.jpg?width=1280" alt="Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe"/><p>Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe</p>]]></content>
+      <title>Welternährungstag der UN: Der Kampf gegen Hunger kommt kaum voran</title>
+      <id>https://www.tagesschau.de/ausland/europa/welternaehrungstag-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/welternaehrungstag-100.html"/>
+      <updated>2026-10-16T09:10:33Z</updated>
+      <published>2026-10-16T09:10:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4db3351e-c00a-4e73-b091-f5bae0ca4225/AAABoUNZayE/AAABnSSvrFg/16x9-big/familie-mahlzeit-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4db3351e-c00a-4e73-b091-f5bae0ca4225/AAABoUNZayE/AAABnSSvrFg/16x9-big/familie-mahlzeit-100.jpg?width=1280" alt="Welternährungstag der UN: Der Kampf gegen Hunger kommt kaum voran"/><p>Welternährungstag der UN: Der Kampf gegen Hunger kommt kaum voran</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666576.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1666576.html"/>
-      <updated>2026-10-15T09:16:56Z</updated>
-      <published>2026-10-15T09:16:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/07f0b91e-0540-4dd9-9966-38c1084057f1/AAABoT7Nen8/AAABnSSvrFg/16x9-big/sendungsbild-1811850.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/07f0b91e-0540-4dd9-9966-38c1084057f1/AAABoT7Nen8/AAABnSSvrFg/16x9-big/sendungsbild-1811850.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667208.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667208.html"/>
+      <updated>2026-10-16T09:10:33Z</updated>
+      <published>2026-10-16T09:10:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dc8d2770-f90d-4de5-b09e-b30237e32d74/AAABoUP3LGA/AAABnSSvrFg/16x9-big/sendungsbild-1812466.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dc8d2770-f90d-4de5-b09e-b30237e32d74/AAABoUP3LGA/AAABnSSvrFg/16x9-big/sendungsbild-1812466.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
