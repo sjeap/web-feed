@@ -5,71 +5,71 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-16T09:10:33Z</updated>
+  <updated>2026-10-16T19:37:20Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Der Mont Blanc wächst zunehmend</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/geologie/der-mont-blanc-waechst-zunehmend-133714573</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/der-mont-blanc-waechst-zunehmend-133714573"/>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/der-mont-blanc-waechst-zunehmend.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/der-mont-blanc-waechst-zunehmend.png" alt="Der Mont Blanc wächst zunehmend"/><p>Der Mont Blanc wächst zunehmend</p>]]></content>
+    </entry>
+    <entry>
+      <title>23.000 Jahre alte Fußspuren verraten einen rasanten Klimawechsel</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel-133714567</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel-133714567"/>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel.png" alt="23.000 Jahre alte Fußspuren verraten einen rasanten Klimawechsel"/><p>23.000 Jahre alte Fußspuren verraten einen rasanten Klimawechsel</p>]]></content>
+    </entry>
+    <entry>
+      <title>Über 10.000 Bruchzonen verraten das Schrumpfen des Mondes</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes-133714565</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes-133714565"/>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes.png" alt="Über 10.000 Bruchzonen verraten das Schrumpfen des Mondes"/><p>Über 10.000 Bruchzonen verraten das Schrumpfen des Mondes</p>]]></content>
+    </entry>
+    <entry>
+      <title>Roboter läuft unter Wasser an senkrechten Schiffswänden</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden-133714564</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden-133714564"/>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden.png" alt="Roboter läuft unter Wasser an senkrechten Schiffswänden"/><p>Roboter läuft unter Wasser an senkrechten Schiffswänden</p>]]></content>
+    </entry>
+    <entry>
+      <title>Teslas neuer Roadster kann fliegen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/teslas-neuer-roadster-kann-fliegen-133714570</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/teslas-neuer-roadster-kann-fliegen-133714570"/>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/teslas-neuer-roadster-kann-fliegen.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/teslas-neuer-roadster-kann-fliegen.png" alt="Teslas neuer Roadster kann fliegen"/><p>Teslas neuer Roadster kann fliegen</p>]]></content>
+    </entry>
+    <entry>
       <title>Einfache Wohnhäuser brauchen weniger Energie als erwartet</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/einfache-wohnhaeuser-brauchen-weniger-energie-als-erwartet-133714568</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/einfache-wohnhaeuser-brauchen-weniger-energie-als-erwartet-133714568"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/einfache-wohnhaeuser-brauchen-weniger-energie-als-erwartet.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/einfache-wohnhaeuser-brauchen-weniger-energie-als-erwartet.png" alt="Einfache Wohnhäuser brauchen weniger Energie als erwartet"/><p>Einfache Wohnhäuser brauchen weniger Energie als erwartet</p>]]></content>
-    </entry>
-    <entry>
-      <title>Neandertaler-Knochen liefert nach 75000 Jahren Hinweise auf Gewalt</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/neandertaler-knochen-liefert-nach-75000-jahren-hinweise-auf-gewalt-133714561</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/neandertaler-knochen-liefert-nach-75000-jahren-hinweise-auf-gewalt-133714561"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/neandertaler-knochen-liefert-nach-75000-jahren-hinweise-auf-gewalt.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/neandertaler-knochen-liefert-nach-75000-jahren-hinweise-auf-gewalt.png" alt="Neandertaler-Knochen liefert nach 75000 Jahren Hinweise auf Gewalt"/><p>Neandertaler-Knochen liefert nach 75000 Jahren Hinweise auf Gewalt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Orions Hitzeschild zeigt nach über 2200 Grad deutlich weniger Schäden</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/orions-hitzeschild-zeigt-nach-ueber-2200-grad-deutlich-weniger-schaeden-133714558</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/orions-hitzeschild-zeigt-nach-ueber-2200-grad-deutlich-weniger-schaeden-133714558"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/orions-hitzeschild-zeigt-nach-ueber-2200-grad-deutlich-weniger-schaeden.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/orions-hitzeschild-zeigt-nach-ueber-2200-grad-deutlich-weniger-schaeden.png" alt="Orions Hitzeschild zeigt nach über 2200 Grad deutlich weniger Schäden"/><p>Orions Hitzeschild zeigt nach über 2200 Grad deutlich weniger Schäden</p>]]></content>
-    </entry>
-    <entry>
-      <title>Sprachenlernen hängt mit einer überraschenden Hörfähigkeit zusammen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/sprachenlernen-haengt-mit-einer-ueberraschenden-hoerfaehigkeit-zusammen-133714538</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/sprachenlernen-haengt-mit-einer-ueberraschenden-hoerfaehigkeit-zusammen-133714538"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/sprachenlernen-haengt-mit-einer-ueberraschenden-hoerfaehigkeit-zusammen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/sprachenlernen-haengt-mit-einer-ueberraschenden-hoerfaehigkeit-zusammen.png" alt="Sprachenlernen hängt mit einer überraschenden Hörfähigkeit zusammen"/><p>Sprachenlernen hängt mit einer überraschenden Hörfähigkeit zusammen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Weiße Korallen bekommen nach kurzer Berührung ihre Farbe zurück</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/weisse-korallen-bekommen-nach-kurzer-beruehrung-ihre-farbe-zurueck-133714532</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/weisse-korallen-bekommen-nach-kurzer-beruehrung-ihre-farbe-zurueck-133714532"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/weisse-korallen-bekommen-nach-kurzer-beruehrung-ihre-farbe-zurueck.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/weisse-korallen-bekommen-nach-kurzer-beruehrung-ihre-farbe-zurueck.png" alt="Weiße Korallen bekommen nach kurzer Berührung ihre Farbe zurück"/><p>Weiße Korallen bekommen nach kurzer Berührung ihre Farbe zurück</p>]]></content>
-    </entry>
-    <entry>
-      <title>Graphenfolie hält enorme Zugkräfte aus und federt wieder zurück</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/physik/graphenfolie-haelt-enorme-zugkraefte-aus-und-federt-wieder-zurueck-133714522</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/graphenfolie-haelt-enorme-zugkraefte-aus-und-federt-wieder-zurueck-133714522"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/graphenfolie-haelt-enorme-zugkraefte-aus-und-federt-wieder-zurueck.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/graphenfolie-haelt-enorme-zugkraefte-aus-und-federt-wieder-zurueck.png" alt="Graphenfolie hält enorme Zugkräfte aus und federt wieder zurück"/><p>Graphenfolie hält enorme Zugkräfte aus und federt wieder zurück</p>]]></content>
     </entry>
     <entry>
       <title>Warum gibt es auf der ganzen Erde kein einziges grünes Säugetier?</title>
       <id>https://www.forschung-und-wissen.de/magazin/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier-133712986</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier-133712986"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier.jpg" alt="Warum gibt es auf der ganzen Erde kein einziges grünes Säugetier?"/><p>Warum gibt es auf der ganzen Erde kein einziges grünes Säugetier?</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>Tachyonen: Schneller als Licht und fliegen rückwärts durch die Zeit</title>
       <id>https://www.forschung-und-wissen.de/magazin/tachyonen-schneller-als-licht-und-fliegen-rueckwaerts-durch-die-zeit-133712963</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/tachyonen-schneller-als-licht-und-fliegen-rueckwaerts-durch-die-zeit-133712963"/>
-      <updated>2026-10-16T09:10:33Z</updated>
-      <published>2026-10-16T09:10:33Z</published>
+      <updated>2026-10-16T19:37:20Z</updated>
+      <published>2026-10-16T19:37:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/tachyonen-schneller-als-licht-und-fliegen-rueckwaerts-durch-die-zeit.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/tachyonen-schneller-als-licht-und-fliegen-rueckwaerts-durch-die-zeit.jpg" alt="Tachyonen: Schneller als Licht und fliegen rückwärts durch die Zeit"/><p>Tachyonen: Schneller als Licht und fliegen rückwärts durch die Zeit</p>]]></content>
     </entry>
