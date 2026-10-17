@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-10-17T05:54:42Z</updated>
+  <updated>2026-10-17T09:06:18Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rheinmetall-Aktie springt über +6% – was steckt hinter dem Comeback?</title>
+      <id>https://www.sharedeals.de/rheinmetall-aktie-springt-ueber-6-was-steckt-hinter-dem-comeback/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-springt-ueber-6-was-steckt-hinter-dem-comeback/"/>
+      <updated>2026-10-17T09:06:18Z</updated>
+      <published>2026-10-17T09:06:18Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/10/Rheinmetall-1-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/10/Rheinmetall-1-540x350.jpg" alt="Rheinmetall facility sign with armed vehicles and a plane taking off, set at sunset."/><p>Rheinmetall-Aktie springt über +6% – was steckt hinter dem Comeback?</p>]]></content>
+    </entry>
     <entry>
       <title>Deutsche-Telekom-Aktie: 1 Million Neukunden – jetzt der 380-Spiele-Coup!</title>
       <id>https://www.sharedeals.de/deutsche-telekom-aktie-1-million-neukunden-jetzt-der-380-spiele-coup/</id>
@@ -135,15 +144,6 @@
       <published>2026-10-16T10:23:14Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/03/Artikelbild_Cardano_Coin-540x350.webp"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/03/Artikelbild_Cardano_Coin-540x350.webp" alt="ADA Kryptowährung im digitalen Netzwerk, Blockchain-Technologie, Kryptowährung, Investition, Finanze."/><p>Cardano: Konsolidierung vor dem Ende?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Infineon-Aktie: Jetzt wackelt auch die 50-€-Marke</title>
-      <id>https://www.sharedeals.de/infineon-aktie-jetzt-wackelt-auch-die-50-e-marke/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/infineon-aktie-jetzt-wackelt-auch-die-50-e-marke/"/>
-      <updated>2026-10-16T09:27:17Z</updated>
-      <published>2026-10-16T09:27:17Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/10/Infineon-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/10/Infineon-540x350.jpg" alt="Infineon logo over a high-tech semiconductor factory with circuit boards, robotics, and renewable-energy imagery in the background."/><p>Infineon-Aktie: Jetzt wackelt auch die 50-€-Marke</p>]]></content>
     </entry>
     <entry>
       <title>Siemens Energy-Aktie stabilisiert sich – diese Zone zählt jetzt</title>
