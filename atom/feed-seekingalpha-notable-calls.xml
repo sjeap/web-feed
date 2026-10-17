@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-16T19:24:12Z</updated>
+  <updated>2026-10-17T07:53:29Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SDCI: Commodity Rally Looks Strong, But Oil Risks Linger</title>
+      <id>4954946</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954946-sdci-commodity-rally-looks-strong-but-oil-risks-linger?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-17T07:53:29Z</updated>
+      <published>2026-10-17T07:53:29Z</published>
+    </entry>
+    <entry>
+      <title>Market Dislocation Creates Buying Opportunity In Nuclear ETFs</title>
+      <id>4954955</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954955-market-dislocation-creates-buying-opportunity-in-nuclear-etfs?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-17T07:45:00Z</updated>
+      <published>2026-10-17T07:45:00Z</published>
+    </entry>
+    <entry>
+      <title>Osterweis Capital Management Q4 2026 Equity Outlook</title>
+      <id>4954949</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954949-osterweis-capital-management-q4-2026-equity-outlook?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-17T07:10:00Z</updated>
+      <published>2026-10-17T07:10:00Z</published>
+    </entry>
+    <entry>
+      <title>GAMR Video Game ETF Momentum Continues Into Q4</title>
+      <id>4954948</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954948-gamr-video-game-etf-momentum-continues-into-q4?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-17T07:10:00Z</updated>
+      <published>2026-10-17T07:10:00Z</published>
+    </entry>
+    <entry>
+      <title>NAC: An Assessment Of Value, Yield, And Risks</title>
+      <id>4954937</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954937-nac-assessment-of-value-yield-and-risks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-17T07:01:12Z</updated>
+      <published>2026-10-17T07:01:12Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: The 2nm Growth Opportunity Makes It A Strong Buy</title>
+      <id>https://seekingalpha.com/Article:4954934</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954934-tsmc-the-2nm-growth-opportunity-makes-it-a-strong-buy?source=feed_symbol_TSM"/>
+      <updated>2026-10-17T06:40:56Z</updated>
+      <published>2026-10-17T06:40:56Z</published>
+    </entry>
+    <entry>
+      <title>Eagle Point Credit: A New Strategy Has Not Changed The Market&apos;s Opinion</title>
+      <id>4954922</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954922-eagle-point-credit-a-new-strategy-has-not-changed-the-markets-opinion?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-17T03:32:17Z</updated>
+      <published>2026-10-17T03:32:17Z</published>
+    </entry>
+    <entry>
+      <title>EIDO Crashes On MSCI Index Reclassification News, &apos;Buy&apos; The Indonesia Washout (Upgrade)</title>
+      <id>4954896</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954896-eido-crashes-on-msci-index-reclassification-news-buy-the-indonesia-washout-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-16T20:45:25Z</updated>
+      <published>2026-10-16T20:45:25Z</published>
+    </entry>
+    <entry>
+      <title>Invesco E&amp;P ETF Has Relatively High Non-E&amp;P Positioning</title>
+      <id>4954891</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954891-invesco-e-and-p-etf-has-relatively-high-non-e-and-p-positioning?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-16T20:09:00Z</updated>
+      <published>2026-10-16T20:09:00Z</published>
+    </entry>
+    <entry>
+      <title>The Turnaround Case For Volkswagen Gets Harder And Harder To Argue Or Visualize</title>
+      <id>https://seekingalpha.com/Article:4954883</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954883-the-turnaround-case-for-volkswagen-gets-harder-and-harder-to-argue-or-visualize?source=feed_symbol_VWAGY"/>
+      <updated>2026-10-16T19:40:10Z</updated>
+      <published>2026-10-16T19:40:10Z</published>
+    </entry>
+    <entry>
+      <title>PWB And COWG: Two Growth Funds For Two Scenarios</title>
+      <id>4954882</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954882-pwb-and-cowg-two-growth-funds-for-two-scenarios?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-16T19:39:42Z</updated>
+      <published>2026-10-16T19:39:42Z</published>
+    </entry>
     <entry>
       <title>WLDR: A Small Global Value-Oriented Fund With Big Results</title>
       <id>4954877</id>
@@ -95,13 +172,6 @@
       <published>2026-10-16T15:26:57Z</published>
     </entry>
     <entry>
-      <title>Introducing SMRZ: The Case For Small Modular Reactors</title>
-      <id>4954778</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954778-introducing-smrz-case-for-small-modular-reactors?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T13:30:00Z</updated>
-      <published>2026-10-16T13:30:00Z</published>
-    </entry>
-    <entry>
       <title>ASML: €50+ Billion In EBIT By 2030? Wall Street Is Still Behind</title>
       <id>https://seekingalpha.com/Article:4954754</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4954754-asml-50-plus-billion-in-ebit-by-2030-wall-street-is-still-behind?source=feed_symbol_ASML"/>
@@ -109,80 +179,10 @@
       <published>2026-10-16T13:24:33Z</published>
     </entry>
     <entry>
-      <title>How And Why I Became A Bond Manager. Hint: The S&amp;P 500 Made Me Do It</title>
-      <id>4954706</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954706-how-and-why-i-became-a-bond-manager-hint-the-s-and-p-500-made-me-do-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T13:16:57Z</updated>
-      <published>2026-10-16T13:16:57Z</published>
-    </entry>
-    <entry>
       <title>ASML: An Earnings Monster With More Room To Run</title>
       <id>https://seekingalpha.com/Article:4954748</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4954748-asml-an-earnings-monster-with-more-room-to-run?source=feed_symbol_ASML"/>
       <updated>2026-10-16T13:01:59Z</updated>
       <published>2026-10-16T13:01:59Z</published>
-    </entry>
-    <entry>
-      <title>XPH: Healthcare Sector Dashboard For October</title>
-      <id>4954606</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954606-xph-healthcare-sector-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T12:00:00Z</updated>
-      <published>2026-10-16T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Thermo Fisher: Strong Growth, Even Higher Stock Price</title>
-      <id>https://seekingalpha.com/Article:4954670</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954670-thermo-fisher-strong-growth-even-higher-stock-price-maintain-hold?source=feed_symbol_TMO"/>
-      <updated>2026-10-16T11:45:49Z</updated>
-      <published>2026-10-16T11:45:49Z</published>
-    </entry>
-    <entry>
-      <title>INDA: India&apos;s Growth Is Intact, But Foreign Money Is Still Leaving</title>
-      <id>4954639</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954639-inda-etf-india-growth-intact-foreign-money-still-leaving?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T11:30:00Z</updated>
-      <published>2026-10-16T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>PAVE: For Building Growth Beyond SPY</title>
-      <id>4954714</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954714-pave-for-building-growth-beyond-spy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T10:58:31Z</updated>
-      <published>2026-10-16T10:58:31Z</published>
-    </entry>
-    <entry>
-      <title>HPF: The Historically Low Z-Score Presents An Attractive Opportunity</title>
-      <id>4954705</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954705-hpf-historically-low-z-score-presents?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T10:00:53Z</updated>
-      <published>2026-10-16T10:00:53Z</published>
-    </entry>
-    <entry>
-      <title>BCTK: Technology Dashboard For October</title>
-      <id>4954592</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954592-bctk-technology-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T10:00:00Z</updated>
-      <published>2026-10-16T10:00:00Z</published>
-    </entry>
-    <entry>
-      <title>ANGL: Longer-Term Yields Pressure Q3 Returns, But Yields Reach The 80th Percentile</title>
-      <id>4954712</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954712-angl-longer-term-yields-pressure-q3-returns-yields-reach-80th-percentile?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T09:55:00Z</updated>
-      <published>2026-10-16T09:55:00Z</published>
-    </entry>
-    <entry>
-      <title>CHPY: My Wealthy Colleague Gets Paid To Wait For The Chip Rebound, And So Can We</title>
-      <id>4954701</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954701-chpy-my-wealthy-colleague-gets-paid-to-wait-for-the-chip-rebound-and-so-can-we?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T09:49:12Z</updated>
-      <published>2026-10-16T09:49:12Z</published>
-    </entry>
-    <entry>
-      <title>Joby Aviation: A Compelling Opportunity, But Patience Is Required</title>
-      <id>https://seekingalpha.com/Article:4954617</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954617-joby-aviation-a-compelling-opportunity-but-patience-is-required?source=feed_symbol_JOBY"/>
-      <updated>2026-10-15T22:14:33Z</updated>
-      <published>2026-10-15T22:14:33Z</published>
     </entry>
 </feed>
