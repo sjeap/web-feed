@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-18T08:28:29Z</updated>
+  <updated>2026-10-18T16:00:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>TSMC: The Easy Money Is Gone</title>
+      <id>https://seekingalpha.com/Article:4955036</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955036-tsmc-the-easy-money-is-gone?source=feed_symbol_TSM"/>
+      <updated>2026-10-18T16:00:00Z</updated>
+      <published>2026-10-18T16:00:00Z</published>
+    </entry>
+    <entry>
+      <title>WEA: Attractive Monthly Pay With Discount Blowing Out</title>
+      <id>4955065</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955065-wea-attractive-monthly-pay-with-discount-blowing-out?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T14:54:32Z</updated>
+      <published>2026-10-18T14:54:32Z</published>
+    </entry>
+    <entry>
+      <title>BWG: Strengthening U.S. Dollar And Rising Bond Yields Likely To Be Headwind</title>
+      <id>4955063</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955063-bwg-strengthening-us-dollar-rising-bond-yields-likely-to-be-headwind?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T14:40:45Z</updated>
+      <published>2026-10-18T14:40:45Z</published>
+    </entry>
+    <entry>
+      <title>2 Covered Call ETFs To Shield Your Income From An AI Crash</title>
+      <id>4955038</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955038-2-covered-call-etfs-to-shield-your-income-from-an-ai-crash?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T13:15:00Z</updated>
+      <published>2026-10-18T13:15:00Z</published>
+    </entry>
+    <entry>
+      <title>MCI: A Great Fund For The Long Term, 8.6% Yield</title>
+      <id>4954359</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954359-mci-great-fund-for-long-term-8_6-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T12:30:00Z</updated>
+      <published>2026-10-18T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>HYGW: The High Yield Of High Yields That Could Distribute 11%</title>
+      <id>4955023</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955023-hygw-the-high-yield-of-high-yields-that-could-distribute-11-percent?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T12:30:00Z</updated>
+      <published>2026-10-18T12:30:00Z</published>
+    </entry>
+    <entry>
+      <title>VDC: Consumer Staples Dashboard For October</title>
+      <id>4954975</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4954975-vdc-consumer-staples-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T12:04:00Z</updated>
+      <published>2026-10-18T12:04:00Z</published>
+    </entry>
     <entry>
       <title>Weekly Closed-End Fund Roundup (October 11, 2026)</title>
       <id>4955030</id>
@@ -130,59 +179,10 @@
       <published>2026-10-17T07:45:00Z</published>
     </entry>
     <entry>
-      <title>Osterweis Capital Management Q4 2026 Equity Outlook</title>
-      <id>4954949</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954949-osterweis-capital-management-q4-2026-equity-outlook?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T07:10:00Z</updated>
-      <published>2026-10-17T07:10:00Z</published>
-    </entry>
-    <entry>
       <title>GAMR Video Game ETF Momentum Continues Into Q4</title>
       <id>4954948</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4954948-gamr-video-game-etf-momentum-continues-into-q4?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-17T07:10:00Z</updated>
       <published>2026-10-17T07:10:00Z</published>
-    </entry>
-    <entry>
-      <title>NAC: An Assessment Of Value, Yield, And Risks</title>
-      <id>4954937</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954937-nac-assessment-of-value-yield-and-risks?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T07:01:12Z</updated>
-      <published>2026-10-17T07:01:12Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The 2nm Growth Opportunity Makes It A Strong Buy</title>
-      <id>https://seekingalpha.com/Article:4954934</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954934-tsmc-the-2nm-growth-opportunity-makes-it-a-strong-buy?source=feed_symbol_TSM"/>
-      <updated>2026-10-17T06:40:56Z</updated>
-      <published>2026-10-17T06:40:56Z</published>
-    </entry>
-    <entry>
-      <title>Eagle Point Credit: A New Strategy Has Not Changed The Market&apos;s Opinion</title>
-      <id>4954922</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954922-eagle-point-credit-a-new-strategy-has-not-changed-the-markets-opinion?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T03:32:17Z</updated>
-      <published>2026-10-17T03:32:17Z</published>
-    </entry>
-    <entry>
-      <title>EIDO Crashes On MSCI Index Reclassification News, &apos;Buy&apos; The Indonesia Washout (Upgrade)</title>
-      <id>4954896</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954896-eido-crashes-on-msci-index-reclassification-news-buy-the-indonesia-washout-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T20:45:25Z</updated>
-      <published>2026-10-16T20:45:25Z</published>
-    </entry>
-    <entry>
-      <title>Invesco E&amp;P ETF Has Relatively High Non-E&amp;P Positioning</title>
-      <id>4954891</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954891-invesco-e-and-p-etf-has-relatively-high-non-e-and-p-positioning?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T20:09:00Z</updated>
-      <published>2026-10-16T20:09:00Z</published>
-    </entry>
-    <entry>
-      <title>The Turnaround Case For Volkswagen Gets Harder And Harder To Argue Or Visualize</title>
-      <id>https://seekingalpha.com/Article:4954883</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954883-the-turnaround-case-for-volkswagen-gets-harder-and-harder-to-argue-or-visualize?source=feed_symbol_VWAGY"/>
-      <updated>2026-10-16T19:40:10Z</updated>
-      <published>2026-10-16T19:40:10Z</published>
     </entry>
 </feed>
