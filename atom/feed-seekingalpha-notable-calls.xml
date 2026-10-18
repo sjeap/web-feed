@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-17T15:31:09Z</updated>
+  <updated>2026-10-18T08:28:29Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Weekly Closed-End Fund Roundup (October 11, 2026)</title>
+      <id>4955030</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955030-weekly-closed-end-fund-roundup-october-11-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T08:28:29Z</updated>
+      <published>2026-10-18T08:28:29Z</published>
+    </entry>
+    <entry>
+      <title>IJR: Small Caps Are More Appealing After The Drawdown</title>
+      <id>4955020</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955020-ijr-small-caps-are-more-appealing-after-the-drawdown?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T06:05:00Z</updated>
+      <published>2026-10-18T06:05:00Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: The AI Boom Is Bigger And Longer Than Expected</title>
+      <id>https://seekingalpha.com/Article:4955010</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955010-tsmc-the-ai-boom-is-bigger-and-longer-than-expected?source=feed_symbol_TSM"/>
+      <updated>2026-10-18T02:26:53Z</updated>
+      <published>2026-10-18T02:26:53Z</published>
+    </entry>
+    <entry>
+      <title>FDIG: Two Funds In One, And The Miner Half Faces A Funding Squeeze</title>
+      <id>4955007</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955007-fdig-two-funds-in-one-and-the-miner-half-faces-a-funding-squeeze?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T01:17:44Z</updated>
+      <published>2026-10-18T01:17:44Z</published>
+    </entry>
     <entry>
       <title>EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can&apos;t Be Ignored</title>
       <id>4954997</id>
@@ -156,33 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4954883-the-turnaround-case-for-volkswagen-gets-harder-and-harder-to-argue-or-visualize?source=feed_symbol_VWAGY"/>
       <updated>2026-10-16T19:40:10Z</updated>
       <published>2026-10-16T19:40:10Z</published>
-    </entry>
-    <entry>
-      <title>PWB And COWG: Two Growth Funds For Two Scenarios</title>
-      <id>4954882</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954882-pwb-and-cowg-two-growth-funds-for-two-scenarios?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T19:39:42Z</updated>
-      <published>2026-10-16T19:39:42Z</published>
-    </entry>
-    <entry>
-      <title>WLDR: A Small Global Value-Oriented Fund With Big Results</title>
-      <id>4954877</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954877-wldr-a-small-global-value-oriented-fund-with-big-results?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T19:24:12Z</updated>
-      <published>2026-10-16T19:24:12Z</published>
-    </entry>
-    <entry>
-      <title>DYNF: An Interesting Active Factor ETF, But Not The Right Time To Buy</title>
-      <id>4954876</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954876-dynf-an-interesting-active-factor-etf-but-not-the-right-time-to-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T19:17:33Z</updated>
-      <published>2026-10-16T19:17:33Z</published>
-    </entry>
-    <entry>
-      <title>FRDM Over EEM Amidst The Chip Crash</title>
-      <id>4954875</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954875-frdm-over-eem-amidst-the-chip-crash?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-16T19:10:39Z</updated>
-      <published>2026-10-16T19:10:39Z</published>
     </entry>
 </feed>
