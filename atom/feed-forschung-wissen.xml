@@ -5,17 +5,26 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-17T18:41:57Z</updated>
+  <updated>2026-10-18T08:58:28Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Waldboden verrät 130 Meter langen Stollen im Ruhrgebiet</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/waldboden-verraet-130-meter-langen-stollen-im-ruhrgebiet-133714574</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/waldboden-verraet-130-meter-langen-stollen-im-ruhrgebiet-133714574"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/waldboden-verraet-130-meter-langen-stollen-im-ruhrgebiet.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/waldboden-verraet-130-meter-langen-stollen-im-ruhrgebiet.png" alt="Waldboden verrät 130 Meter langen Stollen im Ruhrgebiet"/><p>Waldboden verrät 130 Meter langen Stollen im Ruhrgebiet</p>]]></content>
+    </entry>
+    <entry>
       <title>Fangschreckenkrebs hat Lichtschalter direkt in seinen Augen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/fangschreckenkrebs-hat-lichtschalter-direkt-in-seinen-augen-133714576</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/fangschreckenkrebs-hat-lichtschalter-direkt-in-seinen-augen-133714576"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/fangschreckenkrebs-hat-lichtschalter-direkt-in-seinen-augen.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/fangschreckenkrebs-hat-lichtschalter-direkt-in-seinen-augen.png" alt="Fangschreckenkrebs hat Lichtschalter direkt in seinen Augen"/><p>Fangschreckenkrebs hat Lichtschalter direkt in seinen Augen</p>]]></content>
     </entry>
@@ -23,8 +32,8 @@
       <title>20 Silbermünzen führen zu einem verschwundenen Viertel in Rom</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/20-silbermuenzen-fuehren-zu-einem-verschwundenen-viertel-in-rom-133713671</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/20-silbermuenzen-fuehren-zu-einem-verschwundenen-viertel-in-rom-133713671"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/20-silbermuenzen-fuehren-zu-einem-verschwundenen-viertel-in-rom.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/20-silbermuenzen-fuehren-zu-einem-verschwundenen-viertel-in-rom.jpg" alt="20 Silbermünzen führen zu einem verschwundenen Viertel in Rom"/><p>20 Silbermünzen führen zu einem verschwundenen Viertel in Rom</p>]]></content>
     </entry>
@@ -32,8 +41,8 @@
       <title>Der Mont Blanc wächst zunehmend</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/geologie/der-mont-blanc-waechst-zunehmend-133714573</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/der-mont-blanc-waechst-zunehmend-133714573"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/der-mont-blanc-waechst-zunehmend.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/der-mont-blanc-waechst-zunehmend.png" alt="Der Mont Blanc wächst zunehmend"/><p>Der Mont Blanc wächst zunehmend</p>]]></content>
     </entry>
@@ -41,8 +50,8 @@
       <title>23.000 Jahre alte Fußspuren verraten einen rasanten Klimawechsel</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel-133714567</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel-133714567"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/23.000-jahre-alte-fussspuren-verraten-einen-rasanten-klimawechsel.png" alt="23.000 Jahre alte Fußspuren verraten einen rasanten Klimawechsel"/><p>23.000 Jahre alte Fußspuren verraten einen rasanten Klimawechsel</p>]]></content>
     </entry>
@@ -50,36 +59,27 @@
       <title>Über 10.000 Bruchzonen verraten das Schrumpfen des Mondes</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes-133714565</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes-133714565"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/ueber-10.000-bruchzonen-verraten-das-schrumpfen-des-mondes.png" alt="Über 10.000 Bruchzonen verraten das Schrumpfen des Mondes"/><p>Über 10.000 Bruchzonen verraten das Schrumpfen des Mondes</p>]]></content>
     </entry>
     <entry>
-      <title>Roboter läuft unter Wasser an senkrechten Schiffswänden</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/technik/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden-133714564</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden-133714564"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/roboter-laeuft-unter-wasser-an-senkrechten-schiffswaenden.png" alt="Roboter läuft unter Wasser an senkrechten Schiffswänden"/><p>Roboter läuft unter Wasser an senkrechten Schiffswänden</p>]]></content>
+      <title>Nach dem El Niño von 1877 verhungerten mehr als 50 Millionen Menschen</title>
+      <id>https://www.forschung-und-wissen.de/magazin/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen-133713091</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen-133713091"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen.jpg" alt="Nach dem El Niño von 1877 verhungerten mehr als 50 Millionen Menschen"/><p>Nach dem El Niño von 1877 verhungerten mehr als 50 Millionen Menschen</p>]]></content>
     </entry>
     <entry>
-      <title>Von-Neumann-Sonden: Eine Maschine reicht, um die Milchstraße zu bevölkern</title>
-      <id>https://www.forschung-und-wissen.de/magazin/von-neumann-sonden-eine-maschine-reicht-um-die-milchstrasse-zu-bevoelkern-133712969</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/von-neumann-sonden-eine-maschine-reicht-um-die-milchstrasse-zu-bevoelkern-133712969"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/von-neumann-sonden-eine-maschine-reicht-um-die-milchstrasse-zu-bevoelkern.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/von-neumann-sonden-eine-maschine-reicht-um-die-milchstrasse-zu-bevoelkern.jpg" alt="Von-Neumann-Sonden: Eine Maschine reicht, um die Milchstraße zu bevölkern"/><p>Von-Neumann-Sonden: Eine Maschine reicht, um die Milchstraße zu bevölkern</p>]]></content>
-    </entry>
-    <entry>
-      <title>Warum gibt es auf der ganzen Erde kein einziges grünes Säugetier?</title>
-      <id>https://www.forschung-und-wissen.de/magazin/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier-133712986</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier-133712986"/>
-      <updated>2026-10-17T18:41:57Z</updated>
-      <published>2026-10-17T18:41:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-gibt-es-auf-der-ganzen-erde-kein-einziges-gruenes-saeugetier.jpg" alt="Warum gibt es auf der ganzen Erde kein einziges grünes Säugetier?"/><p>Warum gibt es auf der ganzen Erde kein einziges grünes Säugetier?</p>]]></content>
+      <title>Tutanchamuns Skarabäus besteht aus 29 Millionen Jahre altem Glas</title>
+      <id>https://www.forschung-und-wissen.de/magazin/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas-133713094</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas-133713094"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas.jpg" alt="Tutanchamuns Skarabäus besteht aus 29 Millionen Jahre altem Glas"/><p>Tutanchamuns Skarabäus besteht aus 29 Millionen Jahre altem Glas</p>]]></content>
     </entry>
 </feed>
