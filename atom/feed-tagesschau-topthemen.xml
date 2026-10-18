@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-17T18:41:51Z</updated>
+  <updated>2026-10-18T08:58:28Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"/>
-      <updated>2026-10-17T18:41:51Z</updated>
-      <published>2026-10-17T18:41:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/506258a1-d762-4700-a6ce-687b4302de26/AAABoUqkI0o/AAABnSSvrFg/16x9-big/wolodymyr-zelenskyj-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/506258a1-d762-4700-a6ce-687b4302de26/AAABoUqkI0o/AAABnSSvrFg/16x9-big/wolodymyr-zelenskyj-100.jpg?width=1280" alt="Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen"/><p>Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen</p>]]></content>
-    </entry>
-    <entry>
       <title>Schwere Ausschreitungen bei Massenprotesten in Frankreich</title>
       <id>https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html"/>
-      <updated>2026-10-17T18:41:51Z</updated>
-      <published>2026-10-17T18:41:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8e6b9779-05a8-4b0d-b06b-813c9f4eb81d/AAABoUnoAZ8/AAABnSSvrFg/16x9-big/paris-feuer-demonstration-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8e6b9779-05a8-4b0d-b06b-813c9f4eb81d/AAABoUnoAZ8/AAABnSSvrFg/16x9-big/paris-feuer-demonstration-100.jpg?width=1280" alt="Schwere Ausschreitungen bei Massenprotesten in Frankreich"/><p>Schwere Ausschreitungen bei Massenprotesten in Frankreich</p>]]></content>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ad6a129e-61b4-408b-90ec-2f4a3938c431/AAABoUv9_zs/AAABnSSvrFg/16x9-big/feuer-rathaus-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ad6a129e-61b4-408b-90ec-2f4a3938c431/AAABoUv9_zs/AAABnSSvrFg/16x9-big/feuer-rathaus-100.jpg?width=1280" alt="Schwere Ausschreitungen bei Massenprotesten in Frankreich"/><p>Schwere Ausschreitungen bei Massenprotesten in Frankreich</p>]]></content>
+    </entry>
+    <entry>
+      <title>Tote und Verletzte bei Vorfall auf Militärbasis in Kanada</title>
+      <id>https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/zwischenfall-militaerstutzpunkt-kanada-100.html"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e0a08d45-7f2e-47c9-aea9-bea4dddf46b1/AAABoU4ADwA/AAABnSSvrFg/16x9-big/kanada-306.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e0a08d45-7f2e-47c9-aea9-bea4dddf46b1/AAABoU4ADwA/AAABnSSvrFg/16x9-big/kanada-306.jpg?width=1280" alt="Tote und Verletzte bei Vorfall auf Militärbasis in Kanada"/><p>Tote und Verletzte bei Vorfall auf Militärbasis in Kanada</p>]]></content>
+    </entry>
+    <entry>
+      <title>Mindestens 17 Tote bei Massenpanik in Indien</title>
+      <id>https://www.tagesschau.de/ausland/asien/indien-tote-bei-massenpanik-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/indien-tote-bei-massenpanik-100.html"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ff4dec00-1262-46c2-8372-bb27531d150f/AAABoUwIC7I/AAABnSSvrFg/16x9-big/indien-872.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ff4dec00-1262-46c2-8372-bb27531d150f/AAABoUwIC7I/AAABnSSvrFg/16x9-big/indien-872.jpg?width=1280" alt="Mindestens 17 Tote bei Massenpanik in Indien"/><p>Mindestens 17 Tote bei Massenpanik in Indien</p>]]></content>
+    </entry>
+    <entry>
+      <title>Frei fordert gleiche Chancen auf Facharzttermine</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/facharzttermine-frei-fordert-mehr-gerechtigkeit-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/facharzttermine-frei-fordert-mehr-gerechtigkeit-100.html"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/54a493ee-7542-4c9a-8b93-aa4c2f97643e/AAABoUxlSl4/AAABnSSvrFg/16x9-big/frei-192.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/54a493ee-7542-4c9a-8b93-aa4c2f97643e/AAABoUxlSl4/AAABnSSvrFg/16x9-big/frei-192.jpg?width=1280" alt="Frei fordert gleiche Chancen auf Facharzttermine"/><p>Frei fordert gleiche Chancen auf Facharzttermine</p>]]></content>
     </entry>
     <entry>
       <title>Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin</title>
       <id>https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"/>
-      <updated>2026-10-17T18:41:51Z</updated>
-      <published>2026-10-17T18:41:51Z</published>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c45d1532-db85-46a5-85be-e491bd86637a/AAABoUptRPc/AAABnSSvrFg/16x9-big/sondierungsvereinbarung-berlin-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c45d1532-db85-46a5-85be-e491bd86637a/AAABoUptRPc/AAABnSSvrFg/16x9-big/sondierungsvereinbarung-berlin-100.jpg?width=1280" alt="Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin"/><p>Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin</p>]]></content>
     </entry>
     <entry>
-      <title>Merz verteidigt Reformkurs und warnt Koalitionspartner SPD</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html"/>
-      <updated>2026-10-17T18:41:51Z</updated>
-      <published>2026-10-17T18:41:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2acf0248-3e7d-41a5-9d55-5940f21ad962/AAABoUliGAQ/AAABnSSvrFg/16x9-big/merz-1736.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2acf0248-3e7d-41a5-9d55-5940f21ad962/AAABoUliGAQ/AAABnSSvrFg/16x9-big/merz-1736.jpg?width=1280" alt="Merz verteidigt Reformkurs und warnt Koalitionspartner SPD"/><p>Merz verteidigt Reformkurs und warnt Koalitionspartner SPD</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nach dem Ende des &quot;Tankrabatts&quot;: Bilger hält weitere Entlastungen für möglich</title>
-      <id>https://www.tagesschau.de/inland/bilger-tankrabatt-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/bilger-tankrabatt-100.html"/>
-      <updated>2026-10-17T18:41:51Z</updated>
-      <published>2026-10-17T18:41:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/54ab945c-2e1c-4796-95a7-cfc3dfab609a/AAABoUi7EQ0/AAABnSSvrFg/16x9-big/bilger-142.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/54ab945c-2e1c-4796-95a7-cfc3dfab609a/AAABoUi7EQ0/AAABnSSvrFg/16x9-big/bilger-142.jpg?width=1280" alt="Nach dem Ende des "Tankrabatts": Bilger hält weitere Entlastungen für möglich"/><p>Nach dem Ende des &quot;Tankrabatts&quot;: Bilger hält weitere Entlastungen für möglich</p>]]></content>
-    </entry>
-    <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667908.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1667908.html"/>
-      <updated>2026-10-17T18:41:51Z</updated>
-      <published>2026-10-17T18:41:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6b20fb44-7fed-4d9f-b840-68f01b6ddda2/AAABoUpPifA/AAABnSSvrFg/16x9-big/sendungsbild-1813106.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6b20fb44-7fed-4d9f-b840-68f01b6ddda2/AAABoUpPifA/AAABnSSvrFg/16x9-big/sendungsbild-1813106.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668268.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1668268.html"/>
+      <updated>2026-10-18T08:58:28Z</updated>
+      <published>2026-10-18T08:58:28Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f7ad1972-1908-4ed0-afe3-87baf1306351/AAABoU3uM4U/AAABnSSvrFg/16x9-big/sendungsbild-1813364.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f7ad1972-1908-4ed0-afe3-87baf1306351/AAABoU3uM4U/AAABnSSvrFg/16x9-big/sendungsbild-1813364.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
