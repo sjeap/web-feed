@@ -5,11 +5,95 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-19T09:53:01Z</updated>
+  <updated>2026-10-19T20:25:55Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>TSMC: Irrational Fears Don&apos;t Make Much Sense</title>
+      <id>https://seekingalpha.com/Article:4955306</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955306-tsmc-irrational-fears-dont-make-much-sense?source=feed_symbol_TSM"/>
+      <updated>2026-10-19T20:25:55Z</updated>
+      <published>2026-10-19T20:25:55Z</published>
+    </entry>
+    <entry>
+      <title>Stagflation In Europe Could Drive VGK Lower Than It Is Now</title>
+      <id>4955299</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955299-stagflation-in-europe-could-drive-vgk-lower-than-it-is-now?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T19:44:55Z</updated>
+      <published>2026-10-19T19:44:55Z</published>
+    </entry>
+    <entry>
+      <title>ASML Holding N.V. (ASML) Q3 2026 Earnings Call Transcript</title>
+      <id>https://seekingalpha.com/Article:4955303</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955303-asml-holding-n-v-asml-q3-2026-earnings-call-transcript?source=feed_symbol_ASML"/>
+      <updated>2026-10-19T19:04:03Z</updated>
+      <published>2026-10-19T19:04:03Z</published>
+    </entry>
+    <entry>
+      <title>XLV: Safe Haven, But That Cuts Both Ways</title>
+      <id>4955254</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955254-xlv-safe-haven-but-that-cuts-both-ways?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T17:28:14Z</updated>
+      <published>2026-10-19T17:28:14Z</published>
+    </entry>
+    <entry>
+      <title>BGB: Tactical Opportunity With Liquidation Potential</title>
+      <id>4955251</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955251-bgb-tactical-opportunity-with-liquidation-potential?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T17:20:37Z</updated>
+      <published>2026-10-19T17:20:37Z</published>
+    </entry>
+    <entry>
+      <title>IAUI: Gold Exposure With A ~12% Monthly Payout</title>
+      <id>4955234</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955234-iaui-gold-exposure-with-12-percent-monthly-payout?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T16:19:59Z</updated>
+      <published>2026-10-19T16:19:59Z</published>
+    </entry>
+    <entry>
+      <title>Commodities Hit Decade+ Highs, GSG Has Bullish Eyes</title>
+      <id>4955218</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955218-commodities-hit-decade-plus-highs-gsg-has-bullish-eyes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T15:28:57Z</updated>
+      <published>2026-10-19T15:28:57Z</published>
+    </entry>
+    <entry>
+      <title>Poll Position: Performance Of The S&amp;P MidCap 400 Around Mid-Term Elections</title>
+      <id>4955214</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955214-poll-position-performance-sp-midcap-400-around-mid-term-elections?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T15:02:00Z</updated>
+      <published>2026-10-19T15:02:00Z</published>
+    </entry>
+    <entry>
+      <title>Insider selling weighs on Sea Ltd</title>
+      <id>https://seekingalpha.com/MarketCurrent:4654244</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/SE/news?source=feed_symbol_SE"/>
+      <updated>2026-10-19T14:18:19Z</updated>
+      <published>2026-10-19T14:18:19Z</published>
+    </entry>
+    <entry>
+      <title>GRNY: Lofty Growth Expectations Leave Little Room For Error</title>
+      <id>4955191</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955191-grny-lofty-growth-expectations-leave-little-room-for-error?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T13:46:05Z</updated>
+      <published>2026-10-19T13:46:05Z</published>
+    </entry>
+    <entry>
+      <title>SSPC: SpaceX&apos;s Q3 Bar And 2027 Spending Bill Open A Short Earnings Window</title>
+      <id>4955128</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955128-sspc-spacexs-q3-bar-and-2027-spending-bill-open-a-short-earnings-window?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T12:30:57Z</updated>
+      <published>2026-10-19T12:30:57Z</published>
+    </entry>
+    <entry>
+      <title>Sell Eagle Point Credit Now - Match The Loss With Portfolio Gains To Lower Income Taxes</title>
+      <id>4955149</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955149-sell-eagle-point-credit-cef-match-loss-with-portfolio-gains-to-lower-income-taxes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T11:11:03Z</updated>
+      <published>2026-10-19T11:11:03Z</published>
+    </entry>
     <entry>
       <title>Volkswagen plans global salary freeze through 2030 - report</title>
       <id>https://seekingalpha.com/MarketCurrent:4654111</id>
@@ -100,89 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4955076-wcld-why-small-cloud-computing-stocks-are-breaking-out-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-18T19:46:49Z</updated>
       <published>2026-10-18T19:46:49Z</published>
-    </entry>
-    <entry>
-      <title>UTES Vs. UTG: Why I Prefer The ETF As Rates Rise</title>
-      <id>4955075</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955075-utes-vs-utg-why-i-prefer-the-etf-as-rates-rise?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T19:31:55Z</updated>
-      <published>2026-10-18T19:31:55Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The Easy Money Is Gone</title>
-      <id>https://seekingalpha.com/Article:4955036</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955036-tsmc-the-easy-money-is-gone?source=feed_symbol_TSM"/>
-      <updated>2026-10-18T16:00:00Z</updated>
-      <published>2026-10-18T16:00:00Z</published>
-    </entry>
-    <entry>
-      <title>WEA: Attractive Monthly Pay With Discount Blowing Out</title>
-      <id>4955065</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955065-wea-attractive-monthly-pay-with-discount-blowing-out?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T14:54:32Z</updated>
-      <published>2026-10-18T14:54:32Z</published>
-    </entry>
-    <entry>
-      <title>BWG: Strengthening U.S. Dollar And Rising Bond Yields Likely To Be Headwind</title>
-      <id>4955063</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955063-bwg-strengthening-us-dollar-rising-bond-yields-likely-to-be-headwind?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T14:40:45Z</updated>
-      <published>2026-10-18T14:40:45Z</published>
-    </entry>
-    <entry>
-      <title>2 Covered Call ETFs To Shield Your Income From An AI Crash</title>
-      <id>4955038</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955038-2-covered-call-etfs-to-shield-your-income-from-an-ai-crash?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T13:15:00Z</updated>
-      <published>2026-10-18T13:15:00Z</published>
-    </entry>
-    <entry>
-      <title>MCI: A Great Fund For The Long Term, 8.6% Yield</title>
-      <id>4954359</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954359-mci-great-fund-for-long-term-8_6-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T12:30:00Z</updated>
-      <published>2026-10-18T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>HYGW: The High Yield Of High Yields That Could Distribute 11%</title>
-      <id>4955023</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955023-hygw-the-high-yield-of-high-yields-that-could-distribute-11-percent?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T12:30:00Z</updated>
-      <published>2026-10-18T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>VDC: Consumer Staples Dashboard For October</title>
-      <id>4954975</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954975-vdc-consumer-staples-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T12:04:00Z</updated>
-      <published>2026-10-18T12:04:00Z</published>
-    </entry>
-    <entry>
-      <title>Weekly Closed-End Fund Roundup (October 11, 2026)</title>
-      <id>4955030</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955030-weekly-closed-end-fund-roundup-october-11-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T08:28:29Z</updated>
-      <published>2026-10-18T08:28:29Z</published>
-    </entry>
-    <entry>
-      <title>IJR: Small Caps Are More Appealing After The Drawdown</title>
-      <id>4955020</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955020-ijr-small-caps-are-more-appealing-after-the-drawdown?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T06:05:00Z</updated>
-      <published>2026-10-18T06:05:00Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The AI Boom Is Bigger And Longer Than Expected</title>
-      <id>https://seekingalpha.com/Article:4955010</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955010-tsmc-the-ai-boom-is-bigger-and-longer-than-expected?source=feed_symbol_TSM"/>
-      <updated>2026-10-18T02:26:53Z</updated>
-      <published>2026-10-18T02:26:53Z</published>
-    </entry>
-    <entry>
-      <title>FDIG: Two Funds In One, And The Miner Half Faces A Funding Squeeze</title>
-      <id>4955007</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955007-fdig-two-funds-in-one-and-the-miner-half-faces-a-funding-squeeze?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T01:17:44Z</updated>
-      <published>2026-10-18T01:17:44Z</published>
     </entry>
 </feed>
