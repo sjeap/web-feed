@@ -5,11 +5,109 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-18T16:00:00Z</updated>
+  <updated>2026-10-19T09:53:01Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Volkswagen plans global salary freeze through 2030 - report</title>
+      <id>https://seekingalpha.com/MarketCurrent:4654111</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
+      <updated>2026-10-19T09:53:01Z</updated>
+      <published>2026-10-19T09:53:01Z</published>
+    </entry>
+    <entry>
+      <title>PFF: Rate Pressure, Not Credit Stress, Drives The Selloff</title>
+      <id>4955135</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955135-pff-rate-pressure-not-credit-stress-drives-the-selloff?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T09:40:22Z</updated>
+      <published>2026-10-19T09:40:22Z</published>
+    </entry>
+    <entry>
+      <title>REGL: Why Dividend Growth May Matter More Than Dividend Longevity</title>
+      <id>4955132</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955132-regl-why-dividend-growth-may-matter-more-than-dividend-longevity?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T09:36:54Z</updated>
+      <published>2026-10-19T09:36:54Z</published>
+    </entry>
+    <entry>
+      <title>ASML: No AI Slowdown In Sight As Orders And Margins Surge</title>
+      <id>https://seekingalpha.com/Article:4955127</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955127-asml-stock-no-ai-slowdown-in-sight-as-orders-margins-surge?source=feed_symbol_ASML"/>
+      <updated>2026-10-19T09:19:22Z</updated>
+      <published>2026-10-19T09:19:22Z</published>
+    </entry>
+    <entry>
+      <title>REET: The Correction In Global REITs Is An Opportunity</title>
+      <id>4955125</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955125-reet-the-correction-in-global-reits-is-an-opportunity?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T09:05:56Z</updated>
+      <published>2026-10-19T09:05:56Z</published>
+    </entry>
+    <entry>
+      <title>Samsung said to use TSMC tech for Nvidia&apos;s next-generation memory chips</title>
+      <id>https://seekingalpha.com/MarketCurrent:4654106</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-10-19T08:56:47Z</updated>
+      <published>2026-10-19T08:56:47Z</published>
+    </entry>
+    <entry>
+      <title>WGMI&apos;s Pivot: From Bitcoin Miner To AI Power Play (Upgrade)</title>
+      <id>4955118</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955118-wgmis-pivot-from-bitcoin-miner-to-ai-power-play-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T07:17:49Z</updated>
+      <published>2026-10-19T07:17:49Z</published>
+    </entry>
+    <entry>
+      <title>VIG Rejects The Highest Yielding Dividend Stocks. That Could Be Its Next Big Problem.</title>
+      <id>4955116</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955116-vig-rejects-the-highest-yielding-dividend-stocks-that-could-be-its-next-big-problem?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T07:11:20Z</updated>
+      <published>2026-10-19T07:11:20Z</published>
+    </entry>
+    <entry>
+      <title>FLBL: Strong Senior Loan ETF, Broadly Inferior To CLOs</title>
+      <id>4955108</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955108-flbl-strong-senior-loan-etf-broadly-inferior-to-clos?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T06:33:52Z</updated>
+      <published>2026-10-19T06:33:52Z</published>
+    </entry>
+    <entry>
+      <title>IXUS: 3 Catalysts That Could Drive International Outperformance</title>
+      <id>4955090</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955090-ixus-3-catalysts-that-could-drive-international-outperformance?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T03:54:23Z</updated>
+      <published>2026-10-19T03:54:23Z</published>
+    </entry>
+    <entry>
+      <title>SMLF: Acceptable But Unconvincing Factor Mix, Unlikely To Beat IVV, A Hold</title>
+      <id>4955084</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955084-smlf-acceptable-but-unconvincing-factor-mix-unlikely-to-beat-ivv-reiterate-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T03:08:25Z</updated>
+      <published>2026-10-19T03:08:25Z</published>
+    </entry>
+    <entry>
+      <title>SH: A Tactical Hedge, But Not Yet A Short Call</title>
+      <id>4955077</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955077-sh-a-tactical-hedge-but-not-yet-a-short-call?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T20:01:22Z</updated>
+      <published>2026-10-18T20:01:22Z</published>
+    </entry>
+    <entry>
+      <title>WCLD: Why Small Cloud Computing Stocks Are Breaking Out (Rating Upgrade)</title>
+      <id>4955076</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955076-wcld-why-small-cloud-computing-stocks-are-breaking-out-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T19:46:49Z</updated>
+      <published>2026-10-18T19:46:49Z</published>
+    </entry>
+    <entry>
+      <title>UTES Vs. UTG: Why I Prefer The ETF As Rates Rise</title>
+      <id>4955075</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955075-utes-vs-utg-why-i-prefer-the-etf-as-rates-rise?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-18T19:31:55Z</updated>
+      <published>2026-10-18T19:31:55Z</published>
+    </entry>
     <entry>
       <title>TSMC: The Easy Money Is Gone</title>
       <id>https://seekingalpha.com/Article:4955036</id>
@@ -86,103 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4955007-fdig-two-funds-in-one-and-the-miner-half-faces-a-funding-squeeze?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-18T01:17:44Z</updated>
       <published>2026-10-18T01:17:44Z</published>
-    </entry>
-    <entry>
-      <title>EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can&apos;t Be Ignored</title>
-      <id>4954997</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954997-eido-indonesia-like-pakistan-in-2008-with-a-delisting-risk-that-cant-be-ignored?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T15:31:09Z</updated>
-      <published>2026-10-17T15:31:09Z</published>
-    </entry>
-    <entry>
-      <title>Notable tech headlines for the week: CoreWeave, TSMC, Anthropic in focus</title>
-      <id>https://seekingalpha.com/MarketCurrent:4653959</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-10-17T14:10:42Z</updated>
-      <published>2026-10-17T14:10:42Z</published>
-    </entry>
-    <entry>
-      <title>FDIS: Consumer Discretionary Sector Dashboard For October</title>
-      <id>4954831</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954831-fdis-consumer-discretionary-sector-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T14:10:00Z</updated>
-      <published>2026-10-17T14:10:00Z</published>
-    </entry>
-    <entry>
-      <title>TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline</title>
-      <id>4954992</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954992-tqqq-the-tech-selloff-is-not-yet-a-bear-market-but-leverage-requires-discipline?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T14:04:47Z</updated>
-      <published>2026-10-17T14:04:47Z</published>
-    </entry>
-    <entry>
-      <title>Income-Covered Closed-End Fund Report, October 2026</title>
-      <id>4954991</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954991-income-covered-closed-end-fund-report-october-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T14:04:37Z</updated>
-      <published>2026-10-17T14:04:37Z</published>
-    </entry>
-    <entry>
-      <title>ASML: Generational Buying Opportunity As AI Capex Party Continues - Upgrade Buy</title>
-      <id>https://seekingalpha.com/Article:4954960</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954960-asml-generational-buying-opportunity-as-ai-capex-party-continues-upgrade-buy?source=feed_symbol_ASML"/>
-      <updated>2026-10-17T13:20:33Z</updated>
-      <published>2026-10-17T13:20:33Z</published>
-    </entry>
-    <entry>
-      <title>PDO: Why Retirees Should Consider This 12.8% Yielding Machine</title>
-      <id>4954957</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954957-pdo-retirees-should-consider-this-12_8-percent-yielding-machine?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T13:15:00Z</updated>
-      <published>2026-10-17T13:15:00Z</published>
-    </entry>
-    <entry>
-      <title>MXI: Materials Dashboard For October</title>
-      <id>4954622</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954622-mxi-materials-dashboard-for-october?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T13:12:00Z</updated>
-      <published>2026-10-17T13:12:00Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The AI Cycle Just Sent Another Signal</title>
-      <id>https://seekingalpha.com/Article:4954981</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954981-tsmc-the-ai-cycle-just-sent-another-signal?source=feed_symbol_TSM"/>
-      <updated>2026-10-17T12:36:43Z</updated>
-      <published>2026-10-17T12:36:43Z</published>
-    </entry>
-    <entry>
-      <title>CEF Weekly Review: Weakness In CCCs</title>
-      <id>4954979</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954979-cef-weekly-review-weakness-in-cccs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T12:35:26Z</updated>
-      <published>2026-10-17T12:35:26Z</published>
-    </entry>
-    <entry>
-      <title>ETY: A Wider Discount Makes The Income More Attractive</title>
-      <id>4954963</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954963-ety-a-wider-discount-makes-the-income-more-attractive?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T09:44:25Z</updated>
-      <published>2026-10-17T09:44:25Z</published>
-    </entry>
-    <entry>
-      <title>SDCI: Commodity Rally Looks Strong, But Oil Risks Linger</title>
-      <id>4954946</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954946-sdci-commodity-rally-looks-strong-but-oil-risks-linger?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T07:53:29Z</updated>
-      <published>2026-10-17T07:53:29Z</published>
-    </entry>
-    <entry>
-      <title>Market Dislocation Creates Buying Opportunity In Nuclear ETFs</title>
-      <id>4954955</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954955-market-dislocation-creates-buying-opportunity-in-nuclear-etfs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T07:45:00Z</updated>
-      <published>2026-10-17T07:45:00Z</published>
-    </entry>
-    <entry>
-      <title>GAMR Video Game ETF Momentum Continues Into Q4</title>
-      <id>4954948</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954948-gamr-video-game-etf-momentum-continues-into-q4?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-17T07:10:00Z</updated>
-      <published>2026-10-17T07:10:00Z</published>
     </entry>
 </feed>
