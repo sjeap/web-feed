@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-10-06T12:07:48Z</updated>
+  <updated>2026-10-15T12:36:31Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ranked: The World’s 30 Largest Banks in 2026</title>
+      <id>https://www.visualcapitalist.com/?p=206172</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/the-worlds-30-largest-banks-in-2026/"/>
+      <updated>2026-10-15T12:36:31Z</updated>
+      <published>2026-10-15T12:36:31Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/10/largest-banks-by-assets.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/10/largest-banks-by-assets.webp" alt="Ranked: The World’s 30 Largest Banks in 2026"/><p>Ranked: The World’s 30 Largest Banks in 2026</p>]]></content>
+    </entry>
     <entry>
       <title>Ranked: The World’s Richest Countries (2006-2026)</title>
       <id>https://www.visualcapitalist.com/?p=205608</id>
@@ -90,14 +99,5 @@
       <published>2026-08-11T12:04:31Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/08/Monthly_Salary_Major_Cities_2026_SHARE.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/08/Monthly_Salary_Major_Cities_2026_SHARE.webp" alt="Mapped: Monthly Salaries Across 69 Major Cities"/><p>Mapped: Monthly Salaries Across 69 Major Cities</p>]]></content>
-    </entry>
-    <entry>
-      <title>The World’s Most Powerful Passports (2016 vs. 2026)</title>
-      <id>https://www.visualcapitalist.com/?p=203021</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/the-worlds-most-powerful-passports-2016-vs-2026/"/>
-      <updated>2026-07-31T12:06:45Z</updated>
-      <published>2026-07-31T12:06:45Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/07/powerfulpassports-shareable.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/07/powerfulpassports-shareable.webp" alt="The World’s Most Powerful Passports (2016 vs. 2026)"/><p>The World’s Most Powerful Passports (2016 vs. 2026)</p>]]></content>
     </entry>
 </feed>
