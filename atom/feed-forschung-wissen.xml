@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-18T18:45:01Z</updated>
+  <updated>2026-10-19T10:07:42Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Uranwürfel zeigen warum Heisenbergs letzter Reaktor scheiterte</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/physik/uranwuerfel-zeigen-warum-heisenbergs-letzter-reaktor-scheiterte-133714612</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/uranwuerfel-zeigen-warum-heisenbergs-letzter-reaktor-scheiterte-133714612"/>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/uranwuerfel-zeigen-warum-heisenbergs-letzter-reaktor-scheiterte.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/uranwuerfel-zeigen-warum-heisenbergs-letzter-reaktor-scheiterte.png" alt="Uranwürfel zeigen warum Heisenbergs letzter Reaktor scheiterte"/><p>Uranwürfel zeigen warum Heisenbergs letzter Reaktor scheiterte</p>]]></content>
+    </entry>
+    <entry>
+      <title>Elektroauto-Akkus könnten mit einem Bypass länger halten</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/elektroauto-akkus-koennten-mit-einem-bypass-laenger-halten-133714609</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/elektroauto-akkus-koennten-mit-einem-bypass-laenger-halten-133714609"/>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektroauto-akkus-koennten-mit-einem-bypass-laenger-halten.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/elektroauto-akkus-koennten-mit-einem-bypass-laenger-halten.png" alt="Elektroauto-Akkus könnten mit einem Bypass länger halten"/><p>Elektroauto-Akkus könnten mit einem Bypass länger halten</p>]]></content>
+    </entry>
+    <entry>
       <title>Komet im Asteroidengürtel ist nach 102 Tagen noch aktiv</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/komet-im-asteroidenguertel-ist-nach-102-tagen-noch-aktiv-133714607</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/komet-im-asteroidenguertel-ist-nach-102-tagen-noch-aktiv-133714607"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/komet-im-asteroidenguertel-ist-nach-102-tagen-noch-aktiv.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/komet-im-asteroidenguertel-ist-nach-102-tagen-noch-aktiv.png" alt="Komet im Asteroidengürtel ist nach 102 Tagen noch aktiv"/><p>Komet im Asteroidengürtel ist nach 102 Tagen noch aktiv</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>Elefanten locken noch Jahre nach ihrem Tod Weidetiere an</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/elefanten-locken-noch-jahre-nach-ihrem-tod-weidetiere-an-133714606</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/elefanten-locken-noch-jahre-nach-ihrem-tod-weidetiere-an-133714606"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/elefanten-locken-noch-jahre-nach-ihrem-tod-weidetiere-an.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/elefanten-locken-noch-jahre-nach-ihrem-tod-weidetiere-an.png" alt="Elefanten locken noch Jahre nach ihrem Tod Weidetiere an"/><p>Elefanten locken noch Jahre nach ihrem Tod Weidetiere an</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Gasplanet könnte aus den Überresten seines Sterns entstanden sein</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/gasplanet-koennte-aus-den-ueberresten-seines-sterns-entstanden-sein-133714600</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/gasplanet-koennte-aus-den-ueberresten-seines-sterns-entstanden-sein-133714600"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/gasplanet-koennte-aus-den-ueberresten-seines-sterns-entstanden-sein.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/gasplanet-koennte-aus-den-ueberresten-seines-sterns-entstanden-sein.png" alt="Gasplanet könnte aus den Überresten seines Sterns entstanden sein"/><p>Gasplanet könnte aus den Überresten seines Sterns entstanden sein</p>]]></content>
     </entry>
@@ -41,45 +59,27 @@
       <title>Fliegen kann im Tierreich weniger Energie kosten als Schwimmen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/fliegen-kann-im-tierreich-weniger-energie-kosten-als-schwimmen-133714595</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/fliegen-kann-im-tierreich-weniger-energie-kosten-als-schwimmen-133714595"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/fliegen-kann-im-tierreich-weniger-energie-kosten-als-schwimmen.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/fliegen-kann-im-tierreich-weniger-energie-kosten-als-schwimmen.png" alt="Fliegen kann im Tierreich weniger Energie kosten als Schwimmen"/><p>Fliegen kann im Tierreich weniger Energie kosten als Schwimmen</p>]]></content>
     </entry>
     <entry>
-      <title>Kollidierende Wurmlöcher könnten ein Schwarzes Loch schrumpfen lassen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/kollidierende-wurmloecher-koennten-ein-schwarzes-loch-schrumpfen-lassen-133714592</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/kollidierende-wurmloecher-koennten-ein-schwarzes-loch-schrumpfen-lassen-133714592"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/kollidierende-wurmloecher-koennten-ein-schwarzes-loch-schrumpfen-lassen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/kollidierende-wurmloecher-koennten-ein-schwarzes-loch-schrumpfen-lassen.png" alt="Kollidierende Wurmlöcher könnten ein Schwarzes Loch schrumpfen lassen"/><p>Kollidierende Wurmlöcher könnten ein Schwarzes Loch schrumpfen lassen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Neptuns Ring verliert zwei Bögen und bildet einen neuen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/neptuns-ring-verliert-zwei-boegen-und-bildet-einen-neuen-133714586</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/neptuns-ring-verliert-zwei-boegen-und-bildet-einen-neuen-133714586"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/neptuns-ring-verliert-zwei-boegen-und-bildet-einen-neuen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/neptuns-ring-verliert-zwei-boegen-und-bildet-einen-neuen.png" alt="Neptuns Ring verliert zwei Bögen und bildet einen neuen"/><p>Neptuns Ring verliert zwei Bögen und bildet einen neuen</p>]]></content>
+      <title>Warum hat nur der Mensch ein Kinn? Kein anderes Lebewesen besitzt eines</title>
+      <id>https://www.forschung-und-wissen.de/magazin/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines-133712983</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines-133712983"/>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines.jpg" alt="Warum hat nur der Mensch ein Kinn? Kein anderes Lebewesen besitzt eines"/><p>Warum hat nur der Mensch ein Kinn? Kein anderes Lebewesen besitzt eines</p>]]></content>
     </entry>
     <entry>
       <title>Nach dem El Niño von 1877 verhungerten mehr als 50 Millionen Menschen</title>
       <id>https://www.forschung-und-wissen.de/magazin/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen-133713091</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen-133713091"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
+      <updated>2026-10-19T10:07:42Z</updated>
+      <published>2026-10-19T10:07:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/nach-dem-el-nino-von-1877-verhungerten-mehr-als-50-millionen-menschen.jpg" alt="Nach dem El Niño von 1877 verhungerten mehr als 50 Millionen Menschen"/><p>Nach dem El Niño von 1877 verhungerten mehr als 50 Millionen Menschen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Tutanchamuns Skarabäus besteht aus 29 Millionen Jahre altem Glas</title>
-      <id>https://www.forschung-und-wissen.de/magazin/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas-133713094</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas-133713094"/>
-      <updated>2026-10-18T18:45:01Z</updated>
-      <published>2026-10-18T18:45:01Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/tutanchamuns-skarabaeus-besteht-aus-29-millionen-jahre-altem-glas.jpg" alt="Tutanchamuns Skarabäus besteht aus 29 Millionen Jahre altem Glas"/><p>Tutanchamuns Skarabäus besteht aus 29 Millionen Jahre altem Glas</p>]]></content>
     </entry>
 </feed>
