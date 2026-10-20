@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-10-17T07:00:00Z</updated>
+  <updated>2026-10-20T13:22:34Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Dieser raffinierte Wand-Trick macht aus 62 Quadratmetern in Madrid ein Zuhause mit großer Küche und Homeoffice</title>
+      <id>https://www.ad-magazin.de/artikel/eine-wand-wird-zum-bad-wie-eine-gruene-raumbox-diese-62-quadratmeter-wohnung-in-madrid-verwandelte</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/eine-wand-wird-zum-bad-wie-eine-gruene-raumbox-diese-62-quadratmeter-wohnung-in-madrid-verwandelte"/>
+      <updated>2026-10-20T13:22:34Z</updated>
+      <published>2026-10-20T13:22:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6ad5df8bad00578b27f71ae9/1:1/w_354%2Cc_limit/Bardo-021W.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6ad5df8bad00578b27f71ae9/1:1/w_354%2Cc_limit/Bardo-021W.jpg" alt="Dieser raffinierte Wand-Trick macht aus 62 Quadratmetern in Madrid ein Zuhause mit großer Küche und Homeoffice"/><p>Dieser raffinierte Wand-Trick macht aus 62 Quadratmetern in Madrid ein Zuhause mit großer Küche und Homeoffice</p>]]></content>
+    </entry>
     <entry>
       <title>So erhielten 56 Quadratmeter in Madrid einen schummrig-schönen Look mit Skandi-Flair und japanischen Einflüssen</title>
       <id>https://www.ad-magazin.de/artikel/so-erhielten-56-quadratmeter-in-madrid-einen-schummrig-schoenen-look-mit-japanischen-einfluessen</id>
@@ -171,14 +180,5 @@
       <published>2026-08-24T09:38:11Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg" alt="33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein"/><p>33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein</p>]]></content>
-    </entry>
-    <entry>
-      <title>Kleine Wohnung am Comer See: So wurden diese 55 Quadratmeter zum ruhigen Kokon mit viel italienischem Flair</title>
-      <id>https://www.ad-magazin.de/artikel/kleine-wohnung-am-comer-see-55-quadratmeter-mit-viel-italienischem-flair</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/kleine-wohnung-am-comer-see-55-quadratmeter-mit-viel-italienischem-flair"/>
-      <updated>2026-08-20T10:38:21Z</updated>
-      <published>2026-08-20T10:38:21Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a79b84f003a7195e0cc3bc5/1:1/w_354%2Cc_limit/DSCF9140-1.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a79b84f003a7195e0cc3bc5/1:1/w_354%2Cc_limit/DSCF9140-1.jpg" alt="Kleine Wohnung am Comer See: So wurden diese 55 Quadratmeter zum ruhigen Kokon mit viel italienischem Flair"/><p>Kleine Wohnung am Comer See: So wurden diese 55 Quadratmeter zum ruhigen Kokon mit viel italienischem Flair</p>]]></content>
     </entry>
 </feed>
