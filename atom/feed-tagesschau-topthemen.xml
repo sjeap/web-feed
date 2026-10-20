@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-19T21:10:32Z</updated>
+  <updated>2026-10-20T09:32:59Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke</title>
-      <id>https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"/>
-      <updated>2026-10-19T21:10:32Z</updated>
-      <published>2026-10-19T21:10:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/367106a4-4c0e-4842-bb0f-420e633097b1/AAABoVW5ZZw/AAABnSSvrFg/16x9-big/gruene-berlin-abstimmung-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/367106a4-4c0e-4842-bb0f-420e633097b1/AAABoVW5ZZw/AAABnSSvrFg/16x9-big/gruene-berlin-abstimmung-100.jpg?width=1280" alt="Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke"/><p>Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke</p>]]></content>
+      <title>Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj</title>
+      <id>https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"/>
+      <updated>2026-10-20T09:32:59Z</updated>
+      <published>2026-10-20T09:32:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f7cec16c-1e64-4017-9eaf-143b68fce60c/AAABoVb8zwY/AAABnSSvrFg/16x9-big/donald-trump-966.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f7cec16c-1e64-4017-9eaf-143b68fce60c/AAABoVb8zwY/AAABnSSvrFg/16x9-big/donald-trump-966.jpg?width=1280" alt="Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj"/><p>Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj</p>]]></content>
     </entry>
     <entry>
-      <title>Bundesregierung vereinbart KI-Kooperation mit Nvidia</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html"/>
-      <updated>2026-10-19T21:10:32Z</updated>
-      <published>2026-10-19T21:10:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e19d0a95-b875-4988-84b7-8d602ae653f5/AAABoVWeRv8/AAABnSSvrFg/16x9-big/merz-huang-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e19d0a95-b875-4988-84b7-8d602ae653f5/AAABoVWeRv8/AAABnSSvrFg/16x9-big/merz-huang-100.jpg?width=1280" alt="Bundesregierung vereinbart KI-Kooperation mit Nvidia"/><p>Bundesregierung vereinbart KI-Kooperation mit Nvidia</p>]]></content>
+      <title>Wahlen in den USA: Was zu den Midterms wichtig ist</title>
+      <id>https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html"/>
+      <updated>2026-10-20T09:32:59Z</updated>
+      <published>2026-10-20T09:32:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e65e8c27-9800-46ae-a646-3b6b2204820f/AAABoVfl1QQ/AAABnSSvrFg/16x9-big/us-kapitol-158.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e65e8c27-9800-46ae-a646-3b6b2204820f/AAABoVfl1QQ/AAABnSSvrFg/16x9-big/us-kapitol-158.jpg?width=1280" alt="Wahlen in den USA: Was zu den Midterms wichtig ist"/><p>Wahlen in den USA: Was zu den Midterms wichtig ist</p>]]></content>
     </entry>
     <entry>
-      <title>Frankreich-Proteste: &quot;Macron hat nicht die richtigen Antworten gefunden&quot;</title>
-      <id>https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html"/>
-      <updated>2026-10-19T21:10:32Z</updated>
-      <published>2026-10-19T21:10:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3524461f-8bc2-457d-830e-b1f136cc589f/AAABoVRqT7k/AAABnSSvrFg/16x9-big/demonstrant-marseille-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3524461f-8bc2-457d-830e-b1f136cc589f/AAABoVRqT7k/AAABnSSvrFg/16x9-big/demonstrant-marseille-100.jpg?width=1280" alt="Frankreich-Proteste: "Macron hat nicht die richtigen Antworten gefunden""/><p>Frankreich-Proteste: &quot;Macron hat nicht die richtigen Antworten gefunden&quot;</p>]]></content>
+      <title>Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben</title>
+      <id>https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html"/>
+      <updated>2026-10-20T09:32:59Z</updated>
+      <published>2026-10-20T09:32:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/09dc008d-caf4-45dc-ba74-e3ddb7a82f6d/AAABoVfRMxY/AAABnSSvrFg/16x9-big/alberta-106.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/09dc008d-caf4-45dc-ba74-e3ddb7a82f6d/AAABoVfRMxY/AAABnSSvrFg/16x9-big/alberta-106.jpg?width=1280" alt="Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben"/><p>Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben</p>]]></content>
     </entry>
     <entry>
-      <title>Frankreichs Premierminister Lecornu kündigt Ausgangssperren an</title>
-      <id>https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html"/>
-      <updated>2026-10-19T21:10:32Z</updated>
-      <published>2026-10-19T21:10:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/27052995-748d-4570-91de-df6c70a42bb0/AAABoVSHb-E/AAABnSSvrFg/16x9-big/krawalle-marseille-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/27052995-748d-4570-91de-df6c70a42bb0/AAABoVSHb-E/AAABnSSvrFg/16x9-big/krawalle-marseille-100.jpg?width=1280" alt="Frankreichs Premierminister Lecornu kündigt Ausgangssperren an"/><p>Frankreichs Premierminister Lecornu kündigt Ausgangssperren an</p>]]></content>
+      <title>Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird</title>
+      <id>https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html"/>
+      <updated>2026-10-20T09:32:59Z</updated>
+      <published>2026-10-20T09:32:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/bedb19f4-3c19-4d64-aef7-e6d930b5b74b/AAABoKDNLas/AAABnSSvrFg/16x9-big/landschaft-groenland-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/bedb19f4-3c19-4d64-aef7-e6d930b5b74b/AAABoKDNLas/AAABnSSvrFg/16x9-big/landschaft-groenland-100.jpg?width=1280" alt="Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird"/><p>Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird</p>]]></content>
     </entry>
     <entry>
-      <title>Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens</title>
-      <id>https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html"/>
-      <updated>2026-10-19T21:10:32Z</updated>
-      <published>2026-10-19T21:10:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1491a340-878c-4e8d-bf44-1837b9937835/AAABoVP_7rM/AAABnSSvrFg/16x9-big/valencia-ueberschwemmung-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1491a340-878c-4e8d-bf44-1837b9937835/AAABoVP_7rM/AAABnSSvrFg/16x9-big/valencia-ueberschwemmung-102.jpg?width=1280" alt="Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens"/><p>Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens</p>]]></content>
+      <title>Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht</title>
+      <id>https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html"/>
+      <updated>2026-10-20T09:32:59Z</updated>
+      <published>2026-10-20T09:32:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a0f861a0-3320-49c2-b40a-b54bda567bee/AAABoVhs72s/AAABnSSvrFg/16x9-big/lyon-ausgangssperre-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a0f861a0-3320-49c2-b40a-b54bda567bee/AAABoVhs72s/AAABnSSvrFg/16x9-big/lyon-ausgangssperre-100.jpg?width=1280" alt="Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht"/><p>Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht</p>]]></content>
     </entry>
     <entry>
-      <title>Grüne und SPD in Berlin stimmen für Koalitionsverhandlungen mit der Linken</title>
-      <id>https://www.tagesschau.de/video/video-1669198.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/video/video-1669198.html"/>
-      <updated>2026-10-19T21:10:32Z</updated>
-      <published>2026-10-19T21:10:32Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/492ab768-dd58-4628-9e78-19b837054b11/AAABoVW0RVw/AAABnSSvrFg/16x9-big/sendungsbild-1814178.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/492ab768-dd58-4628-9e78-19b837054b11/AAABoVW0RVw/AAABnSSvrFg/16x9-big/sendungsbild-1814178.jpg?width=1280" alt="Grüne und SPD in Berlin stimmen für Koalitionsverhandlungen mit der Linken"/><p>Grüne und SPD in Berlin stimmen für Koalitionsverhandlungen mit der Linken</p>]]></content>
+      <title>tagesschau in 100 Sekunden</title>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669338.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669338.html"/>
+      <updated>2026-10-20T09:32:59Z</updated>
+      <published>2026-10-20T09:32:59Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0282ce9f-19a6-4094-a227-15ceaa3c2e90/AAABoVh9Wgk/AAABnSSvrFg/16x9-big/sendungsbild-1814372.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0282ce9f-19a6-4094-a227-15ceaa3c2e90/AAABoVh9Wgk/AAABnSSvrFg/16x9-big/sendungsbild-1814372.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
