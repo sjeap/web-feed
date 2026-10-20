@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-19T20:25:55Z</updated>
+  <updated>2026-10-20T08:27:32Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SCHD: Buy It For The AI Jitters, Not The Yield</title>
+      <id>4955404</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955404-schd-buy-it-for-the-ai-jitters-not-the-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T08:27:32Z</updated>
+      <published>2026-10-20T08:27:32Z</published>
+    </entry>
+    <entry>
+      <title>PFD: Banking Sector Exposure Could Be A Risk For This Preferred Stock Fund</title>
+      <id>4955397</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955397-pfd-banking-sector-exposure-could-be-a-risk-for-this-preferred-stock-fund?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T07:48:36Z</updated>
+      <published>2026-10-20T07:48:36Z</published>
+    </entry>
+    <entry>
+      <title>How Geopolitics Is Redefining Defense, Energy, Technology And Global Markets</title>
+      <id>4955408</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955408-how-geopolitics-redefining-defense-energy-technology-global-markets?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T07:40:00Z</updated>
+      <published>2026-10-20T07:40:00Z</published>
+    </entry>
+    <entry>
+      <title>MLPI Vs. NXG: Their 14% Pipeline Yields Are Not Created Equal</title>
+      <id>4955393</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955393-mlpi-vs-nxg-their-14-percent-pipeline-yields-are-not-created-equal?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T07:23:17Z</updated>
+      <published>2026-10-20T07:23:17Z</published>
+    </entry>
+    <entry>
+      <title>IDMO: This International Momentum ETF Has A Hidden Risk, But It&apos;s Still A Buy</title>
+      <id>4955389</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955389-idmo-this-international-momentum-etf-has-a-hidden-risk-but-its-still-a-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T06:52:25Z</updated>
+      <published>2026-10-20T06:52:25Z</published>
+    </entry>
+    <entry>
+      <title>IAF: Trades In Financial Exposure For Consumer Discretionary</title>
+      <id>4955383</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955383-iaf-trades-in-financial-exposure-for-consumer-discretionary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T06:22:10Z</updated>
+      <published>2026-10-20T06:22:10Z</published>
+    </entry>
+    <entry>
+      <title>GSG: Oil Drives It, Metals And Crops Decide The Rest</title>
+      <id>4955381</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955381-gsg-oil-drives-it-metals-and-crops-decide-the-rest?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T06:14:08Z</updated>
+      <published>2026-10-20T06:14:08Z</published>
+    </entry>
+    <entry>
+      <title>RVT Beats 12%-Yielding RYLD On All Fronts</title>
+      <id>4955345</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955345-rvt-beats-12-percent-yielding-ryld-on-all-fronts?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T23:59:45Z</updated>
+      <published>2026-10-19T23:59:45Z</published>
+    </entry>
+    <entry>
+      <title>DES: Good Diversifier, But There Are Better Options</title>
+      <id>4955340</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955340-des-good-diversifier-but-there-are-better-options?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T23:11:47Z</updated>
+      <published>2026-10-19T23:11:47Z</published>
+    </entry>
+    <entry>
+      <title>The AI Conundrum: Massive AI Panic While TSMC&apos;s Profits Soar 69%</title>
+      <id>https://seekingalpha.com/Article:4955325</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955325-the-ai-conundrum-massive-ai-panic-while-tsmcs-profits-soar-69-percent?source=feed_symbol_TSM"/>
+      <updated>2026-10-19T22:03:23Z</updated>
+      <published>2026-10-19T22:03:23Z</published>
+    </entry>
+    <entry>
+      <title>COLO: El Nino And Earthquakes Are Bad Timing Amid Inflation Battle</title>
+      <id>4955321</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955321-colo-el-nino-and-earthquakes-are-bad-timing-amid-inflation-battle?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-19T21:49:42Z</updated>
+      <published>2026-10-19T21:49:42Z</published>
+    </entry>
     <entry>
       <title>TSMC: Irrational Fears Don&apos;t Make Much Sense</title>
       <id>https://seekingalpha.com/Article:4955306</id>
@@ -107,82 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4955135-pff-rate-pressure-not-credit-stress-drives-the-selloff?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-19T09:40:22Z</updated>
       <published>2026-10-19T09:40:22Z</published>
-    </entry>
-    <entry>
-      <title>REGL: Why Dividend Growth May Matter More Than Dividend Longevity</title>
-      <id>4955132</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955132-regl-why-dividend-growth-may-matter-more-than-dividend-longevity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T09:36:54Z</updated>
-      <published>2026-10-19T09:36:54Z</published>
-    </entry>
-    <entry>
-      <title>ASML: No AI Slowdown In Sight As Orders And Margins Surge</title>
-      <id>https://seekingalpha.com/Article:4955127</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955127-asml-stock-no-ai-slowdown-in-sight-as-orders-margins-surge?source=feed_symbol_ASML"/>
-      <updated>2026-10-19T09:19:22Z</updated>
-      <published>2026-10-19T09:19:22Z</published>
-    </entry>
-    <entry>
-      <title>REET: The Correction In Global REITs Is An Opportunity</title>
-      <id>4955125</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955125-reet-the-correction-in-global-reits-is-an-opportunity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T09:05:56Z</updated>
-      <published>2026-10-19T09:05:56Z</published>
-    </entry>
-    <entry>
-      <title>Samsung said to use TSMC tech for Nvidia&apos;s next-generation memory chips</title>
-      <id>https://seekingalpha.com/MarketCurrent:4654106</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-10-19T08:56:47Z</updated>
-      <published>2026-10-19T08:56:47Z</published>
-    </entry>
-    <entry>
-      <title>WGMI&apos;s Pivot: From Bitcoin Miner To AI Power Play (Upgrade)</title>
-      <id>4955118</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955118-wgmis-pivot-from-bitcoin-miner-to-ai-power-play-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T07:17:49Z</updated>
-      <published>2026-10-19T07:17:49Z</published>
-    </entry>
-    <entry>
-      <title>VIG Rejects The Highest Yielding Dividend Stocks. That Could Be Its Next Big Problem.</title>
-      <id>4955116</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955116-vig-rejects-the-highest-yielding-dividend-stocks-that-could-be-its-next-big-problem?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T07:11:20Z</updated>
-      <published>2026-10-19T07:11:20Z</published>
-    </entry>
-    <entry>
-      <title>FLBL: Strong Senior Loan ETF, Broadly Inferior To CLOs</title>
-      <id>4955108</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955108-flbl-strong-senior-loan-etf-broadly-inferior-to-clos?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T06:33:52Z</updated>
-      <published>2026-10-19T06:33:52Z</published>
-    </entry>
-    <entry>
-      <title>IXUS: 3 Catalysts That Could Drive International Outperformance</title>
-      <id>4955090</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955090-ixus-3-catalysts-that-could-drive-international-outperformance?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T03:54:23Z</updated>
-      <published>2026-10-19T03:54:23Z</published>
-    </entry>
-    <entry>
-      <title>SMLF: Acceptable But Unconvincing Factor Mix, Unlikely To Beat IVV, A Hold</title>
-      <id>4955084</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955084-smlf-acceptable-but-unconvincing-factor-mix-unlikely-to-beat-ivv-reiterate-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T03:08:25Z</updated>
-      <published>2026-10-19T03:08:25Z</published>
-    </entry>
-    <entry>
-      <title>SH: A Tactical Hedge, But Not Yet A Short Call</title>
-      <id>4955077</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955077-sh-a-tactical-hedge-but-not-yet-a-short-call?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T20:01:22Z</updated>
-      <published>2026-10-18T20:01:22Z</published>
-    </entry>
-    <entry>
-      <title>WCLD: Why Small Cloud Computing Stocks Are Breaking Out (Rating Upgrade)</title>
-      <id>4955076</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955076-wcld-why-small-cloud-computing-stocks-are-breaking-out-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-18T19:46:49Z</updated>
-      <published>2026-10-18T19:46:49Z</published>
     </entry>
 </feed>
