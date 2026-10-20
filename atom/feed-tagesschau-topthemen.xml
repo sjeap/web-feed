@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-20T09:32:59Z</updated>
+  <updated>2026-10-20T20:03:52Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"/>
-      <updated>2026-10-20T09:32:59Z</updated>
-      <published>2026-10-20T09:32:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f7cec16c-1e64-4017-9eaf-143b68fce60c/AAABoVb8zwY/AAABnSSvrFg/16x9-big/donald-trump-966.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f7cec16c-1e64-4017-9eaf-143b68fce60c/AAABoVb8zwY/AAABnSSvrFg/16x9-big/donald-trump-966.jpg?width=1280" alt="Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj"/><p>Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj</p>]]></content>
+      <title>So reagieren Frankreich und Italien auf die Ausschreitungen</title>
+      <id>https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html"/>
+      <updated>2026-10-20T20:03:52Z</updated>
+      <published>2026-10-20T20:03:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4e46c524-9b7f-4a2d-bd72-246300afb21c/AAABoVqycF4/AAABnSSvrFg/16x9-big/frankreich-proteste-218.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4e46c524-9b7f-4a2d-bd72-246300afb21c/AAABoVqycF4/AAABnSSvrFg/16x9-big/frankreich-proteste-218.jpg?width=1280" alt="So reagieren Frankreich und Italien auf die Ausschreitungen"/><p>So reagieren Frankreich und Italien auf die Ausschreitungen</p>]]></content>
     </entry>
     <entry>
-      <title>Wahlen in den USA: Was zu den Midterms wichtig ist</title>
-      <id>https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html"/>
-      <updated>2026-10-20T09:32:59Z</updated>
-      <published>2026-10-20T09:32:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e65e8c27-9800-46ae-a646-3b6b2204820f/AAABoVfl1QQ/AAABnSSvrFg/16x9-big/us-kapitol-158.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e65e8c27-9800-46ae-a646-3b6b2204820f/AAABoVfl1QQ/AAABnSSvrFg/16x9-big/us-kapitol-158.jpg?width=1280" alt="Wahlen in den USA: Was zu den Midterms wichtig ist"/><p>Wahlen in den USA: Was zu den Midterms wichtig ist</p>]]></content>
+      <title>Bundesregierung spricht von Investitionszusagen in Milliardenhöhe</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html"/>
+      <updated>2026-10-20T20:03:52Z</updated>
+      <published>2026-10-20T20:03:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ad8a2b38-3812-45ba-b972-af3fb90e33e6/AAABoVkEifs/AAABnSSvrFg/16x9-big/merz-1746.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ad8a2b38-3812-45ba-b972-af3fb90e33e6/AAABoVkEifs/AAABnSSvrFg/16x9-big/merz-1746.jpg?width=1280" alt="Bundesregierung spricht von Investitionszusagen in Milliardenhöhe"/><p>Bundesregierung spricht von Investitionszusagen in Milliardenhöhe</p>]]></content>
     </entry>
     <entry>
-      <title>Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben</title>
-      <id>https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html"/>
-      <updated>2026-10-20T09:32:59Z</updated>
-      <published>2026-10-20T09:32:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/09dc008d-caf4-45dc-ba74-e3ddb7a82f6d/AAABoVfRMxY/AAABnSSvrFg/16x9-big/alberta-106.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/09dc008d-caf4-45dc-ba74-e3ddb7a82f6d/AAABoVfRMxY/AAABnSSvrFg/16x9-big/alberta-106.jpg?width=1280" alt="Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben"/><p>Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben</p>]]></content>
+      <title>AfD bestätigt Hackerangriff auf E-Mail-Konten</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"/>
+      <updated>2026-10-20T20:03:52Z</updated>
+      <published>2026-10-20T20:03:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/bef8fad3-a7ce-4254-bb86-991e7bf082b0/AAABmeKpCqU/AAABnSSvrFg/16x9-big/afd-logo-170.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/bef8fad3-a7ce-4254-bb86-991e7bf082b0/AAABmeKpCqU/AAABnSSvrFg/16x9-big/afd-logo-170.jpg?width=1280" alt="AfD bestätigt Hackerangriff auf E-Mail-Konten"/><p>AfD bestätigt Hackerangriff auf E-Mail-Konten</p>]]></content>
     </entry>
     <entry>
-      <title>Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird</title>
-      <id>https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html"/>
-      <updated>2026-10-20T09:32:59Z</updated>
-      <published>2026-10-20T09:32:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/bedb19f4-3c19-4d64-aef7-e6d930b5b74b/AAABoKDNLas/AAABnSSvrFg/16x9-big/landschaft-groenland-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/bedb19f4-3c19-4d64-aef7-e6d930b5b74b/AAABoKDNLas/AAABnSSvrFg/16x9-big/landschaft-groenland-100.jpg?width=1280" alt="Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird"/><p>Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird</p>]]></content>
+      <title>Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer</title>
+      <id>https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html"/>
+      <updated>2026-10-20T20:03:52Z</updated>
+      <published>2026-10-20T20:03:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/30a922fb-cfca-42d6-9583-5e974ec56ead/AAABoVh1YCI/AAABnSSvrFg/16x9-big/bahn-1430.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/30a922fb-cfca-42d6-9583-5e974ec56ead/AAABoVh1YCI/AAABnSSvrFg/16x9-big/bahn-1430.jpg?width=1280" alt="Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer"/><p>Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer</p>]]></content>
     </entry>
     <entry>
-      <title>Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht</title>
-      <id>https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html"/>
-      <updated>2026-10-20T09:32:59Z</updated>
-      <published>2026-10-20T09:32:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a0f861a0-3320-49c2-b40a-b54bda567bee/AAABoVhs72s/AAABnSSvrFg/16x9-big/lyon-ausgangssperre-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a0f861a0-3320-49c2-b40a-b54bda567bee/AAABoVhs72s/AAABnSSvrFg/16x9-big/lyon-ausgangssperre-100.jpg?width=1280" alt="Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht"/><p>Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht</p>]]></content>
+      <title>Die Deutsche Post will 2027 das Porto für Briefe erhöhen</title>
+      <id>https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html"/>
+      <updated>2026-10-20T20:03:52Z</updated>
+      <published>2026-10-20T20:03:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ba19f672-c3bd-4b0e-8159-06171cfd2d46/AAABoVmcs10/AAABnSSvrFg/16x9-big/brief-porto-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ba19f672-c3bd-4b0e-8159-06171cfd2d46/AAABoVmcs10/AAABnSSvrFg/16x9-big/brief-porto-100.jpg?width=1280" alt="Die Deutsche Post will 2027 das Porto für Briefe erhöhen"/><p>Die Deutsche Post will 2027 das Porto für Briefe erhöhen</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669338.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669338.html"/>
-      <updated>2026-10-20T09:32:59Z</updated>
-      <published>2026-10-20T09:32:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0282ce9f-19a6-4094-a227-15ceaa3c2e90/AAABoVh9Wgk/AAABnSSvrFg/16x9-big/sendungsbild-1814372.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0282ce9f-19a6-4094-a227-15ceaa3c2e90/AAABoVh9Wgk/AAABnSSvrFg/16x9-big/sendungsbild-1814372.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669750.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669750.html"/>
+      <updated>2026-10-20T20:03:52Z</updated>
+      <published>2026-10-20T20:03:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/942f6412-57a0-48e7-a42f-eb80a6d687f4/AAABoVrdbfE/AAABnSSvrFg/16x9-big/sendungsbild-1814702.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/942f6412-57a0-48e7-a42f-eb80a6d687f4/AAABoVrdbfE/AAABnSSvrFg/16x9-big/sendungsbild-1814702.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
