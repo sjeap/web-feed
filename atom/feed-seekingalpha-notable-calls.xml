@@ -5,11 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-20T18:39:39Z</updated>
+  <updated>2026-10-21T08:51:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>BUZZ Investing: AI And Semiconductor Strength Offset Rising Yields</title>
+      <id>4955766</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955766-buzz-investing-ai-semiconductor-strength-offset-rising-yields?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-21T08:51:00Z</updated>
+      <published>2026-10-21T08:51:00Z</published>
+    </entry>
+    <entry>
+      <title>TLT: The Refunding Could Break The Bond Bear, Again</title>
+      <id>4955765</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955765-tlt-the-refunding-could-break-the-bond-bear-again?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-21T08:46:30Z</updated>
+      <published>2026-10-21T08:46:30Z</published>
+    </entry>
+    <entry>
+      <title>VWOB: Weighing A 6% Yield Against Seven Years Of Duration</title>
+      <id>4955762</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955762-vwob-weighing-a-6-percent-yield-against-seven-years-of-duration?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-21T08:35:08Z</updated>
+      <published>2026-10-21T08:35:08Z</published>
+    </entry>
+    <entry>
+      <title>EUV: Buy Thesis Remains Strong, Despite Steep Pullback</title>
+      <id>4955716</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955716-euv-buy-thesis-remains-strong-despite-steep-pullback?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-21T04:08:49Z</updated>
+      <published>2026-10-21T04:08:49Z</published>
+    </entry>
+    <entry>
+      <title>2 Deeply Discounted CEFs With Unique Opportunities</title>
+      <id>4955697</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955697-2-deeply-discounted-cefs-with-unique-opportunities?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-21T01:27:12Z</updated>
+      <published>2026-10-21T01:27:12Z</published>
+    </entry>
+    <entry>
+      <title>PJFV: Focused Value ETF To Shortlist, Yet Outperformance Unlikely</title>
+      <id>4955658</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4955658-pjfv-focused-value-etf-to-shortlist-yet-outperformance-unlikely?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-20T21:14:25Z</updated>
+      <published>2026-10-20T21:14:25Z</published>
+    </entry>
     <entry>
       <title>NFJ&apos;s Tender Offer Results</title>
       <id>4955612</id>
@@ -128,48 +170,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4955397-pfd-banking-sector-exposure-could-be-a-risk-for-this-preferred-stock-fund?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-20T07:48:36Z</updated>
       <published>2026-10-20T07:48:36Z</published>
-    </entry>
-    <entry>
-      <title>How Geopolitics Is Redefining Defense, Energy, Technology And Global Markets</title>
-      <id>4955408</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955408-how-geopolitics-redefining-defense-energy-technology-global-markets?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-20T07:40:00Z</updated>
-      <published>2026-10-20T07:40:00Z</published>
-    </entry>
-    <entry>
-      <title>MLPI Vs. NXG: Their 14% Pipeline Yields Are Not Created Equal</title>
-      <id>4955393</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955393-mlpi-vs-nxg-their-14-percent-pipeline-yields-are-not-created-equal?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-20T07:23:17Z</updated>
-      <published>2026-10-20T07:23:17Z</published>
-    </entry>
-    <entry>
-      <title>IDMO: This International Momentum ETF Has A Hidden Risk, But It&apos;s Still A Buy</title>
-      <id>4955389</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955389-idmo-this-international-momentum-etf-has-a-hidden-risk-but-its-still-a-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-20T06:52:25Z</updated>
-      <published>2026-10-20T06:52:25Z</published>
-    </entry>
-    <entry>
-      <title>IAF: Trades In Financial Exposure For Consumer Discretionary</title>
-      <id>4955383</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955383-iaf-trades-in-financial-exposure-for-consumer-discretionary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-20T06:22:10Z</updated>
-      <published>2026-10-20T06:22:10Z</published>
-    </entry>
-    <entry>
-      <title>GSG: Oil Drives It, Metals And Crops Decide The Rest</title>
-      <id>4955381</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955381-gsg-oil-drives-it-metals-and-crops-decide-the-rest?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-20T06:14:08Z</updated>
-      <published>2026-10-20T06:14:08Z</published>
-    </entry>
-    <entry>
-      <title>RVT Beats 12%-Yielding RYLD On All Fronts</title>
-      <id>4955345</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955345-rvt-beats-12-percent-yielding-ryld-on-all-fronts?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-19T23:59:45Z</updated>
-      <published>2026-10-19T23:59:45Z</published>
     </entry>
     <entry>
       <title>The AI Conundrum: Massive AI Panic While TSMC&apos;s Profits Soar 69%</title>
