@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-21T09:28:50Z</updated>
+  <updated>2026-10-21T20:16:12Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu</title>
+      <id>https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html"/>
+      <updated>2026-10-21T20:16:12Z</updated>
+      <published>2026-10-21T20:16:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7bb0edf8-6be4-4605-88b6-249be459681d/AAABoV7pQj4/AAABnSSvrFg/16x9-big/wladimir-putin-326.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7bb0edf8-6be4-4605-88b6-249be459681d/AAABoV7pQj4/AAABnSSvrFg/16x9-big/wladimir-putin-326.jpg?width=1280" alt="Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu"/><p>Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu</p>]]></content>
+    </entry>
+    <entry>
+      <title>Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</title>
+      <id>https://www.tagesschau.de/ausland/europa/macron-rede-112.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/macron-rede-112.html"/>
+      <updated>2026-10-21T20:16:12Z</updated>
+      <published>2026-10-21T20:16:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7591d6e9-1860-49f3-893a-ce7b33a918a7/AAABoV9dYv8/AAABnSSvrFg/16x9-big/macron-1014.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7591d6e9-1860-49f3-893a-ce7b33a918a7/AAABoV9dYv8/AAABnSSvrFg/16x9-big/macron-1014.jpg?width=1280" alt="Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich"/><p>Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich</p>]]></content>
+    </entry>
+    <entry>
       <title>Wer an den Ausschreitungen in Frankreich beteiligt war</title>
       <id>https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html"/>
-      <updated>2026-10-21T09:28:50Z</updated>
-      <published>2026-10-21T09:28:50Z</published>
+      <updated>2026-10-21T20:16:12Z</updated>
+      <published>2026-10-21T20:16:12Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/78f8db94-b83c-4560-bc65-a7e94b3ebab1/AAABoV0jtoY/AAABnSSvrFg/16x9-big/proteste-frankreich-170.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/78f8db94-b83c-4560-bc65-a7e94b3ebab1/AAABoV0jtoY/AAABnSSvrFg/16x9-big/proteste-frankreich-170.jpg?width=1280" alt="Wer an den Ausschreitungen in Frankreich beteiligt war"/><p>Wer an den Ausschreitungen in Frankreich beteiligt war</p>]]></content>
     </entry>
     <entry>
-      <title>UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu</title>
-      <id>https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html"/>
-      <updated>2026-10-21T09:28:50Z</updated>
-      <published>2026-10-21T09:28:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5be1260e-3393-467e-b433-1d624aad7186/AAABoLB_TX0/AAABnSSvrFg/16x9-big/duerre-reisfeld-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5be1260e-3393-467e-b433-1d624aad7186/AAABoLB_TX0/AAABnSSvrFg/16x9-big/duerre-reisfeld-100.jpg?width=1280" alt="UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu"/><p>UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu</p>]]></content>
+      <title>Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen</title>
+      <id>https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html"/>
+      <updated>2026-10-21T20:16:12Z</updated>
+      <published>2026-10-21T20:16:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2b2c64c7-ded9-4231-864a-18c6daab9e2f/AAABoV6AQlM/AAABnSSvrFg/16x9-big/bolsonaro-da-silva-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2b2c64c7-ded9-4231-864a-18c6daab9e2f/AAABoV6AQlM/AAABnSSvrFg/16x9-big/bolsonaro-da-silva-102.jpg?width=1280" alt="Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen"/><p>Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen</p>]]></content>
     </entry>
     <entry>
-      <title>US-Vermittler Witkoff berät mit Putin über Ukraine</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html"/>
-      <updated>2026-10-21T09:28:50Z</updated>
-      <published>2026-10-21T09:28:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/258ad48a-e412-41de-82b5-095a7fb9e806/AAABoV08ipo/AAABnSSvrFg/16x9-big/wittkoff-dmitriev-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/258ad48a-e412-41de-82b5-095a7fb9e806/AAABoV08ipo/AAABnSSvrFg/16x9-big/wittkoff-dmitriev-100.jpg?width=1280" alt="US-Vermittler Witkoff berät mit Putin über Ukraine"/><p>US-Vermittler Witkoff berät mit Putin über Ukraine</p>]]></content>
-    </entry>
-    <entry>
-      <title>Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an</title>
-      <id>https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html"/>
-      <updated>2026-10-21T09:28:50Z</updated>
-      <published>2026-10-21T09:28:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3c5fc449-1908-4f6a-928a-9513ee37095c/AAABoVvgNgs/AAABnSSvrFg/16x9-big/elon-musk-294.jpg?width=1280" alt="Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an"/><p>Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html"/>
-      <updated>2026-10-21T09:28:50Z</updated>
-      <published>2026-10-21T09:28:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1280" alt="Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer"/><p>Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer</p>]]></content>
+      <title>Nahverkehr: &quot;Deutschlandticket light&quot; kommt vorerst nicht</title>
+      <id>https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html"/>
+      <updated>2026-10-21T20:16:12Z</updated>
+      <published>2026-10-21T20:16:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5c2d0902-d09e-4f7d-8a25-72a394f988cc/AAABoV6e3S8/AAABnSSvrFg/16x9-big/zug-regional-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5c2d0902-d09e-4f7d-8a25-72a394f988cc/AAABoV6e3S8/AAABnSSvrFg/16x9-big/zug-regional-100.jpg?width=1280" alt="Nahverkehr: "Deutschlandticket light" kommt vorerst nicht"/><p>Nahverkehr: &quot;Deutschlandticket light&quot; kommt vorerst nicht</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669968.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1669968.html"/>
-      <updated>2026-10-21T09:28:50Z</updated>
-      <published>2026-10-21T09:28:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/98417056-978e-4fbb-b5a9-a1f4249201ba/AAABoV3CiDI/AAABnSSvrFg/16x9-big/sendungsbild-1814948.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/98417056-978e-4fbb-b5a9-a1f4249201ba/AAABoV3CiDI/AAABnSSvrFg/16x9-big/sendungsbild-1814948.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1670390.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1670390.html"/>
+      <updated>2026-10-21T20:16:12Z</updated>
+      <published>2026-10-21T20:16:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3a78c1d4-8769-47f0-baf9-659cbeaf9bce/AAABoWAVFmI/AAABnSSvrFg/16x9-big/sendungsbild-1815286.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3a78c1d4-8769-47f0-baf9-659cbeaf9bce/AAABoWAVFmI/AAABnSSvrFg/16x9-big/sendungsbild-1815286.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
