@@ -5,17 +5,44 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-20T20:03:55Z</updated>
+  <updated>2026-10-21T09:28:52Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Amerikas Schleiereulen kamen zuerst auf die Inseln der Karibik</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/amerikas-schleiereulen-kamen-zuerst-auf-die-inseln-der-karibik-133714649</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/amerikas-schleiereulen-kamen-zuerst-auf-die-inseln-der-karibik-133714649"/>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/amerikas-schleiereulen-kamen-zuerst-auf-die-inseln-der-karibik.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/amerikas-schleiereulen-kamen-zuerst-auf-die-inseln-der-karibik.jpg" alt="Amerikas Schleiereulen kamen zuerst auf die Inseln der Karibik"/><p>Amerikas Schleiereulen kamen zuerst auf die Inseln der Karibik</p>]]></content>
+    </entry>
+    <entry>
+      <title>Im größten Mars-Canyon bewegt sich die Kruste noch heute</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/im-groessten-mars-canyon-bewegt-sich-die-kruste-noch-heute-133714646</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/im-groessten-mars-canyon-bewegt-sich-die-kruste-noch-heute-133714646"/>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/im-groessten-mars-canyon-bewegt-sich-die-kruste-noch-heute.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/im-groessten-mars-canyon-bewegt-sich-die-kruste-noch-heute.jpg" alt="Im größten Mars-Canyon bewegt sich die Kruste noch heute"/><p>Im größten Mars-Canyon bewegt sich die Kruste noch heute</p>]]></content>
+    </entry>
+    <entry>
+      <title>Simulation validiert 104-Qubit-Quantenprozessor mit Rauschen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/simulation-validiert-104-qubit-quantenprozessor-mit-rauschen-133714645</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/simulation-validiert-104-qubit-quantenprozessor-mit-rauschen-133714645"/>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/simulation-validiert-104-qubit-quantenprozessor-mit-rauschen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/simulation-validiert-104-qubit-quantenprozessor-mit-rauschen.jpg" alt="Simulation validiert 104-Qubit-Quantenprozessor mit Rauschen"/><p>Simulation validiert 104-Qubit-Quantenprozessor mit Rauschen</p>]]></content>
+    </entry>
+    <entry>
       <title>Nähe zur eigenen Katze hängt mit besserer Stimmung zusammen</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/naehe-zur-eigenen-katze-haengt-mit-besserer-stimmung-zusammen-133714633</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/naehe-zur-eigenen-katze-haengt-mit-besserer-stimmung-zusammen-133714633"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/naehe-zur-eigenen-katze-haengt-mit-besserer-stimmung-zusammen.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/naehe-zur-eigenen-katze-haengt-mit-besserer-stimmung-zusammen.png" alt="Nähe zur eigenen Katze hängt mit besserer Stimmung zusammen"/><p>Nähe zur eigenen Katze hängt mit besserer Stimmung zusammen</p>]]></content>
     </entry>
@@ -23,8 +50,8 @@
       <title>Neuer Kristall setzt bei 80 Grad zwei Brennstoffe frei</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/chemie/neuer-kristall-setzt-bei-80-grad-zwei-brennstoffe-frei-133714639</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/chemie/neuer-kristall-setzt-bei-80-grad-zwei-brennstoffe-frei-133714639"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/neuer-kristall-setzt-bei-80-grad-zwei-brennstoffe-frei.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/chemie/Magazin-Gross/2026-10/neuer-kristall-setzt-bei-80-grad-zwei-brennstoffe-frei.png" alt="Neuer Kristall setzt bei 80 Grad zwei Brennstoffe frei"/><p>Neuer Kristall setzt bei 80 Grad zwei Brennstoffe frei</p>]]></content>
     </entry>
@@ -32,54 +59,27 @@
       <title>Politische Meinungen wirken trotz Wiederholung kaum glaubhafter</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/gesellschaft/politische-meinungen-wirken-trotz-wiederholung-kaum-glaubhafter-133714642</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/gesellschaft/politische-meinungen-wirken-trotz-wiederholung-kaum-glaubhafter-133714642"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-10/politische-meinungen-wirken-trotz-wiederholung-kaum-glaubhafter.png"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/gesellschaft/Magazin-Gross/2026-10/politische-meinungen-wirken-trotz-wiederholung-kaum-glaubhafter.png" alt="Politische Meinungen wirken trotz Wiederholung kaum glaubhafter"/><p>Politische Meinungen wirken trotz Wiederholung kaum glaubhafter</p>]]></content>
     </entry>
     <entry>
-      <title>Erdkern könnte über Milliarden Jahre Wasserstoff abgegeben haben</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/geologie/erdkern-koennte-ueber-milliarden-jahre-wasserstoff-abgegeben-haben-133714636</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/erdkern-koennte-ueber-milliarden-jahre-wasserstoff-abgegeben-haben-133714636"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/erdkern-koennte-ueber-milliarden-jahre-wasserstoff-abgegeben-haben.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/erdkern-koennte-ueber-milliarden-jahre-wasserstoff-abgegeben-haben.png" alt="Erdkern könnte über Milliarden Jahre Wasserstoff abgegeben haben"/><p>Erdkern könnte über Milliarden Jahre Wasserstoff abgegeben haben</p>]]></content>
-    </entry>
-    <entry>
-      <title>Mehr CO2 verändert Weizen und lässt Brote kleiner ausfallen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/mehr-co2-veraendert-weizen-und-laesst-brote-kleiner-ausfallen-133714634</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/mehr-co2-veraendert-weizen-und-laesst-brote-kleiner-ausfallen-133714634"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/mehr-co2-veraendert-weizen-und-laesst-brote-kleiner-ausfallen.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/mehr-co2-veraendert-weizen-und-laesst-brote-kleiner-ausfallen.png" alt="Mehr CO2 verändert Weizen und lässt Brote kleiner ausfallen"/><p>Mehr CO2 verändert Weizen und lässt Brote kleiner ausfallen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Häufige Antibiotikagaben sind mit späterem Reizdarm verbunden</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/haeufige-antibiotikagaben-sind-mit-spaeterem-reizdarm-verbunden-133714631</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/haeufige-antibiotikagaben-sind-mit-spaeterem-reizdarm-verbunden-133714631"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/haeufige-antibiotikagaben-sind-mit-spaeterem-reizdarm-verbunden.png"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/haeufige-antibiotikagaben-sind-mit-spaeterem-reizdarm-verbunden.png" alt="Häufige Antibiotikagaben sind mit späterem Reizdarm verbunden"/><p>Häufige Antibiotikagaben sind mit späterem Reizdarm verbunden</p>]]></content>
+      <title>Warum hatte früher in Frankreich ein Tag nur zehn Stunden?</title>
+      <id>https://www.forschung-und-wissen.de/magazin/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden-133712995</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden-133712995"/>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden.jpg" alt="Warum hatte früher in Frankreich ein Tag nur zehn Stunden?"/><p>Warum hatte früher in Frankreich ein Tag nur zehn Stunden?</p>]]></content>
     </entry>
     <entry>
       <title>Warum führt keine einzige Brücke über den Amazonas?</title>
       <id>https://www.forschung-und-wissen.de/magazin/warum-fuehrt-keine-einzige-bruecke-ueber-den-amazonas-133712990</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-fuehrt-keine-einzige-bruecke-ueber-den-amazonas-133712990"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
+      <updated>2026-10-21T09:28:52Z</updated>
+      <published>2026-10-21T09:28:52Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-fuehrt-keine-einzige-bruecke-ueber-den-amazonas.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-fuehrt-keine-einzige-bruecke-ueber-den-amazonas.jpg" alt="Warum führt keine einzige Brücke über den Amazonas?"/><p>Warum führt keine einzige Brücke über den Amazonas?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Warum hat nur der Mensch ein Kinn? Kein anderes Lebewesen besitzt eines</title>
-      <id>https://www.forschung-und-wissen.de/magazin/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines-133712983</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines-133712983"/>
-      <updated>2026-10-20T20:03:55Z</updated>
-      <published>2026-10-20T20:03:55Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hat-nur-der-mensch-ein-kinn-kein-anderes-lebewesen-besitzt-eines.jpg" alt="Warum hat nur der Mensch ein Kinn? Kein anderes Lebewesen besitzt eines"/><p>Warum hat nur der Mensch ein Kinn? Kein anderes Lebewesen besitzt eines</p>]]></content>
     </entry>
 </feed>
