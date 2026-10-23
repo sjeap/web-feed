@@ -5,81 +5,81 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-22T20:13:59Z</updated>
+  <updated>2026-10-23T09:27:55Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Rätselhaftes Objekt in der Milchstraße leuchtet plötzlich wieder auf</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/raetselhaftes-objekt-in-der-milchstrasse-leuchtet-ploetzlich-wieder-auf-133714747</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/raetselhaftes-objekt-in-der-milchstrasse-leuchtet-ploetzlich-wieder-auf-133714747"/>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/raetselhaftes-objekt-in-der-milchstrasse-leuchtet-ploetzlich-wieder-auf.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-10/raetselhaftes-objekt-in-der-milchstrasse-leuchtet-ploetzlich-wieder-auf.jpg" alt="Rätselhaftes Objekt in der Milchstraße leuchtet plötzlich wieder auf"/><p>Rätselhaftes Objekt in der Milchstraße leuchtet plötzlich wieder auf</p>]]></content>
+    </entry>
+    <entry>
+      <title>Impfung aus dem eigenen Tumor bremst die Rückkehr von Hautkrebs</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/impfung-aus-dem-eigenen-tumor-bremst-die-rueckkehr-von-hautkrebs-133714745</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/impfung-aus-dem-eigenen-tumor-bremst-die-rueckkehr-von-hautkrebs-133714745"/>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/impfung-aus-dem-eigenen-tumor-bremst-die-rueckkehr-von-hautkrebs.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/impfung-aus-dem-eigenen-tumor-bremst-die-rueckkehr-von-hautkrebs.jpg" alt="Impfung aus dem eigenen Tumor bremst die Rückkehr von Hautkrebs"/><p>Impfung aus dem eigenen Tumor bremst die Rückkehr von Hautkrebs</p>]]></content>
+    </entry>
+    <entry>
+      <title>Schwaches Hirnsignal verbindet rätselhafte Symptome der Schizophrenie</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/schwaches-hirnsignal-verbindet-raetselhafte-symptome-der-schizophrenie-133714742</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/schwaches-hirnsignal-verbindet-raetselhafte-symptome-der-schizophrenie-133714742"/>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/schwaches-hirnsignal-verbindet-raetselhafte-symptome-der-schizophrenie.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/schwaches-hirnsignal-verbindet-raetselhafte-symptome-der-schizophrenie.jpg" alt="Schwaches Hirnsignal verbindet rätselhafte Symptome der Schizophrenie"/><p>Schwaches Hirnsignal verbindet rätselhafte Symptome der Schizophrenie</p>]]></content>
+    </entry>
+    <entry>
+      <title>Jeder Dritte im scheinbaren Koma steuert einen Computer mit Gedanken</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/jeder-dritte-im-scheinbaren-koma-steuert-einen-computer-mit-gedanken-133714739</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/jeder-dritte-im-scheinbaren-koma-steuert-einen-computer-mit-gedanken-133714739"/>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/jeder-dritte-im-scheinbaren-koma-steuert-einen-computer-mit-gedanken.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/jeder-dritte-im-scheinbaren-koma-steuert-einen-computer-mit-gedanken.jpg" alt="Jeder Dritte im scheinbaren Koma steuert einen Computer mit Gedanken"/><p>Jeder Dritte im scheinbaren Koma steuert einen Computer mit Gedanken</p>]]></content>
+    </entry>
+    <entry>
+      <title>Krähen entscheiden doppelt so schnell wie Menschen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/kraehen-entscheiden-doppelt-so-schnell-wie-menschen-133714736</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/kraehen-entscheiden-doppelt-so-schnell-wie-menschen-133714736"/>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/kraehen-entscheiden-doppelt-so-schnell-wie-menschen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/kraehen-entscheiden-doppelt-so-schnell-wie-menschen.jpg" alt="Krähen entscheiden doppelt so schnell wie Menschen"/><p>Krähen entscheiden doppelt so schnell wie Menschen</p>]]></content>
+    </entry>
+    <entry>
       <title>KI stellt schwierige Diagnosen doppelt so oft richtig wie Ärzte</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/ki-stellt-schwierige-diagnosen-doppelt-so-oft-richtig-wie-aerzte-133714733</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/ki-stellt-schwierige-diagnosen-doppelt-so-oft-richtig-wie-aerzte-133714733"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-stellt-schwierige-diagnosen-doppelt-so-oft-richtig-wie-aerzte.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-stellt-schwierige-diagnosen-doppelt-so-oft-richtig-wie-aerzte.jpg" alt="KI stellt schwierige Diagnosen doppelt so oft richtig wie Ärzte"/><p>KI stellt schwierige Diagnosen doppelt so oft richtig wie Ärzte</p>]]></content>
     </entry>
     <entry>
-      <title>Implantat senkt den Blutzucker mit Strom statt mit Insulin</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/implantat-senkt-den-blutzucker-mit-strom-statt-mit-insulin-133714730</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/implantat-senkt-den-blutzucker-mit-strom-statt-mit-insulin-133714730"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/implantat-senkt-den-blutzucker-mit-strom-statt-mit-insulin.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/implantat-senkt-den-blutzucker-mit-strom-statt-mit-insulin.jpg" alt="Implantat senkt den Blutzucker mit Strom statt mit Insulin"/><p>Implantat senkt den Blutzucker mit Strom statt mit Insulin</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der Mensch hat die nächste Eiszeit im Keim erstickt</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/geologie/der-mensch-hat-die-naechste-eiszeit-im-keim-erstickt-133714729</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/der-mensch-hat-die-naechste-eiszeit-im-keim-erstickt-133714729"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/der-mensch-hat-die-naechste-eiszeit-im-keim-erstickt.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/der-mensch-hat-die-naechste-eiszeit-im-keim-erstickt.jpg" alt="Der Mensch hat die nächste Eiszeit im Keim erstickt"/><p>Der Mensch hat die nächste Eiszeit im Keim erstickt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Brände verwandeln den Amazonas in eine CO2-Quelle</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/braende-verwandeln-den-amazonas-in-eine-co2-quelle-133714726</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/braende-verwandeln-den-amazonas-in-eine-co2-quelle-133714726"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/braende-verwandeln-den-amazonas-in-eine-co2-quelle.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/braende-verwandeln-den-amazonas-in-eine-co2-quelle.jpg" alt="Brände verwandeln den Amazonas in eine CO2-Quelle"/><p>Brände verwandeln den Amazonas in eine CO2-Quelle</p>]]></content>
-    </entry>
-    <entry>
-      <title>Kälte macht Muskeln zur Fabrik für ein längeres Leben</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/biologie/kaelte-macht-muskeln-zur-fabrik-fuer-ein-laengeres-leben-133714723</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/kaelte-macht-muskeln-zur-fabrik-fuer-ein-laengeres-leben-133714723"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/kaelte-macht-muskeln-zur-fabrik-fuer-ein-laengeres-leben.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-10/kaelte-macht-muskeln-zur-fabrik-fuer-ein-laengeres-leben.jpg" alt="Kälte macht Muskeln zur Fabrik für ein längeres Leben"/><p>Kälte macht Muskeln zur Fabrik für ein längeres Leben</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nährstoff aus Steak und Fatburnern kann Entzündungen anheizen</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/medizin/naehrstoff-aus-steak-und-fatburnern-kann-entzuendungen-anheizen-133714720</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/medizin/naehrstoff-aus-steak-und-fatburnern-kann-entzuendungen-anheizen-133714720"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/naehrstoff-aus-steak-und-fatburnern-kann-entzuendungen-anheizen.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/medizin/Magazin-Gross/2026-10/naehrstoff-aus-steak-und-fatburnern-kann-entzuendungen-anheizen.jpg" alt="Nährstoff aus Steak und Fatburnern kann Entzündungen anheizen"/><p>Nährstoff aus Steak und Fatburnern kann Entzündungen anheizen</p>]]></content>
+      <title>Jeder Eichelhäher vergräbt im Herbst bis zu 5.000 Eicheln</title>
+      <id>https://www.forschung-und-wissen.de/magazin/jeder-eichelhaeher-vergraebt-im-herbst-bis-zu-5.000-eicheln-133713088</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/jeder-eichelhaeher-vergraebt-im-herbst-bis-zu-5.000-eicheln-133713088"/>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/jeder-eichelhaeher-vergraebt-im-herbst-bis-zu-5.000-eicheln.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/jeder-eichelhaeher-vergraebt-im-herbst-bis-zu-5.000-eicheln.jpg" alt="Jeder Eichelhäher vergräbt im Herbst bis zu 5.000 Eicheln"/><p>Jeder Eichelhäher vergräbt im Herbst bis zu 5.000 Eicheln</p>]]></content>
     </entry>
     <entry>
       <title>Was ist das Olbers-Paradoxon, nach dem der Nachthimmel hell sein müsste?</title>
       <id>https://www.forschung-und-wissen.de/magazin/was-ist-das-olbers-paradoxon-nach-dem-der-nachthimmel-hell-sein-muesste-133712974</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/was-ist-das-olbers-paradoxon-nach-dem-der-nachthimmel-hell-sein-muesste-133712974"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
+      <updated>2026-10-23T09:27:55Z</updated>
+      <published>2026-10-23T09:27:55Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/was-ist-das-olbers-paradoxon-nach-dem-der-nachthimmel-hell-sein-muesste.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/was-ist-das-olbers-paradoxon-nach-dem-der-nachthimmel-hell-sein-muesste.jpg" alt="Was ist das Olbers-Paradoxon, nach dem der Nachthimmel hell sein müsste?"/><p>Was ist das Olbers-Paradoxon, nach dem der Nachthimmel hell sein müsste?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Warum hatte früher in Frankreich ein Tag nur zehn Stunden?</title>
-      <id>https://www.forschung-und-wissen.de/magazin/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden-133712995</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden-133712995"/>
-      <updated>2026-10-22T20:13:59Z</updated>
-      <published>2026-10-22T20:13:59Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/warum-hatte-frueher-in-frankreich-ein-tag-nur-zehn-stunden.jpg" alt="Warum hatte früher in Frankreich ein Tag nur zehn Stunden?"/><p>Warum hatte früher in Frankreich ein Tag nur zehn Stunden?</p>]]></content>
     </entry>
 </feed>
