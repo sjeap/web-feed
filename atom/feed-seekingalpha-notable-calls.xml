@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-24T08:50:09Z</updated>
+  <updated>2026-10-24T16:20:37Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>XSPI: Inside The Boosted Option Book Going Into Q4</title>
+      <id>4957229</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957229-xspi-inside-the-boosted-option-book-going-into-q4?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T16:20:37Z</updated>
+      <published>2026-10-24T16:20:37Z</published>
+    </entry>
+    <entry>
+      <title>IBIT: I&apos;m Waiting For $75,000 Bitcoin</title>
+      <id>4957230</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957230-ibit-im-waiting-for-75000-bitcoin?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T14:39:58Z</updated>
+      <published>2026-10-24T14:39:58Z</published>
+    </entry>
+    <entry>
+      <title>SCHD: You Have To Know What You Own</title>
+      <id>4957223</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957223-schd-you-have-to-know-what-you-own?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T13:42:47Z</updated>
+      <published>2026-10-24T13:42:47Z</published>
+    </entry>
+    <entry>
+      <title>SRLN: 3 Reasons To Own Floating Rate In A No-Cut World, And 1 Fear To Keep In Mind</title>
+      <id>4957217</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957217-srln-3-reasons-to-own-floating-rate-in-a-no-cut-world-and-1-fear-to-keep-in-mind?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T13:02:25Z</updated>
+      <published>2026-10-24T13:02:25Z</published>
+    </entry>
+    <entry>
+      <title>TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade)</title>
+      <id>https://seekingalpha.com/Article:4956893</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4956893-tsmc-debunks-irrational-ai-fears-as-pricing-power-expands-rating-upgrade?source=feed_symbol_TSM"/>
+      <updated>2026-10-24T12:19:00Z</updated>
+      <published>2026-10-24T12:19:00Z</published>
+    </entry>
+    <entry>
+      <title>SCHG: Strong Earnings, But Not The Fund I Rated A Buy (Downgrade)</title>
+      <id>4957199</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957199-schg-strong-earnings-but-not-the-fund-i-rated-a-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T11:14:38Z</updated>
+      <published>2026-10-24T11:14:38Z</published>
+    </entry>
+    <entry>
+      <title>Hold XFLT: The Tender Offering Deadline Has Expired (Upgrade)</title>
+      <id>4957184</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957184-hold-xflt-the-tender-offering-deadline-has-expired-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T09:22:24Z</updated>
+      <published>2026-10-24T09:22:24Z</published>
+    </entry>
     <entry>
       <title>LDP: The Family Favorite But Not Enough</title>
       <id>4957179</id>
@@ -135,54 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4956818-illusion-of-undervaluation-dsu-negative-z-score-may-mislead-investors?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-23T09:39:04Z</updated>
       <published>2026-10-23T09:39:04Z</published>
-    </entry>
-    <entry>
-      <title>YMAX: Investors Have Abandoned Ship Just When It Is Steadying</title>
-      <id>4956788</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956788-ymax-investors-have-abandoned-ship-just-when-it-is-steadying?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-23T07:46:10Z</updated>
-      <published>2026-10-23T07:46:10Z</published>
-    </entry>
-    <entry>
-      <title>Capital-Efficient Portfolio Construction In A Higher Interest Rate Environment</title>
-      <id>4956784</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956784-capital-efficient-portfolio-construction-in-higher-interest-rate-environment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-23T06:35:00Z</updated>
-      <published>2026-10-23T06:35:00Z</published>
-    </entry>
-    <entry>
-      <title>TCAI: Wired For AI, Waiting On Memory</title>
-      <id>4956765</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956765-tcai-wired-for-ai-waiting-on-memory?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-23T05:36:03Z</updated>
-      <published>2026-10-23T05:36:03Z</published>
-    </entry>
-    <entry>
-      <title>DUNK: Imperfect Factor Mix, Concentration Warrant Caution</title>
-      <id>4956739</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956739-dunk-imperfect-factor-mix-concentration-warrant-caution?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-23T03:11:07Z</updated>
-      <published>2026-10-23T03:11:07Z</published>
-    </entry>
-    <entry>
-      <title>FDL: A Defensive Dividend ETF With More Upside Than You Think</title>
-      <id>4956737</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956737-fdl-a-defensive-dividend-etf-with-more-upside-than-you-think?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-23T02:48:15Z</updated>
-      <published>2026-10-23T02:48:15Z</published>
-    </entry>
-    <entry>
-      <title>GPIQ: Two-Thirds Uncapped Going Into Big Tech Earnings</title>
-      <id>4956734</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956734-gpiq-two-thirds-uncapped-going-into-big-tech-earnings?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-23T02:36:01Z</updated>
-      <published>2026-10-23T02:36:01Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia</title>
-      <id>https://seekingalpha.com/MarketCurrent:4656358</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-10-22T22:21:40Z</updated>
-      <published>2026-10-22T22:21:40Z</published>
     </entry>
 </feed>
