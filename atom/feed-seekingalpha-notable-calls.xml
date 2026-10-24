@@ -5,11 +5,39 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-23T19:33:24Z</updated>
+  <updated>2026-10-24T08:50:09Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>LDP: The Family Favorite But Not Enough</title>
+      <id>4957179</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957179-ldp-the-family-favorite-but-not-enough?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T08:50:09Z</updated>
+      <published>2026-10-24T08:50:09Z</published>
+    </entry>
+    <entry>
+      <title>PAXS: Widening Discount To NAV And Higher Dividend Yield As Fixed Income Gets Disrupted</title>
+      <id>4957142</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957142-paxs-widening-discount-to-nav-and-higher-dividend-yield-as-fixed-income-gets-disrupted?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-24T02:54:08Z</updated>
+      <published>2026-10-24T02:54:08Z</published>
+    </entry>
+    <entry>
+      <title>Bristol, Tempus AI partnering with Pathos AI to advance neurological treatments</title>
+      <id>https://seekingalpha.com/MarketCurrent:4656853</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
+      <updated>2026-10-23T21:08:23Z</updated>
+      <published>2026-10-23T21:08:23Z</published>
+    </entry>
+    <entry>
+      <title>PAXS: A 14% Yield And 7% Discount Meet Credit Stress</title>
+      <id>4957088</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957088-paxs-a-14-percent-yield-and-7-percent-discount-meet-credit-stress?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-23T20:30:25Z</updated>
+      <published>2026-10-23T20:30:25Z</published>
+    </entry>
     <entry>
       <title>XSPI: More Monthly Cash, Without A Clear Long-Term Edge</title>
       <id>4957077</id>
@@ -156,33 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
       <updated>2026-10-22T22:21:40Z</updated>
       <published>2026-10-22T22:21:40Z</published>
-    </entry>
-    <entry>
-      <title>DBE: A Deutsche Bank Quant Index Juices Invesco Energy ETF Outperformance</title>
-      <id>4956658</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956658-dbe-a-deutsche-bank-quant-index-juices-invesco-energy-etf-outperformance?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-22T21:56:13Z</updated>
-      <published>2026-10-22T21:56:13Z</published>
-    </entry>
-    <entry>
-      <title>GPIX Vs. SPYI: Which S&amp;P 500 Income ETF Wins Into 2027</title>
-      <id>4956640</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956640-gpix-vs-spyi-which-s-and-p-500-income-etf-wins-into-2027?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-22T20:54:25Z</updated>
-      <published>2026-10-22T20:54:25Z</published>
-    </entry>
-    <entry>
-      <title>EMXC: The Emerging Markets Rally Has More Room To Run</title>
-      <id>4956639</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956639-emxc-the-emerging-markets-rally-has-more-room-to-run?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-22T20:52:12Z</updated>
-      <published>2026-10-22T20:52:12Z</published>
-    </entry>
-    <entry>
-      <title>EHI: High Yield And Deep Discount Aren&apos;t Enough</title>
-      <id>4956623</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956623-ehi-high-yield-and-deep-discount-arent-enough?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-22T20:13:37Z</updated>
-      <published>2026-10-22T20:13:37Z</published>
     </entry>
 </feed>
