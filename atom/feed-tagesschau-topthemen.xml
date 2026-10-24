@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-23T20:00:42Z</updated>
+  <updated>2026-10-24T08:59:32Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html"/>
-      <updated>2026-10-23T20:00:42Z</updated>
-      <published>2026-10-23T20:00:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1280" alt="CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke"/><p>CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke</p>]]></content>
+      <title>Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland</title>
+      <id>https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"/>
+      <updated>2026-10-24T08:59:32Z</updated>
+      <published>2026-10-24T08:59:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/165069c4-ef89-4bc5-a057-14b8a0dfd86e/AAABoWsq8OM/AAABnSSvrFg/16x9-big/israel-westjordanland-142.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/165069c4-ef89-4bc5-a057-14b8a0dfd86e/AAABoWsq8OM/AAABnSSvrFg/16x9-big/israel-westjordanland-142.jpg?width=1280" alt="Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland"/><p>Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland</p>]]></content>
+    </entry>
+    <entry>
+      <title>Frankreich rüstet sich für nächsten Protesttag</title>
+      <id>https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html"/>
+      <updated>2026-10-24T08:59:32Z</updated>
+      <published>2026-10-24T08:59:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2a52c4e1-22c2-4e16-87ec-d63cc82608d8/AAABoWnklWA/AAABnSSvrFg/16x9-big/schaufenster-paris-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2a52c4e1-22c2-4e16-87ec-d63cc82608d8/AAABoWnklWA/AAABnSSvrFg/16x9-big/schaufenster-paris-102.jpg?width=1280" alt="Frankreich rüstet sich für nächsten Protesttag"/><p>Frankreich rüstet sich für nächsten Protesttag</p>]]></content>
     </entry>
     <entry>
       <title>Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris</title>
       <id>https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html"/>
-      <updated>2026-10-23T20:00:42Z</updated>
-      <published>2026-10-23T20:00:42Z</published>
+      <updated>2026-10-24T08:59:32Z</updated>
+      <published>2026-10-24T08:59:32Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5962a491-5289-4e0b-b6ef-c38ced9095d4/AAABoWmUE_o/AAABnSSvrFg/16x9-big/polizei-paris-124.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5962a491-5289-4e0b-b6ef-c38ced9095d4/AAABoWmUE_o/AAABnSSvrFg/16x9-big/polizei-paris-124.jpg?width=1280" alt="Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris"/><p>Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris</p>]]></content>
     </entry>
     <entry>
-      <title>Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt</title>
-      <id>https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html"/>
-      <updated>2026-10-23T20:00:42Z</updated>
-      <published>2026-10-23T20:00:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1280" alt="Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt"/><p>Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt</p>]]></content>
+      <title>US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps</title>
+      <id>https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html"/>
+      <updated>2026-10-24T08:59:32Z</updated>
+      <published>2026-10-24T08:59:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4977a173-9125-438b-8829-a8dfddff63aa/AAABoWwMbfI/AAABnSSvrFg/16x9-big/trump-dallas-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4977a173-9125-438b-8829-a8dfddff63aa/AAABoWwMbfI/AAABnSSvrFg/16x9-big/trump-dallas-100.jpg?width=1280" alt="US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps"/><p>US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps</p>]]></content>
     </entry>
     <entry>
-      <title>Russland und Ukraine tauschen erneut Gefangene aus</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html"/>
-      <updated>2026-10-23T20:00:42Z</updated>
-      <published>2026-10-23T20:00:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/bdc62c57-97bf-431d-8dcf-93076dea5a6f/AAABoWkOj5w/AAABnSSvrFg/16x9-big/gefangenenaustausch-ukraine-118.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/bdc62c57-97bf-431d-8dcf-93076dea5a6f/AAABoWkOj5w/AAABnSSvrFg/16x9-big/gefangenenaustausch-ukraine-118.jpg?width=1280" alt="Russland und Ukraine tauschen erneut Gefangene aus"/><p>Russland und Ukraine tauschen erneut Gefangene aus</p>]]></content>
-    </entry>
-    <entry>
-      <title>Israel will Westjordanland nach Angriff in Hebron abriegeln</title>
-      <id>https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html"/>
-      <updated>2026-10-23T20:00:42Z</updated>
-      <published>2026-10-23T20:00:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fb67e229-3cce-48c8-a0a3-4c3628c69bd5/AAABoWlmaqk/AAABnSSvrFg/16x9-big/soldaten-hebron-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fb67e229-3cce-48c8-a0a3-4c3628c69bd5/AAABoWlmaqk/AAABnSSvrFg/16x9-big/soldaten-hebron-100.jpg?width=1280" alt="Israel will Westjordanland nach Angriff in Hebron abriegeln"/><p>Israel will Westjordanland nach Angriff in Hebron abriegeln</p>]]></content>
+      <title>CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html"/>
+      <updated>2026-10-24T08:59:32Z</updated>
+      <published>2026-10-24T08:59:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1280" alt="CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke"/><p>CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671440.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671440.html"/>
-      <updated>2026-10-23T20:00:42Z</updated>
-      <published>2026-10-23T20:00:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/426b82cf-1e9d-4fe8-95ae-469cd18447e3/AAABoWmj1pk/AAABnSSvrFg/16x9-big/sendungsbild-1816200.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/426b82cf-1e9d-4fe8-95ae-469cd18447e3/AAABoWmj1pk/AAABnSSvrFg/16x9-big/sendungsbild-1816200.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671726.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1671726.html"/>
+      <updated>2026-10-24T08:59:32Z</updated>
+      <published>2026-10-24T08:59:32Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a24ffe14-05a3-4f39-8634-caf0dc68941f/AAABoWzXayg/AAABnSSvrFg/16x9-big/sendungsbild-1816466.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a24ffe14-05a3-4f39-8634-caf0dc68941f/AAABoWzXayg/AAABnSSvrFg/16x9-big/sendungsbild-1816466.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
