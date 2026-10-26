@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-26T10:22:01Z</updated>
+  <updated>2026-10-26T21:07:08Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,37 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-26T10:22:01Z</updated>
-      <published>2026-10-26T10:22:01Z</published>
+      <updated>2026-10-26T21:07:08Z</updated>
+      <published>2026-10-26T21:07:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Gefälschtes Schreiben zu Demogeld in Umlauf</title>
+      <id>https://correctiv.org/faktencheck/politik/2026/10/26/gefaelschtes-schreiben-zu-demogeld-in-umlauf/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/politik/2026/10/26/gefaelschtes-schreiben-zu-demogeld-in-umlauf/"/>
+      <updated>2026-10-26T00:00:00Z</updated>
+      <published>2026-10-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/demogeld-scaled-e1793029958817.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/demogeld-scaled-e1793029958817.jpg" alt="Kundgebung von Schülerinnen und Studenten in Solidarität mit Protesten in Frankreich am 26. Oktober"/><p>Gefälschtes Schreiben zu Demogeld in Umlauf</p>]]></content>
+    </entry>
+    <entry>
+      <title>„Cat in the Hat“-Video: Reale Vorfälle und KI-Fakes werden vermischt</title>
+      <id>https://correctiv.org/faktencheck/2026/10/26/cat-in-the-hat-video-reale-vorfaelle-und-ki-fakes-werden-vermischt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/26/cat-in-the-hat-video-reale-vorfaelle-und-ki-fakes-werden-vermischt/"/>
+      <updated>2026-10-26T00:00:00Z</updated>
+      <published>2026-10-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/cat-in-the-hat-seuss.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/cat-in-the-hat-seuss.jpg" alt="cat-in-the-hat-seuss"/><p>„Cat in the Hat“-Video: Reale Vorfälle und KI-Fakes werden vermischt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ex-Politikerin teilt irreführende Behauptung über österreichischen Rechtsextremismus-Bericht</title>
+      <id>https://correctiv.org/faktencheck/2026/10/26/ex-politikerin-teilt-irrefuehrende-behauptung-ueber-oesterreichischen-rechtsextremismus-bericht/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/26/ex-politikerin-teilt-irrefuehrende-behauptung-ueber-oesterreichischen-rechtsextremismus-bericht/"/>
+      <updated>2026-10-26T00:00:00Z</updated>
+      <published>2026-10-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/faika-el-nagashi-franz-perc-picture-alliance-e1793021551115.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/faika-el-nagashi-franz-perc-picture-alliance-e1793021551115.jpg" alt="Faika El-Nagashi steht an einem Rednerpult."/><p>Ex-Politikerin teilt irreführende Behauptung über österreichischen Rechtsextremismus-Bericht</p>]]></content>
     </entry>
     <entry>
       <title>Tritt von hinten: Bild von Angriff in Frankreich ist gefälscht</title>
@@ -207,32 +234,5 @@
       <published>2026-09-18T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/tinywow_619127818_91830385-scaled-e1789743794343.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/tinywow_619127818_91830385-scaled-e1789743794343.jpg" alt="Kugelschreiber auf Briefwahlumschlag"/><p>Video von zerschnittenen AfD-Stimmzetteln in Berlin ist eine Fälschung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gefälschter Tagesschau-Artikel erfindet Eklat um Weidel und Sewing</title>
-      <id>https://correctiv.org/faktencheck/2026/09/18/gefaelschter-tagesschau-artikel-erfindet-eklat-um-weidel-und-sewing/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/18/gefaelschter-tagesschau-artikel-erfindet-eklat-um-weidel-und-sewing/"/>
-      <updated>2026-09-18T00:00:00Z</updated>
-      <published>2026-09-18T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/616306381-scaled.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/616306381-scaled.jpg" alt="Keine Belege für Sewing-Auftritt bei Maischberger"/><p>Gefälschter Tagesschau-Artikel erfindet Eklat um Weidel und Sewing</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nicht ausgebuht: Publikum bejubelte Ansage der Band 01099 gegen die AfD</title>
-      <id>https://correctiv.org/faktencheck/2026/09/16/nicht-ausgebuht-publikum-bejubelte-ansage-der-band-01099-gegen-die-afd/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/16/nicht-ausgebuht-publikum-bejubelte-ansage-der-band-01099-gegen-die-afd/"/>
-      <updated>2026-09-16T00:00:00Z</updated>
-      <published>2026-09-16T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/01099-Rapband-Konzert-Koeller-DPA-Picture-Alliance-scaled.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/01099-Rapband-Konzert-Koeller-DPA-Picture-Alliance-scaled.jpg" alt="01099-Rapband-Konzert-Koeller-DPA-Picture Alliance"/><p>Nicht ausgebuht: Publikum bejubelte Ansage der Band 01099 gegen die AfD</p>]]></content>
-    </entry>
-    <entry>
-      <title>Youtube-Video erfindet Kriegserklärung an Russland</title>
-      <id>https://correctiv.org/faktencheck/politik/2026/09/10/youtube-video-erfindet-kriegserklaerung-an-russland/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/politik/2026/09/10/youtube-video-erfindet-kriegserklaerung-an-russland/"/>
-      <updated>2026-09-10T00:00:00Z</updated>
-      <published>2026-09-10T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/kriegserklaerung-russland-deutschland-merz-scaled-e1789034678966.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/kriegserklaerung-russland-deutschland-merz-scaled-e1789034678966.jpg" alt="Ein Bundeskanzler kann ohne Zustimmung des Parlaments gar keinen Krieg erklären"/><p>Youtube-Video erfindet Kriegserklärung an Russland</p>]]></content>
     </entry>
 </feed>
