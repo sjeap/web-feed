@@ -5,63 +5,57 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-25T19:09:44Z</updated>
+  <updated>2026-10-26T10:22:00Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Oppositionsführerin Machado meldet Rückkehr nach Venezuela</title>
-      <id>https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html"/>
-      <updated>2026-10-25T19:09:44Z</updated>
-      <published>2026-10-25T19:09:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d522bc22-1f4a-496a-81bc-efdd0fdda33c/AAABoXP5EcU/AAABnSSvrFg/16x9-big/machado-130.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d522bc22-1f4a-496a-81bc-efdd0fdda33c/AAABoXP5EcU/AAABnSSvrFg/16x9-big/machado-130.jpg?width=1280" alt="Oppositionsführerin Machado meldet Rückkehr nach Venezuela"/><p>Oppositionsführerin Machado meldet Rückkehr nach Venezuela</p>]]></content>
+      <title>Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an</title>
+      <id>https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"/>
+      <updated>2026-10-26T10:22:00Z</updated>
+      <published>2026-10-26T10:22:00Z</published>
     </entry>
     <entry>
-      <title>Dobrindt plant hohe Hürden für Vergesellschaftungen</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"/>
-      <updated>2026-10-25T19:09:44Z</updated>
-      <published>2026-10-25T19:09:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2499f771-a9dd-4a29-8486-7b333fd578cc/AAABoXL_6vU/AAABnSSvrFg/16x9-big/berlin-vergesellschaftungen-100.jpg?width=1280" alt="Dobrindt plant hohe Hürden für Vergesellschaftungen"/><p>Dobrindt plant hohe Hürden für Vergesellschaftungen</p>]]></content>
+      <title>Wahl in Serbien: Vucic räumt Niederlage ein</title>
+      <id>https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/eilmeldung/serbien-niederlage-vucic-100.html"/>
+      <updated>2026-10-26T10:22:00Z</updated>
+      <published>2026-10-26T10:22:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6c91dd3c-1ff0-4154-8ffa-258ca2a4f711/AAABoXTUG9M/AAABnSSvrFg/16x9-big/vucic-148.jpg?width=1280" alt="Wahl in Serbien: Vucic räumt Niederlage ein"/><p>Wahl in Serbien: Vucic räumt Niederlage ein</p>]]></content>
     </entry>
     <entry>
-      <title>Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien</title>
-      <id>https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"/>
-      <updated>2026-10-25T19:09:44Z</updated>
-      <published>2026-10-25T19:09:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f90a7f85-8cba-4a3b-80e8-3acfb9b8b09c/AAABoXPImHI/AAABnSSvrFg/16x9-big/serbien-wahl-112.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f90a7f85-8cba-4a3b-80e8-3acfb9b8b09c/AAABoXPImHI/AAABnSSvrFg/16x9-big/serbien-wahl-112.jpg?width=1280" alt="Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien"/><p>Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien</p>]]></content>
+      <title>Wie die Ukraine einen Soldaten per Drohne rettete</title>
+      <id>https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"/>
+      <updated>2026-10-26T10:22:00Z</updated>
+      <published>2026-10-26T10:22:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0f315c02-6d6a-4d38-bb7b-d1976d7a6b9a/AAABoXclW7Q/AAABnSSvrFg/16x9-big/vlasenko-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0f315c02-6d6a-4d38-bb7b-d1976d7a6b9a/AAABoXclW7Q/AAABnSSvrFg/16x9-big/vlasenko-100.jpg?width=1280" alt="Wie die Ukraine einen Soldaten per Drohne rettete"/><p>Wie die Ukraine einen Soldaten per Drohne rettete</p>]]></content>
     </entry>
     <entry>
-      <title>&quot;Nur ein toter Bandit ist ein guter Bandit&quot; - Wahlkampf in Brasilien</title>
-      <id>https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html"/>
-      <updated>2026-10-25T19:09:44Z</updated>
-      <published>2026-10-25T19:09:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/948e8b30-dfe7-488f-ac5a-076329d53d82/AAABoXOiu_U/AAABnSSvrFg/16x9-big/polizei-brasilien-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/948e8b30-dfe7-488f-ac5a-076329d53d82/AAABoXOiu_U/AAABnSSvrFg/16x9-big/polizei-brasilien-100.jpg?width=1280" alt=""Nur ein toter Bandit ist ein guter Bandit" - Wahlkampf in Brasilien"/><p>&quot;Nur ein toter Bandit ist ein guter Bandit&quot; - Wahlkampf in Brasilien</p>]]></content>
+      <title>Reisen in die Boom-Region: Merz und Steinmeier gleichzeitig in Asien</title>
+      <id>https://www.tagesschau.de/ausland/asien/asien-reise-merz-steinmeier-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/asien-reise-merz-steinmeier-100.html"/>
+      <updated>2026-10-26T10:22:00Z</updated>
+      <published>2026-10-26T10:22:00Z</published>
     </entry>
     <entry>
-      <title>Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein</title>
-      <id>https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"/>
-      <updated>2026-10-25T19:09:44Z</updated>
-      <published>2026-10-25T19:09:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1280" alt="Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein"/><p>Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein</p>]]></content>
+      <title>Stromsteuer-Debatte: Union und SPD weiter weit auseinander</title>
+      <id>https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html"/>
+      <updated>2026-10-26T10:22:00Z</updated>
+      <published>2026-10-26T10:22:00Z</published>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672480.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672480.html"/>
-      <updated>2026-10-25T19:09:44Z</updated>
-      <published>2026-10-25T19:09:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ad48ba22-84dd-4dee-a93d-17a8d1ba8d29/AAABoXRjeiE/AAABnSSvrFg/16x9-big/sendungsbild-1817078.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ad48ba22-84dd-4dee-a93d-17a8d1ba8d29/AAABoXRjeiE/AAABnSSvrFg/16x9-big/sendungsbild-1817078.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672708.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1672708.html"/>
+      <updated>2026-10-26T10:22:00Z</updated>
+      <published>2026-10-26T10:22:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8018422c-6abb-4b97-9b71-5f5010d614a5/AAABoXe2cZY/AAABnSSvrFg/16x9-big/sendungsbild-1817310.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8018422c-6abb-4b97-9b71-5f5010d614a5/AAABoXe2cZY/AAABnSSvrFg/16x9-big/sendungsbild-1817310.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
