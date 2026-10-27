@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-26T21:07:07Z</updated>
+  <updated>2026-10-27T09:56:29Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Knesset-Wahl 2026: Israel vor der Entscheidung</title>
+      <id>https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"/>
+      <updated>2026-10-27T09:56:29Z</updated>
+      <published>2026-10-27T09:56:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/92d31a08-592f-4e45-a74e-77c04fa48bd2/AAABoXrUG9M/AAABnSSvrFg/16x9-big/israel-wahl-160.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/92d31a08-592f-4e45-a74e-77c04fa48bd2/AAABoXrUG9M/AAABnSSvrFg/16x9-big/israel-wahl-160.jpg?width=1280" alt="Knesset-Wahl 2026: Israel vor der Entscheidung"/><p>Knesset-Wahl 2026: Israel vor der Entscheidung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro</title>
+      <id>https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html"/>
+      <updated>2026-10-27T09:56:29Z</updated>
+      <published>2026-10-27T09:56:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/85c11422-6903-4fc3-aa48-919cf2a26c26/AAABoXwZUIE/AAABnSSvrFg/16x9-big/brasilien-bolsonaro-164.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/85c11422-6903-4fc3-aa48-919cf2a26c26/AAABoXwZUIE/AAABnSSvrFg/16x9-big/brasilien-bolsonaro-164.jpg?width=1280" alt="Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro"/><p>Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro</p>]]></content>
+    </entry>
+    <entry>
+      <title>Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag</title>
+      <id>https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html"/>
+      <updated>2026-10-27T09:56:29Z</updated>
+      <published>2026-10-27T09:56:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/332b4783-31f5-473f-9e49-9fe7971417a3/AAABoXsqJ-8/AAABnSSvrFg/16x9-big/mitglieder-schuelergewerkschaft-frankreich-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/332b4783-31f5-473f-9e49-9fe7971417a3/AAABoXsqJ-8/AAABnSSvrFg/16x9-big/mitglieder-schuelergewerkschaft-frankreich-100.jpg?width=1280" alt="Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag"/><p>Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag</p>]]></content>
+    </entry>
+    <entry>
+      <title>Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky</title>
+      <id>https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"/>
+      <updated>2026-10-27T09:56:29Z</updated>
+      <published>2026-10-27T09:56:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/62d4cc37-9f64-482c-b236-4ed3e8efa533/AAABoNKK1jQ/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2228.jpg?width=1280" alt="Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky"/><p>Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky</p>]]></content>
+    </entry>
+    <entry>
       <title>Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab</title>
       <id>https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"/>
-      <updated>2026-10-26T21:07:07Z</updated>
-      <published>2026-10-26T21:07:07Z</published>
+      <updated>2026-10-27T09:56:29Z</updated>
+      <published>2026-10-27T09:56:29Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1280" alt="Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab"/><p>Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab</p>]]></content>
     </entry>
     <entry>
-      <title>Wahlsieg der Studentenliste: Serbien betritt politisches Neuland</title>
-      <id>https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html"/>
-      <updated>2026-10-26T21:07:07Z</updated>
-      <published>2026-10-26T21:07:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d04470bc-d114-4cee-9cc8-a7d18b616440/AAABoXkHYlA/AAABnSSvrFg/16x9-big/serbien-wahl-feier-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d04470bc-d114-4cee-9cc8-a7d18b616440/AAABoXkHYlA/AAABnSSvrFg/16x9-big/serbien-wahl-feier-102.jpg?width=1280" alt="Wahlsieg der Studentenliste: Serbien betritt politisches Neuland"/><p>Wahlsieg der Studentenliste: Serbien betritt politisches Neuland</p>]]></content>
-    </entry>
-    <entry>
-      <title>Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an</title>
-      <id>https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"/>
-      <updated>2026-10-26T21:07:07Z</updated>
-      <published>2026-10-26T21:07:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7e52859b-49af-4843-83be-ad391e13f68b/AAABoXXW07o/AAABnSSvrFg/16x9-big/lula-234.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7e52859b-49af-4843-83be-ad391e13f68b/AAABoXXW07o/AAABnSSvrFg/16x9-big/lula-234.jpg?width=1280" alt="Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an"/><p>Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an</p>]]></content>
-    </entry>
-    <entry>
-      <title>Demonstrationen für Pressefreiheit in der Türkei</title>
-      <id>https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html"/>
-      <updated>2026-10-26T21:07:07Z</updated>
-      <published>2026-10-26T21:07:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3d910266-464c-467f-8388-fc77d7c04713/AAABoXh6JWA/AAABnSSvrFg/16x9-big/demo-pressefreiheit-tuerkei-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3d910266-464c-467f-8388-fc77d7c04713/AAABoXh6JWA/AAABnSSvrFg/16x9-big/demo-pressefreiheit-tuerkei-102.jpg?width=1280" alt="Demonstrationen für Pressefreiheit in der Türkei"/><p>Demonstrationen für Pressefreiheit in der Türkei</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen</title>
-      <id>https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html"/>
-      <updated>2026-10-26T21:07:07Z</updated>
-      <published>2026-10-26T21:07:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/12a37bfe-40ae-47e8-a07f-41d39d40f57d/AAABoXlqiT8/AAABnSSvrFg/16x9-big/feuerwehrmann-charkiw-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/12a37bfe-40ae-47e8-a07f-41d39d40f57d/AAABoXlqiT8/AAABnSSvrFg/16x9-big/feuerwehrmann-charkiw-100.jpg?width=1280" alt="Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen"/><p>Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen</p>]]></content>
-    </entry>
-    <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1673112.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1673112.html"/>
-      <updated>2026-10-26T21:07:07Z</updated>
-      <published>2026-10-26T21:07:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e1e7d933-56a7-4320-a603-fb7578fedb9d/AAABoXnpmM0/AAABnSSvrFg/16x9-big/sendungsbild-1817562.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e1e7d933-56a7-4320-a603-fb7578fedb9d/AAABoXnpmM0/AAABnSSvrFg/16x9-big/sendungsbild-1817562.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1673320.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1673320.html"/>
+      <updated>2026-10-27T09:56:29Z</updated>
+      <published>2026-10-27T09:56:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c0431701-3489-4101-b52c-e57c130f9457/AAABoXzCPno/AAABnSSvrFg/16x9-big/sendungsbild-1817826.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c0431701-3489-4101-b52c-e57c130f9457/AAABoXzCPno/AAABnSSvrFg/16x9-big/sendungsbild-1817826.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
