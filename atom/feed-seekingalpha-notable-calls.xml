@@ -5,11 +5,144 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-27T09:32:00Z</updated>
+  <updated>2026-10-27T19:55:48Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>CGUS: High Quality, But The Growth Story Is Losing Steam</title>
+      <id>4958169</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958169-cgus-high-quality-but-growth-story-is-losing-steam?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T19:55:48Z</updated>
+      <published>2026-10-27T19:55:48Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: The Toll Road Of The AI Economy Is On Sale</title>
+      <id>https://seekingalpha.com/Article:4958150</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958150-tsmc-the-toll-road-of-the-ai-economy-is-on-sale?source=feed_symbol_TSM"/>
+      <updated>2026-10-27T19:35:08Z</updated>
+      <published>2026-10-27T19:35:08Z</published>
+    </entry>
+    <entry>
+      <title>Tech Bubble Will Pop In 2027</title>
+      <id>https://seekingalpha.com/Article:4958168</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958168-tech-bubble-will-pop-in-2027?source=feed_symbol_ASML"/>
+      <updated>2026-10-27T19:00:00Z</updated>
+      <published>2026-10-27T19:00:00Z</published>
+    </entry>
+    <entry>
+      <title>POWR: This Story Has Merit, But Intermediate Risks Serve As A Deterrent</title>
+      <id>4958118</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958118-powr-this-story-has-merit-but-intermediate-risks-serve-as-a-deterrent?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T18:17:03Z</updated>
+      <published>2026-10-27T18:17:03Z</published>
+    </entry>
+    <entry>
+      <title>SCYB: Simple High-Yield ETF, Above-Average Yield, Improved Conditions And Expectations</title>
+      <id>4958116</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958116-scyb-simple-high-yield-etf-above-average-yield-improved-conditions-and-expectations?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T18:11:09Z</updated>
+      <published>2026-10-27T18:11:09Z</published>
+    </entry>
+    <entry>
+      <title>Evaluating The No K-1 SDCI ETF: Leave Room To Add On Dips</title>
+      <id>4958090</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958090-evaluating-the-no-k-1-sdci-etf-leave-room-to-add-on-dips?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T17:32:37Z</updated>
+      <published>2026-10-27T17:32:37Z</published>
+    </entry>
+    <entry>
+      <title>How Midstream/MLPs Diversify Equity And Income Portfolios</title>
+      <id>4958069</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958069-how-midstream-mlps-diversify-equity-income-portfolios?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T16:20:00Z</updated>
+      <published>2026-10-27T16:20:00Z</published>
+    </entry>
+    <entry>
+      <title>OXLC: Income Investors Delight As Another Distribution Cut Comes Within Sight</title>
+      <id>4958021</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958021-oxlc-income-investors-delight-as-another-distribution-cut-comes-within-sight?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T15:54:52Z</updated>
+      <published>2026-10-27T15:54:52Z</published>
+    </entry>
+    <entry>
+      <title>EWY: The Memory Cushion That Gives Back More Than It Protects</title>
+      <id>4957860</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957860-ewy-the-memory-cushion-that-gives-back-more-than-it-protects?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T15:30:01Z</updated>
+      <published>2026-10-27T15:30:01Z</published>
+    </entry>
+    <entry>
+      <title>Iron ore slumps to two-year low on mounting concerns over Chinese demand</title>
+      <id>https://seekingalpha.com/MarketCurrent:4657986</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-10-27T15:23:14Z</updated>
+      <published>2026-10-27T15:23:14Z</published>
+    </entry>
+    <entry>
+      <title>Why TSMC&apos;s Q3 2026 Results Highlight Pitfalls In The AI Hype</title>
+      <id>https://seekingalpha.com/Article:4957972</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957972-why-tsmc-q3-2026-results-highlights-pitfalls-in-the-ai-hype?source=feed_symbol_TSM"/>
+      <updated>2026-10-27T15:06:26Z</updated>
+      <published>2026-10-27T15:06:26Z</published>
+    </entry>
+    <entry>
+      <title>MMT: Rates And Spreads Took Their Toll, Why It&apos;s Time To Hold This 11% Yield</title>
+      <id>4957921</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957921-mmt-rates-and-spreads-took-their-toll-why-its-time-to-hold-this-11-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T13:39:50Z</updated>
+      <published>2026-10-27T13:39:50Z</published>
+    </entry>
+    <entry>
+      <title>SGOV Or WEEK: Own The First</title>
+      <id>4957591</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957591-sgov-or-week-own-the-first?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T12:00:00Z</updated>
+      <published>2026-10-27T12:00:00Z</published>
+    </entry>
+    <entry>
+      <title>EWZS: Brazilian Small-Caps Crash 35% Monday, The Reaction Is Overdone</title>
+      <id>4957851</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957851-ewzs-brazilian-small-caps-crash-35-percent-monday-the-reaction-is-overdone?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T10:55:14Z</updated>
+      <published>2026-10-27T10:55:14Z</published>
+    </entry>
+    <entry>
+      <title>Catch The Bottom With abrdn Income Credit Strategies Fund&apos;s Preferred Stock</title>
+      <id>4957848</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957848-catch-the-bottom-with-abrdn-income-credit-strategies-funds-preferred-stock?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T10:48:55Z</updated>
+      <published>2026-10-27T10:48:55Z</published>
+    </entry>
+    <entry>
+      <title>QDVO: Tech-Heavy Covered Call ETF, Outstanding Distribution Yield And Track-Record</title>
+      <id>4957847</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957847-qdvo-tech-heavy-covered-call-etf-outstanding-distribution-yield-and-track-record?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T10:45:40Z</updated>
+      <published>2026-10-27T10:45:40Z</published>
+    </entry>
+    <entry>
+      <title>PTA: Highest Yield With The Lowest Coverage</title>
+      <id>4957841</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957841-pta-highest-yield-with-the-lowest-coverage?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T10:38:14Z</updated>
+      <published>2026-10-27T10:38:14Z</published>
+    </entry>
+    <entry>
+      <title>UFO: 15% SpaceX, 85% Of What SpaceX Is Draining</title>
+      <id>4957837</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957837-ufo-15-percent-spacex-85-percent-of-what-spacex-is-draining?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T10:29:18Z</updated>
+      <published>2026-10-27T10:29:18Z</published>
+    </entry>
+    <entry>
+      <title>GREK: Key Picks Possibly Undervalued On DDM Basis</title>
+      <id>4957835</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4957835-grek-key-picks-possibly-undervalued-on-ddm-basis?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-27T10:22:38Z</updated>
+      <published>2026-10-27T10:22:38Z</published>
+    </entry>
     <entry>
       <title>Invesco QQQ Monthly Review</title>
       <id>4957819</id>
@@ -46,143 +179,10 @@
       <published>2026-10-27T07:32:58Z</published>
     </entry>
     <entry>
-      <title>VUSB: Increase In Short-Term Interest Rates Enhances Appeal (Upgrading To Buy)</title>
-      <id>4957789</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957789-vusb-increase-in-short-term-interest-rates-enhances-appeal-upgrading-to-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T07:29:59Z</updated>
-      <published>2026-10-27T07:29:59Z</published>
-    </entry>
-    <entry>
-      <title>AMDY: The Payout Is Shrinking Even With AMD Near Highs</title>
-      <id>4957787</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957787-amdy-the-payout-is-shrinking-even-with-amd-near-highs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T07:27:15Z</updated>
-      <published>2026-10-27T07:27:15Z</published>
-    </entry>
-    <entry>
-      <title>FLOT: An Investment Grade ETF Outperforming In 2026 (Rating Upgrade)</title>
-      <id>4957785</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957785-flot-investment-grade-etf-outperforming-2026-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T07:18:26Z</updated>
-      <published>2026-10-27T07:18:26Z</published>
-    </entry>
-    <entry>
-      <title>Inflection Points: The Spooked Earnings-Driven Market</title>
-      <id>4957784</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957784-inflection-points-spooked-earnings-driven-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T07:18:00Z</updated>
-      <published>2026-10-27T07:18:00Z</published>
-    </entry>
-    <entry>
-      <title>Capacity Expansion And Physical AI Incarnation Could Be Profitable For PSI</title>
-      <id>4957782</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957782-capacity-expansion-and-physical-ai-incarnation-could-be-profitable-for-psi?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T07:13:25Z</updated>
-      <published>2026-10-27T07:13:25Z</published>
-    </entry>
-    <entry>
-      <title>DSTL: Quality Deep Value You Need Specific Reasons To Own</title>
-      <id>4957780</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957780-dstl-quality-deep-value-needs-specific-reasons-to-own?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T07:06:11Z</updated>
-      <published>2026-10-27T07:06:11Z</published>
-    </entry>
-    <entry>
-      <title>DIVN: A Lesser-Known ETF With Strong Returns And A Structural Edge Over CGDV</title>
-      <id>4957775</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957775-divn-a-lesser-known-etf-with-strong-returns-and-a-structural-edge-over-cgdv?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T06:47:47Z</updated>
-      <published>2026-10-27T06:47:47Z</published>
-    </entry>
-    <entry>
-      <title>WTV: The Quality Problem That Kept Me Cautious In June Is Disappearing (Rating Upgrade)</title>
-      <id>4957772</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957772-wtv-the-quality-problem-that-kept-me-cautious-in-june-is-disappearing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T06:31:15Z</updated>
-      <published>2026-10-27T06:31:15Z</published>
-    </entry>
-    <entry>
       <title>Taiwan Semiconductor Manufacturing Company Limited 2026 Q3 - Results - Earnings Call Presentation</title>
       <id>https://seekingalpha.com/Article:4957768</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4957768-taiwan-semiconductor-manufacturing-company-limited-2026-q3-results-earnings-call-presentation?source=feed_symbol_TSM"/>
       <updated>2026-10-27T05:11:56Z</updated>
       <published>2026-10-27T05:11:56Z</published>
-    </entry>
-    <entry>
-      <title>SILJ: Underlying Conditions In Silver Don&apos;t Look Too Conducive For This Product To Flourish</title>
-      <id>4957755</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957755-silj-underlying-conditions-in-silver-dont-look-too-conducive-for-this-product-to-flourish?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T04:51:36Z</updated>
-      <published>2026-10-27T04:51:36Z</published>
-    </entry>
-    <entry>
-      <title>One-Fifth Of The ETF Promoters Globally Lack Inflows In A Record-Breaking Market Environment</title>
-      <id>4957760</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957760-one-fifth-of-etf-promoters-globally-lack-inflows-in-record-breaking-market-environment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T04:45:00Z</updated>
-      <published>2026-10-27T04:45:00Z</published>
-    </entry>
-    <entry>
-      <title>PSCT: Low Quality SMID Tech Names Remain Unattractive</title>
-      <id>4957751</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957751-psct-low-quality-smid-tech-names-remain-unattractive?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-27T04:14:43Z</updated>
-      <published>2026-10-27T04:14:43Z</published>
-    </entry>
-    <entry>
-      <title>ASML: Creating Its Own Bottleneck</title>
-      <id>https://seekingalpha.com/Article:4957642</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957642-asml-creating-its-own-bottleneck?source=feed_symbol_ASML"/>
-      <updated>2026-10-26T22:15:49Z</updated>
-      <published>2026-10-26T22:15:49Z</published>
-    </entry>
-    <entry>
-      <title>TCAL: Still Lagging Other Active Buy-Write ETFs</title>
-      <id>4957631</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957631-tcal-still-lagging-other-active-buy-write-etfs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-26T21:29:10Z</updated>
-      <published>2026-10-26T21:29:10Z</published>
-    </entry>
-    <entry>
-      <title>Why ASML&apos;s Q3 2026 Results Dropped The Stock Price</title>
-      <id>https://seekingalpha.com/Article:4957584</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957584-why-asml-q3-2026-results-dropped-the-stock-price?source=feed_symbol_ASML"/>
-      <updated>2026-10-26T18:54:32Z</updated>
-      <published>2026-10-26T18:54:32Z</published>
-    </entry>
-    <entry>
-      <title>XES: Oil Service Stocks Finally Show Signs Of Life (Upgrade)</title>
-      <id>4957581</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957581-xes-oil-service-stocks-finally-show-signs-of-life-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-26T18:40:31Z</updated>
-      <published>2026-10-26T18:40:31Z</published>
-    </entry>
-    <entry>
-      <title>Reevaluating The Leveraged JNUG ETF As Gold Consolidates Near The 2026 Low</title>
-      <id>4957579</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957579-reevaluating-the-leveraged-jnug-etf-as-gold-consolidates-near-the-2026-low?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-26T18:33:14Z</updated>
-      <published>2026-10-26T18:33:14Z</published>
-    </entry>
-    <entry>
-      <title>Brazilian Equities: Thoughts On The Post-Election Bloodbath</title>
-      <id>4957567</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957567-brazilian-equities-thoughts-on-the-post-election-bloodbath?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-26T17:53:59Z</updated>
-      <published>2026-10-26T17:53:59Z</published>
-    </entry>
-    <entry>
-      <title>Sea hits 52-week low at $71: Technical bearishness vs. $120 target</title>
-      <id>https://seekingalpha.com/MarketCurrent:4657418</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/SE/news?source=feed_symbol_SE"/>
-      <updated>2026-10-26T17:15:46Z</updated>
-      <published>2026-10-26T17:15:46Z</published>
-    </entry>
-    <entry>
-      <title>Linde declares $1.60 dividend</title>
-      <id>https://seekingalpha.com/MarketCurrent:4657188</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
-      <updated>2026-10-26T13:55:09Z</updated>
-      <published>2026-10-26T13:55:09Z</published>
     </entry>
 </feed>
