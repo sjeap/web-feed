@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-10-20T13:22:34Z</updated>
+  <updated>2026-10-27T16:52:30Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Smarter Raumtrick und viel Holz: Auf 47 Quadratmetern schuf sich eine Architektin ihr Zuhause in Paris mit Ausblick</title>
+      <id>https://www.ad-magazin.de/artikel/smart-gegliedert-und-gut-zu-reinigen-so-optimierte-eine-junge-architektin-ihre-47-quadratmeter-wohnung-in-paris</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/smart-gegliedert-und-gut-zu-reinigen-so-optimierte-eine-junge-architektin-ihre-47-quadratmeter-wohnung-in-paris"/>
+      <updated>2026-10-27T16:52:30Z</updated>
+      <published>2026-10-27T16:52:30Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6aa909aa93e8a9a70ab3b573/1:1/w_354%2Cc_limit/buttes-chaumont-51.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6aa909aa93e8a9a70ab3b573/1:1/w_354%2Cc_limit/buttes-chaumont-51.jpg" alt="Smarter Raumtrick und viel Holz: Auf 47 Quadratmetern schuf sich eine Architektin ihr Zuhause in Paris mit Ausblick"/><p>Smarter Raumtrick und viel Holz: Auf 47 Quadratmetern schuf sich eine Architektin ihr Zuhause in Paris mit Ausblick</p>]]></content>
+    </entry>
     <entry>
       <title>Dieser raffinierte Wand-Trick macht aus 62 Quadratmetern in Madrid ein Zuhause mit großer Küche und Homeoffice</title>
       <id>https://www.ad-magazin.de/artikel/eine-wand-wird-zum-bad-wie-eine-gruene-raumbox-diese-62-quadratmeter-wohnung-in-madrid-verwandelte</id>
@@ -171,14 +180,5 @@
       <published>2026-08-25T14:33:39Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a3bec7383148e35785e6b2c/1:1/w_354%2Cc_limit/Interior_Tea-03912.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a3bec7383148e35785e6b2c/1:1/w_354%2Cc_limit/Interior_Tea-03912.jpg" alt="50 Quadratmeter in Mailand: So verwandelte Tea Tolordava einen Rohbau in ein sinnliches Zuhause voller Kontraste"/><p>50 Quadratmeter in Mailand: So verwandelte Tea Tolordava einen Rohbau in ein sinnliches Zuhause voller Kontraste</p>]]></content>
-    </entry>
-    <entry>
-      <title>33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein</title>
-      <id>https://www.ad-magazin.de/artikel/einzimmerwohnung-im-boheme-stil-manhattan-anita-calero</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/einzimmerwohnung-im-boheme-stil-manhattan-anita-calero"/>
-      <updated>2026-08-24T09:38:11Z</updated>
-      <published>2026-08-24T09:38:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg" alt="33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein"/><p>33 Quadratmeter in Manhattan: So facettenreich richtete eine Fotografin ihre Einzimmerwohnung im Boheme-Stil ein</p>]]></content>
     </entry>
 </feed>
