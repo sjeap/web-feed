@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-28T10:43:01Z</updated>
+  <updated>2026-10-28T21:13:35Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,37 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-28T10:43:01Z</updated>
-      <published>2026-10-28T10:43:01Z</published>
+      <updated>2026-10-28T21:13:35Z</updated>
+      <published>2026-10-28T21:13:35Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Müll über Bord: KI-Video zeigt erfundene Szene, echte Verstöße sind belegt</title>
+      <id>https://correctiv.org/faktencheck/2026/10/28/muell-ueber-bord-ki-video-zeigt-erfundene-szene-echte-verstoesse-sind-belegt/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/28/muell-ueber-bord-ki-video-zeigt-erfundene-szene-echte-verstoesse-sind-belegt/"/>
+      <updated>2026-10-28T00:00:00Z</updated>
+      <published>2026-10-28T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/628028044-scaled.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/628028044-scaled.jpg" alt="Auf Facebook und Tiktok kursiert ein Video von einem Schiff, das Müll ablädt. Doch der Vergleich mit echten Bildern wie hier zeigt, dass die Konstruktion im Video untypisch ist. (Symbolbild: Imaginechina / Sipa USA / Zoonar)"/><p>Müll über Bord: KI-Video zeigt erfundene Szene, echte Verstöße sind belegt</p>]]></content>
+    </entry>
+    <entry>
+      <title>Video über Sachbeschädigungen in Minden zeigt andere Vorfälle</title>
+      <id>https://correctiv.org/faktencheck/2026/10/28/vandalismus-in-minden-video-zeigt-andere-vorfalle/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/28/vandalismus-in-minden-video-zeigt-andere-vorfalle/"/>
+      <updated>2026-10-28T00:00:00Z</updated>
+      <published>2026-10-28T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/622431400-pa-torsten-sukrow-sulupressde-scaled.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/622431400-pa-torsten-sukrow-sulupressde-scaled.jpg" alt="Vandalsimus: Detail eines zerborstenen Glases am Wetterschutzglas eines oeffentlichen Telefon-Fernsprechers. Das zersplitterte Glas mit einem Loch, von dem der Schaden ausging als Nahaufnahme."/><p>Video über Sachbeschädigungen in Minden zeigt andere Vorfälle</p>]]></content>
+    </entry>
+    <entry>
+      <title>Covid-19: Analyse von Peter McCullough zu Obduktionen ist unseriös</title>
+      <id>https://correctiv.org/faktencheck/2026/10/28/covid-19-analyse-von-peter-mccullough-zu-obduktionen-ist-unserioes/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/28/covid-19-analyse-von-peter-mccullough-zu-obduktionen-ist-unserioes/"/>
+      <updated>2026-10-28T00:00:00Z</updated>
+      <published>2026-10-28T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/252560126-scaled-e1793198896558.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/252560126-scaled-e1793198896558.jpg" alt="Online wird mit einer unseriösen Studie Stimmung gegen Covid-19-Impfungen gemacht"/><p>Covid-19: Analyse von Peter McCullough zu Obduktionen ist unseriös</p>]]></content>
     </entry>
     <entry>
       <title>Gefälschtes Schreiben zu Demogeld in Umlauf</title>
@@ -207,32 +234,5 @@
       <published>2026-09-24T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/Bild-24.09.26-um-12.30-e1790245847478.png"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/Bild-24.09.26-um-12.30-e1790245847478.png" alt="Zug an einem Bahnsteig"/><p>Schwarzfahren: Angebliche Erhöhung auf 220 Euro ist erfunden</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video mit angeblichen Buhrufen gegen Campino ist manipuliert</title>
-      <id>https://correctiv.org/faktencheck/2026/09/23/video-mit-angeblichen-buhrufen-gegen-campino-wurde-manipuliert/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/23/video-mit-angeblichen-buhrufen-gegen-campino-wurde-manipuliert/"/>
-      <updated>2026-09-23T00:00:00Z</updated>
-      <published>2026-09-23T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/542679284-scaled.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/542679284-scaled.jpg" alt="Tote-Hosen-Frontmann Campino auf der Bühne"/><p>Video mit angeblichen Buhrufen gegen Campino ist manipuliert</p>]]></content>
-    </entry>
-    <entry>
-      <title>Tiktok-Video erfindet 550-Euro-Zuschuss für alleinerziehende Mütter</title>
-      <id>https://correctiv.org/faktencheck/2026/09/23/tiktok-video-erfindet-zuschuss-fuer-alleinerziehende-muetter/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/23/tiktok-video-erfindet-zuschuss-fuer-alleinerziehende-muetter/"/>
-      <updated>2026-09-23T00:00:00Z</updated>
-      <published>2026-09-23T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/tiktok-video-zuschuss-alleinerziehende-falsch-Michael-Bihlmayer-Chromorange-Picture-Alliance.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/tiktok-video-zuschuss-alleinerziehende-falsch-Michael-Bihlmayer-Chromorange-Picture-Alliance.jpg" alt="tiktok-video-zuschuss-alleinerziehende-falsch-Michael Bihlmayer- Chromorange-Picture Alliance"/><p>Tiktok-Video erfindet 550-Euro-Zuschuss für alleinerziehende Mütter</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video von zerschnittenen AfD-Stimmzetteln in Berlin ist eine Fälschung</title>
-      <id>https://correctiv.org/faktencheck/2026/09/18/video-von-zerschnittenen-afd-stimmzetteln-in-berlin-ist-eine-faelschung/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/18/video-von-zerschnittenen-afd-stimmzetteln-in-berlin-ist-eine-faelschung/"/>
-      <updated>2026-09-18T00:00:00Z</updated>
-      <published>2026-09-18T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/tinywow_619127818_91830385-scaled-e1789743794343.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/tinywow_619127818_91830385-scaled-e1789743794343.jpg" alt="Kugelschreiber auf Briefwahlumschlag"/><p>Video von zerschnittenen AfD-Stimmzetteln in Berlin ist eine Fälschung</p>]]></content>
     </entry>
 </feed>
