@@ -5,17 +5,44 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-10-27T20:49:41Z</updated>
+  <updated>2026-10-28T10:43:01Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Chatbots entlarven KI im Turing-Test nur in 3 von 98 Gesprächen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/chatbots-entlarven-ki-im-turing-test-nur-in-3-von-98-gespraechen-133715077</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/chatbots-entlarven-ki-im-turing-test-nur-in-3-von-98-gespraechen-133715077"/>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/chatbots-entlarven-ki-im-turing-test-nur-in-3-von-98-gespraechen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/chatbots-entlarven-ki-im-turing-test-nur-in-3-von-98-gespraechen.jpg" alt="Chatbots entlarven KI im Turing-Test nur in 3 von 98 Gesprächen"/><p>Chatbots entlarven KI im Turing-Test nur in 3 von 98 Gesprächen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Hüpfroboter überquert Eis mit einem nur 6 Zentimeter breiten Fuß</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/huepfroboter-ueberquert-eis-mit-einem-nur-6-zentimeter-breiten-fuss-133715074</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/huepfroboter-ueberquert-eis-mit-einem-nur-6-zentimeter-breiten-fuss-133715074"/>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/huepfroboter-ueberquert-eis-mit-einem-nur-6-zentimeter-breiten-fuss.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/huepfroboter-ueberquert-eis-mit-einem-nur-6-zentimeter-breiten-fuss.jpg" alt="Hüpfroboter überquert Eis mit einem nur 6 Zentimeter breiten Fuß"/><p>Hüpfroboter überquert Eis mit einem nur 6 Zentimeter breiten Fuß</p>]]></content>
+    </entry>
+    <entry>
+      <title>Goldschloss vom Acker birgt über 1600 Jahre alte Mechanik</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/goldschloss-vom-acker-birgt-ueber-1600-jahre-alte-mechanik-133715071</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/goldschloss-vom-acker-birgt-ueber-1600-jahre-alte-mechanik-133715071"/>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/goldschloss-vom-acker-birgt-ueber-1600-jahre-alte-mechanik.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/goldschloss-vom-acker-birgt-ueber-1600-jahre-alte-mechanik.jpg" alt="Goldschloss vom Acker birgt über 1600 Jahre alte Mechanik"/><p>Goldschloss vom Acker birgt über 1600 Jahre alte Mechanik</p>]]></content>
+    </entry>
+    <entry>
       <title>KI widerlegt jahrzehntelange Mathematik-Annahme</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/ki-widerlegt-jahrzehntelange-mathematik-annahme-133715026</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/ki-widerlegt-jahrzehntelange-mathematik-annahme-133715026"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-widerlegt-jahrzehntelange-mathematik-annahme.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/ki-widerlegt-jahrzehntelange-mathematik-annahme.jpg" alt="KI widerlegt jahrzehntelange Mathematik-Annahme"/><p>KI widerlegt jahrzehntelange Mathematik-Annahme</p>]]></content>
     </entry>
@@ -23,8 +50,8 @@
       <title>Römische Inschrift mit 23 Zentimeter hohen Buchstaben entdeckt</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/roemische-inschrift-mit-23-zentimeter-hohen-buchstaben-entdeckt-133715018</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/roemische-inschrift-mit-23-zentimeter-hohen-buchstaben-entdeckt-133715018"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/roemische-inschrift-mit-23-zentimeter-hohen-buchstaben-entdeckt.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/roemische-inschrift-mit-23-zentimeter-hohen-buchstaben-entdeckt.jpg" alt="Römische Inschrift mit 23 Zentimeter hohen Buchstaben entdeckt"/><p>Römische Inschrift mit 23 Zentimeter hohen Buchstaben entdeckt</p>]]></content>
     </entry>
@@ -32,54 +59,27 @@
       <title>4.750 Tonnen schwere Brücke gleitet über eine befahrene Autobahn</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/technik/4.750-tonnen-schwere-bruecke-gleitet-ueber-eine-befahrene-autobahn-133715014</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/4.750-tonnen-schwere-bruecke-gleitet-ueber-eine-befahrene-autobahn-133715014"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/4.750-tonnen-schwere-bruecke-gleitet-ueber-eine-befahrene-autobahn.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/4.750-tonnen-schwere-bruecke-gleitet-ueber-eine-befahrene-autobahn.jpg" alt="4.750 Tonnen schwere Brücke gleitet über eine befahrene Autobahn"/><p>4.750 Tonnen schwere Brücke gleitet über eine befahrene Autobahn</p>]]></content>
     </entry>
     <entry>
-      <title>Kristallhöhle in Spanien birgt bis zu 2 Meter lange Kristalle</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/geologie/kristallhoehle-in-spanien-birgt-bis-zu-2-meter-lange-kristalle-133715011</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/kristallhoehle-in-spanien-birgt-bis-zu-2-meter-lange-kristalle-133715011"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/kristallhoehle-in-spanien-birgt-bis-zu-2-meter-lange-kristalle.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-10/kristallhoehle-in-spanien-birgt-bis-zu-2-meter-lange-kristalle.jpg" alt="Kristallhöhle in Spanien birgt bis zu 2 Meter lange Kristalle"/><p>Kristallhöhle in Spanien birgt bis zu 2 Meter lange Kristalle</p>]]></content>
-    </entry>
-    <entry>
-      <title>Unter einem Acker in Brandenburg liegt ein rätselhafter 11-Meter-Bau</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/unter-einem-acker-in-brandenburg-liegt-ein-raetselhafter-11-meter-bau-133715008</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/unter-einem-acker-in-brandenburg-liegt-ein-raetselhafter-11-meter-bau-133715008"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/unter-einem-acker-in-brandenburg-liegt-ein-raetselhafter-11-meter-bau.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-10/unter-einem-acker-in-brandenburg-liegt-ein-raetselhafter-11-meter-bau.jpg" alt="Unter einem Acker in Brandenburg liegt ein rätselhafter 11-Meter-Bau"/><p>Unter einem Acker in Brandenburg liegt ein rätselhafter 11-Meter-Bau</p>]]></content>
-    </entry>
-    <entry>
-      <title>Wolkenwalze zieht bis zu 1.000 Kilometer über Australien</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/umwelt/wolkenwalze-zieht-bis-zu-1.000-kilometer-ueber-australien-133715005</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/umwelt/wolkenwalze-zieht-bis-zu-1.000-kilometer-ueber-australien-133715005"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/wolkenwalze-zieht-bis-zu-1.000-kilometer-ueber-australien.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/umwelt/Magazin-Gross/2026-10/wolkenwalze-zieht-bis-zu-1.000-kilometer-ueber-australien.jpg" alt="Wolkenwalze zieht bis zu 1.000 Kilometer über Australien"/><p>Wolkenwalze zieht bis zu 1.000 Kilometer über Australien</p>]]></content>
+      <title>Welches Tier ist das größte Landtier der Antarktis?</title>
+      <id>https://www.forschung-und-wissen.de/magazin/welches-tier-ist-das-groesste-landtier-der-antarktis-133712999</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/welches-tier-ist-das-groesste-landtier-der-antarktis-133712999"/>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/welches-tier-ist-das-groesste-landtier-der-antarktis.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/welches-tier-ist-das-groesste-landtier-der-antarktis.jpg" alt="Welches Tier ist das größte Landtier der Antarktis?"/><p>Welches Tier ist das größte Landtier der Antarktis?</p>]]></content>
     </entry>
     <entry>
       <title>Der Tierkreis entstand vor 2.500 Jahren in Babylon</title>
       <id>https://www.forschung-und-wissen.de/magazin/der-tierkreis-entstand-vor-2.500-jahren-in-babylon-133712965</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/der-tierkreis-entstand-vor-2.500-jahren-in-babylon-133712965"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
+      <updated>2026-10-28T10:43:01Z</updated>
+      <published>2026-10-28T10:43:01Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/der-tierkreis-entstand-vor-2.500-jahren-in-babylon.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/der-tierkreis-entstand-vor-2.500-jahren-in-babylon.jpg" alt="Der Tierkreis entstand vor 2.500 Jahren in Babylon"/><p>Der Tierkreis entstand vor 2.500 Jahren in Babylon</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ein Vulkan in der Antarktis stößt jeden Tag Goldstaub aus</title>
-      <id>https://www.forschung-und-wissen.de/magazin/ein-vulkan-in-der-antarktis-stoesst-jeden-tag-goldstaub-aus-133714969</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/ein-vulkan-in-der-antarktis-stoesst-jeden-tag-goldstaub-aus-133714969"/>
-      <updated>2026-10-27T20:49:41Z</updated>
-      <published>2026-10-27T20:49:41Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/ein-vulkan-in-der-antarktis-stoesst-jeden-tag-goldstaub-aus.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-10/ein-vulkan-in-der-antarktis-stoesst-jeden-tag-goldstaub-aus.jpg" alt="Ein Vulkan in der Antarktis stößt jeden Tag Goldstaub aus"/><p>Ein Vulkan in der Antarktis stößt jeden Tag Goldstaub aus</p>]]></content>
     </entry>
 </feed>
