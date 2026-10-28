@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-10-27T16:52:30Z</updated>
+  <updated>2026-10-28T12:02:15Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>So elegant wurde diese 31 Quadratmeter große Wohnung in New York für nur 5.000 Dollar umgestaltet</title>
+      <id>https://www.ad-magazin.de/artikel/zuhause-auf-31-quadratmetern-mini-wohnung-in-new-york-funktional-und-gemuetlich-fuer-nur-5000-dollar</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/zuhause-auf-31-quadratmetern-mini-wohnung-in-new-york-funktional-und-gemuetlich-fuer-nur-5000-dollar"/>
+      <updated>2026-10-28T12:02:15Z</updated>
+      <published>2026-10-28T12:02:15Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6adb2437d5771dd719445d47/1:1/w_354%2Cc_limit/DSC07000_HDR.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6adb2437d5771dd719445d47/1:1/w_354%2Cc_limit/DSC07000_HDR.jpg" alt="So elegant wurde diese 31 Quadratmeter große Wohnung in New York für nur 5.000 Dollar umgestaltet"/><p>So elegant wurde diese 31 Quadratmeter große Wohnung in New York für nur 5.000 Dollar umgestaltet</p>]]></content>
+    </entry>
     <entry>
       <title>Smarter Raumtrick und viel Holz: Auf 47 Quadratmetern schuf sich eine Architektin ihr Zuhause in Paris mit Ausblick</title>
       <id>https://www.ad-magazin.de/artikel/smart-gegliedert-und-gut-zu-reinigen-so-optimierte-eine-junge-architektin-ihre-47-quadratmeter-wohnung-in-paris</id>
@@ -171,14 +180,5 @@
       <published>2026-08-25T16:48:17Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a8c27c4ba1ae24818bee86b/1:1/w_354%2Cc_limit/02_SDB%252001.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a8c27c4ba1ae24818bee86b/1:1/w_354%2Cc_limit/02_SDB%252001.jpg" alt="35 Quadratmeter in Paris: So clever wurde diese Mini-Wohnung mithilfe von Edelstahl und Spiegeln vergrößert"/><p>35 Quadratmeter in Paris: So clever wurde diese Mini-Wohnung mithilfe von Edelstahl und Spiegeln vergrößert</p>]]></content>
-    </entry>
-    <entry>
-      <title>50 Quadratmeter in Mailand: So verwandelte Tea Tolordava einen Rohbau in ein sinnliches Zuhause voller Kontraste</title>
-      <id>https://www.ad-magazin.de/artikel/diese-50-quadratmeter-wohnung-in-mailand-ist-der-sinneslust-gewidmet</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/diese-50-quadratmeter-wohnung-in-mailand-ist-der-sinneslust-gewidmet"/>
-      <updated>2026-08-25T14:33:39Z</updated>
-      <published>2026-08-25T14:33:39Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a3bec7383148e35785e6b2c/1:1/w_354%2Cc_limit/Interior_Tea-03912.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a3bec7383148e35785e6b2c/1:1/w_354%2Cc_limit/Interior_Tea-03912.jpg" alt="50 Quadratmeter in Mailand: So verwandelte Tea Tolordava einen Rohbau in ein sinnliches Zuhause voller Kontraste"/><p>50 Quadratmeter in Mailand: So verwandelte Tea Tolordava einen Rohbau in ein sinnliches Zuhause voller Kontraste</p>]]></content>
     </entry>
 </feed>
