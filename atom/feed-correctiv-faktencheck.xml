@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-10-28T21:13:35Z</updated>
+  <updated>2026-10-29T11:00:19Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/09/29/militaerkonvoi-in-hamburg-war-teil-der-uebung-red-storm-charlie/"/>
-      <updated>2026-10-28T21:13:35Z</updated>
-      <published>2026-10-28T21:13:35Z</published>
+      <updated>2026-10-29T11:00:19Z</updated>
+      <published>2026-10-29T11:00:19Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/red-strom-charlie-marcus-brandt-dpa-picture-alliance.jpg" alt="Ein Militär-LKW fährt eine Straße entlang."/><p>Militärkonvoi in Hamburg war Teil der Übung „Red Storm Charlie“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Straße von Hormus: Video von angeschwemmten Smartphones ist KI-generiert</title>
+      <id>https://correctiv.org/faktencheck/2026/10/29/strasse-von-hormus-video-von-angeschwemmten-smartphones-ist-ki-generiert/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/29/strasse-von-hormus-video-von-angeschwemmten-smartphones-ist-ki-generiert/"/>
+      <updated>2026-10-29T00:00:00Z</updated>
+      <published>2026-10-29T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/unnamed-3.png"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/unnamed-3.png" alt="Straße von Hormus: Video von angeschwemmten Smartphones ist KI-generiert"/><p>Straße von Hormus: Video von angeschwemmten Smartphones ist KI-generiert</p>]]></content>
     </entry>
     <entry>
       <title>Müll über Bord: KI-Video zeigt erfundene Szene, echte Verstöße sind belegt</title>
@@ -225,14 +234,5 @@
       <published>2026-09-28T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/klopp-cdu-gruene-ruecktritt-fahne-flagge-scaled-e1790607752972.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/klopp-cdu-gruene-ruecktritt-fahne-flagge-scaled-e1790607752972.jpg" alt="ürgen Klopp bei einer Pressekonferenz am 17. September 2026"/><p>Nach Aussage zu Deutschland-Fahne: Weder Grüne noch CDU forderten Klopps Rücktritt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Schwarzfahren: Angebliche Erhöhung auf 220 Euro ist erfunden</title>
-      <id>https://correctiv.org/faktencheck/2026/09/24/schwarzfahren-angebliche-erhoehung-auf-220-euro-ist-erfunden/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/24/schwarzfahren-angebliche-erhoehung-auf-220-euro-ist-erfunden/"/>
-      <updated>2026-09-24T00:00:00Z</updated>
-      <published>2026-09-24T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/Bild-24.09.26-um-12.30-e1790245847478.png"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/Bild-24.09.26-um-12.30-e1790245847478.png" alt="Zug an einem Bahnsteig"/><p>Schwarzfahren: Angebliche Erhöhung auf 220 Euro ist erfunden</p>]]></content>
     </entry>
 </feed>
