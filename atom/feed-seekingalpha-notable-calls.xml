@@ -5,11 +5,158 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-29T10:03:15Z</updated>
+  <updated>2026-10-29T20:11:16Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Rio Tinto confirms Oyu Tolgoi operations paused after &apos;seismic event&apos;</title>
+      <id>https://seekingalpha.com/MarketCurrent:4660701</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-10-29T20:11:16Z</updated>
+      <published>2026-10-29T20:11:16Z</published>
+    </entry>
+    <entry>
+      <title>OIH Remains A Buy Despite The Correction</title>
+      <id>4959593</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959593-oih-remains-a-buy-despite-the-correction?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T19:32:28Z</updated>
+      <published>2026-10-29T19:32:28Z</published>
+    </entry>
+    <entry>
+      <title>FELV: Fidelity&apos;s Enhanced Value Strategy Doesn&apos;t Offer Much Of An Edge Over IWD</title>
+      <id>4959568</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959568-felv-fidelitys-enhanced-value-strategy-doesnt-offer-much-of-an-edge-over-iwd?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T18:51:12Z</updated>
+      <published>2026-10-29T18:51:12Z</published>
+    </entry>
+    <entry>
+      <title>The S&amp;P 500&apos;s Thanksgiving Leftovers In October 2026</title>
+      <id>4959564</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959564-sp500-thanksgiving-leftovers-october-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T17:55:00Z</updated>
+      <published>2026-10-29T17:55:00Z</published>
+    </entry>
+    <entry>
+      <title>ARKG: Revolutionary Science, Unremarkable Returns</title>
+      <id>4959481</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959481-arkg-revolutionary-science-unremarkable-returns?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T17:20:12Z</updated>
+      <published>2026-10-29T17:20:12Z</published>
+    </entry>
+    <entry>
+      <title>Brookfield Real Assets Income Fund Beat JNK But 13% Yield Is Unsustainable</title>
+      <id>4959473</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959473-brookfield-real-assets-income-fund-beat-jnk-but-13-percent-yield-is-unsustainable?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T17:12:33Z</updated>
+      <published>2026-10-29T17:12:33Z</published>
+    </entry>
+    <entry>
+      <title>ASML: There Is More To Its Valuation Than Meets The Eye</title>
+      <id>https://seekingalpha.com/Article:4959462</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959462-asml-there-is-more-to-its-valuation-than-meets-the-eye?source=feed_symbol_ASML"/>
+      <updated>2026-10-29T17:08:42Z</updated>
+      <published>2026-10-29T17:08:42Z</published>
+    </entry>
+    <entry>
+      <title>Strategies For The End Of The Bull Market</title>
+      <id>4959434</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959434-strategies-for-the-end-of-the-bull-market?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T16:32:37Z</updated>
+      <published>2026-10-29T16:32:37Z</published>
+    </entry>
+    <entry>
+      <title>Linde guides Q4 EPS to $4.40-$4.50 while taking $425M restructuring charge and evaluating Lincare options</title>
+      <id>https://seekingalpha.com/MarketCurrent:4660490</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
+      <updated>2026-10-29T16:30:44Z</updated>
+      <published>2026-10-29T16:30:44Z</published>
+    </entry>
+    <entry>
+      <title>Linde plc (LIN) Q3 2026 Earnings Call Transcript</title>
+      <id>https://seekingalpha.com/Article:4959390</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959390-linde-plc-lin-q3-2026-earnings-call-transcript?source=feed_symbol_LIN"/>
+      <updated>2026-10-29T16:29:26Z</updated>
+      <published>2026-10-29T16:29:26Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: The Cracks Are Showing</title>
+      <id>https://seekingalpha.com/Article:4959425</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959425-tsmc-the-cracks-are-showing?source=feed_symbol_TSM"/>
+      <updated>2026-10-29T16:23:12Z</updated>
+      <published>2026-10-29T16:23:12Z</published>
+    </entry>
+    <entry>
+      <title>L&apos;Air Liquide S.A. (AIQUY) Q3 2026 Sales/Trading Call Transcript</title>
+      <id>https://seekingalpha.com/Article:4959461</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959461-lair-liquide-s-a-aiquy-q3-2026-sales-trading-call-transcript?source=feed_symbol_AIQUY"/>
+      <updated>2026-10-29T16:08:37Z</updated>
+      <published>2026-10-29T16:08:37Z</published>
+    </entry>
+    <entry>
+      <title>ZTR: Utilities Are Becoming A Growth Trade, And This 10% Yielder Is Positioned For It</title>
+      <id>4959367</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959367-ztr-utilities-are-becoming-a-growth-trade-and-this-10-percent-yielder-is-positioned-for-it?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T15:28:44Z</updated>
+      <published>2026-10-29T15:28:44Z</published>
+    </entry>
+    <entry>
+      <title>EWW: I&apos;m A Mexico Bull, But This Isn&apos;t A Great Entry Point</title>
+      <id>4959350</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959350-eww-im-a-mexico-bull-but-this-isnt-a-great-entry-point?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T15:17:21Z</updated>
+      <published>2026-10-29T15:17:21Z</published>
+    </entry>
+    <entry>
+      <title>MCN: Discount Deepens Even Further, Making This Name Even More Enticing</title>
+      <id>4959273</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959273-mcn-discount-deepens-even-further-making-this-name-even-more-enticing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T13:49:53Z</updated>
+      <published>2026-10-29T13:49:53Z</published>
+    </entry>
+    <entry>
+      <title>Linde plc 2026 Q3 - Results - Earnings Call Presentation</title>
+      <id>https://seekingalpha.com/Article:4959302</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959302-linde-plc-2026-q3-results-earnings-call-presentation?source=feed_symbol_LIN"/>
+      <updated>2026-10-29T13:36:40Z</updated>
+      <published>2026-10-29T13:36:40Z</published>
+    </entry>
+    <entry>
+      <title>DSL: The Distribution Is Nice, But It Is Not Sustainable</title>
+      <id>4959255</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959255-dsl-distribution-nice-it-is-not-sustainable?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T13:27:23Z</updated>
+      <published>2026-10-29T13:27:23Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Spending Its Lead To Keep It</title>
+      <id>https://seekingalpha.com/Article:4959178</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959178-tsmc-spending-its-lead-to-keep-it?source=feed_symbol_TSM"/>
+      <updated>2026-10-29T11:24:17Z</updated>
+      <published>2026-10-29T11:24:17Z</published>
+    </entry>
+    <entry>
+      <title>SEPI: New Active Covered Call ETF With A Good Start</title>
+      <id>4958850</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958850-sepi-new-active-covered-call-etf-with-a-good-start?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T11:15:00Z</updated>
+      <published>2026-10-29T11:15:00Z</published>
+    </entry>
+    <entry>
+      <title>Global X India Active ETF Q3 2026 Commentary</title>
+      <id>4959165</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959165-global-x-india-active-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T11:00:00Z</updated>
+      <published>2026-10-29T11:00:00Z</published>
+    </entry>
+    <entry>
+      <title>FLMI: Another Look At This High-Quality Muni Bond ETF</title>
+      <id>4959160</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959160-flmi-another-look-at-this-high-quality-muni-bond-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T10:45:45Z</updated>
+      <published>2026-10-29T10:45:45Z</published>
+    </entry>
     <entry>
       <title>Volkswagen AG 2026 Q3 - Results - Earnings Call Presentation</title>
       <id>https://seekingalpha.com/Article:4959168</id>
@@ -18,171 +165,24 @@
       <published>2026-10-29T10:03:15Z</published>
     </entry>
     <entry>
-      <title>Linde lifts FY earnings outlook as Q3 beats street views</title>
-      <id>https://seekingalpha.com/MarketCurrent:4659968</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN"/>
-      <updated>2026-10-29T09:37:10Z</updated>
-      <published>2026-10-29T09:37:10Z</published>
+      <title>Global X Emerging Markets ex-China ETF Q3 2026 Commentary</title>
+      <id>4959136</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959136-global-x-emerging-markets-ex-china-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T09:47:00Z</updated>
+      <published>2026-10-29T09:47:00Z</published>
     </entry>
     <entry>
-      <title>Volkswagen reports Q3 results; updates 2026 outlook</title>
-      <id>https://seekingalpha.com/MarketCurrent:4659899</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY"/>
-      <updated>2026-10-29T07:17:08Z</updated>
-      <published>2026-10-29T07:17:08Z</published>
+      <title>Global X Brazil Active ETF Q3 2026 Commentary</title>
+      <id>4959120</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959120-global-x-brazil-active-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T08:54:00Z</updated>
+      <published>2026-10-29T08:54:00Z</published>
     </entry>
     <entry>
-      <title>Rio Tinto opens two new lithium plants in Argentina after $1.4B investment</title>
-      <id>https://seekingalpha.com/MarketCurrent:4659769</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-10-28T22:28:08Z</updated>
-      <published>2026-10-28T22:28:08Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas SA (BNP:CA) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4958624</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958624-bnp-paribas-sa-bnp-ca-q3-2026-earnings-call-transcript?source=feed_symbol_BNPQF"/>
-      <updated>2026-10-28T16:30:46Z</updated>
-      <published>2026-10-28T16:30:46Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas SA 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4958552</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958552-bnp-paribas-sa-2026-q3-results-earnings-call-presentation?source=feed_symbol_BNPQF"/>
-      <updated>2026-10-28T13:32:59Z</updated>
-      <published>2026-10-28T13:32:59Z</published>
-    </entry>
-    <entry>
-      <title>Taiwan Semiconductor raising prices could mean less competition from Intel: Wedbush</title>
-      <id>https://seekingalpha.com/MarketCurrent:4658834</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-10-28T12:24:21Z</updated>
-      <published>2026-10-28T12:24:21Z</published>
-    </entry>
-    <entry>
-      <title>ASML: Exceptional Semiconductor Business, Expensive Valuation</title>
-      <id>https://seekingalpha.com/Article:4958343</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958343-asml-exceptional-semiconductor-business-expensive-valuation?source=feed_symbol_ASML"/>
-      <updated>2026-10-28T07:02:51Z</updated>
-      <published>2026-10-28T07:02:51Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas Q3 revenue tops forecasts by €160M , ROTE reaches 13.2%; confirms 2026 and 2028 objectives</title>
-      <id>https://seekingalpha.com/MarketCurrent:4658641</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/BNPQF/news?source=feed_symbol_BNPQF"/>
-      <updated>2026-10-28T06:53:34Z</updated>
-      <published>2026-10-28T06:53:34Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The Toll Road Of The AI Economy Is On Sale</title>
-      <id>https://seekingalpha.com/Article:4958150</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958150-tsmc-the-toll-road-of-the-ai-economy-is-on-sale?source=feed_symbol_TSM"/>
-      <updated>2026-10-27T19:35:08Z</updated>
-      <published>2026-10-27T19:35:08Z</published>
-    </entry>
-    <entry>
-      <title>Tech Bubble Will Pop In 2027</title>
-      <id>https://seekingalpha.com/Article:4958168</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958168-tech-bubble-will-pop-in-2027?source=feed_symbol_ASML"/>
-      <updated>2026-10-27T19:00:00Z</updated>
-      <published>2026-10-27T19:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Why TSMC&apos;s Q3 2026 Results Highlight Pitfalls In The AI Hype</title>
-      <id>https://seekingalpha.com/Article:4957972</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957972-why-tsmc-q3-2026-results-highlights-pitfalls-in-the-ai-hype?source=feed_symbol_TSM"/>
-      <updated>2026-10-27T15:06:26Z</updated>
-      <published>2026-10-27T15:06:26Z</published>
-    </entry>
-    <entry>
-      <title>Taiwan Semiconductor Manufacturing Company Limited 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4957768</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957768-taiwan-semiconductor-manufacturing-company-limited-2026-q3-results-earnings-call-presentation?source=feed_symbol_TSM"/>
-      <updated>2026-10-27T05:11:56Z</updated>
-      <published>2026-10-27T05:11:56Z</published>
-    </entry>
-    <entry>
-      <title>ASML: Creating Its Own Bottleneck</title>
-      <id>https://seekingalpha.com/Article:4957642</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957642-asml-creating-its-own-bottleneck?source=feed_symbol_ASML"/>
-      <updated>2026-10-26T22:15:49Z</updated>
-      <published>2026-10-26T22:15:49Z</published>
-    </entry>
-    <entry>
-      <title>Why ASML&apos;s Q3 2026 Results Dropped The Stock Price</title>
-      <id>https://seekingalpha.com/Article:4957584</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957584-why-asml-q3-2026-results-dropped-the-stock-price?source=feed_symbol_ASML"/>
-      <updated>2026-10-26T18:54:32Z</updated>
-      <published>2026-10-26T18:54:32Z</published>
-    </entry>
-    <entry>
-      <title>Sea hits 52-week low at $71: Technical bearishness vs. $120 target</title>
-      <id>https://seekingalpha.com/MarketCurrent:4657418</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/SE/news?source=feed_symbol_SE"/>
-      <updated>2026-10-26T17:15:46Z</updated>
-      <published>2026-10-26T17:15:46Z</published>
-    </entry>
-    <entry>
-      <title>Jefferies sees semiconductor equipment growth through 2028</title>
-      <id>https://seekingalpha.com/MarketCurrent:4657065</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML"/>
-      <updated>2026-10-26T10:39:31Z</updated>
-      <published>2026-10-26T10:39:31Z</published>
-    </entry>
-    <entry>
-      <title>TSMC Debunks Irrational AI Fears As Pricing Power Expands (Rating Upgrade)</title>
-      <id>https://seekingalpha.com/Article:4956893</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956893-tsmc-debunks-irrational-ai-fears-as-pricing-power-expands-rating-upgrade?source=feed_symbol_TSM"/>
-      <updated>2026-10-24T12:19:00Z</updated>
-      <published>2026-10-24T12:19:00Z</published>
-    </entry>
-    <entry>
-      <title>Bristol, Tempus AI partnering with Pathos AI to advance neurological treatments</title>
-      <id>https://seekingalpha.com/MarketCurrent:4656853</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
-      <updated>2026-10-23T21:08:23Z</updated>
-      <published>2026-10-23T21:08:23Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI: Less Risky Than When I Said Buy</title>
-      <id>https://seekingalpha.com/Article:4956999</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956999-tempus-ai-less-risky-than-when-i-said-buy?source=feed_symbol_TEM"/>
-      <updated>2026-10-23T16:08:52Z</updated>
-      <published>2026-10-23T16:08:52Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI: Moderna&apos;s New Cancer Vaccine Partner Is The Pick Of The AI Biotech Bunch</title>
-      <id>https://seekingalpha.com/Article:4956782</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956782-tempus-ai-modernas-new-cancer-vaccine-partner-is-the-pick-of-the-ai-biotech-bunch?source=feed_symbol_TEM"/>
-      <updated>2026-10-23T12:30:00Z</updated>
-      <published>2026-10-23T12:30:00Z</published>
-    </entry>
-    <entry>
-      <title>ASML: The AI Bottleneck That Could Be Bigger Than Investors Expect</title>
-      <id>https://seekingalpha.com/Article:4956854</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956854-asml-the-ai-bottleneck-that-could-be-bigger-than-investors-expect?source=feed_symbol_ASML"/>
-      <updated>2026-10-23T11:18:53Z</updated>
-      <published>2026-10-23T11:18:53Z</published>
-    </entry>
-    <entry>
-      <title>Danaher Q3 Recap: Decent Results, Still A Hold</title>
-      <id>https://seekingalpha.com/Article:4956253</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956253-danaher-q3-recap-decent-results-still-a-hold?source=feed_symbol_DHR"/>
-      <updated>2026-10-22T11:15:00Z</updated>
-      <published>2026-10-22T11:15:00Z</published>
-    </entry>
-    <entry>
-      <title>PowerCell Sweden AB (publ) (PCELF) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4956207</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956207-powercell-sweden-ab-publ-pcelf-q3-2026-earnings-call-transcript?source=feed_symbol_PCELF"/>
-      <updated>2026-10-22T08:44:01Z</updated>
-      <published>2026-10-22T08:44:01Z</published>
-    </entry>
-    <entry>
-      <title>PowerCell Q3 EPS loss widens as sales fall 61%</title>
-      <id>https://seekingalpha.com/MarketCurrent:4655709</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/PCELF/news?source=feed_symbol_PCELF"/>
-      <updated>2026-10-22T06:59:25Z</updated>
-      <published>2026-10-22T06:59:25Z</published>
+      <title>QDTE: The Total Return Could Be Worse Than You Think</title>
+      <id>4959107</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959107-qdte-the-total-return-could-be-worse-than-you-think?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-29T08:05:53Z</updated>
+      <published>2026-10-29T08:05:53Z</published>
     </entry>
 </feed>
