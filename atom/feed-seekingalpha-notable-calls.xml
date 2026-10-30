@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-30T09:24:52Z</updated>
+  <updated>2026-10-30T20:29:01Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>HELO: Options-Hedged ETFs Are Timely, But Peers Are More Compelling</title>
+      <id>4960435</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960435-helo-options-hedged-etfs-are-timely-but-peers-are-more-compelling?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T20:29:01Z</updated>
+      <published>2026-10-30T20:29:01Z</published>
+    </entry>
+    <entry>
+      <title>How To Build A $50,000 Dividend Portfolio With SCHD And October&apos;s High-Yield Picks</title>
+      <id>4958896</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4958896-how-to-build-a-50000-dividend-portfolio-with-schd-and-octobers-high-yield-picks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T18:00:00Z</updated>
+      <published>2026-10-30T18:00:00Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto begins restart of Oyu Tolgoi underground operations after seismic event</title>
+      <id>https://seekingalpha.com/MarketCurrent:4661576</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-10-30T17:12:10Z</updated>
+      <published>2026-10-30T17:12:10Z</published>
+    </entry>
+    <entry>
+      <title>AI Reality Check: Looking Beyond The Adoption Curve</title>
+      <id>4960352</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960352-ai-reality-check-looking-beyond-adoption-curve?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T16:45:00Z</updated>
+      <published>2026-10-30T16:45:00Z</published>
+    </entry>
+    <entry>
+      <title>The NUV Illusion: A 5% Price Discount Does Not Mean An Automatic Profit</title>
+      <id>4960248</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960248-nuv-illusion-5-percent-price-discount-does-not-mean-automatic-profit?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T15:29:06Z</updated>
+      <published>2026-10-30T15:29:06Z</published>
+    </entry>
+    <entry>
+      <title>JQC: Discount Opens Up Creating A More Attractive Consideration</title>
+      <id>4960217</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960217-jqc-discount-opens-up-creating-a-more-attractive-consideration?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T14:58:00Z</updated>
+      <published>2026-10-30T14:58:00Z</published>
+    </entry>
+    <entry>
+      <title>HYGV: Higher-Yield, Lower-Quality Bond ETF, Unfavorable Comps To Peers</title>
+      <id>4960151</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960151-hygv-higher-yield-lower-quality-bond-etf-unfavorable-comps-to-peers?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T13:08:02Z</updated>
+      <published>2026-10-30T13:08:02Z</published>
+    </entry>
+    <entry>
+      <title>EWC: A Lower Tech Weighting Suddenly Seems Very Smart</title>
+      <id>4959936</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959936-ewc-a-lower-tech-weighting-suddenly-seems-very-smart?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T12:00:00Z</updated>
+      <published>2026-10-30T12:00:00Z</published>
+    </entry>
+    <entry>
+      <title>NVG Vs. NEA: Nuveen&apos;s AMT-Free Municipal Bond Popular CEFs - Only For The Rich</title>
+      <id>4959501</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4959501-nvg-vs-nea-nuveens-amt-free-municipal-bond-popular-cefs-only-for-the-rich?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T12:00:00Z</updated>
+      <published>2026-10-30T12:00:00Z</published>
+    </entry>
+    <entry>
+      <title>EPS: Earnings Weighting Can Outpace S&amp;P 500 In Q4 And 2027</title>
+      <id>4960100</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960100-eps-earnings-weighting-can-outpace-s-and-p-500-in-q4-and-2027?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T11:06:26Z</updated>
+      <published>2026-10-30T11:06:26Z</published>
+    </entry>
+    <entry>
+      <title>ICLN: Exploiting The AI Red Queen Effect</title>
+      <id>4960097</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960097-icln-exploiting-the-ai-red-queen-effect?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-10-30T10:59:58Z</updated>
+      <published>2026-10-30T10:59:58Z</published>
+    </entry>
     <entry>
       <title>FYC: High Risk, Questionable Reward Amid Tech Softness And Inflation Concerns</title>
       <id>4960048</id>
@@ -88,67 +165,11 @@
       <published>2026-10-30T03:36:17Z</published>
     </entry>
     <entry>
-      <title>CEF Insights: The Municipal Bond Opportunity - Higher Yields, Strong Credit</title>
-      <id>4959884</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959884-cef-insights-the-municipal-bond-opportunity-higher-yields-strong-credit?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T01:35:12Z</updated>
-      <published>2026-10-30T01:35:12Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto confirms Oyu Tolgoi operations paused after &apos;seismic event&apos;</title>
-      <id>https://seekingalpha.com/MarketCurrent:4660701</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-10-29T20:11:16Z</updated>
-      <published>2026-10-29T20:11:16Z</published>
-    </entry>
-    <entry>
-      <title>OIH Remains A Buy Despite The Correction</title>
-      <id>4959593</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959593-oih-remains-a-buy-despite-the-correction?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T19:32:28Z</updated>
-      <published>2026-10-29T19:32:28Z</published>
-    </entry>
-    <entry>
-      <title>FELV: Fidelity&apos;s Enhanced Value Strategy Doesn&apos;t Offer Much Of An Edge Over IWD</title>
-      <id>4959568</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959568-felv-fidelitys-enhanced-value-strategy-doesnt-offer-much-of-an-edge-over-iwd?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T18:51:12Z</updated>
-      <published>2026-10-29T18:51:12Z</published>
-    </entry>
-    <entry>
-      <title>The S&amp;P 500&apos;s Thanksgiving Leftovers In October 2026</title>
-      <id>4959564</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959564-sp500-thanksgiving-leftovers-october-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T17:55:00Z</updated>
-      <published>2026-10-29T17:55:00Z</published>
-    </entry>
-    <entry>
-      <title>ARKG: Revolutionary Science, Unremarkable Returns</title>
-      <id>4959481</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959481-arkg-revolutionary-science-unremarkable-returns?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T17:20:12Z</updated>
-      <published>2026-10-29T17:20:12Z</published>
-    </entry>
-    <entry>
-      <title>Brookfield Real Assets Income Fund Beat JNK But 13% Yield Is Unsustainable</title>
-      <id>4959473</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959473-brookfield-real-assets-income-fund-beat-jnk-but-13-percent-yield-is-unsustainable?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T17:12:33Z</updated>
-      <published>2026-10-29T17:12:33Z</published>
-    </entry>
-    <entry>
       <title>ASML: There Is More To Its Valuation Than Meets The Eye</title>
       <id>https://seekingalpha.com/Article:4959462</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4959462-asml-there-is-more-to-its-valuation-than-meets-the-eye?source=feed_symbol_ASML"/>
       <updated>2026-10-29T17:08:42Z</updated>
       <published>2026-10-29T17:08:42Z</published>
-    </entry>
-    <entry>
-      <title>Strategies For The End Of The Bull Market</title>
-      <id>4959434</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959434-strategies-for-the-end-of-the-bull-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T16:32:37Z</updated>
-      <published>2026-10-29T16:32:37Z</published>
     </entry>
     <entry>
       <title>Linde guides Q4 EPS to $4.40-$4.50 while taking $425M restructuring charge and evaluating Lincare options</title>
@@ -163,26 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4959390-linde-plc-lin-q3-2026-earnings-call-transcript?source=feed_symbol_LIN"/>
       <updated>2026-10-29T16:29:26Z</updated>
       <published>2026-10-29T16:29:26Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: The Cracks Are Showing</title>
-      <id>https://seekingalpha.com/Article:4959425</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959425-tsmc-the-cracks-are-showing?source=feed_symbol_TSM"/>
-      <updated>2026-10-29T16:23:12Z</updated>
-      <published>2026-10-29T16:23:12Z</published>
-    </entry>
-    <entry>
-      <title>L&apos;Air Liquide S.A. (AIQUY) Q3 2026 Sales/Trading Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4959461</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959461-lair-liquide-s-a-aiquy-q3-2026-sales-trading-call-transcript?source=feed_symbol_AIQUY"/>
-      <updated>2026-10-29T16:08:37Z</updated>
-      <published>2026-10-29T16:08:37Z</published>
-    </entry>
-    <entry>
-      <title>ZTR: Utilities Are Becoming A Growth Trade, And This 10% Yielder Is Positioned For It</title>
-      <id>4959367</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959367-ztr-utilities-are-becoming-a-growth-trade-and-this-10-percent-yielder-is-positioned-for-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-29T15:28:44Z</updated>
-      <published>2026-10-29T15:28:44Z</published>
     </entry>
 </feed>
