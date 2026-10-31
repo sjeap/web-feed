@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-10-30T19:20:07Z</updated>
+  <updated>2026-10-31T05:30:31Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Intel-Aktie: Ein tolles Schnäppchen oder doch für den Müll?</title>
+      <id>https://www.sharedeals.de/intel-aktie-ein-tolles-schnaeppchen-oder-doch-fuer-den-muell/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/intel-aktie-ein-tolles-schnaeppchen-oder-doch-fuer-den-muell/"/>
+      <updated>2026-10-31T05:30:31Z</updated>
+      <published>2026-10-31T05:30:31Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/10/Intel-Logo-kaputt-540x350.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/10/Intel-Logo-kaputt-540x350.jpeg" alt="Intel-Aktie: Ein tolles Schnäppchen oder doch für den Müll?"/><p>Intel-Aktie: Ein tolles Schnäppchen oder doch für den Müll?</p>]]></content>
+    </entry>
     <entry>
       <title>Reddit-Aktie -25%: Finger weg von dieser KI-Falle?</title>
       <id>https://www.sharedeals.de/reddit-aktie-25-finger-weg-von-dieser-ki-falle/</id>
@@ -189,15 +198,6 @@
       <published>2026-10-30T09:38:07Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/10/Twilio-540x350.jpeg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/10/Twilio-540x350.jpeg" alt="Twilio cloud at the center of a world map, with red light beams and icons showing global messaging and connections."/><p>Twilio-Aktie -22%: Dieser Crash kam mit Ansage!</p>]]></content>
-    </entry>
-    <entry>
-      <title>Deutsche Bank-Aktie: Setzt sich die Lethargie fort?</title>
-      <id>https://www.sharedeals.de/deutsche-bank-aktie-setzt-sich-die-lethargie-fort/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/deutsche-bank-aktie-setzt-sich-die-lethargie-fort/"/>
-      <updated>2026-10-30T09:36:03Z</updated>
-      <published>2026-10-30T09:36:03Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/04/Artikelbilder-1-12-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/04/Artikelbilder-1-12-540x350.jpg" alt="Deutsche Bank"/><p>Deutsche Bank-Aktie: Setzt sich die Lethargie fort?</p>]]></content>
     </entry>
     <entry>
       <title>Sanofi-Aktie: Ist sie mit einem KGV von 9 jetzt zu billig?</title>
