@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-10-31T15:20:24Z</updated>
+  <updated>2026-11-01T10:16:50Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>ETB: 8.5% Yield With Widest Discount In 15 Years</title>
+      <id>4960707</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960707-etb-8_5-percent-yield-with-widest-discount-in-15-years?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-01T10:16:50Z</updated>
+      <published>2026-11-01T10:16:50Z</published>
+    </entry>
+    <entry>
+      <title>How Geopolitics And Bigger Budgets Are Impacting The Defense Sector</title>
+      <id>4960703</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960703-how-geopolitics-bigger-budgets-impacting-defense-sector?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-01T05:20:00Z</updated>
+      <published>2026-11-01T05:20:00Z</published>
+    </entry>
+    <entry>
+      <title>GRPM: Interesting Premise, But Mixed Performance And Factor Exposures Temper Enthusiasm</title>
+      <id>4960698</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960698-grpm-interesting-premise-mixed-performance-factor-exposures-temper-enthusiasm?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-01T03:44:54Z</updated>
+      <published>2026-11-01T03:44:54Z</published>
+    </entry>
+    <entry>
+      <title>BNP Paribas: The Market Leader That Keeps On Performing</title>
+      <id>https://seekingalpha.com/Article:4960696</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960696-bnp-paribas-the-market-leader-that-keeps-on-performing?source=feed_symbol_BNPQF"/>
+      <updated>2026-11-01T03:35:57Z</updated>
+      <published>2026-11-01T03:35:57Z</published>
+    </entry>
+    <entry>
+      <title>SOXL: Why Now&apos;s The Time To Get Long Semiconductors Into Year-End (Rating Upgrade)</title>
+      <id>4960690</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960690-soxl-why-nows-the-time-to-get-long-semiconductors-into-year-end-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-01T02:06:07Z</updated>
+      <published>2026-11-01T02:06:07Z</published>
+    </entry>
+    <entry>
+      <title>IWX: Tactical Upside Possible, Long-Term Outperformance Unlikely, A Hold</title>
+      <id>4960689</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960689-iwx-tactical-upside-possible-long-term-outperformance-unlikely-a-hold?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-01T01:46:12Z</updated>
+      <published>2026-11-01T01:46:12Z</published>
+    </entry>
+    <entry>
+      <title>CEF Weekly Review: SRV Lightens Up On Midstream</title>
+      <id>4960687</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4960687-cef-weekly-review-srv-lightens-up-on-midstream?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-01T01:28:19Z</updated>
+      <published>2026-11-01T01:28:19Z</published>
+    </entry>
     <entry>
       <title>S&amp;P 500 materials sector: Four companies miss EPS estimates, six fall short on revenue</title>
       <id>https://seekingalpha.com/MarketCurrent:4661354</id>
@@ -135,54 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4958896-how-to-build-a-50000-dividend-portfolio-with-schd-and-octobers-high-yield-picks?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-10-30T18:00:00Z</updated>
       <published>2026-10-30T18:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto begins restart of Oyu Tolgoi underground operations after seismic event</title>
-      <id>https://seekingalpha.com/MarketCurrent:4661576</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
-      <updated>2026-10-30T17:12:10Z</updated>
-      <published>2026-10-30T17:12:10Z</published>
-    </entry>
-    <entry>
-      <title>AI Reality Check: Looking Beyond The Adoption Curve</title>
-      <id>4960352</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960352-ai-reality-check-looking-beyond-adoption-curve?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T16:45:00Z</updated>
-      <published>2026-10-30T16:45:00Z</published>
-    </entry>
-    <entry>
-      <title>The NUV Illusion: A 5% Price Discount Does Not Mean An Automatic Profit</title>
-      <id>4960248</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960248-nuv-illusion-5-percent-price-discount-does-not-mean-automatic-profit?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T15:29:06Z</updated>
-      <published>2026-10-30T15:29:06Z</published>
-    </entry>
-    <entry>
-      <title>JQC: Discount Opens Up Creating A More Attractive Consideration</title>
-      <id>4960217</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960217-jqc-discount-opens-up-creating-a-more-attractive-consideration?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T14:58:00Z</updated>
-      <published>2026-10-30T14:58:00Z</published>
-    </entry>
-    <entry>
-      <title>HYGV: Higher-Yield, Lower-Quality Bond ETF, Unfavorable Comps To Peers</title>
-      <id>4960151</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960151-hygv-higher-yield-lower-quality-bond-etf-unfavorable-comps-to-peers?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T13:08:02Z</updated>
-      <published>2026-10-30T13:08:02Z</published>
-    </entry>
-    <entry>
-      <title>EWC: A Lower Tech Weighting Suddenly Seems Very Smart</title>
-      <id>4959936</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959936-ewc-a-lower-tech-weighting-suddenly-seems-very-smart?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T12:00:00Z</updated>
-      <published>2026-10-30T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>NVG Vs. NEA: Nuveen&apos;s AMT-Free Municipal Bond Popular CEFs - Only For The Rich</title>
-      <id>4959501</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959501-nvg-vs-nea-nuveens-amt-free-municipal-bond-popular-cefs-only-for-the-rich?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-10-30T12:00:00Z</updated>
-      <published>2026-10-30T12:00:00Z</published>
     </entry>
 </feed>
