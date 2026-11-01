@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-01T11:25:02Z</updated>
+  <updated>2026-11-01T20:41:12Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag</title>
-      <id>https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"/>
-      <updated>2026-11-01T11:25:02Z</updated>
-      <published>2026-11-01T11:25:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280" alt="Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag"/><p>Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag</p>]]></content>
+      <title>Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?</title>
+      <id>https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"/>
+      <updated>2026-11-01T20:41:12Z</updated>
+      <published>2026-11-01T20:41:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fd2489d7-fda1-4850-bb76-8e819b2e671b/AAABoZiK1NE/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-106.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fd2489d7-fda1-4850-bb76-8e819b2e671b/AAABoZiK1NE/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-106.jpg?width=1280" alt="Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?"/><p>Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?</p>]]></content>
     </entry>
     <entry>
-      <title>Erneut Proteste und Zusammenstöße in Frankreich</title>
-      <id>https://www.tagesschau.de/ausland/frankreich-proteste-242.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/frankreich-proteste-242.html"/>
-      <updated>2026-11-01T11:25:02Z</updated>
-      <published>2026-11-01T11:25:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1280" alt="Erneut Proteste und Zusammenstöße in Frankreich"/><p>Erneut Proteste und Zusammenstöße in Frankreich</p>]]></content>
+      <title>Wildberger bestätigt ARD-Bericht zu Hackerangriff</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"/>
+      <updated>2026-11-01T20:41:12Z</updated>
+      <published>2026-11-01T20:41:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7fa08d93-7f5e-4f99-a804-37e493f66e9a/AAABmVZtSjc/AAABnSSvrFg/16x9-big/reichstagsgebaeude-168.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7fa08d93-7f5e-4f99-a804-37e493f66e9a/AAABmVZtSjc/AAABnSSvrFg/16x9-big/reichstagsgebaeude-168.jpg?width=1280" alt="Wildberger bestätigt ARD-Bericht zu Hackerangriff"/><p>Wildberger bestätigt ARD-Bericht zu Hackerangriff</p>]]></content>
+    </entry>
+    <entry>
+      <title>Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel</title>
+      <id>https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"/>
+      <updated>2026-11-01T20:41:12Z</updated>
+      <published>2026-11-01T20:41:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1280" alt="Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel"/><p>Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel</p>]]></content>
+    </entry>
+    <entry>
+      <title>Füllstandsvorgaben bei Gasspeichern nicht erreicht</title>
+      <id>https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html"/>
+      <updated>2026-11-01T20:41:12Z</updated>
+      <published>2026-11-01T20:41:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1280" alt="Füllstandsvorgaben bei Gasspeichern nicht erreicht"/><p>Füllstandsvorgaben bei Gasspeichern nicht erreicht</p>]]></content>
     </entry>
     <entry>
       <title>Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt</title>
       <id>https://www.tagesschau.de/ausland/portugal-protest-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/portugal-protest-100.html"/>
-      <updated>2026-11-01T11:25:02Z</updated>
-      <published>2026-11-01T11:25:02Z</published>
+      <updated>2026-11-01T20:41:12Z</updated>
+      <published>2026-11-01T20:41:12Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1280" alt="Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt"/><p>Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt</p>]]></content>
     </entry>
     <entry>
-      <title>Warnstreiks der IG Metall kurz nach Mitternacht angelaufen</title>
-      <id>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"/>
-      <updated>2026-11-01T11:25:02Z</updated>
-      <published>2026-11-01T11:25:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1280" alt="Warnstreiks der IG Metall kurz nach Mitternacht angelaufen"/><p>Warnstreiks der IG Metall kurz nach Mitternacht angelaufen</p>]]></content>
-    </entry>
-    <entry>
-      <title>FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich</title>
-      <id>https://www.tagesschau.de/ausland/asien/hack-binance-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/hack-binance-100.html"/>
-      <updated>2026-11-01T11:25:02Z</updated>
-      <published>2026-11-01T11:25:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1280" alt="FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich"/><p>FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich</p>]]></content>
-    </entry>
-    <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676014.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676014.html"/>
-      <updated>2026-11-01T11:25:02Z</updated>
-      <published>2026-11-01T11:25:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/81319264-8997-488e-b688-b5c755cd2fd2/AAABoZZA_aw/AAABnSSvrFg/16x9-big/sendungsbild-1820504.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/81319264-8997-488e-b688-b5c755cd2fd2/AAABoZZA_aw/AAABnSSvrFg/16x9-big/sendungsbild-1820504.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676368.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676368.html"/>
+      <updated>2026-11-01T20:41:12Z</updated>
+      <published>2026-11-01T20:41:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0f3b3d81-0bef-4464-8d9a-1331e16435c7/AAABoZi6to8/AAABnSSvrFg/16x9-big/sendungsbild-1820762.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0f3b3d81-0bef-4464-8d9a-1331e16435c7/AAABoZi6to8/AAABnSSvrFg/16x9-big/sendungsbild-1820762.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
