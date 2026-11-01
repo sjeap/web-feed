@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-10-31T20:09:35Z</updated>
+  <updated>2026-11-01T11:25:02Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>&quot;GenZ&quot;-Proteste: Tausende demonstrieren für soziale Gerechtigkeit</title>
-      <id>https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html"/>
-      <updated>2026-10-31T20:09:35Z</updated>
-      <published>2026-10-31T20:09:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f6dbd2a0-47d7-461d-89b2-73f1491a94a5/AAABoZKsJSk/AAABnSSvrFg/16x9-big/proteste-gen-z-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f6dbd2a0-47d7-461d-89b2-73f1491a94a5/AAABoZKsJSk/AAABnSSvrFg/16x9-big/proteste-gen-z-100.jpg?width=1280" alt=""GenZ"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit"/><p>&quot;GenZ&quot;-Proteste: Tausende demonstrieren für soziale Gerechtigkeit</p>]]></content>
+      <title>Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag</title>
+      <id>https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"/>
+      <updated>2026-11-01T11:25:02Z</updated>
+      <published>2026-11-01T11:25:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280" alt="Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag"/><p>Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag</p>]]></content>
     </entry>
     <entry>
       <title>Erneut Proteste und Zusammenstöße in Frankreich</title>
       <id>https://www.tagesschau.de/ausland/frankreich-proteste-242.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/frankreich-proteste-242.html"/>
-      <updated>2026-10-31T20:09:35Z</updated>
-      <published>2026-10-31T20:09:35Z</published>
+      <updated>2026-11-01T11:25:02Z</updated>
+      <published>2026-11-01T11:25:02Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1280" alt="Erneut Proteste und Zusammenstöße in Frankreich"/><p>Erneut Proteste und Zusammenstöße in Frankreich</p>]]></content>
     </entry>
     <entry>
-      <title>Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"/>
-      <updated>2026-10-31T20:09:35Z</updated>
-      <published>2026-10-31T20:09:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3c693696-01d8-4305-a50e-b410eef58dc0/AAABoZKxZXE/AAABnSSvrFg/16x9-big/berlin-die-linke-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3c693696-01d8-4305-a50e-b410eef58dc0/AAABoZKxZXE/AAABnSSvrFg/16x9-big/berlin-die-linke-100.jpg?width=1280" alt="Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD"/><p>Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD</p>]]></content>
+      <title>Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt</title>
+      <id>https://www.tagesschau.de/ausland/portugal-protest-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/portugal-protest-100.html"/>
+      <updated>2026-11-01T11:25:02Z</updated>
+      <published>2026-11-01T11:25:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1280" alt="Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt"/><p>Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt</p>]]></content>
     </entry>
     <entry>
-      <title>Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache</title>
-      <id>https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html"/>
-      <updated>2026-10-31T20:09:35Z</updated>
-      <published>2026-10-31T20:09:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/75275a1f-15c3-4400-acd7-11bce450a444/AAABoZJnEzc/AAABnSSvrFg/16x9-big/g20-atlanta-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/75275a1f-15c3-4400-acd7-11bce450a444/AAABoZJnEzc/AAABnSSvrFg/16x9-big/g20-atlanta-100.jpg?width=1280" alt="Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache"/><p>Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache</p>]]></content>
+      <title>Warnstreiks der IG Metall kurz nach Mitternacht angelaufen</title>
+      <id>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"/>
+      <updated>2026-11-01T11:25:02Z</updated>
+      <published>2026-11-01T11:25:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ee2a223d-bc92-4963-8f3f-bb64caca5e5b/AAABoZU5U5o/AAABnSSvrFg/16x9-big/warnstreik-456.jpg?width=1280" alt="Warnstreiks der IG Metall kurz nach Mitternacht angelaufen"/><p>Warnstreiks der IG Metall kurz nach Mitternacht angelaufen</p>]]></content>
     </entry>
     <entry>
-      <title>Der Kampf um das polnische Verfassungsgericht eskaliert</title>
-      <id>https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html"/>
-      <updated>2026-10-31T20:09:35Z</updated>
-      <published>2026-10-31T20:09:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9f49bd5c-5daa-4757-ad0b-b6f9d181edc3/AAABoZIXzaw/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-122.jpg?width=1280" alt="Der Kampf um das polnische Verfassungsgericht eskaliert"/><p>Der Kampf um das polnische Verfassungsgericht eskaliert</p>]]></content>
+      <title>FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich</title>
+      <id>https://www.tagesschau.de/ausland/asien/hack-binance-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/hack-binance-100.html"/>
+      <updated>2026-11-01T11:25:02Z</updated>
+      <published>2026-11-01T11:25:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1280" alt="FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich"/><p>FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1675920.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1675920.html"/>
-      <updated>2026-10-31T20:09:35Z</updated>
-      <published>2026-10-31T20:09:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b17a3b4d-3261-4a21-8671-36e7abd1bae0/AAABoZOSU44/AAABnSSvrFg/16x9-big/sendungsbild-1820344.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b17a3b4d-3261-4a21-8671-36e7abd1bae0/AAABoZOSU44/AAABnSSvrFg/16x9-big/sendungsbild-1820344.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676014.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676014.html"/>
+      <updated>2026-11-01T11:25:02Z</updated>
+      <published>2026-11-01T11:25:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/81319264-8997-488e-b688-b5c755cd2fd2/AAABoZZA_aw/AAABnSSvrFg/16x9-big/sendungsbild-1820504.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/81319264-8997-488e-b688-b5c755cd2fd2/AAABoZZA_aw/AAABnSSvrFg/16x9-big/sendungsbild-1820504.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
