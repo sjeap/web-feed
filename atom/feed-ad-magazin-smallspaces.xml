@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-10-31T08:00:00Z</updated>
+  <updated>2026-11-01T08:00:00Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Zwischen Wellen, Kurven und Farben: So verspielt richtete ein junges Paar sein erstes Familien-Zuhause in Paris ein</title>
+      <id>https://www.ad-magazin.de/artikel/so-verspielt-richtete-sich-ein-junges-paar-auf-77-quadratmetern-in-paris-ein</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/so-verspielt-richtete-sich-ein-junges-paar-auf-77-quadratmetern-in-paris-ein"/>
+      <updated>2026-11-01T08:00:00Z</updated>
+      <published>2026-11-01T08:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6adf6157e64a8b8b8342af98/1:1/w_354%2Cc_limit/2.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6adf6157e64a8b8b8342af98/1:1/w_354%2Cc_limit/2.jpg" alt="Zwischen Wellen, Kurven und Farben: So verspielt richtete ein junges Paar sein erstes Familien-Zuhause in Paris ein"/><p>Zwischen Wellen, Kurven und Farben: So verspielt richtete ein junges Paar sein erstes Familien-Zuhause in Paris ein</p>]]></content>
+    </entry>
     <entry>
       <title>Kleiner Kokon voller Kontraste: So entstand auf nur 25 Quadratmetern in Paris ein Gefühl von Weite und Romantik</title>
       <id>https://www.ad-magazin.de/artikel/kleiner-kokon-voller-kontraste-so-entstand-auf-nur-25-quadratmetern-in-paris-ein-gefuehl-von-weite-und-romantik</id>
@@ -171,14 +180,5 @@
       <published>2026-09-01T16:18:43Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a951e0fe8a577bac06e34f3/1:1/w_354%2Cc_limit/02-3H1A6249.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a951e0fe8a577bac06e34f3/1:1/w_354%2Cc_limit/02-3H1A6249.jpg" alt="Kleine Wohnung in Paris: Wie minimalistische Eleganz und rustikales Flair auf kleinstem Raum verschmelzen"/><p>Kleine Wohnung in Paris: Wie minimalistische Eleganz und rustikales Flair auf kleinstem Raum verschmelzen</p>]]></content>
-    </entry>
-    <entry>
-      <title>40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort</title>
-      <id>https://www.ad-magazin.de/artikel/40-quadratmeter-mit-meerblick-apartment-in-camogli</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/40-quadratmeter-mit-meerblick-apartment-in-camogli"/>
-      <updated>2026-08-29T10:00:00Z</updated>
-      <published>2026-08-29T10:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a8c210f75c84051c7bd81e3/1:1/w_354%2Cc_limit/CAMOGLI-020.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a8c210f75c84051c7bd81e3/1:1/w_354%2Cc_limit/CAMOGLI-020.jpg" alt="40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort"/><p>40 Quadratmeter mit Meerblick: So wurde dieses Apartment in Camogli zum farbenfrohen Rückzugsort</p>]]></content>
     </entry>
 </feed>
