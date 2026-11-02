@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-01T20:41:12Z</updated>
+  <updated>2026-11-02T12:43:56Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?</title>
-      <id>https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"/>
-      <updated>2026-11-01T20:41:12Z</updated>
-      <published>2026-11-01T20:41:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fd2489d7-fda1-4850-bb76-8e819b2e671b/AAABoZiK1NE/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-106.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fd2489d7-fda1-4850-bb76-8e819b2e671b/AAABoZiK1NE/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-106.jpg?width=1280" alt="Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?"/><p>Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?</p>]]></content>
+      <title>Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf</title>
+      <id>https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html"/>
+      <updated>2026-11-02T12:43:56Z</updated>
+      <published>2026-11-02T12:43:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7be42cc8-fbc3-4ac3-b431-d8938bf2dd13/AAABoZuQLjE/AAABnSSvrFg/16x9-big/krawall-frankfurt-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7be42cc8-fbc3-4ac3-b431-d8938bf2dd13/AAABoZuQLjE/AAABnSSvrFg/16x9-big/krawall-frankfurt-100.jpg?width=1280" alt="Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf"/><p>Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf</p>]]></content>
     </entry>
     <entry>
-      <title>Wildberger bestätigt ARD-Bericht zu Hackerangriff</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"/>
-      <updated>2026-11-01T20:41:12Z</updated>
-      <published>2026-11-01T20:41:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/7fa08d93-7f5e-4f99-a804-37e493f66e9a/AAABmVZtSjc/AAABnSSvrFg/16x9-big/reichstagsgebaeude-168.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/7fa08d93-7f5e-4f99-a804-37e493f66e9a/AAABmVZtSjc/AAABnSSvrFg/16x9-big/reichstagsgebaeude-168.jpg?width=1280" alt="Wildberger bestätigt ARD-Bericht zu Hackerangriff"/><p>Wildberger bestätigt ARD-Bericht zu Hackerangriff</p>]]></content>
+      <title>Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner</title>
+      <id>https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html"/>
+      <updated>2026-11-02T12:43:56Z</updated>
+      <published>2026-11-02T12:43:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/816adfaa-5eeb-4852-a9b6-9973ee40086c/AAABoZs0020/AAABnSSvrFg/16x9-big/rogers-stevens-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/816adfaa-5eeb-4852-a9b6-9973ee40086c/AAABoZs0020/AAABnSSvrFg/16x9-big/rogers-stevens-100.jpg?width=1280" alt="Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner"/><p>Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner</p>]]></content>
     </entry>
     <entry>
-      <title>Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel</title>
-      <id>https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"/>
-      <updated>2026-11-01T20:41:12Z</updated>
-      <published>2026-11-01T20:41:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/151ab74c-4bdb-4d76-9475-80d7decae5a0/AAABoZdy__A/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-126.jpg?width=1280" alt="Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel"/><p>Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel</p>]]></content>
+      <title>Fehlalarm in Kiew nach Hackerangriff auf Warn-App</title>
+      <id>https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html"/>
+      <updated>2026-11-02T12:43:56Z</updated>
+      <published>2026-11-02T12:43:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1e0de475-12a6-4cff-bf9e-f8e9178bf201/AAABoIjH-p4/AAABnSSvrFg/16x9-big/kiew-538.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1e0de475-12a6-4cff-bf9e-f8e9178bf201/AAABoIjH-p4/AAABnSSvrFg/16x9-big/kiew-538.jpg?width=1280" alt="Fehlalarm in Kiew nach Hackerangriff auf Warn-App"/><p>Fehlalarm in Kiew nach Hackerangriff auf Warn-App</p>]]></content>
     </entry>
     <entry>
-      <title>Füllstandsvorgaben bei Gasspeichern nicht erreicht</title>
-      <id>https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/energie/gasspeicher-vorgaben-ziel-verfehlt-100.html"/>
-      <updated>2026-11-01T20:41:12Z</updated>
-      <published>2026-11-01T20:41:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/90fcaddf-4c0f-4c73-804d-d38f627af935/AAABoKjuL6U/AAABnSSvrFg/16x9-big/gas-206.jpg?width=1280" alt="Füllstandsvorgaben bei Gasspeichern nicht erreicht"/><p>Füllstandsvorgaben bei Gasspeichern nicht erreicht</p>]]></content>
+      <title>Rot-grün-rote Koalitionsgespräche in Berlin gestartet</title>
+      <id>https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"/>
+      <updated>2026-11-02T12:43:56Z</updated>
+      <published>2026-11-02T12:43:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/52ca732f-308f-4c41-8048-59159606c15c/AAABoZvGxGk/AAABnSSvrFg/16x9-big/koenig-eralp-stahr-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/52ca732f-308f-4c41-8048-59159606c15c/AAABoZvGxGk/AAABnSSvrFg/16x9-big/koenig-eralp-stahr-100.jpg?width=1280" alt="Rot-grün-rote Koalitionsgespräche in Berlin gestartet"/><p>Rot-grün-rote Koalitionsgespräche in Berlin gestartet</p>]]></content>
     </entry>
     <entry>
-      <title>Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt</title>
-      <id>https://www.tagesschau.de/ausland/portugal-protest-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/portugal-protest-100.html"/>
-      <updated>2026-11-01T20:41:12Z</updated>
-      <published>2026-11-01T20:41:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/dc29ddfe-ee86-4343-912c-5af89a89fb06/AAABoZZWi7E/AAABnSSvrFg/16x9-big/portugal-protest-102.jpg?width=1280" alt="Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt"/><p>Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt</p>]]></content>
+      <title>IG Metall weitet im Tarifstreit Warnstreiks aus</title>
+      <id>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"/>
+      <updated>2026-11-02T12:43:56Z</updated>
+      <published>2026-11-02T12:43:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/00732538-b22c-47e4-849c-877f037cb624/AAABoZoBbAA/AAABnSSvrFg/16x9-big/ig-metall-260.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/00732538-b22c-47e4-849c-877f037cb624/AAABoZoBbAA/AAABnSSvrFg/16x9-big/ig-metall-260.jpg?width=1280" alt="IG Metall weitet im Tarifstreit Warnstreiks aus"/><p>IG Metall weitet im Tarifstreit Warnstreiks aus</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676368.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676368.html"/>
-      <updated>2026-11-01T20:41:12Z</updated>
-      <published>2026-11-01T20:41:12Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0f3b3d81-0bef-4464-8d9a-1331e16435c7/AAABoZi6to8/AAABnSSvrFg/16x9-big/sendungsbild-1820762.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0f3b3d81-0bef-4464-8d9a-1331e16435c7/AAABoZi6to8/AAABnSSvrFg/16x9-big/sendungsbild-1820762.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676550.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1676550.html"/>
+      <updated>2026-11-02T12:43:56Z</updated>
+      <published>2026-11-02T12:43:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/61aaf814-03d1-4dd5-aace-90502f22a62e/AAABoZu5__o/AAABnSSvrFg/16x9-big/sendungsbild-1821012.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/61aaf814-03d1-4dd5-aace-90502f22a62e/AAABoZu5__o/AAABnSSvrFg/16x9-big/sendungsbild-1821012.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
