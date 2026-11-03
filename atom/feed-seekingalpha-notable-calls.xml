@@ -5,11 +5,95 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-03T11:50:23Z</updated>
+  <updated>2026-11-03T21:27:53Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SQQQ: A Tactical Buy For The Year&apos;s Most Volatile Week</title>
+      <id>4961761</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961761-sqqq-a-tactical-buy-for-the-years-most-volatile-week?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T21:27:53Z</updated>
+      <published>2026-11-03T21:27:53Z</published>
+    </entry>
+    <entry>
+      <title>With A Rebalancing In November, VLUE Could Keep Beating The S&amp;P 500</title>
+      <id>4961754</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961754-with-a-rebalancing-in-november-vlue-could-keep-beating-the-s-and-p-500?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T21:16:47Z</updated>
+      <published>2026-11-03T21:16:47Z</published>
+    </entry>
+    <entry>
+      <title>Danaher unit Cepheid wins FDA nod for Xpert Hemorrhagic Fever Panel</title>
+      <id>https://seekingalpha.com/MarketCurrent:4663932</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/DHR/news?source=feed_symbol_DHR"/>
+      <updated>2026-11-03T18:58:34Z</updated>
+      <published>2026-11-03T18:58:34Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto backs $20M effort to stop killer toad march across Australia</title>
+      <id>https://seekingalpha.com/MarketCurrent:4663898</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-11-03T18:23:18Z</updated>
+      <published>2026-11-03T18:23:18Z</published>
+    </entry>
+    <entry>
+      <title>JEPQ: The Yield Is Not Worth The Opportunity Cost</title>
+      <id>4961643</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961643-jepq-the-yield-is-not-worth-the-opportunity-cost?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T18:01:01Z</updated>
+      <published>2026-11-03T18:01:01Z</published>
+    </entry>
+    <entry>
+      <title>SCHD&apos;s Outperformance Won&apos;t Last</title>
+      <id>4961640</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961640-schds-outperformance-wont-last?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T17:54:29Z</updated>
+      <published>2026-11-03T17:54:29Z</published>
+    </entry>
+    <entry>
+      <title>VONV: Value Stocks Post Best Month Since February 2001, Valuation Concerns Rise</title>
+      <id>4961591</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961591-vonv-value-stocks-post-best-month-since-february-2001-valuation-concerns-rise?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T16:51:45Z</updated>
+      <published>2026-11-03T16:51:45Z</published>
+    </entry>
+    <entry>
+      <title>LRGF: A Strong Multifactor ETF, But Its Advantages Over IVV Are Limited</title>
+      <id>4961579</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961579-lrgf-a-strong-multifactor-etf-but-its-advantages-over-ivv-are-limited?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T16:40:27Z</updated>
+      <published>2026-11-03T16:40:27Z</published>
+    </entry>
+    <entry>
+      <title>My Simple Investing Playbook For The Rest Of 2026 And Beyond</title>
+      <id>4961025</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961025-my-simple-investing-playbook-for-rest-of-2026-and-beyond?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T13:30:00Z</updated>
+      <published>2026-11-03T13:30:00Z</published>
+    </entry>
+    <entry>
+      <title>TSMC Is Down 18%: The 2nm Ramp Should Change That</title>
+      <id>https://seekingalpha.com/Article:4961425</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961425-tsmc-is-down-18-percent-the-2nm-ramp-should-change-that?source=feed_symbol_TSM"/>
+      <updated>2026-11-03T13:16:25Z</updated>
+      <published>2026-11-03T13:16:25Z</published>
+    </entry>
+    <entry>
+      <title>VTWV: Small Value ETF With Financials Overweight And Average Results</title>
+      <id>4961136</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961136-vtwv-small-value-etf-with-financials-overweight-and-average-results?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T13:00:00Z</updated>
+      <published>2026-11-03T13:00:00Z</published>
+    </entry>
+    <entry>
+      <title>PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives</title>
+      <id>4961133</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961133-pfl-decent-income-fund-from-pimco-with-14-5-percent-yield-but-with-better-alternatives?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T13:00:00Z</updated>
+      <published>2026-11-03T13:00:00Z</published>
+    </entry>
     <entry>
       <title>Sea Limited: Still An Excellent GARP Growth Pick Outside America (Rating Upgrade)</title>
       <id>https://seekingalpha.com/Article:4961389</id>
@@ -37,6 +121,13 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4961363-etj-at-the-bottom-why-one-of-the-most-popular-option-based-cefs-is-trading-at-record-discounts?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-03T10:39:29Z</updated>
       <published>2026-11-03T10:39:29Z</published>
+    </entry>
+    <entry>
+      <title>MSBT: Cheap Bitcoin Exposure Still Depends On The ETF Plumbing</title>
+      <id>4961362</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961362-msbt-cheap-bitcoin-exposure-still-depends-on-the-etf-plumbing?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T10:39:07Z</updated>
+      <published>2026-11-03T10:39:07Z</published>
     </entry>
     <entry>
       <title>PTY: The Bull Case Has Fallen Short In 2026</title>
@@ -88,101 +179,10 @@
       <published>2026-11-03T06:48:30Z</published>
     </entry>
     <entry>
-      <title>The Next Phase Of AI: Why Selectivity Matters</title>
-      <id>4961283</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961283-next-phase-ai-why-selectivity-matters?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T05:56:00Z</updated>
-      <published>2026-11-03T05:56:00Z</published>
-    </entry>
-    <entry>
-      <title>JEPI: Why An ~8% Yield And Defensive Strategy Earn My Buy Rating</title>
-      <id>4961273</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961273-jepi-why-almost-8-percent-yield-and-defensive-strategy-earn-my-buy-rating?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T04:59:26Z</updated>
-      <published>2026-11-03T04:59:26Z</published>
-    </entry>
-    <entry>
-      <title>KIO: Upgrading To &apos;Hold&apos; As CCC Credit Stress Reaches Historic Levels</title>
-      <id>4961271</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961271-kio-upgrading-to-hold-as-ccc-credit-stress-reaches-historic-levels?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T04:49:37Z</updated>
-      <published>2026-11-03T04:49:37Z</published>
-    </entry>
-    <entry>
-      <title>IUSG: Hyperscaler Sell-Off Is Overblown - Buy The Dip</title>
-      <id>4961252</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961252-iusg-hyperscaler-sell-off-is-overblown-buy-the-dip?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T02:19:55Z</updated>
-      <published>2026-11-03T02:19:55Z</published>
-    </entry>
-    <entry>
-      <title>Model Portfolio For Income, November 2026</title>
-      <id>4961245</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961245-model-portfolio-for-income-november-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T01:22:53Z</updated>
-      <published>2026-11-03T01:22:53Z</published>
-    </entry>
-    <entry>
-      <title>October AAII Asset Allocation Survey: Bond Allocations Rise</title>
-      <id>4961149</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961149-october-aaii-asset-allocation-survey-bond-allocations-rise?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-02T23:27:58Z</updated>
-      <published>2026-11-02T23:27:58Z</published>
-    </entry>
-    <entry>
-      <title>Strategies For The End Of The QQQ Bull Market</title>
-      <id>4961109</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961109-strategies-for-the-end-of-the-qqq-bull-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-02T21:11:12Z</updated>
-      <published>2026-11-02T21:11:12Z</published>
-    </entry>
-    <entry>
       <title>Tempus AI surges on Q3 beats, raised revenue guidance</title>
       <id>https://seekingalpha.com/MarketCurrent:4662816</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
       <updated>2026-11-02T20:33:35Z</updated>
       <published>2026-11-02T20:33:35Z</published>
-    </entry>
-    <entry>
-      <title>Good Markets Can Hide Bad Decisions</title>
-      <id>4961071</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961071-good-markets-can-hide-bad-decisions?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-02T19:29:00Z</updated>
-      <published>2026-11-02T19:29:00Z</published>
-    </entry>
-    <entry>
-      <title>Nuveen Municipal High Income Opportunity Fund Rights Offering Quick Notes</title>
-      <id>4961066</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961066-nuveen-municipal-high-income-opportunity-fund-rights-offering-quick-notes?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-02T19:22:43Z</updated>
-      <published>2026-11-02T19:22:43Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI, Inc. 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4961091</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961091-tempus-ai-inc-2026-q3-results-earnings-call-presentation?source=feed_symbol_TEM"/>
-      <updated>2026-11-02T19:04:23Z</updated>
-      <published>2026-11-02T19:04:23Z</published>
-    </entry>
-    <entry>
-      <title>Chip and AI stocks give up some gains ahead of AMD earnings</title>
-      <id>https://seekingalpha.com/MarketCurrent:4662761</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-11-02T18:41:59Z</updated>
-      <published>2026-11-02T18:41:59Z</published>
-    </entry>
-    <entry>
-      <title>GGLL: Buy The Unjustified Sell-Off</title>
-      <id>4961050</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961050-ggll-buy-the-unjustified-sell-off?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-02T18:39:54Z</updated>
-      <published>2026-11-02T18:39:54Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI, Inc. (TEM) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4960990</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960990-tempus-ai-inc-tem-q3-2026-earnings-call-transcript?source=feed_symbol_TEM"/>
-      <updated>2026-11-02T18:28:25Z</updated>
-      <published>2026-11-02T18:28:25Z</published>
     </entry>
 </feed>
