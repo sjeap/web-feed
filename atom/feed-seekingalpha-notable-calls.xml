@@ -5,11 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-04T12:15:00Z</updated>
+  <updated>2026-11-04T21:13:13Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Joby Aviation GAAP EPS of -$0.22 beats by $0.03, revenue of $55.09M beats by $14.67M</title>
+      <id>https://seekingalpha.com/MarketCurrent:4665588</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
+      <updated>2026-11-04T21:13:13Z</updated>
+      <published>2026-11-04T21:13:13Z</published>
+    </entry>
+    <entry>
+      <title>HEQT: Effective And Timely Options-Hedged ETF</title>
+      <id>4962375</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4962375-heqt-effective-and-timely-options-hedged-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T18:56:01Z</updated>
+      <published>2026-11-04T18:56:01Z</published>
+    </entry>
+    <entry>
+      <title>SPMO: A Winning Combination Of Momentum, Earnings Growth, And Attractive Valuation</title>
+      <id>4962264</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4962264-spmo-a-winning-combination-of-momentum-earnings-growth-and-attractive-valuation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T16:53:37Z</updated>
+      <published>2026-11-04T16:53:37Z</published>
+    </entry>
+    <entry>
+      <title>AI infrastructure stocks drop, hyperscalers gain as Democrats win Congress</title>
+      <id>https://seekingalpha.com/MarketCurrent:4664849</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-11-04T15:43:17Z</updated>
+      <published>2026-11-04T15:43:17Z</published>
+    </entry>
+    <entry>
+      <title>SFLO: Better Than CALF And Offers A More Attractive Proposition Than VFLO</title>
+      <id>4962097</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4962097-sflo-better-than-calf-and-offers-a-more-attractive-proposition-than-vflo?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T13:12:46Z</updated>
+      <published>2026-11-04T13:12:46Z</published>
+    </entry>
     <entry>
       <title>Global X Emerging Markets Great Consumer ETF Q3 2026 Commentary</title>
       <id>4962096</id>
@@ -81,13 +116,6 @@
       <published>2026-11-03T23:33:16Z</published>
     </entry>
     <entry>
-      <title>Joby Aviation Q3 Earnings Preview</title>
-      <id>https://seekingalpha.com/MarketCurrent:4664179</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
-      <updated>2026-11-03T22:35:31Z</updated>
-      <published>2026-11-03T22:35:31Z</published>
-    </entry>
-    <entry>
       <title>SQQQ: A Tactical Buy For The Year&apos;s Most Volatile Week</title>
       <id>4961761</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4961761-sqqq-a-tactical-buy-for-the-years-most-volatile-week?source=feed_tag_etf_portfolio_strategy"/>
@@ -156,33 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4961425-tsmc-is-down-18-percent-the-2nm-ramp-should-change-that?source=feed_symbol_TSM"/>
       <updated>2026-11-03T13:16:25Z</updated>
       <published>2026-11-03T13:16:25Z</published>
-    </entry>
-    <entry>
-      <title>VTWV: Small Value ETF With Financials Overweight And Average Results</title>
-      <id>4961136</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961136-vtwv-small-value-etf-with-financials-overweight-and-average-results?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T13:00:00Z</updated>
-      <published>2026-11-03T13:00:00Z</published>
-    </entry>
-    <entry>
-      <title>PFL: Decent Income Fund From PIMCO With 14.5% Yield, But With Better Alternatives</title>
-      <id>4961133</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961133-pfl-decent-income-fund-from-pimco-with-14-5-percent-yield-but-with-better-alternatives?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T13:00:00Z</updated>
-      <published>2026-11-03T13:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Sea Limited: Still An Excellent GARP Growth Pick Outside America (Rating Upgrade)</title>
-      <id>https://seekingalpha.com/Article:4961389</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961389-sea-limited-still-an-excellent-garp-growth-pick-outside-america-rating-upgrade?source=feed_symbol_SE"/>
-      <updated>2026-11-03T11:50:23Z</updated>
-      <published>2026-11-03T11:50:23Z</published>
-    </entry>
-    <entry>
-      <title>Beyond Trading Volume: Understanding ETF Liquidity</title>
-      <id>4961385</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961385-beyond-trading-volume-understanding-etf-liquidity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T11:45:00Z</updated>
-      <published>2026-11-03T11:45:00Z</published>
     </entry>
 </feed>
