@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-03T21:27:53Z</updated>
+  <updated>2026-11-04T12:15:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Global X Emerging Markets Great Consumer ETF Q3 2026 Commentary</title>
+      <id>4962096</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4962096-global-x-emerging-markets-great-consumer-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T12:15:00Z</updated>
+      <published>2026-11-04T12:15:00Z</published>
+    </entry>
+    <entry>
+      <title>Tempus AI: An Inflection Point Has Arrived (Earnings Analysis)</title>
+      <id>https://seekingalpha.com/Article:4962047</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4962047-tempus-ai-stock-inflection-point-arrived-earnings-analysis?source=feed_symbol_TEM"/>
+      <updated>2026-11-04T10:49:19Z</updated>
+      <published>2026-11-04T10:49:19Z</published>
+    </entry>
+    <entry>
+      <title>Moat Stocks Balance An AI-Concentrated Market</title>
+      <id>4962002</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4962002-moat-stocks-balance-ai-concentrated-market?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T07:55:00Z</updated>
+      <published>2026-11-04T07:55:00Z</published>
+    </entry>
+    <entry>
+      <title>KGLD Vs. IAUI: Get Paid Dividends While Gold Recovers Into 2027</title>
+      <id>4961978</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961978-kgld-vs-iaui-get-paid-dividends-while-gold-recovers-into-2027?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T07:50:06Z</updated>
+      <published>2026-11-04T07:50:06Z</published>
+    </entry>
+    <entry>
+      <title>SRV: Little Room For Disappointment</title>
+      <id>4961961</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961961-srv-little-room-for-disappointment?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T06:36:22Z</updated>
+      <published>2026-11-04T06:36:22Z</published>
+    </entry>
+    <entry>
+      <title>U.S. Manufacturing Resurgence Boosts Opportunities For Infrastructure Development</title>
+      <id>4961971</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961971-us-manufacturing-resurgence-boosts-opportunities-for-infrastructure-development?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T06:35:00Z</updated>
+      <published>2026-11-04T06:35:00Z</published>
+    </entry>
+    <entry>
+      <title>VSS: Lagging International Small Caps Look Too Cheap</title>
+      <id>4961958</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961958-vss-lagging-international-small-caps-look-too-cheap?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T06:26:33Z</updated>
+      <published>2026-11-04T06:26:33Z</published>
+    </entry>
+    <entry>
+      <title>RPG: This Pure Growth ETF Just Got A Whole Lot Cheaper</title>
+      <id>4961911</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961911-rpg-this-pure-growth-etf-just-got-whole-lot-cheaper?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T03:42:37Z</updated>
+      <published>2026-11-04T03:42:37Z</published>
+    </entry>
+    <entry>
+      <title>SOR: Boring Is Beautiful - Why It&apos;s Time To Go Long This CEF (Rating Upgrade)</title>
+      <id>4961895</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961895-sor-boring-is-beautiful-why-its-time-to-go-long-this-cef-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-04T02:41:03Z</updated>
+      <published>2026-11-04T02:41:03Z</published>
+    </entry>
+    <entry>
+      <title>Eagle Point: The Preferreds Offer Good Risk-Reward With A 10% Yield</title>
+      <id>4961799</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4961799-ecc-the-preferreds-offer-good-risk-reward-with-a-10-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-03T23:33:16Z</updated>
+      <published>2026-11-03T23:33:16Z</published>
+    </entry>
+    <entry>
+      <title>Joby Aviation Q3 Earnings Preview</title>
+      <id>https://seekingalpha.com/MarketCurrent:4664179</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
+      <updated>2026-11-03T22:35:31Z</updated>
+      <published>2026-11-03T22:35:31Z</published>
+    </entry>
     <entry>
       <title>SQQQ: A Tactical Buy For The Year&apos;s Most Volatile Week</title>
       <id>4961761</id>
@@ -107,82 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4961385-beyond-trading-volume-understanding-etf-liquidity?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-03T11:45:00Z</updated>
       <published>2026-11-03T11:45:00Z</published>
-    </entry>
-    <entry>
-      <title>VYMI Vs. IDV: The Cheaper International Dividend ETF Wins 2027</title>
-      <id>4961381</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961381-vymi-vs-idv-the-cheaper-international-dividend-etf-wins-2027?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T11:30:19Z</updated>
-      <published>2026-11-03T11:30:19Z</published>
-    </entry>
-    <entry>
-      <title>ETJ At The Bottom: Why One Of The Most Popular Option-Based CEFs Is Trading At Record Discounts</title>
-      <id>4961363</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961363-etj-at-the-bottom-why-one-of-the-most-popular-option-based-cefs-is-trading-at-record-discounts?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T10:39:29Z</updated>
-      <published>2026-11-03T10:39:29Z</published>
-    </entry>
-    <entry>
-      <title>MSBT: Cheap Bitcoin Exposure Still Depends On The ETF Plumbing</title>
-      <id>4961362</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961362-msbt-cheap-bitcoin-exposure-still-depends-on-the-etf-plumbing?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T10:39:07Z</updated>
-      <published>2026-11-03T10:39:07Z</published>
-    </entry>
-    <entry>
-      <title>PTY: The Bull Case Has Fallen Short In 2026</title>
-      <id>4961359</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961359-pty-the-bull-case-has-fallen-short-in-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T10:35:39Z</updated>
-      <published>2026-11-03T10:35:39Z</published>
-    </entry>
-    <entry>
-      <title>AGIX: The First ETF To Own Anthropic And S-1 Filing Analysis Plus Q3 Update</title>
-      <id>4961342</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961342-agix-first-etf-own-anthropic-s-1-filing-analysis-q3-update?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T09:50:00Z</updated>
-      <published>2026-11-03T09:50:00Z</published>
-    </entry>
-    <entry>
-      <title>GDE: Active Gold Exposure Can Amplify Performance On Large-Cap Equities</title>
-      <id>4961332</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961332-gde-active-gold-exposure-can-amplify-performance-on-large-cap-equities?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T09:17:38Z</updated>
-      <published>2026-11-03T09:17:38Z</published>
-    </entry>
-    <entry>
-      <title>Healthcare Stocks Deserve A Second Opinion</title>
-      <id>4961330</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961330-healthcare-stocks-deserve-second-opinion?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T08:57:00Z</updated>
-      <published>2026-11-03T08:57:00Z</published>
-    </entry>
-    <entry>
-      <title>XDTE: Why Macro Turbulence And 0DTE Limits Signal A Sell</title>
-      <id>4961306</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961306-xdte-why-macro-turbulence-and-0dte-limits-signal-a-sell?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T07:56:55Z</updated>
-      <published>2026-11-03T07:56:55Z</published>
-    </entry>
-    <entry>
-      <title>Through The Systematic Lens: Thematic Equity: Factor Landscape (October 2026)</title>
-      <id>4961297</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961297-through-systematic-lens-thematic-equity-factor-landscape-october-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T07:20:00Z</updated>
-      <published>2026-11-03T07:20:00Z</published>
-    </entry>
-    <entry>
-      <title>TBLL: GDP Growth, Expectations, And Shelter Inflation Indicate Inflation Spillover</title>
-      <id>4961294</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961294-tbll-gdp-growth-expectations-and-shelter-inflation-indicate-inflation-spillover?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-03T06:48:30Z</updated>
-      <published>2026-11-03T06:48:30Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI surges on Q3 beats, raised revenue guidance</title>
-      <id>https://seekingalpha.com/MarketCurrent:4662816</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM"/>
-      <updated>2026-11-02T20:33:35Z</updated>
-      <published>2026-11-02T20:33:35Z</published>
     </entry>
 </feed>
