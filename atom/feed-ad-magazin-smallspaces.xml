@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-03T17:05:53Z</updated>
+  <updated>2026-11-04T16:16:16Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Smarter Raumtrick auf 53 Quadratmetern: So wurde eine kleine Altbauwohnung in Barcelona geschickt umstrukturiert</title>
+      <id>https://www.ad-magazin.de/artikel/diese-53-quadratmeter-wohnung-in-barcelona-versteckt-alles-in-einem-wuerfel</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/diese-53-quadratmeter-wohnung-in-barcelona-versteckt-alles-in-einem-wuerfel"/>
+      <updated>2026-11-04T16:16:16Z</updated>
+      <published>2026-11-04T16:16:16Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6ae842fb2fc2d59c5a6ec4b9/1:1/w_354%2Cc_limit/01_20-VILADOMAT-M-COLOMBO.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6ae842fb2fc2d59c5a6ec4b9/1:1/w_354%2Cc_limit/01_20-VILADOMAT-M-COLOMBO.jpg" alt="Smarter Raumtrick auf 53 Quadratmetern: So wurde eine kleine Altbauwohnung in Barcelona geschickt umstrukturiert"/><p>Smarter Raumtrick auf 53 Quadratmetern: So wurde eine kleine Altbauwohnung in Barcelona geschickt umstrukturiert</p>]]></content>
+    </entry>
     <entry>
       <title>Kleine Küchen, große Wirkung: Diese 5 Tiny Houses zeigen, wie clever man wenig Platz nutzen kann</title>
       <id>https://www.ad-magazin.de/artikel/kleine-kuechen-cabin-kompakt-gemuetlich-und-genial-geplant</id>
@@ -171,14 +180,5 @@
       <published>2026-09-09T09:30:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68be96a398ddddcd78c4c764/1:1/w_354%2Cc_limit/APR%2520-%2520Juliette%2520Rubel%2520-%2520_W5A6561-%2520cre%25CC%2581dit%2520photos%2520:%2520Yvan%2520Moreau%2520.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68be96a398ddddcd78c4c764/1:1/w_354%2Cc_limit/APR%2520-%2520Juliette%2520Rubel%2520-%2520_W5A6561-%2520cre%25CC%2581dit%2520photos%2520:%2520Yvan%2520Moreau%2520.jpg" alt="61 Quadratmeter in Paris: Dunkles Holz, Marmor und Quarzit machen dieses kleine Apartment chic und gemütlich"/><p>61 Quadratmeter in Paris: Dunkles Holz, Marmor und Quarzit machen dieses kleine Apartment chic und gemütlich</p>]]></content>
-    </entry>
-    <entry>
-      <title>32 Quadratmeter in Berlin: Wie aus einer kleinen Hochhaus-Wohnung ein lichtdurchfluteter Rückzugsort im Grünen wurde</title>
-      <id>https://www.ad-magazin.de/artikel/tadan-small-space-umbau-32-quadratmeter-berlin-buttergelb</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/tadan-small-space-umbau-32-quadratmeter-berlin-buttergelb"/>
-      <updated>2026-09-08T15:28:44Z</updated>
-      <published>2026-09-08T15:28:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a85c66e3427955ea3444275/1:1/w_354%2Cc_limit/%25C2%25A9Ludger%2520Paffrath%2520neu_K9A6691.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a85c66e3427955ea3444275/1:1/w_354%2Cc_limit/%25C2%25A9Ludger%2520Paffrath%2520neu_K9A6691.jpg" alt="32 Quadratmeter in Berlin: Wie aus einer kleinen Hochhaus-Wohnung ein lichtdurchfluteter Rückzugsort im Grünen wurde"/><p>32 Quadratmeter in Berlin: Wie aus einer kleinen Hochhaus-Wohnung ein lichtdurchfluteter Rückzugsort im Grünen wurde</p>]]></content>
     </entry>
 </feed>
