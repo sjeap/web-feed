@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-11-03T00:00:00Z</updated>
+  <updated>2026-11-04T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Nur Laden für Berufskleidung verschont? Bild zu Ausschreitungen in Berlin ist manipuliert</title>
+      <id>https://correctiv.org/faktencheck/2026/11/04/nur-laden-fuer-berufskleidung-verschont-bild-zu-ausschreitungen-in-berlin-ist-manipuliert/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/04/nur-laden-fuer-berufskleidung-verschont-bild-zu-ausschreitungen-in-berlin-ist-manipuliert/"/>
+      <updated>2026-11-04T00:00:00Z</updated>
+      <published>2026-11-04T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/berlin-demo-ki-gs-forum.eu_.png"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/berlin-demo-ki-gs-forum.eu_.png" alt="Ki-generiertes Bild einer teilsweise zerstörten Ladenzeile."/><p>Nur Laden für Berufskleidung verschont? Bild zu Ausschreitungen in Berlin ist manipuliert</p>]]></content>
+    </entry>
     <entry>
       <title>Nach Gen-Z-Protesten: Massenhafte Kleinanzeigen zu einzelnen Schuhen gab es nicht</title>
       <id>https://correctiv.org/faktencheck/2026/11/03/nach-gen-z-protesten-massenhafte-kleinanzeigen-zu-einzelnen-schuhen-gab-es-nicht/</id>
@@ -225,14 +234,5 @@
       <published>2026-09-30T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/korruption-ukraine-arsen-zhumadilov-scaled-e1790770371339.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/korruption-ukraine-arsen-zhumadilov-scaled-e1790770371339.jpg" alt="Arsen Zhumadilov im Dezember 2023"/><p>140 Million Dollar in Kartons: Korruptionsskandal um ukrainischen Politiker ist gefälscht</p>]]></content>
-    </entry>
-    <entry>
-      <title>Video von „genderfreier Schule“ ist KI-generiert</title>
-      <id>https://correctiv.org/faktencheck/2026/09/30/video-von-genderfreier-schule-ist-ki-generiert/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/30/video-von-genderfreier-schule-ist-ki-generiert/"/>
-      <updated>2026-09-30T00:00:00Z</updated>
-      <published>2026-09-30T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/unnamed-e1790767748476.png"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/unnamed-e1790767748476.png" alt="Bunte Kreidestücke auf dunklem Untergrund"/><p>Video von „genderfreier Schule“ ist KI-generiert</p>]]></content>
     </entry>
 </feed>
