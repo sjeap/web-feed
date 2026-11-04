@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-04T12:22:44Z</updated>
+  <updated>2026-11-04T22:01:34Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Liveblog zu den Midterms: ++ Sorgen vor Trumps Unberechenbarkeit ++</title>
+      <title>Bayerns Wirtschaftsminister Hubert Aiwanger ist tot</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"/>
+      <updated>2026-11-04T22:01:34Z</updated>
+      <published>2026-11-04T22:01:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1280" alt="Bayerns Wirtschaftsminister Hubert Aiwanger ist tot"/><p>Bayerns Wirtschaftsminister Hubert Aiwanger ist tot</p>]]></content>
+    </entry>
+    <entry>
+      <title>Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben</title>
+      <id>https://www.tagesschau.de/ausland/demokraten-optionen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/demokraten-optionen-100.html"/>
+      <updated>2026-11-04T22:01:34Z</updated>
+      <published>2026-11-04T22:01:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1280" alt="Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben"/><p>Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben</p>]]></content>
+    </entry>
+    <entry>
+      <title>Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++</title>
       <id>https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"/>
-      <updated>2026-11-04T12:22:44Z</updated>
-      <published>2026-11-04T12:22:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b177785f-4d80-4e7b-8b41-9dbce9e8d68d/AAABoaYdhRU/AAABnSSvrFg/16x9-big/trump-5414.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b177785f-4d80-4e7b-8b41-9dbce9e8d68d/AAABoaYdhRU/AAABnSSvrFg/16x9-big/trump-5414.jpg?width=1280" alt="Liveblog zu den Midterms: ++ Sorgen vor Trumps Unberechenbarkeit ++"/><p>Liveblog zu den Midterms: ++ Sorgen vor Trumps Unberechenbarkeit ++</p>]]></content>
+      <updated>2026-11-04T22:01:34Z</updated>
+      <published>2026-11-04T22:01:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1280" alt="Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++"/><p>Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++</p>]]></content>
     </entry>
     <entry>
-      <title>Midterms: Demokraten holen Mehrheiten in beiden Kammern des Kongresses</title>
-      <id>https://www.tagesschau.de/eilmeldung/usa-midterms-118.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/eilmeldung/usa-midterms-118.html"/>
-      <updated>2026-11-04T12:22:44Z</updated>
-      <published>2026-11-04T12:22:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/779e1043-888e-49d8-920a-f1a0b512324f/AAABoaUgUws/AAABnSSvrFg/16x9-big/jeffries-106.jpg?width=1280" alt="Midterms: Demokraten holen Mehrheiten in beiden Kammern des Kongresses"/><p>Midterms: Demokraten holen Mehrheiten in beiden Kammern des Kongresses</p>]]></content>
+      <title>Midterms: Eine historische Wahl mit vielen Premieren</title>
+      <id>https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"/>
+      <updated>2026-11-04T22:01:34Z</updated>
+      <published>2026-11-04T22:01:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/461df750-4955-4f69-abda-7fe57ba2e154/AAABoaXN7Go/AAABnSSvrFg/16x9-big/bottoms-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/461df750-4955-4f69-abda-7fe57ba2e154/AAABoaXN7Go/AAABnSSvrFg/16x9-big/bottoms-102.jpg?width=1280" alt="Midterms: Eine historische Wahl mit vielen Premieren"/><p>Midterms: Eine historische Wahl mit vielen Premieren</p>]]></content>
     </entry>
     <entry>
-      <title>Israels Präsident Herzog startet Konsultationen zur Regierungsbildung</title>
-      <id>https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html"/>
-      <updated>2026-11-04T12:22:44Z</updated>
-      <published>2026-11-04T12:22:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b2f2524d-772c-46f6-9f34-819ba44b950a/AAABoaXCJOY/AAABnSSvrFg/16x9-big/herzog-180.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b2f2524d-772c-46f6-9f34-819ba44b950a/AAABoaXCJOY/AAABnSSvrFg/16x9-big/herzog-180.jpg?width=1280" alt="Israels Präsident Herzog startet Konsultationen zur Regierungsbildung"/><p>Israels Präsident Herzog startet Konsultationen zur Regierungsbildung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück</title>
-      <id>https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html"/>
-      <updated>2026-11-04T12:22:44Z</updated>
-      <published>2026-11-04T12:22:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1280" alt="Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück"/><p>Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück</p>]]></content>
-    </entry>
-    <entry>
-      <title>Stromsteuer: Kommt die Entlastung für Bürgerinnen und Bürger noch?</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/stromsteuer-bundesregierung-entlastung-100.html"/>
-      <updated>2026-11-04T12:22:44Z</updated>
-      <published>2026-11-04T12:22:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/92b2986f-8fe4-4d90-ae35-176cfbca1133/AAABoPcpVZs/AAABnSSvrFg/16x9-big/klingbeil-merz-154.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/92b2986f-8fe4-4d90-ae35-176cfbca1133/AAABoPcpVZs/AAABnSSvrFg/16x9-big/klingbeil-merz-154.jpg?width=1280" alt="Stromsteuer: Kommt die Entlastung für Bürgerinnen und Bürger noch?"/><p>Stromsteuer: Kommt die Entlastung für Bürgerinnen und Bürger noch?</p>]]></content>
+      <title>Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung</title>
+      <id>https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html"/>
+      <updated>2026-11-04T22:01:34Z</updated>
+      <published>2026-11-04T22:01:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1280" alt="Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung"/><p>Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1677826.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1677826.html"/>
-      <updated>2026-11-04T12:22:44Z</updated>
-      <published>2026-11-04T12:22:44Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2100e9a7-6a88-4dd1-a1a2-4541ed215837/AAABoaWjUao/AAABnSSvrFg/16x9-big/sendungsbild-1822134.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2100e9a7-6a88-4dd1-a1a2-4541ed215837/AAABoaWjUao/AAABnSSvrFg/16x9-big/sendungsbild-1822134.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678156.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678156.html"/>
+      <updated>2026-11-04T22:01:34Z</updated>
+      <published>2026-11-04T22:01:34Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3a32e947-8a27-4d37-b77d-8d0ca6f81328/AAABoae6be0/AAABnSSvrFg/16x9-big/sendungsbild-1822426.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3a32e947-8a27-4d37-b77d-8d0ca6f81328/AAABoae6be0/AAABnSSvrFg/16x9-big/sendungsbild-1822426.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
