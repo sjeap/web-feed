@@ -5,11 +5,74 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-05T12:23:11Z</updated>
+  <updated>2026-11-05T19:25:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>China&apos;s Renewed Stock Market Support</title>
+      <id>4963351</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963351-china-renewed-stock-market-support?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-05T19:25:00Z</updated>
+      <published>2026-11-05T19:25:00Z</published>
+    </entry>
+    <entry>
+      <title>BCAT&apos;s Rights Offering Results</title>
+      <id>4963212</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963212-bcats-rights-offering-results?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-05T16:51:23Z</updated>
+      <published>2026-11-05T16:51:23Z</published>
+    </entry>
+    <entry>
+      <title>BEDY: This High-Yielding ETF Is Well Positioned Following The Midterms</title>
+      <id>4963134</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963134-bedy-this-high-yielding-etf-is-well-positioned-following-the-midterms?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-05T16:07:51Z</updated>
+      <published>2026-11-05T16:07:51Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto OKs $144M investment for Resolution Copper project in Arizona</title>
+      <id>https://seekingalpha.com/MarketCurrent:4666743</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
+      <updated>2026-11-05T15:55:35Z</updated>
+      <published>2026-11-05T15:55:35Z</published>
+    </entry>
+    <entry>
+      <title>Nexi S.p.A. reports Q3 results</title>
+      <id>https://seekingalpha.com/MarketCurrent:4666759</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/NEXPF/news?source=feed_symbol_NEXPF"/>
+      <updated>2026-11-05T15:52:09Z</updated>
+      <published>2026-11-05T15:52:09Z</published>
+    </entry>
+    <entry>
+      <title>GOF: A Discount Nobody Asked For</title>
+      <id>4963073</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963073-gof-a-discount-nobody-asked-for?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-05T15:39:16Z</updated>
+      <published>2026-11-05T15:39:16Z</published>
+    </entry>
+    <entry>
+      <title>MTUM: The 20% Plunge Is Too Much Momentum Damage (Rating Upgrade)</title>
+      <id>4963070</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963070-mtum-the-20-percent-plunge-is-too-much-momentum-damage-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-05T15:37:59Z</updated>
+      <published>2026-11-05T15:37:59Z</published>
+    </entry>
+    <entry>
+      <title>JEPQ Vs. QQQ: December Effect Makes Option Overlay Untimely (Rating Downgrade)</title>
+      <id>4963053</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963053-jepq-vs-qqq-december-effect-makes-option-overlay-untimely-rating-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-05T15:29:46Z</updated>
+      <published>2026-11-05T15:29:46Z</published>
+    </entry>
+    <entry>
+      <title>AI and chip stocks plunge in broad selloff on data center outlook</title>
+      <id>https://seekingalpha.com/MarketCurrent:4666706</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-11-05T15:20:36Z</updated>
+      <published>2026-11-05T15:20:36Z</published>
+    </entry>
     <entry>
       <title>Why The Midterm Outcome Confirms My Bullish View On FBTC</title>
       <id>4962895</id>
@@ -109,13 +172,6 @@
       <published>2026-11-04T16:53:37Z</published>
     </entry>
     <entry>
-      <title>AI infrastructure stocks drop, hyperscalers gain as Democrats win Congress</title>
-      <id>https://seekingalpha.com/MarketCurrent:4664849</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-11-04T15:43:17Z</updated>
-      <published>2026-11-04T15:43:17Z</published>
-    </entry>
-    <entry>
       <title>SFLO: Better Than CALF And Offers A More Attractive Proposition Than VFLO</title>
       <id>4962097</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4962097-sflo-better-than-calf-and-offers-a-more-attractive-proposition-than-vflo?source=feed_tag_etf_portfolio_strategy"/>
@@ -128,61 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4962096-global-x-emerging-markets-great-consumer-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-04T12:15:00Z</updated>
       <published>2026-11-04T12:15:00Z</published>
-    </entry>
-    <entry>
-      <title>Tempus AI: An Inflection Point Has Arrived (Earnings Analysis)</title>
-      <id>https://seekingalpha.com/Article:4962047</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4962047-tempus-ai-stock-inflection-point-arrived-earnings-analysis?source=feed_symbol_TEM"/>
-      <updated>2026-11-04T10:49:19Z</updated>
-      <published>2026-11-04T10:49:19Z</published>
-    </entry>
-    <entry>
-      <title>Moat Stocks Balance An AI-Concentrated Market</title>
-      <id>4962002</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4962002-moat-stocks-balance-ai-concentrated-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T07:55:00Z</updated>
-      <published>2026-11-04T07:55:00Z</published>
-    </entry>
-    <entry>
-      <title>KGLD Vs. IAUI: Get Paid Dividends While Gold Recovers Into 2027</title>
-      <id>4961978</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961978-kgld-vs-iaui-get-paid-dividends-while-gold-recovers-into-2027?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T07:50:06Z</updated>
-      <published>2026-11-04T07:50:06Z</published>
-    </entry>
-    <entry>
-      <title>SRV: Little Room For Disappointment</title>
-      <id>4961961</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961961-srv-little-room-for-disappointment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T06:36:22Z</updated>
-      <published>2026-11-04T06:36:22Z</published>
-    </entry>
-    <entry>
-      <title>U.S. Manufacturing Resurgence Boosts Opportunities For Infrastructure Development</title>
-      <id>4961971</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961971-us-manufacturing-resurgence-boosts-opportunities-for-infrastructure-development?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T06:35:00Z</updated>
-      <published>2026-11-04T06:35:00Z</published>
-    </entry>
-    <entry>
-      <title>VSS: Lagging International Small Caps Look Too Cheap</title>
-      <id>4961958</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961958-vss-lagging-international-small-caps-look-too-cheap?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T06:26:33Z</updated>
-      <published>2026-11-04T06:26:33Z</published>
-    </entry>
-    <entry>
-      <title>RPG: This Pure Growth ETF Just Got A Whole Lot Cheaper</title>
-      <id>4961911</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961911-rpg-this-pure-growth-etf-just-got-whole-lot-cheaper?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T03:42:37Z</updated>
-      <published>2026-11-04T03:42:37Z</published>
-    </entry>
-    <entry>
-      <title>SOR: Boring Is Beautiful - Why It&apos;s Time To Go Long This CEF (Rating Upgrade)</title>
-      <id>4961895</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4961895-sor-boring-is-beautiful-why-its-time-to-go-long-this-cef-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-04T02:41:03Z</updated>
-      <published>2026-11-04T02:41:03Z</published>
     </entry>
 </feed>
