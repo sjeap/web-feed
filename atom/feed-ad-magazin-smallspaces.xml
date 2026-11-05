@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-04T16:16:16Z</updated>
+  <updated>2026-11-05T16:41:12Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>35 Quadratmeter in der Natur: Dieses beheizbare Mini-Ferienhaus in Dänemark ist auch im Winter der ideale Rückzugsort</title>
+      <id>https://www.ad-magazin.de/artikel/35-quadratmeter-in-der-natur-mini-ferienhaus-daenemark</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/35-quadratmeter-in-der-natur-mini-ferienhaus-daenemark"/>
+      <updated>2026-11-05T16:41:12Z</updated>
+      <published>2026-11-05T16:41:12Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6aa9421f01679a6aceabc680/1:1/w_354%2Cc_limit/SAGA%2520Space%2520Architects%2520-%2520EcoNeo%25201.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6aa9421f01679a6aceabc680/1:1/w_354%2Cc_limit/SAGA%2520Space%2520Architects%2520-%2520EcoNeo%25201.jpg" alt="35 Quadratmeter in der Natur: Dieses beheizbare Mini-Ferienhaus in Dänemark ist auch im Winter der ideale Rückzugsort"/><p>35 Quadratmeter in der Natur: Dieses beheizbare Mini-Ferienhaus in Dänemark ist auch im Winter der ideale Rückzugsort</p>]]></content>
+    </entry>
     <entry>
       <title>Smarter Raumtrick auf 53 Quadratmetern: So wurde eine kleine Altbauwohnung in Barcelona geschickt umstrukturiert</title>
       <id>https://www.ad-magazin.de/artikel/diese-53-quadratmeter-wohnung-in-barcelona-versteckt-alles-in-einem-wuerfel</id>
@@ -171,14 +180,5 @@
       <published>2026-09-11T13:14:08Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68c7b81a2c3f132c8acc5317/1:1/w_354%2Cc_limit/AD_HughesBroha_06_final%2520copy.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68c7b81a2c3f132c8acc5317/1:1/w_354%2Cc_limit/AD_HughesBroha_06_final%2520copy.jpg" alt="Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen"/><p>Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen</p>]]></content>
-    </entry>
-    <entry>
-      <title>61 Quadratmeter in Paris: Dunkles Holz, Marmor und Quarzit machen dieses kleine Apartment chic und gemütlich</title>
-      <id>https://www.ad-magazin.de/artikel/apartment-paris-haussmann-stil-renovierung-gemuetlich</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/apartment-paris-haussmann-stil-renovierung-gemuetlich"/>
-      <updated>2026-09-09T09:30:00Z</updated>
-      <published>2026-09-09T09:30:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68be96a398ddddcd78c4c764/1:1/w_354%2Cc_limit/APR%2520-%2520Juliette%2520Rubel%2520-%2520_W5A6561-%2520cre%25CC%2581dit%2520photos%2520:%2520Yvan%2520Moreau%2520.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68be96a398ddddcd78c4c764/1:1/w_354%2Cc_limit/APR%2520-%2520Juliette%2520Rubel%2520-%2520_W5A6561-%2520cre%25CC%2581dit%2520photos%2520:%2520Yvan%2520Moreau%2520.jpg" alt="61 Quadratmeter in Paris: Dunkles Holz, Marmor und Quarzit machen dieses kleine Apartment chic und gemütlich"/><p>61 Quadratmeter in Paris: Dunkles Holz, Marmor und Quarzit machen dieses kleine Apartment chic und gemütlich</p>]]></content>
     </entry>
 </feed>
