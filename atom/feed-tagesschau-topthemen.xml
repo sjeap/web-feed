@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-04T22:01:34Z</updated>
+  <updated>2026-11-05T12:37:25Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Bayerns Wirtschaftsminister Hubert Aiwanger ist tot</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"/>
-      <updated>2026-11-04T22:01:34Z</updated>
-      <published>2026-11-04T22:01:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1280" alt="Bayerns Wirtschaftsminister Hubert Aiwanger ist tot"/><p>Bayerns Wirtschaftsminister Hubert Aiwanger ist tot</p>]]></content>
+      <title>Mehrere Bombendrohungen gegen Passagierflüge in Europa</title>
+      <id>https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"/>
+      <updated>2026-11-05T12:37:25Z</updated>
+      <published>2026-11-05T12:37:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9bc70d70-2865-4654-99e6-7ff106653283/AAABoauPIjQ/AAABnSSvrFg/16x9-big/flugzeug-362.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9bc70d70-2865-4654-99e6-7ff106653283/AAABoauPIjQ/AAABnSSvrFg/16x9-big/flugzeug-362.jpg?width=1280" alt="Mehrere Bombendrohungen gegen Passagierflüge in Europa"/><p>Mehrere Bombendrohungen gegen Passagierflüge in Europa</p>]]></content>
     </entry>
     <entry>
-      <title>Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben</title>
-      <id>https://www.tagesschau.de/ausland/demokraten-optionen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/demokraten-optionen-100.html"/>
-      <updated>2026-11-04T22:01:34Z</updated>
-      <published>2026-11-04T22:01:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/178f7497-ff7d-459a-80a4-f5f5342042d4/AAABoaZgpiU/AAABnSSvrFg/16x9-big/hakeem-jeffries-104.jpg?width=1280" alt="Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben"/><p>Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben</p>]]></content>
+      <title>Reaktionen auf Tod Aiwangers: Söder spricht von &quot;absoluter Tragödie&quot;</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html"/>
+      <updated>2026-11-05T12:37:25Z</updated>
+      <published>2026-11-05T12:37:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9526788b-a593-416f-9d83-7c024e337cc0/AAABoapntBI/AAABnSSvrFg/16x9-big/hubert-aiwanger-204.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9526788b-a593-416f-9d83-7c024e337cc0/AAABoapntBI/AAABnSSvrFg/16x9-big/hubert-aiwanger-204.jpg?width=1280" alt="Reaktionen auf Tod Aiwangers: Söder spricht von "absoluter Tragödie""/><p>Reaktionen auf Tod Aiwangers: Söder spricht von &quot;absoluter Tragödie&quot;</p>]]></content>
     </entry>
     <entry>
-      <title>Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++</title>
-      <id>https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"/>
-      <updated>2026-11-04T22:01:34Z</updated>
-      <published>2026-11-04T22:01:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1280" alt="Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++"/><p>Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++</p>]]></content>
+      <title>Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"/>
+      <updated>2026-11-05T12:37:25Z</updated>
+      <published>2026-11-05T12:37:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/aa519bf3-08ff-4af4-9fab-1b764f888093/AAABoasBuiI/AAABnSSvrFg/16x9-big/ilse-aigner-290.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/aa519bf3-08ff-4af4-9fab-1b764f888093/AAABoasBuiI/AAABnSSvrFg/16x9-big/ilse-aigner-290.jpg?width=1280" alt="Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu"/><p>Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu</p>]]></content>
     </entry>
     <entry>
-      <title>Midterms: Eine historische Wahl mit vielen Premieren</title>
-      <id>https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"/>
-      <updated>2026-11-04T22:01:34Z</updated>
-      <published>2026-11-04T22:01:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/461df750-4955-4f69-abda-7fe57ba2e154/AAABoaXN7Go/AAABnSSvrFg/16x9-big/bottoms-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/461df750-4955-4f69-abda-7fe57ba2e154/AAABoaXN7Go/AAABnSSvrFg/16x9-big/bottoms-102.jpg?width=1280" alt="Midterms: Eine historische Wahl mit vielen Premieren"/><p>Midterms: Eine historische Wahl mit vielen Premieren</p>]]></content>
+      <title>Marktbericht: DAX springt auf Rekordhoch</title>
+      <id>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"/>
+      <updated>2026-11-05T12:37:25Z</updated>
+      <published>2026-11-05T12:37:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/d9d4ee9e-7741-471b-9ff8-7482d6779b3e/AAABoasB5dg/AAABnSSvrFg/16x9-big/dax-284.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/d9d4ee9e-7741-471b-9ff8-7482d6779b3e/AAABoasB5dg/AAABnSSvrFg/16x9-big/dax-284.jpg?width=1280" alt="Marktbericht: DAX springt auf Rekordhoch"/><p>Marktbericht: DAX springt auf Rekordhoch</p>]]></content>
     </entry>
     <entry>
-      <title>Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung</title>
-      <id>https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html"/>
-      <updated>2026-11-04T22:01:34Z</updated>
-      <published>2026-11-04T22:01:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b3cb576f-40ba-47ba-a7cc-7f7564434499/AAABoab4aBc/AAABnSSvrFg/16x9-big/flagge-kapitol-100.jpg?width=1280" alt="Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung"/><p>Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung</p>]]></content>
+      <title>US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge</title>
+      <id>https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html"/>
+      <updated>2026-11-05T12:37:25Z</updated>
+      <published>2026-11-05T12:37:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/76f0f48a-255d-429a-af66-cbdadb24ae28/AAABoaovwyY/AAABnSSvrFg/16x9-big/demokraten-jeffries-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/76f0f48a-255d-429a-af66-cbdadb24ae28/AAABoaovwyY/AAABnSSvrFg/16x9-big/demokraten-jeffries-100.jpg?width=1280" alt="US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge"/><p>US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678156.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678156.html"/>
-      <updated>2026-11-04T22:01:34Z</updated>
-      <published>2026-11-04T22:01:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3a32e947-8a27-4d37-b77d-8d0ca6f81328/AAABoae6be0/AAABnSSvrFg/16x9-big/sendungsbild-1822426.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3a32e947-8a27-4d37-b77d-8d0ca6f81328/AAABoae6be0/AAABnSSvrFg/16x9-big/sendungsbild-1822426.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678506.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1678506.html"/>
+      <updated>2026-11-05T12:37:25Z</updated>
+      <published>2026-11-05T12:37:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6ea31cf4-5015-4db1-8389-80cbe40a6f96/AAABoasbC9Q/AAABnSSvrFg/16x9-big/sendungsbild-1822730.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6ea31cf4-5015-4db1-8389-80cbe40a6f96/AAABoasbC9Q/AAABnSSvrFg/16x9-big/sendungsbild-1822730.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
