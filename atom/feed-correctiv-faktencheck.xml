@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-11-04T00:00:00Z</updated>
+  <updated>2026-11-06T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>KI-generiertes Bild: Absage von Martinszug erfunden</title>
+      <id>https://correctiv.org/faktencheck/2026/11/06/ki-generiertes-bild-absage-von-martinszug-erfunden/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/06/ki-generiertes-bild-absage-von-martinszug-erfunden/"/>
+      <updated>2026-11-06T00:00:00Z</updated>
+      <published>2026-11-06T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/collage-ki-bild-martinszug-kita.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/collage-ki-bild-martinszug-kita.jpg" alt="collage-ki-bild-martinszug-kita"/><p>KI-generiertes Bild: Absage von Martinszug erfunden</p>]]></content>
+    </entry>
+    <entry>
+      <title>Bundestagsabgeordneter teilt irreführende Behauptung über Familienversicherung</title>
+      <id>https://correctiv.org/faktencheck/2026/11/06/bundestagsabgeordneter-teilt-irrefuehrende-behauptung-ueber-familienversicherung/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/06/bundestagsabgeordneter-teilt-irrefuehrende-behauptung-ueber-familienversicherung/"/>
+      <updated>2026-11-06T00:00:00Z</updated>
+      <published>2026-11-06T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/gesundheitskarte-symbolbild-picture-alliance-matthias-balk.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/gesundheitskarte-symbolbild-picture-alliance-matthias-balk.jpg" alt="gesundheitskarte-symbolbild-picture-alliance-matthias-balk"/><p>Bundestagsabgeordneter teilt irreführende Behauptung über Familienversicherung</p>]]></content>
+    </entry>
     <entry>
       <title>Nur Laden für Berufskleidung verschont? Bild zu Ausschreitungen in Berlin ist manipuliert</title>
       <id>https://correctiv.org/faktencheck/2026/11/04/nur-laden-fuer-berufskleidung-verschont-bild-zu-ausschreitungen-in-berlin-ist-manipuliert/</id>
@@ -216,23 +234,5 @@
       <published>2026-10-02T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/528507131-scaled.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/528507131-scaled.jpg" alt="Symbolbild zum Ausländerzentralregister"/><p>Was hinter der Zahl von einer Million abgelehnten Asylanträgen steckt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Tiktok-Videos erfinden Eilmeldungen zur Unterbringung von Geflüchteten</title>
-      <id>https://correctiv.org/faktencheck/2026/09/30/tiktok-videos-erfinden-eilmeldungen-zur-unterbringung-von-gefluechteten/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/30/tiktok-videos-erfinden-eilmeldungen-zur-unterbringung-von-gefluechteten/"/>
-      <updated>2026-09-30T00:00:00Z</updated>
-      <published>2026-09-30T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/tempelhofer-feld-gefluechtete-2022-lena-lachnit-dpa-picture-alliance.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/tempelhofer-feld-gefluechtete-2022-lena-lachnit-dpa-picture-alliance.jpg" alt="tempelhofer-feld-geflüchtete-2022-lena-lachnit-dpa-picture-alliance"/><p>Tiktok-Videos erfinden Eilmeldungen zur Unterbringung von Geflüchteten</p>]]></content>
-    </entry>
-    <entry>
-      <title>140 Million Dollar in Kartons: Korruptionsskandal um ukrainischen Politiker ist gefälscht</title>
-      <id>https://correctiv.org/faktencheck/2026/09/30/140-million-dollar-in-kartons-korruptionsskandal-um-ukrainischen-politiker-ist-gefaelscht/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/09/30/140-million-dollar-in-kartons-korruptionsskandal-um-ukrainischen-politiker-ist-gefaelscht/"/>
-      <updated>2026-09-30T00:00:00Z</updated>
-      <published>2026-09-30T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/09/korruption-ukraine-arsen-zhumadilov-scaled-e1790770371339.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/09/korruption-ukraine-arsen-zhumadilov-scaled-e1790770371339.jpg" alt="Arsen Zhumadilov im Dezember 2023"/><p>140 Million Dollar in Kartons: Korruptionsskandal um ukrainischen Politiker ist gefälscht</p>]]></content>
     </entry>
 </feed>
