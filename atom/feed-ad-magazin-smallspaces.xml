@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-05T16:41:12Z</updated>
+  <updated>2026-11-06T14:58:50Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Aus verwinkelt wird weit: Wie Holz, Fliesen und Spiegel 60 Quadratmeter in einem Stadthaus umstrukturierten</title>
+      <id>https://www.ad-magazin.de/artikel/wie-holz-fliesen-und-spiegel-60-quadratmeter-in-einem-stadthaus-umstrukturierten</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/wie-holz-fliesen-und-spiegel-60-quadratmeter-in-einem-stadthaus-umstrukturierten"/>
+      <updated>2026-11-06T14:58:50Z</updated>
+      <published>2026-11-06T14:58:50Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6ae84804506d5eb68c444291/1:1/w_354%2Cc_limit/ALORS_PANTIN_JBT-3.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6ae84804506d5eb68c444291/1:1/w_354%2Cc_limit/ALORS_PANTIN_JBT-3.jpg" alt="Aus verwinkelt wird weit: Wie Holz, Fliesen und Spiegel 60 Quadratmeter in einem Stadthaus umstrukturierten"/><p>Aus verwinkelt wird weit: Wie Holz, Fliesen und Spiegel 60 Quadratmeter in einem Stadthaus umstrukturierten</p>]]></content>
+    </entry>
     <entry>
       <title>35 Quadratmeter in der Natur: Dieses beheizbare Mini-Ferienhaus in Dänemark ist auch im Winter der ideale Rückzugsort</title>
       <id>https://www.ad-magazin.de/artikel/35-quadratmeter-in-der-natur-mini-ferienhaus-daenemark</id>
@@ -171,14 +180,5 @@
       <published>2026-09-14T11:18:10Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a6b5e0dbcbba2dfd7c52f38/1:1/w_354%2Cc_limit/Laura_Paris_15.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a6b5e0dbcbba2dfd7c52f38/1:1/w_354%2Cc_limit/Laura_Paris_15.jpg" alt="50 Quadratmeter wie im Ritz: Dieses Pied-à-terre in Paris erinnert an eine luxuriöse Hotelsuite"/><p>50 Quadratmeter wie im Ritz: Dieses Pied-à-terre in Paris erinnert an eine luxuriöse Hotelsuite</p>]]></content>
-    </entry>
-    <entry>
-      <title>Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen</title>
-      <id>https://www.ad-magazin.de/artikel/kleine-wohnung-gemuetlich-louisiana-renovierung</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/kleine-wohnung-gemuetlich-louisiana-renovierung"/>
-      <updated>2026-09-11T13:14:08Z</updated>
-      <published>2026-09-11T13:14:08Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68c7b81a2c3f132c8acc5317/1:1/w_354%2Cc_limit/AD_HughesBroha_06_final%2520copy.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68c7b81a2c3f132c8acc5317/1:1/w_354%2Cc_limit/AD_HughesBroha_06_final%2520copy.jpg" alt="Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen"/><p>Warm und cozy auf 42 Quadratmetern: Wie rustikale Elemente diese kleine Wohnung gemütlich machen</p>]]></content>
     </entry>
 </feed>
