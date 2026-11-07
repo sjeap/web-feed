@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-11-07T07:41:04Z</updated>
+  <updated>2026-11-07T17:51:48Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Bitcoin: Haben die Bullen versagt?</title>
+      <id>https://www.sharedeals.de/bitcoin-haben-die-bullen-versagt/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/bitcoin-haben-die-bullen-versagt/"/>
+      <updated>2026-11-07T17:51:48Z</updated>
+      <published>2026-11-07T17:51:48Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/11/Bitcoin-Bulle-gegen-Baeren-im-Sturm-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/11/Bitcoin-Bulle-gegen-Baeren-im-Sturm-540x350.jpg" alt="Bitcoin: Haben die Bullen versagt?"/><p>Bitcoin: Haben die Bullen versagt?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ethereum: Noch erscheint nichts verloren</title>
+      <id>https://www.sharedeals.de/ethereum-noch-erscheint-nichts-verloren/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/ethereum-noch-erscheint-nichts-verloren/"/>
+      <updated>2026-11-07T15:41:13Z</updated>
+      <published>2026-11-07T15:41:13Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/11/Ethereum-Markt_-Pullback-und-Erholung-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/11/Ethereum-Markt_-Pullback-und-Erholung-540x350.jpg" alt="Ethereum: Noch erscheint nichts verloren"/><p>Ethereum: Noch erscheint nichts verloren</p>]]></content>
+    </entry>
     <entry>
       <title>Tesla- und SpaceX-Aktie: Elon Musk zieht bei seinem 250.000er-Plan die Reißleine!</title>
       <id>https://www.sharedeals.de/tesla-und-spacex-aktie-elon-musk-zieht-bei-seinem-250-000er-plan-die-reissleine/</id>
@@ -173,24 +191,6 @@
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/11/Micron-540x350.jpg" alt="Micron-Aktie: Das Schlimmste überstanden oder doch nicht?"/><p>Micron-Aktie: Das Schlimmste überstanden oder doch nicht?</p>]]></content>
     </entry>
     <entry>
-      <title>Bitcoin-Kurs nach Börsencrash: Droht wegen der KI-Panik der nächste Absturz?</title>
-      <id>https://www.sharedeals.de/bitcoin-kurs-nach-boersencrash-droht-wegen-der-ki-panik-der-naechste-absturz/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/bitcoin-kurs-nach-boersencrash-droht-wegen-der-ki-panik-der-naechste-absturz/"/>
-      <updated>2026-11-06T12:03:19Z</updated>
-      <published>2026-11-06T12:03:19Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/05/gold-and-black-round-emblem-9pCV2MB65y8-540x350.jpeg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/05/gold-and-black-round-emblem-9pCV2MB65y8-540x350.jpeg" alt="gold and black round emblem"/><p>Bitcoin-Kurs nach Börsencrash: Droht wegen der KI-Panik der nächste Absturz?</p>]]></content>
-    </entry>
-    <entry>
-      <title>POET Technologies-Aktie: Direkt zum Korrekturziel nach -81% und nun?</title>
-      <id>https://www.sharedeals.de/poet-technologies-aktie-direkt-zum-korrekturziel-nach-81-und-nun/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/poet-technologies-aktie-direkt-zum-korrekturziel-nach-81-und-nun/"/>
-      <updated>2026-11-06T11:14:39Z</updated>
-      <published>2026-11-06T11:14:39Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/07/AIInference_teas-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/07/AIInference_teas-540x350.jpg" alt="Futuristic microprocessor on a glowing circuit board with floating holographic data icons in the air."/><p>POET Technologies-Aktie: Direkt zum Korrekturziel nach -81% und nun?</p>]]></content>
-    </entry>
-    <entry>
       <title>Siemens Energy-Aktie: Macht die Börse hier einen ganz großen Fehler?</title>
       <id>https://www.sharedeals.de/siemens-energy-aktie-macht-die-boerse-hier-einen-ganz-grossen-fehler/</id>
       <link rel="alternate" href="https://www.sharedeals.de/siemens-energy-aktie-macht-die-boerse-hier-einen-ganz-grossen-fehler/"/>
@@ -207,13 +207,6 @@
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/ChatGPT-Image-16.-Sept.-2026-08_23_23-540x350.jpg" alt="Cracked XRP coin on jagged rocks as a red bearish chart and stormy sea loom with a lighthouse in the distance."/><p>XRP -8,3%: Droht jetzt der Rutsch bis auf 1 US-Dollar?</p>]]></content>
     </entry>
     <entry>
-      <title>Rheinmetall-Aktie mit -60% – nächstes Ziel 558 €?</title>
-      <id>https://www.sharedeals.de/rheinmetall-aktie-mit-60-naechstes-ziel-558-e/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-mit-60-naechstes-ziel-558-e/"/>
-      <updated>2026-11-06T06:05:03Z</updated>
-      <published>2026-11-06T06:05:03Z</published>
-    </entry>
-    <entry>
       <title>Nasdaq 100: Jetzt Chance oder fallendes Messer?</title>
       <id>https://www.sharedeals.de/kompakt/nasdaq-100-jetzt-chance-oder-fallendes-messer/</id>
       <link rel="alternate" href="https://www.sharedeals.de/kompakt/nasdaq-100-jetzt-chance-oder-fallendes-messer/"/>
@@ -221,6 +214,13 @@
       <published>2026-11-05T16:44:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/10/ASML_Chip_AdobeStock_826958300-540x350.jpeg"/>
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/10/ASML_Chip_AdobeStock_826958300-540x350.jpeg" alt="High Technology Lithography Machines Manufacturing Computer Chips - 32K Quality"/><p>Nasdaq 100: Jetzt Chance oder fallendes Messer?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Sandisk-Aktie bricht ein: Was steckt hinter dem Ausverkauf?</title>
+      <id>https://www.sharedeals.de/sandisk-aktie-bricht-ein-was-steckt-hinter-dem-ausverkauf/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/sandisk-aktie-bricht-ein-was-steckt-hinter-dem-ausverkauf/"/>
+      <updated>2026-11-05T16:19:27Z</updated>
+      <published>2026-11-05T16:19:27Z</published>
     </entry>
     <entry>
       <title>Allianz-Aktie: Jetzt rücken 500 € in den Fokus</title>
