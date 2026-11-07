@@ -5,11 +5,53 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-06T19:59:11Z</updated>
+  <updated>2026-11-07T06:47:51Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>ENFR Seems Better Than The Leveraged Midstream CEFs</title>
+      <id>4964512</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964512-enfr-seems-better-than-the-leveraged-midstream-cefs?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-07T06:47:51Z</updated>
+      <published>2026-11-07T06:47:51Z</published>
+    </entry>
+    <entry>
+      <title>IFLO: Quality Investment Strategy For International Exposure</title>
+      <id>4964510</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964510-iflo-quality-investment-strategy-for-international-exposure?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-07T06:44:54Z</updated>
+      <published>2026-11-07T06:44:54Z</published>
+    </entry>
+    <entry>
+      <title>HFRO: Leverage Plus NexPoint Affiliated Holdings Presents Forced Selling Risk</title>
+      <id>4964509</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964509-hfro-leverage-plus-nexpoint-affiliated-holdings-presents-forced-selling-risk?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-07T06:43:05Z</updated>
+      <published>2026-11-07T06:43:05Z</published>
+    </entry>
+    <entry>
+      <title>BNP Paribas: French Political Unrest Is A Manageable Risk</title>
+      <id>https://seekingalpha.com/Article:4964472</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964472-bnp-paribas-french-political-unrest-is-a-manageable-risk?source=feed_symbol_BNPQF"/>
+      <updated>2026-11-07T03:17:06Z</updated>
+      <published>2026-11-07T03:17:06Z</published>
+    </entry>
+    <entry>
+      <title>SCHD And SCHG: 3 Years Later, This Two-ETF Combination Still Makes Sense</title>
+      <id>4964394</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964394-schd-and-schg-3-years-later-this-two-etf-combination-still-makes-sense?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-06T22:46:42Z</updated>
+      <published>2026-11-06T22:46:42Z</published>
+    </entry>
+    <entry>
+      <title>PICK: AI Jitters Extend To Global Miners (Rating Downgrade)</title>
+      <id>4964372</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964372-pick-ai-jitters-extend-to-global-miners-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-06T22:20:27Z</updated>
+      <published>2026-11-06T22:20:27Z</published>
+    </entry>
     <entry>
       <title>AIPI: The Blue Wave Could Lift Weekly Dividends</title>
       <id>4964284</id>
@@ -121,48 +163,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4963706-smhx-fabless-chips-below-their-moving-averages-is-a-gift?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-06T13:00:00Z</updated>
       <published>2026-11-06T13:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Global Technology Investing: AI And Beyond</title>
-      <id>4963972</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963972-global-technology-investing-ai-beyond?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T12:50:00Z</updated>
-      <published>2026-11-06T12:50:00Z</published>
-    </entry>
-    <entry>
-      <title>Quality And Diversification Across Developed Markets Outside The U.S.</title>
-      <id>4963959</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963959-quality-diversification-across-developed-markets-outside-us?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T12:10:00Z</updated>
-      <published>2026-11-06T12:10:00Z</published>
-    </entry>
-    <entry>
-      <title>IYRI: Winning The Credit Turn, Losing To Cap Rates</title>
-      <id>4963848</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963848-iyri-winning-the-credit-turn-losing-to-cap-rates?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T12:00:00Z</updated>
-      <published>2026-11-06T12:00:00Z</published>
-    </entry>
-    <entry>
-      <title>FIDI: International Dividends Are Timely, But Peers Do Better (Rating Upgrade)</title>
-      <id>4963436</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963436-fidi-international-dividends-are-timely-but-peers-do-better-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T11:30:00Z</updated>
-      <published>2026-11-06T11:30:00Z</published>
-    </entry>
-    <entry>
-      <title>3 Alternative Strategies To Consider When Volatility Resurfaces</title>
-      <id>4963929</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963929-3-alternative-strategies-to-consider-when-volatility-resurfaces?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T11:15:00Z</updated>
-      <published>2026-11-06T11:15:00Z</published>
-    </entry>
-    <entry>
-      <title>Joby: Production Ramp Amid eVTOL Tailwinds Signals Growth</title>
-      <id>https://seekingalpha.com/Article:4963884</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963884-joby-production-ramp-amid-evtol-tailwinds-signals-growth?source=feed_symbol_JOBY"/>
-      <updated>2026-11-06T10:50:55Z</updated>
-      <published>2026-11-06T10:50:55Z</published>
     </entry>
     <entry>
       <title>Thermo Fisher Scientific announces $5B share repurchase authorization</title>
