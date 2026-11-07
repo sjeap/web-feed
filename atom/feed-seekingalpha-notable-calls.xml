@@ -5,11 +5,32 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-07T06:47:51Z</updated>
+  <updated>2026-11-07T16:03:25Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Insider trades: Netflix, Intel, Visa among notable names</title>
+      <id>https://seekingalpha.com/MarketCurrent:4668716</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
+      <updated>2026-11-07T16:03:25Z</updated>
+      <published>2026-11-07T16:03:25Z</published>
+    </entry>
+    <entry>
+      <title>Introducing The S&amp;P 500 And HKEX Tech 100 Index: A Complementary Tech-Focused Blend</title>
+      <id>4964606</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964606-introducing-sp-500-hkex-tech-100-index-complementary-tech-focused-blend?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-07T14:10:00Z</updated>
+      <published>2026-11-07T14:10:00Z</published>
+    </entry>
+    <entry>
+      <title>Introducing The S&amp;P Kaiko Digital Asset Indices</title>
+      <id>4964603</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964603-introducing-sp-kaiko-digital-asset-indices?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-07T13:50:00Z</updated>
+      <published>2026-11-07T13:50:00Z</published>
+    </entry>
     <entry>
       <title>ENFR Seems Better Than The Leveraged Midstream CEFs</title>
       <id>4964512</id>
@@ -144,25 +165,11 @@
       <published>2026-11-06T15:45:00Z</published>
     </entry>
     <entry>
-      <title>Nebius Vs. CoreWeave: Only 1 Dip Wins</title>
-      <id>4964030</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4964030-nebius-vs-coreweave-only-1-dip-wins?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T15:19:55Z</updated>
-      <published>2026-11-06T15:19:55Z</published>
-    </entry>
-    <entry>
-      <title>Taiwan sets new short-selling limits to aid beaten stock market</title>
-      <id>https://seekingalpha.com/MarketCurrent:4668145</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-11-06T14:07:33Z</updated>
-      <published>2026-11-06T14:07:33Z</published>
-    </entry>
-    <entry>
-      <title>SMHX: Fabless Chips Below Their Moving Averages Is A Gift</title>
-      <id>4963706</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963706-smhx-fabless-chips-below-their-moving-averages-is-a-gift?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T13:00:00Z</updated>
-      <published>2026-11-06T13:00:00Z</published>
+      <title>Joby: Production Ramp Amid eVTOL Tailwinds Signals Growth</title>
+      <id>https://seekingalpha.com/Article:4963884</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4963884-joby-production-ramp-amid-evtol-tailwinds-signals-growth?source=feed_symbol_JOBY"/>
+      <updated>2026-11-06T10:50:55Z</updated>
+      <published>2026-11-06T10:50:55Z</published>
     </entry>
     <entry>
       <title>Thermo Fisher Scientific announces $5B share repurchase authorization</title>
@@ -177,12 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO"/>
       <updated>2026-11-05T15:55:35Z</updated>
       <published>2026-11-05T15:55:35Z</published>
-    </entry>
-    <entry>
-      <title>Nexi S.p.A. reports Q3 results</title>
-      <id>https://seekingalpha.com/MarketCurrent:4666759</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/NEXPF/news?source=feed_symbol_NEXPF"/>
-      <updated>2026-11-05T15:52:09Z</updated>
-      <published>2026-11-05T15:52:09Z</published>
     </entry>
 </feed>
