@@ -5,11 +5,32 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-08T02:48:27Z</updated>
+  <updated>2026-11-08T19:18:51Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>JTEK: A 22% Drawdown Doesn&apos;t Make This Tech Leaders ETF A Bargain</title>
+      <id>4964851</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964851-jtek-a-22-percent-drawdown-doesnt-make-this-tech-leaders-etf-a-bargain?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-08T19:18:51Z</updated>
+      <published>2026-11-08T19:18:51Z</published>
+    </entry>
+    <entry>
+      <title>TAN: A Blue Sweep Doesn&apos;t Mean Big Green For Solar Yet</title>
+      <id>4964845</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964845-tan-a-blue-sweep-doesnt-mean-big-green-for-solar-yet?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-08T18:19:16Z</updated>
+      <published>2026-11-08T18:19:16Z</published>
+    </entry>
+    <entry>
+      <title>After The Midterms, I&apos;m Looking At JPIE For The Bond Allocation</title>
+      <id>4964844</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4964844-after-the-midterms-im-looking-at-jpie-for-the-bond-allocation?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-08T18:17:20Z</updated>
+      <published>2026-11-08T18:17:20Z</published>
+    </entry>
     <entry>
       <title>Tempus AI: Q3 Strengthens The Platform Thesis, But Cash Returns Still Need To Catch Up</title>
       <id>https://seekingalpha.com/Article:4964797</id>
@@ -149,27 +170,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4964139-solving-for-2027?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-06T17:01:00Z</updated>
       <published>2026-11-06T17:01:00Z</published>
-    </entry>
-    <entry>
-      <title>DRAM: Post-Election Crash Is An Opportunity</title>
-      <id>4964110</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4964110-dram-post-election-crash-is-an-opportnuity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T16:42:22Z</updated>
-      <published>2026-11-06T16:42:22Z</published>
-    </entry>
-    <entry>
-      <title>Energy Stocks Still A Portfolio Hedge</title>
-      <id>4964092</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4964092-energy-stocks-still-portfolio-hedge?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T16:17:00Z</updated>
-      <published>2026-11-06T16:17:00Z</published>
-    </entry>
-    <entry>
-      <title>Vanguard&apos;s VXUS Vs. VEU: Buy The One Without Small Caps</title>
-      <id>4964073</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4964073-vanguards-vxus-vs-veu-buy-one-without-small-caps?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-06T15:55:17Z</updated>
-      <published>2026-11-06T15:55:17Z</published>
     </entry>
     <entry>
       <title>Joby: Production Ramp Amid eVTOL Tailwinds Signals Growth</title>
