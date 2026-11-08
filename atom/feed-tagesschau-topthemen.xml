@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-08T11:25:35Z</updated>
+  <updated>2026-11-08T20:40:07Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach</title>
-      <id>https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"/>
-      <updated>2026-11-08T11:25:35Z</updated>
-      <published>2026-11-08T11:25:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1280" alt="Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach"/><p>Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach</p>]]></content>
+      <title>Chef der Jungen Union: &quot;Junge Generation wird von der Politik vernachlässigt&quot;</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html"/>
+      <updated>2026-11-08T20:40:07Z</updated>
+      <published>2026-11-08T20:40:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ffffe647-adfd-47e5-88b2-29a10420bb82/AAABobyRoyc/AAABnSSvrFg/16x9-big/sendungsbild-1824456.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ffffe647-adfd-47e5-88b2-29a10420bb82/AAABobyRoyc/AAABnSSvrFg/16x9-big/sendungsbild-1824456.jpg?width=1280" alt="Chef der Jungen Union: "Junge Generation wird von der Politik vernachlässigt""/><p>Chef der Jungen Union: &quot;Junge Generation wird von der Politik vernachlässigt&quot;</p>]]></content>
+    </entry>
+    <entry>
+      <title>Israel: Oppositionsführer Eisenkot soll neue Regierung bilden</title>
+      <id>https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html"/>
+      <updated>2026-11-08T20:40:07Z</updated>
+      <published>2026-11-08T20:40:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1280" alt="Israel: Oppositionsführer Eisenkot soll neue Regierung bilden"/><p>Israel: Oppositionsführer Eisenkot soll neue Regierung bilden</p>]]></content>
+    </entry>
+    <entry>
+      <title>Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik</title>
+      <id>https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"/>
+      <updated>2026-11-08T20:40:07Z</updated>
+      <published>2026-11-08T20:40:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1280" alt="Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik"/><p>Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich &quot;gut vertreten&quot;</title>
+      <id>https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html"/>
+      <updated>2026-11-08T20:40:07Z</updated>
+      <published>2026-11-08T20:40:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1280" alt="Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich "gut vertreten""/><p>Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich &quot;gut vertreten&quot;</p>]]></content>
     </entry>
     <entry>
       <title>Trump will Kampfsportunternehmer White als Pressesprecher</title>
       <id>https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html"/>
-      <updated>2026-11-08T11:25:35Z</updated>
-      <published>2026-11-08T11:25:35Z</published>
+      <updated>2026-11-08T20:40:07Z</updated>
+      <published>2026-11-08T20:40:07Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1280" alt="Trump will Kampfsportunternehmer White als Pressesprecher"/><p>Trump will Kampfsportunternehmer White als Pressesprecher</p>]]></content>
     </entry>
     <entry>
-      <title>Mehr als 20 Verletzte nach Erdbeben in Zentraljapan</title>
-      <id>https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html"/>
-      <updated>2026-11-08T11:25:35Z</updated>
-      <published>2026-11-08T11:25:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1280" alt="Mehr als 20 Verletzte nach Erdbeben in Zentraljapan"/><p>Mehr als 20 Verletzte nach Erdbeben in Zentraljapan</p>]]></content>
-    </entry>
-    <entry>
-      <title>Papst Leo XIV. setzt Südamerika-Reise fort</title>
-      <id>https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html"/>
-      <updated>2026-11-08T11:25:35Z</updated>
-      <published>2026-11-08T11:25:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1280" alt="Papst Leo XIV. setzt Südamerika-Reise fort"/><p>Papst Leo XIV. setzt Südamerika-Reise fort</p>]]></content>
-    </entry>
-    <entry>
-      <title>Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt</title>
-      <id>https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html"/>
-      <updated>2026-11-08T11:25:35Z</updated>
-      <published>2026-11-08T11:25:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c030e7f1-afd2-4583-91e2-9d3a57c6bc4b/AAABobh2JRE/AAABnSSvrFg/16x9-big/melenchon-130.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c030e7f1-afd2-4583-91e2-9d3a57c6bc4b/AAABobh2JRE/AAABnSSvrFg/16x9-big/melenchon-130.jpg?width=1280" alt="Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt"/><p>Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt</p>]]></content>
-    </entry>
-    <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680142.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680142.html"/>
-      <updated>2026-11-08T11:25:35Z</updated>
-      <published>2026-11-08T11:25:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ccac94d5-e833-440c-b260-af326b6695e1/AAABobpKbCk/AAABnSSvrFg/16x9-big/sendungsbild-1824288.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ccac94d5-e833-440c-b260-af326b6695e1/AAABobpKbCk/AAABnSSvrFg/16x9-big/sendungsbild-1824288.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680488.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680488.html"/>
+      <updated>2026-11-08T20:40:07Z</updated>
+      <published>2026-11-08T20:40:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/69f6ecda-6be8-44f1-90cf-9cb6b39b6a62/AAABobzFNng/AAABnSSvrFg/16x9-big/sendungsbild-1824570.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/69f6ecda-6be8-44f1-90cf-9cb6b39b6a62/AAABobzFNng/AAABnSSvrFg/16x9-big/sendungsbild-1824570.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
