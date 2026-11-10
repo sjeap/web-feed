@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml</id>
   <link rel="alternate" href="https://de.marketscreener.com/boersenanalyse/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml"/>
-  <updated>2026-11-09T18:32:00Z</updated>
+  <updated>2026-11-10T18:29:00Z</updated>
   <author>
     <name>MarketScreener – Börsenanalyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Der Nasdaq gerät unter die Räder der blauen Welle</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/der-nasdaq-geraet-unter-die-raeder-der-blauen-welle-ce785edade81f025</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/der-nasdaq-geraet-unter-die-raeder-der-blauen-welle-ce785edade81f025"/>
+      <updated>2026-11-10T18:29:00Z</updated>
+      <published>2026-11-10T18:29:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/suivi_premium_de.png"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/suivi_premium_de.png" alt="Der Nasdaq gerät unter die Räder der blauen Welle"/><p>Der Nasdaq gerät unter die Räder der blauen Welle</p>]]></content>
+    </entry>
     <entry>
       <title>ASICS: Der wiedererstarkte Champion hat noch einen langen Atem</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/asics-der-wiedererstarkte-champion-hat-noch-einen-langen-atem-ce785fd3de89ff2c</id>
@@ -83,24 +92,6 @@
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4546909_800.png" alt="Elis:  Mit jeder Liefertour wächst der Gewinn"/><p>Elis: Mit jeder Liefertour wächst der Gewinn</p>]]></content>
     </entry>
     <entry>
-      <title>Enerflex verbindet Gas mit wachsendem Strombedarf</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/enerflex-verbindet-gas-mit-wachsendem-strombedarf-ce785fd3db8ff521</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/enerflex-verbindet-gas-mit-wachsendem-strombedarf-ce785fd3db8ff521"/>
-      <updated>2026-11-09T10:19:00Z</updated>
-      <published>2026-11-09T10:19:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://de.marketscreener.com/static/resize/464/348/https://de.marketscreener.com/static/web-assets/images/editorial/fallback/twitter_ms_fdblanc.png"/>
-      <content type="html"><![CDATA[<img src="https://de.marketscreener.com/static/resize/464/348/https://de.marketscreener.com/static/web-assets/images/editorial/fallback/twitter_ms_fdblanc.png" alt="Enerflex verbindet Gas mit wachsendem Strombedarf"/><p>Enerflex verbindet Gas mit wachsendem Strombedarf</p>]]></content>
-    </entry>
-    <entry>
-      <title>Sinopharm Group: Vitalzeichen unter Beobachtung</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/sinopharm-group-vitalzeichen-unter-beobachtung-ce785fd3db8cfe22</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/sinopharm-group-vitalzeichen-unter-beobachtung-ce785fd3db8cfe22"/>
-      <updated>2026-11-09T10:14:00Z</updated>
-      <published>2026-11-09T10:14:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://de.marketscreener.com/static/resize/464/348/https://de.marketscreener.com/static/web-assets/images/editorial/fallback/twitter_ms_fdgris.png"/>
-      <content type="html"><![CDATA[<img src="https://de.marketscreener.com/static/resize/464/348/https://de.marketscreener.com/static/web-assets/images/editorial/fallback/twitter_ms_fdgris.png" alt="Sinopharm Group:  Vitalzeichen unter Beobachtung"/><p>Sinopharm Group: Vitalzeichen unter Beobachtung</p>]]></content>
-    </entry>
-    <entry>
       <title>Morning Meeting: Vier Wochen Kursverluste an der Wall Street - und jetzt?</title>
       <id>https://de.marketscreener.com/boerse-nachrichten/vier-wochen-kursverluste-an-der-wall-street-und-jetzt-ce785fd3d880f624</id>
       <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/vier-wochen-kursverluste-an-der-wall-street-und-jetzt-ce785fd3d880f624"/>
@@ -126,15 +117,6 @@
       <published>2026-11-06T18:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-10-14T122048Z_1_LYNXMPEM9D18N_RTROPTP_4_LUFTHANSA-CEO.JPG"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-10-14T122048Z_1_LYNXMPEM9D18N_RTROPTP_4_LUFTHANSA-CEO.JPG" alt="Deutsche Aktien:  Tops und Flops der Woche"/><p>Deutsche Aktien: Tops und Flops der Woche</p>]]></content>
-    </entry>
-    <entry>
-      <title>Schweizer Aktien: Tops und Flops der Woche</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/schweizer-aktien-im-auf-und-ab-ce785fd2da80f527</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/schweizer-aktien-im-auf-und-ab-ce785fd2da80f527"/>
-      <updated>2026-11-06T17:57:00Z</updated>
-      <published>2026-11-06T17:57:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2026-06-18T055947Z_1_LYNXMPEM5H0DA_RTROPTP_4_SWISS-POLITICS.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2026-06-18T055947Z_1_LYNXMPEM5H0DA_RTROPTP_4_SWISS-POLITICS.JPG" alt="Schweizer Aktien:  Tops und Flops der Woche"/><p>Schweizer Aktien: Tops und Flops der Woche</p>]]></content>
     </entry>
     <entry>
       <title>Wird eine &quot;Lame Duck&quot; noch gefährlicher?</title>
@@ -234,5 +216,23 @@
       <published>2026-11-04T08:55:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2026-10-28T163616Z_1_LYNXNPEM9R1Y5_RTROPTP_4_USA-ELECTION-TEXAS.JPG"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2026-10-28T163616Z_1_LYNXNPEM9R1Y5_RTROPTP_4_USA-ELECTION-TEXAS.JPG" alt="Midterms:  Die Amerikaner beschneiden Donald Trumps Macht"/><p>Midterms: Die Amerikaner beschneiden Donald Trumps Macht</p>]]></content>
+    </entry>
+    <entry>
+      <title>Zwischenwahlen: Eine lange Nacht zeichnet sich für Trump und die Märkte ab</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/zwischenwahlen-eine-lange-nacht-zeichnet-sich-fuer-trump-und-die-maerkte-ab-ce785fdeda8bf02d</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/zwischenwahlen-eine-lange-nacht-zeichnet-sich-fuer-trump-und-die-maerkte-ab-ce785fdeda8bf02d"/>
+      <updated>2026-11-03T17:49:00Z</updated>
+      <published>2026-11-03T17:49:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4556841_800.png"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4556841_800.png" alt="Zwischenwahlen:  Eine lange Nacht zeichnet sich für Trump und die Märkte ab"/><p>Zwischenwahlen: Eine lange Nacht zeichnet sich für Trump und die Märkte ab</p>]]></content>
+    </entry>
+    <entry>
+      <title>Trumps Wirtschaft boomt. Doch das reicht nicht.</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/trumps-wirtschaft-boomt-doch-das-reicht-nicht-ce785fdeda8bf320</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/trumps-wirtschaft-boomt-doch-das-reicht-nicht-ce785fdeda8bf320"/>
+      <updated>2026-11-03T17:46:00Z</updated>
+      <published>2026-11-03T17:46:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://cdn.zonebourse.com/images/reuters/2026-10-24T060115Z_1_LYNXMPEM9N03F_RTROPTP_4_USA-TRUMP.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://cdn.zonebourse.com/images/reuters/2026-10-24T060115Z_1_LYNXMPEM9N03F_RTROPTP_4_USA-TRUMP.JPG" alt="Trumps Wirtschaft boomt. Doch das reicht nicht."/><p>Trumps Wirtschaft boomt. Doch das reicht nicht.</p>]]></content>
     </entry>
 </feed>
