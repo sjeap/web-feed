@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-11-06T00:00:00Z</updated>
+  <updated>2026-11-10T21:52:11Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Behauptungen zu 14-Jährigem in ukrainischem „Foltergefängnis“ fehlt Grundlage</title>
+      <id>https://correctiv.org/faktencheck/hintergrund/2026/11/10/behauptungen-zu-14-jaehrigem-in-ukrainischem-foltergefaengnis-fehlt-grundlage/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/11/10/behauptungen-zu-14-jaehrigem-in-ukrainischem-foltergefaengnis-fehlt-grundlage/"/>
+      <updated>2026-11-10T21:52:11Z</updated>
+      <published>2026-11-10T21:52:11Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/tinywow_533158079_92514112-scaled-e1794318027314.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/tinywow_533158079_92514112-scaled-e1794318027314.jpg" alt="Behauptungen zu 14-Jährigem in ukrainischem „Foltergefängnis“ fehlt Grundlage"/><p>Behauptungen zu 14-Jährigem in ukrainischem „Foltergefängnis“ fehlt Grundlage</p>]]></content>
+    </entry>
+    <entry>
+      <title>„Bist du dumm?“: Das fragte Trump eine Journalistin, nicht den Bundeskanzler</title>
+      <id>https://correctiv.org/faktencheck/2026/11/10/bist-du-dumm-das-fragte-trump-eine-journalistin-nicht-merz/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/10/bist-du-dumm-das-fragte-trump-eine-journalistin-nicht-merz/"/>
+      <updated>2026-11-10T00:00:00Z</updated>
+      <published>2026-11-10T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/treffen-trump-merz-den-haag-2025-jakub-przycki-pa.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/treffen-trump-merz-den-haag-2025-jakub-przycki-pa.jpg" alt="treffen-trump-merz-den-haag-2025-jakub-przycki-pa"/><p>„Bist du dumm?“: Das fragte Trump eine Journalistin, nicht den Bundeskanzler</p>]]></content>
+    </entry>
     <entry>
       <title>KI-generiertes Bild: Absage von Martinszug erfunden</title>
       <id>https://correctiv.org/faktencheck/2026/11/06/ki-generiertes-bild-absage-von-martinszug-erfunden/</id>
@@ -216,23 +234,5 @@
       <published>2026-10-12T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/tinywow_622405435_92143273-scaled-e1791803341687.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/tinywow_622405435_92143273-scaled-e1791803341687.jpg" alt="Protestanten mit französischsprachigen Schildern"/><p>Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet</p>]]></content>
-    </entry>
-    <entry>
-      <title>Digitaler Euro: Welche Rolle die Europäische Zentralbank bei Obergrenzen spielen soll</title>
-      <id>https://correctiv.org/faktencheck/2026/10/07/digitaler-euro-welche-rolle-die-europaeische-zentralbank-bei-obergrenzen-spielen-soll/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/07/digitaler-euro-welche-rolle-die-europaeische-zentralbank-bei-obergrenzen-spielen-soll/"/>
-      <updated>2026-10-07T00:00:00Z</updated>
-      <published>2026-10-07T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/617176753-scaled-e1791382276785.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/617176753-scaled-e1791382276785.jpg" alt="Über die Einführung des digitalen Euro wird seit Jahren in der EU verhandelt"/><p>Digitaler Euro: Welche Rolle die Europäische Zentralbank bei Obergrenzen spielen soll</p>]]></content>
-    </entry>
-    <entry>
-      <title>Was hinter der Zahl von einer Million abgelehnten Asylanträgen steckt</title>
-      <id>https://correctiv.org/faktencheck/2026/10/02/eine-million-abgelehnte-asylantraege-was-die-zahl-aussagt/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/02/eine-million-abgelehnte-asylantraege-was-die-zahl-aussagt/"/>
-      <updated>2026-10-02T00:00:00Z</updated>
-      <published>2026-10-02T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/528507131-scaled.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/528507131-scaled.jpg" alt="Symbolbild zum Ausländerzentralregister"/><p>Was hinter der Zahl von einer Million abgelehnten Asylanträgen steckt</p>]]></content>
     </entry>
 </feed>
