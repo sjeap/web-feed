@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-09T13:11:27Z</updated>
+  <updated>2026-11-10T00:20:41Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Merz verteidigt Ablauf der Nominierung von Aigner</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"/>
+      <updated>2026-11-10T00:20:41Z</updated>
+      <published>2026-11-10T00:20:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocIW318/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocIW318/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1280" alt="Merz verteidigt Ablauf der Nominierung von Aigner"/><p>Merz verteidigt Ablauf der Nominierung von Aigner</p>]]></content>
+    </entry>
+    <entry>
+      <title>Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich</title>
+      <id>https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"/>
+      <updated>2026-11-10T00:20:41Z</updated>
+      <published>2026-11-10T00:20:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1280" alt="Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich"/><p>Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich</p>]]></content>
+    </entry>
+    <entry>
+      <title>Republikaner Massie will Hegseth des Amtes entheben</title>
+      <id>https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html"/>
+      <updated>2026-11-10T00:20:41Z</updated>
+      <published>2026-11-10T00:20:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1280" alt="Republikaner Massie will Hegseth des Amtes entheben"/><p>Republikaner Massie will Hegseth des Amtes entheben</p>]]></content>
+    </entry>
+    <entry>
+      <title>Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt</title>
+      <id>https://www.tagesschau.de/ausland/cop-136.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/cop-136.html"/>
+      <updated>2026-11-10T00:20:41Z</updated>
+      <published>2026-11-10T00:20:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/60a161d0-b947-45ca-8e99-e2a172de2be3/AAABocF_Rvw/AAABnSSvrFg/16x9-big/cop-138.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/60a161d0-b947-45ca-8e99-e2a172de2be3/AAABocF_Rvw/AAABnSSvrFg/16x9-big/cop-138.jpg?width=1280" alt="Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt"/><p>Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt</p>]]></content>
+    </entry>
+    <entry>
       <title>Aigner soll Bundespräsidentin werden: &quot;Meine Sprache wird klar sein und verständlich&quot;</title>
       <id>https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html"/>
-      <updated>2026-11-09T13:11:27Z</updated>
-      <published>2026-11-09T13:11:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9e71051e-fc78-4132-ba8a-e26f8578cf33/AAABocBkjxw/AAABnSSvrFg/16x9-big/merz-aigner-106.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9e71051e-fc78-4132-ba8a-e26f8578cf33/AAABocBkjxw/AAABnSSvrFg/16x9-big/merz-aigner-106.jpg?width=1280" alt="Aigner soll Bundespräsidentin werden: "Meine Sprache wird klar sein und verständlich""/><p>Aigner soll Bundespräsidentin werden: &quot;Meine Sprache wird klar sein und verständlich&quot;</p>]]></content>
-    </entry>
-    <entry>
-      <title>Todesschütze von Krakau ist tot</title>
-      <id>https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html"/>
-      <updated>2026-11-09T13:11:27Z</updated>
-      <published>2026-11-09T13:11:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1280" alt="Todesschütze von Krakau ist tot"/><p>Todesschütze von Krakau ist tot</p>]]></content>
-    </entry>
-    <entry>
-      <title>Schneider fordert Alternative zur Plastiksteuer</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html"/>
-      <updated>2026-11-09T13:11:27Z</updated>
-      <published>2026-11-09T13:11:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/aefcdb76-f04a-4cd8-8ecc-a0e2ec954b03/AAABoQx7WsM/AAABnSSvrFg/16x9-big/gemuese-plastik-101.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/aefcdb76-f04a-4cd8-8ecc-a0e2ec954b03/AAABoQx7WsM/AAABnSSvrFg/16x9-big/gemuese-plastik-101.jpg?width=1280" alt="Schneider fordert Alternative zur Plastiksteuer"/><p>Schneider fordert Alternative zur Plastiksteuer</p>]]></content>
-    </entry>
-    <entry>
-      <title>Trump bezeichnet Sprecher-Angebot an Dana White als &quot;Scherz&quot;</title>
-      <id>https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html"/>
-      <updated>2026-11-09T13:11:27Z</updated>
-      <published>2026-11-09T13:11:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/1f508e69-acc6-4d7b-a273-fb2285126233/AAABob-mde8/AAABnSSvrFg/16x9-big/white-trump-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/1f508e69-acc6-4d7b-a273-fb2285126233/AAABob-mde8/AAABnSSvrFg/16x9-big/white-trump-100.jpg?width=1280" alt="Trump bezeichnet Sprecher-Angebot an Dana White als "Scherz""/><p>Trump bezeichnet Sprecher-Angebot an Dana White als &quot;Scherz&quot;</p>]]></content>
-    </entry>
-    <entry>
-      <title>Klimagipfel in Antalya: Eine Premiere und viel Konfliktpotenzial</title>
-      <id>https://www.tagesschau.de/ausland/asien/klimagipfel-204.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/klimagipfel-204.html"/>
-      <updated>2026-11-09T13:11:27Z</updated>
-      <published>2026-11-09T13:11:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f3045b59-a814-4d79-9dac-1b4d32733037/AAABob7m-hQ/AAABnSSvrFg/16x9-big/cop31-klimakonferenz-antalya-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f3045b59-a814-4d79-9dac-1b4d32733037/AAABob7m-hQ/AAABnSSvrFg/16x9-big/cop31-klimakonferenz-antalya-102.jpg?width=1280" alt="Klimagipfel in Antalya: Eine Premiere und viel Konfliktpotenzial"/><p>Klimagipfel in Antalya: Eine Premiere und viel Konfliktpotenzial</p>]]></content>
+      <updated>2026-11-10T00:20:41Z</updated>
+      <published>2026-11-10T00:20:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5d5d22be-0a9e-4795-ba7f-4b4750b82e1d/AAABocCHU3k/AAABnSSvrFg/16x9-big/merz-aigner-114.jpg?width=1280" alt="Aigner soll Bundespräsidentin werden: "Meine Sprache wird klar sein und verständlich""/><p>Aigner soll Bundespräsidentin werden: &quot;Meine Sprache wird klar sein und verständlich&quot;</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680646.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1680646.html"/>
-      <updated>2026-11-09T13:11:27Z</updated>
-      <published>2026-11-09T13:11:27Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/16e6d72a-3ed3-4ef7-bde4-3e7df50ec02b/AAABob-3YOQ/AAABnSSvrFg/16x9-big/sendungsbild-1824794.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/16e6d72a-3ed3-4ef7-bde4-3e7df50ec02b/AAABob-3YOQ/AAABnSSvrFg/16x9-big/sendungsbild-1824794.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681084.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681084.html"/>
+      <updated>2026-11-10T00:20:41Z</updated>
+      <published>2026-11-10T00:20:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9dca4a02-227c-415d-b331-17d02627bf5c/AAABocICdV8/AAABnSSvrFg/16x9-big/sendungsbild-1825126.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9dca4a02-227c-415d-b331-17d02627bf5c/AAABocICdV8/AAABnSSvrFg/16x9-big/sendungsbild-1825126.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
