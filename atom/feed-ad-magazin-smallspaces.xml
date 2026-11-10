@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-06T14:58:50Z</updated>
+  <updated>2026-11-10T10:02:45Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Von einer alten Bäckerei zur 40-Quadratmeter-Wohnung: Dieses geheime Mini-Zuhause verbirgt sich hinter einem Bücherregal</title>
+      <id>https://www.ad-magazin.de/artikel/alte-baeckerei-wird-40-quadratmeter-wohnung-hinter-einem-buecherregal</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/alte-baeckerei-wird-40-quadratmeter-wohnung-hinter-einem-buecherregal"/>
+      <updated>2026-11-10T10:02:45Z</updated>
+      <published>2026-11-10T10:02:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a75db17d30bd96738d3dc0f/1:1/w_354%2Cc_limit/_Q7I5428.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a75db17d30bd96738d3dc0f/1:1/w_354%2Cc_limit/_Q7I5428.jpg" alt="Von einer alten Bäckerei zur 40-Quadratmeter-Wohnung: Dieses geheime Mini-Zuhause verbirgt sich hinter einem Bücherregal"/><p>Von einer alten Bäckerei zur 40-Quadratmeter-Wohnung: Dieses geheime Mini-Zuhause verbirgt sich hinter einem Bücherregal</p>]]></content>
+    </entry>
     <entry>
       <title>Aus verwinkelt wird weit: Wie Holz, Fliesen und Spiegel 60 Quadratmeter in einem Stadthaus umstrukturierten</title>
       <id>https://www.ad-magazin.de/artikel/wie-holz-fliesen-und-spiegel-60-quadratmeter-in-einem-stadthaus-umstrukturierten</id>
@@ -171,14 +180,5 @@
       <published>2026-09-14T15:19:16Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/64086ff5c1ccb86da9d252b5/1:1/w_354%2Cc_limit/Robert%2520Rieger%252021-10-AD-Polly-Roche-0438.jpeg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/64086ff5c1ccb86da9d252b5/1:1/w_354%2Cc_limit/Robert%2520Rieger%252021-10-AD-Polly-Roche-0438.jpeg" alt="Sofas für kleine Räume: Das sind die 7 cleversten Ideen, die Platz sparen und für neuen Schwung sorgen"/><p>Sofas für kleine Räume: Das sind die 7 cleversten Ideen, die Platz sparen und für neuen Schwung sorgen</p>]]></content>
-    </entry>
-    <entry>
-      <title>50 Quadratmeter wie im Ritz: Dieses Pied-à-terre in Paris erinnert an eine luxuriöse Hotelsuite</title>
-      <id>https://www.ad-magazin.de/artikel/50-quadratmeter-kleine-wohnung-in-paris-hotelsuite</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/50-quadratmeter-kleine-wohnung-in-paris-hotelsuite"/>
-      <updated>2026-09-14T11:18:10Z</updated>
-      <published>2026-09-14T11:18:10Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a6b5e0dbcbba2dfd7c52f38/1:1/w_354%2Cc_limit/Laura_Paris_15.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a6b5e0dbcbba2dfd7c52f38/1:1/w_354%2Cc_limit/Laura_Paris_15.jpg" alt="50 Quadratmeter wie im Ritz: Dieses Pied-à-terre in Paris erinnert an eine luxuriöse Hotelsuite"/><p>50 Quadratmeter wie im Ritz: Dieses Pied-à-terre in Paris erinnert an eine luxuriöse Hotelsuite</p>]]></content>
     </entry>
 </feed>
