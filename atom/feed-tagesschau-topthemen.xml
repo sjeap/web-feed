@@ -5,63 +5,63 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-10T21:52:11Z</updated>
+  <updated>2026-11-11T12:00:25Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Trauermesse nach Zugunglück mit 69 Toten in Spanien</title>
-      <id>https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/83dbe2dc-bb9d-48e3-9d41-083d596aa0f7/AAABocc35xk/AAABnSSvrFg/16x9-big/toledo-114.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/83dbe2dc-bb9d-48e3-9d41-083d596aa0f7/AAABocc35xk/AAABnSSvrFg/16x9-big/toledo-114.jpg?width=1280" alt="Trauermesse nach Zugunglück mit 69 Toten in Spanien"/><p>Trauermesse nach Zugunglück mit 69 Toten in Spanien</p>]]></content>
+      <title>Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten</title>
+      <id>https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html"/>
+      <updated>2026-11-11T12:00:25Z</updated>
+      <published>2026-11-11T12:00:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9e6172ca-7425-4d30-b9ff-6f0746c3826a/AAABocm11no/AAABnSSvrFg/16x9-big/soldatinnen-bundeswehr-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9e6172ca-7425-4d30-b9ff-6f0746c3826a/AAABocm11no/AAABnSSvrFg/16x9-big/soldatinnen-bundeswehr-100.jpg?width=1280" alt="Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten"/><p>Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten</p>]]></content>
     </entry>
     <entry>
-      <title>Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene</title>
-      <id>https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1280" alt="Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene"/><p>Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene</p>]]></content>
+      <title>Zahl der Kriegsdienstverweigerer steigt weiter deutlich</title>
+      <id>https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html"/>
+      <updated>2026-11-11T12:00:25Z</updated>
+      <published>2026-11-11T12:00:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/90e033e0-defd-4b4b-bf51-40bb81c39473/AAABmQ4VB0k/AAABnSSvrFg/16x9-big/bundeswehr-jacken-100.jpg?width=1280" alt="Zahl der Kriegsdienstverweigerer steigt weiter deutlich"/><p>Zahl der Kriegsdienstverweigerer steigt weiter deutlich</p>]]></content>
     </entry>
     <entry>
-      <title>Zwei Tote bei russischen Luftangriffen</title>
-      <id>https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/44ee44bc-83bf-408c-8a2e-d621a963c3dd/AAABocXiqEc/AAABnSSvrFg/16x9-big/ukraine-poltawa-102.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/44ee44bc-83bf-408c-8a2e-d621a963c3dd/AAABocXiqEc/AAABnSSvrFg/16x9-big/ukraine-poltawa-102.jpg?width=1280" alt="Zwei Tote bei russischen Luftangriffen"/><p>Zwei Tote bei russischen Luftangriffen</p>]]></content>
+      <title>Profite von Rüstungskonzernen - Linke will Übergewinne besteuern</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html"/>
+      <updated>2026-11-11T12:00:25Z</updated>
+      <published>2026-11-11T12:00:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/48248b64-ef26-43d7-b833-21f4d07ed398/AAABocm5P8s/AAABnSSvrFg/16x9-big/rheinmetall-324.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/48248b64-ef26-43d7-b833-21f4d07ed398/AAABocm5P8s/AAABnSSvrFg/16x9-big/rheinmetall-324.jpg?width=1280" alt="Profite von Rüstungskonzernen - Linke will Übergewinne besteuern"/><p>Profite von Rüstungskonzernen - Linke will Übergewinne besteuern</p>]]></content>
     </entry>
     <entry>
-      <title>Maschinenbauer &quot;fassungslos&quot; über Bundesregierung</title>
-      <id>https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8e76ebdc-f667-4cb8-9ffa-dfe0bccaa925/AAABocYhY0M/AAABnSSvrFg/16x9-big/vdma-maschinenbau-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8e76ebdc-f667-4cb8-9ffa-dfe0bccaa925/AAABocYhY0M/AAABnSSvrFg/16x9-big/vdma-maschinenbau-100.jpg?width=1280" alt="Maschinenbauer "fassungslos" über Bundesregierung"/><p>Maschinenbauer &quot;fassungslos&quot; über Bundesregierung</p>]]></content>
+      <title>Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben</title>
+      <id>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/arbeitsmarkt/krankenstand-aeltere-beschaeftigte-100.html"/>
+      <updated>2026-11-11T12:00:25Z</updated>
+      <published>2026-11-11T12:00:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4c3d1f4c-ff04-4c80-ac9c-3025ca8d93e3/AAABnZt7UEA/AAABnSSvrFg/16x9-big/arbeitsunfaehigkeitsbescheinigung-110.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4c3d1f4c-ff04-4c80-ac9c-3025ca8d93e3/AAABnZt7UEA/AAABnSSvrFg/16x9-big/arbeitsunfaehigkeitsbescheinigung-110.jpg?width=1280" alt="Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben"/><p>Medienbericht: Ältere Beschäftigte doppelt so häufig krankgeschrieben</p>]]></content>
     </entry>
     <entry>
-      <title>Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken</title>
-      <id>https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4dff9a40-3471-4629-b0de-da49482a151a/AAABocT1uGk/AAABnSSvrFg/16x9-big/e-auto-256.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4dff9a40-3471-4629-b0de-da49482a151a/AAABocT1uGk/AAABnSSvrFg/16x9-big/e-auto-256.jpg?width=1280" alt="Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken"/><p>Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken</p>]]></content>
+      <title>Zahl der arbeitslosen Akademiker auf Höchststand</title>
+      <id>https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-akademiker-rekord-100.html"/>
+      <updated>2026-11-11T12:00:25Z</updated>
+      <published>2026-11-11T12:00:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b051ed8e-002e-4532-bf5a-8393ec8e8ab2/AAABocoTqL8/AAABnSSvrFg/16x9-big/arbeitsmarkt-540.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b051ed8e-002e-4532-bf5a-8393ec8e8ab2/AAABocoTqL8/AAABnSSvrFg/16x9-big/arbeitsmarkt-540.jpg?width=1280" alt="Zahl der arbeitslosen Akademiker auf Höchststand"/><p>Zahl der arbeitslosen Akademiker auf Höchststand</p>]]></content>
     </entry>
     <entry>
       <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681698.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681698.html"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/8e08a98d-56a0-4ca9-bf14-d0397831c3a0/AAABocc5QxE/AAABnSSvrFg/16x9-big/sendungsbild-1825652.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/8e08a98d-56a0-4ca9-bf14-d0397831c3a0/AAABocc5QxE/AAABnSSvrFg/16x9-big/sendungsbild-1825652.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681934.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1681934.html"/>
+      <updated>2026-11-11T12:00:25Z</updated>
+      <published>2026-11-11T12:00:25Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/47817ec9-6fe0-4fb1-a709-73d71cde4a07/AAABocpTe6k/AAABnSSvrFg/16x9-big/sendungsbild-1825900.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/47817ec9-6fe0-4fb1-a709-73d71cde4a07/AAABocpTe6k/AAABnSSvrFg/16x9-big/sendungsbild-1825900.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
     </entry>
 </feed>
