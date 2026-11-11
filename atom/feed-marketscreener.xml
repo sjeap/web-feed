@@ -5,19 +5,46 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml</id>
   <link rel="alternate" href="https://de.marketscreener.com/boersenanalyse/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml"/>
-  <updated>2026-11-10T18:29:00Z</updated>
+  <updated>2026-11-11T10:58:00Z</updated>
   <author>
     <name>MarketScreener – Börsenanalyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Der Nasdaq gerät unter die Räder der blauen Welle</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/der-nasdaq-geraet-unter-die-raeder-der-blauen-welle-ce785edade81f025</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/der-nasdaq-geraet-unter-die-raeder-der-blauen-welle-ce785edade81f025"/>
-      <updated>2026-11-10T18:29:00Z</updated>
-      <published>2026-11-10T18:29:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/suivi_premium_de.png"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/suivi_premium_de.png" alt="Der Nasdaq gerät unter die Räder der blauen Welle"/><p>Der Nasdaq gerät unter die Räder der blauen Welle</p>]]></content>
+      <title>Die Fed - die andere Gewinnerin der US-Zwischenwahlen</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/die-fed-die-andere-gewinnerin-der-us-zwischenwahlen-ce785edbda8efe26</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/die-fed-die-andere-gewinnerin-der-us-zwischenwahlen-ce785edbda8efe26"/>
+      <updated>2026-11-11T10:58:00Z</updated>
+      <published>2026-11-11T10:58:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-09-16T223142Z_1_LYNXMPEM8F27Y_RTROPTP_4_USA-FED-WARSH.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-09-16T223142Z_1_LYNXMPEM8F27Y_RTROPTP_4_USA-FED-WARSH.JPG" alt="Die Fed - die andere Gewinnerin der US-Zwischenwahlen"/><p>Die Fed - die andere Gewinnerin der US-Zwischenwahlen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Warum der Euro-Rückgang in den Unternehmensbilanzen kaum sichtbar ist</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/warum-der-euro-rueckgang-in-den-unternehmensbilanzen-kaum-sichtbar-ist-ce785edbda8eff27</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/warum-der-euro-rueckgang-in-den-unternehmensbilanzen-kaum-sichtbar-ist-ce785edbda8eff27"/>
+      <updated>2026-11-11T10:56:00Z</updated>
+      <published>2026-11-11T10:56:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-08-26T081455Z_1_LYNXMPEM7P0KE_RTROPTP_4_CROATIA-EURO.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-08-26T081455Z_1_LYNXMPEM7P0KE_RTROPTP_4_CROATIA-EURO.JPG" alt="Warum der Euro-Rückgang in den Unternehmensbilanzen kaum sichtbar ist"/><p>Warum der Euro-Rückgang in den Unternehmensbilanzen kaum sichtbar ist</p>]]></content>
+    </entry>
+    <entry>
+      <title>FIT Hon Teng ist fest mit der KI-Konnektivität verbunden</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/fit-hon-teng-ist-fest-mit-der-ki-konnektivitaet-verbunden-ce785edbda8ff124</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/fit-hon-teng-ist-fest-mit-der-ki-konnektivitaet-verbunden-ce785edbda8ff124"/>
+      <updated>2026-11-11T10:32:00Z</updated>
+      <published>2026-11-11T10:32:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2024-03-08T093548Z_1_LYNXNPEK270A1_RTROPTP_3_HONGKONG-POLITICS-SECURITY.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2024-03-08T093548Z_1_LYNXNPEK270A1_RTROPTP_3_HONGKONG-POLITICS-SECURITY.JPG" alt="FIT Hon Teng ist fest mit der KI-Konnektivität verbunden"/><p>FIT Hon Teng ist fest mit der KI-Konnektivität verbunden</p>]]></content>
+    </entry>
+    <entry>
+      <title>JX Advanced Metals profitiert von Chips und Kupfer</title>
+      <id>https://de.marketscreener.com/boerse-nachrichten/jx-advanced-metals-profitiert-von-chips-und-kupfer-ce785edbda8ff322</id>
+      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/jx-advanced-metals-profitiert-von-chips-und-kupfer-ce785edbda8ff322"/>
+      <updated>2026-11-11T10:29:00Z</updated>
+      <published>2026-11-11T10:29:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2024-03-04T053305Z_1_LYNXNPEK2304F_RTROPTP_3_JAPAN-STOCKS.JPG"/>
+      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2024-03-04T053305Z_1_LYNXNPEK2304F_RTROPTP_3_JAPAN-STOCKS.JPG" alt="JX Advanced Metals profitiert von Chips und Kupfer"/><p>JX Advanced Metals profitiert von Chips und Kupfer</p>]]></content>
     </entry>
     <entry>
       <title>ASICS: Der wiedererstarkte Champion hat noch einen langen Atem</title>
@@ -45,15 +72,6 @@
       <published>2026-11-09T18:10:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2025-04-14T144956Z_1_LYNXMPEL3D0NR_RTROPTP_4_USA-STOCKS.JPG"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://img.zonebourse.com/reuters/2025-04-14T144956Z_1_LYNXMPEL3D0NR_RTROPTP_4_USA-STOCKS.JPG" alt="Der MarketScreener-Mix:  Die blaue Welle färbt die Wall Street tiefrot"/><p>Der MarketScreener-Mix: Die blaue Welle färbt die Wall Street tiefrot</p>]]></content>
-    </entry>
-    <entry>
-      <title>Constellation Energy beruhigt bei Rechenzentren und hebt Prognose an</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/constellation-energy-beruhigt-bei-rechenzentren-und-hebt-prognose-an-ce785fd3df8af62c</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/constellation-energy-beruhigt-bei-rechenzentren-und-hebt-prognose-an-ce785fd3df8af62c"/>
-      <updated>2026-11-09T17:02:00Z</updated>
-      <published>2026-11-09T17:02:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4351869_800.jpg"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4351869_800.jpg" alt="Constellation Energy beruhigt bei Rechenzentren und hebt Prognose an"/><p>Constellation Energy beruhigt bei Rechenzentren und hebt Prognose an</p>]]></content>
     </entry>
     <entry>
       <title>Goldpreis fällt - doch Europas Anleger greifen weiter zu</title>
@@ -108,15 +126,6 @@
       <published>2026-11-07T13:30:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4569686_800.jpg"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4569686_800.jpg" alt="Börsen-Update der Woche:  Ist es eine Blase oder nicht?"/><p>Börsen-Update der Woche: Ist es eine Blase oder nicht?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Deutsche Aktien: Tops und Flops der Woche</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/deutsche-aktien-tops-und-flops-der-woche-ce785fd2da80f22d</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/deutsche-aktien-tops-und-flops-der-woche-ce785fd2da80f22d"/>
-      <updated>2026-11-06T18:00:00Z</updated>
-      <published>2026-11-06T18:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-10-14T122048Z_1_LYNXMPEM9D18N_RTROPTP_4_LUFTHANSA-CEO.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images//reuters/2026-10-14T122048Z_1_LYNXMPEM9D18N_RTROPTP_4_LUFTHANSA-CEO.JPG" alt="Deutsche Aktien:  Tops und Flops der Woche"/><p>Deutsche Aktien: Tops und Flops der Woche</p>]]></content>
     </entry>
     <entry>
       <title>Wird eine &quot;Lame Duck&quot; noch gefährlicher?</title>
@@ -225,14 +234,5 @@
       <published>2026-11-03T17:49:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4556841_800.png"/>
       <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348//images/ImagesTagged/zbimg_4556841_800.png" alt="Zwischenwahlen:  Eine lange Nacht zeichnet sich für Trump und die Märkte ab"/><p>Zwischenwahlen: Eine lange Nacht zeichnet sich für Trump und die Märkte ab</p>]]></content>
-    </entry>
-    <entry>
-      <title>Trumps Wirtschaft boomt. Doch das reicht nicht.</title>
-      <id>https://de.marketscreener.com/boerse-nachrichten/trumps-wirtschaft-boomt-doch-das-reicht-nicht-ce785fdeda8bf320</id>
-      <link rel="alternate" href="https://de.marketscreener.com/boerse-nachrichten/trumps-wirtschaft-boomt-doch-das-reicht-nicht-ce785fdeda8bf320"/>
-      <updated>2026-11-03T17:46:00Z</updated>
-      <published>2026-11-03T17:46:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://cdn.zonebourse.com/static/resize/464/348/https://cdn.zonebourse.com/images/reuters/2026-10-24T060115Z_1_LYNXMPEM9N03F_RTROPTP_4_USA-TRUMP.JPG"/>
-      <content type="html"><![CDATA[<img src="https://cdn.zonebourse.com/static/resize/464/348/https://cdn.zonebourse.com/images/reuters/2026-10-24T060115Z_1_LYNXMPEM9N03F_RTROPTP_4_USA-TRUMP.JPG" alt="Trumps Wirtschaft boomt. Doch das reicht nicht."/><p>Trumps Wirtschaft boomt. Doch das reicht nicht.</p>]]></content>
     </entry>
 </feed>
