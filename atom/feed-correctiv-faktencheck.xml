@@ -5,7 +5,7 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-11-10T21:52:11Z</updated>
+  <updated>2026-11-11T22:54:14Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
@@ -14,10 +14,19 @@
       <title>Behauptungen zu 14-Jährigem in ukrainischem „Foltergefängnis“ fehlt Grundlage</title>
       <id>https://correctiv.org/faktencheck/hintergrund/2026/11/10/behauptungen-zu-14-jaehrigem-in-ukrainischem-foltergefaengnis-fehlt-grundlage/</id>
       <link rel="alternate" href="https://correctiv.org/faktencheck/hintergrund/2026/11/10/behauptungen-zu-14-jaehrigem-in-ukrainischem-foltergefaengnis-fehlt-grundlage/"/>
-      <updated>2026-11-10T21:52:11Z</updated>
-      <published>2026-11-10T21:52:11Z</published>
+      <updated>2026-11-11T22:54:14Z</updated>
+      <published>2026-11-11T22:54:14Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/tinywow_533158079_92514112-scaled-e1794318027314.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/tinywow_533158079_92514112-scaled-e1794318027314.jpg" alt="Behauptungen zu 14-Jährigem in ukrainischem „Foltergefängnis“ fehlt Grundlage"/><p>Behauptungen zu 14-Jährigem in ukrainischem „Foltergefängnis“ fehlt Grundlage</p>]]></content>
+    </entry>
+    <entry>
+      <title>Martinsumzug: angeblicher Kita-Aushang stammt aus KI-Video</title>
+      <id>https://correctiv.org/faktencheck/2026/11/11/martinsumzug-angeblicher-kita-aushang-stammt-aus-ki-video/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/11/martinsumzug-angeblicher-kita-aushang-stammt-aus-ki-video/"/>
+      <updated>2026-11-11T00:00:00Z</updated>
+      <published>2026-11-11T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/632277220-scaled-e1794405332960.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/632277220-scaled-e1794405332960.jpg" alt="Martinsumzug in Frechen am 10. November 2026"/><p>Martinsumzug: angeblicher Kita-Aushang stammt aus KI-Video</p>]]></content>
     </entry>
     <entry>
       <title>„Bist du dumm?“: Das fragte Trump eine Journalistin, nicht den Bundeskanzler</title>
@@ -225,14 +234,5 @@
       <published>2026-10-13T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/rathaus-berlin-sebastian-gollnow-dpa-picture-alliance-scaled-e1791898286960.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/rathaus-berlin-sebastian-gollnow-dpa-picture-alliance-scaled-e1791898286960.jpg" alt="Außenaufnahme des Berliner Rathauses."/><p>Liste von angeblichen Positionen der Berliner Linke teils richtig, teils verkürzt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet</title>
-      <id>https://correctiv.org/faktencheck/2026/10/12/proteste-in-frankreich-feuerwehrmann-in-bordeaux-wurde-nicht-von-jugendlichen-angezuendet/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/10/12/proteste-in-frankreich-feuerwehrmann-in-bordeaux-wurde-nicht-von-jugendlichen-angezuendet/"/>
-      <updated>2026-10-12T00:00:00Z</updated>
-      <published>2026-10-12T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/10/tinywow_622405435_92143273-scaled-e1791803341687.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/10/tinywow_622405435_92143273-scaled-e1791803341687.jpg" alt="Protestanten mit französischsprachigen Schildern"/><p>Proteste in Frankreich: Feuerwehrmann in Bordeaux wurde nicht von Jugendlichen angezündet</p>]]></content>
     </entry>
 </feed>
