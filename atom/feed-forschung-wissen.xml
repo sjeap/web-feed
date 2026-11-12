@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-11-12T13:02:58Z</updated>
+  <updated>2026-11-12T22:21:33Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Problematisches Surfen geht mit ungesünderen Gewohnheiten einher</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/problematisches-surfen-geht-mit-ungesuenderen-gewohnheiten-einher-133714256</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/problematisches-surfen-geht-mit-ungesuenderen-gewohnheiten-einher-133714256"/>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/problematisches-surfen-geht-mit-ungesuenderen-gewohnheiten-einher.png"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/problematisches-surfen-geht-mit-ungesuenderen-gewohnheiten-einher.png" alt="Problematisches Surfen geht mit ungesünderen Gewohnheiten einher"/><p>Problematisches Surfen geht mit ungesünderen Gewohnheiten einher</p>]]></content>
+    </entry>
+    <entry>
+      <title>Wasserbatterien werden mit natürlichen Molekülen leistungsfähiger</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/wasserbatterien-werden-mit-natuerlichen-molekuelen-leistungsfaehiger-133713793</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/wasserbatterien-werden-mit-natuerlichen-molekuelen-leistungsfaehiger-133713793"/>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/wasserbatterien-werden-mit-natuerlichen-molekuelen-leistungsfaehiger.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-10/wasserbatterien-werden-mit-natuerlichen-molekuelen-leistungsfaehiger.jpg" alt="Wasserbatterien werden mit natürlichen Molekülen leistungsfähiger"/><p>Wasserbatterien werden mit natürlichen Molekülen leistungsfähiger</p>]]></content>
+    </entry>
+    <entry>
       <title>Ein verschollener Kontinent ist wiedergefunden</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/geologie/ein-verschollener-kontinent-ist-wiedergefunden-133715735</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/ein-verschollener-kontinent-ist-wiedergefunden-133715735"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-11/ein-verschollener-kontinent-ist-wiedergefunden.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-11/ein-verschollener-kontinent-ist-wiedergefunden.jpg" alt="Ein verschollener Kontinent ist wiedergefunden"/><p>Ein verschollener Kontinent ist wiedergefunden</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>Ein Steinbruch gibt 200 Dinosaurier-Spuren frei</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/ein-steinbruch-gibt-200-dinosaurier-spuren-frei-133715733</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/ein-steinbruch-gibt-200-dinosaurier-spuren-frei-133715733"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-11/ein-steinbruch-gibt-200-dinosaurier-spuren-frei.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-11/ein-steinbruch-gibt-200-dinosaurier-spuren-frei.jpg" alt="Ein Steinbruch gibt 200 Dinosaurier-Spuren frei"/><p>Ein Steinbruch gibt 200 Dinosaurier-Spuren frei</p>]]></content>
     </entry>
@@ -32,8 +50,8 @@
       <title>Eine Sonde rast mit 692.000 km/h an der Sonne vorbei</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/eine-sonde-rast-mit-692.000-kmh-an-der-sonne-vorbei-133715730</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/eine-sonde-rast-mit-692.000-kmh-an-der-sonne-vorbei-133715730"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-11/eine-sonde-rast-mit-692.000-kmh-an-der-sonne-vorbei.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-11/eine-sonde-rast-mit-692.000-kmh-an-der-sonne-vorbei.jpg" alt="Eine Sonde rast mit 692.000 km/h an der Sonne vorbei"/><p>Eine Sonde rast mit 692.000 km/h an der Sonne vorbei</p>]]></content>
     </entry>
@@ -41,45 +59,27 @@
       <title>Ein Kolossalkalmar ist erstmals lebend gefilmt</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/biologie/ein-kolossalkalmar-ist-erstmals-lebend-gefilmt-133715729</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/biologie/ein-kolossalkalmar-ist-erstmals-lebend-gefilmt-133715729"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-11/ein-kolossalkalmar-ist-erstmals-lebend-gefilmt.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/biologie/Magazin-Gross/2026-11/ein-kolossalkalmar-ist-erstmals-lebend-gefilmt.jpg" alt="Ein Kolossalkalmar ist erstmals lebend gefilmt"/><p>Ein Kolossalkalmar ist erstmals lebend gefilmt</p>]]></content>
     </entry>
     <entry>
-      <title>Schall zeigt erstmals seine Quantensprünge in Echtzeit</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/physik/schall-zeigt-erstmals-seine-quantenspruenge-in-echtzeit-133713717</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/physik/schall-zeigt-erstmals-seine-quantenspruenge-in-echtzeit-133713717"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/schall-zeigt-erstmals-seine-quantenspruenge-in-echtzeit.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/physik/Magazin-Gross/2026-10/schall-zeigt-erstmals-seine-quantenspruenge-in-echtzeit.jpg" alt="Schall zeigt erstmals seine Quantensprünge in Echtzeit"/><p>Schall zeigt erstmals seine Quantensprünge in Echtzeit</p>]]></content>
-    </entry>
-    <entry>
-      <title>Erstmals liegt Gestein von der Rückseite des Mondes auf der Erde</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/erstmals-liegt-gestein-von-der-rueckseite-des-mondes-auf-der-erde-133715726</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/erstmals-liegt-gestein-von-der-rueckseite-des-mondes-auf-der-erde-133715726"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-11/erstmals-liegt-gestein-von-der-rueckseite-des-mondes-auf-der-erde.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-11/erstmals-liegt-gestein-von-der-rueckseite-des-mondes-auf-der-erde.jpg" alt="Erstmals liegt Gestein von der Rückseite des Mondes auf der Erde"/><p>Erstmals liegt Gestein von der Rückseite des Mondes auf der Erde</p>]]></content>
+      <title>Ein Pathologe stahl 1955 Einsteins Gehirn und hob es in Einmachgläsern auf</title>
+      <id>https://www.forschung-und-wissen.de/magazin/ein-pathologe-stahl-1955-einsteins-gehirn-und-hob-es-in-einmachglaesern-auf-133715377</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/ein-pathologe-stahl-1955-einsteins-gehirn-und-hob-es-in-einmachglaesern-auf-133715377"/>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-11/ein-pathologe-stahl-1955-einsteins-gehirn-und-hob-es-in-einmachglaesern-auf.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-11/ein-pathologe-stahl-1955-einsteins-gehirn-und-hob-es-in-einmachglaesern-auf.jpg" alt="Ein Pathologe stahl 1955 Einsteins Gehirn und hob es in Einmachgläsern auf"/><p>Ein Pathologe stahl 1955 Einsteins Gehirn und hob es in Einmachgläsern auf</p>]]></content>
     </entry>
     <entry>
       <title>Was war die teuerste Fracht der Titanic?</title>
       <id>https://www.forschung-und-wissen.de/magazin/was-war-die-teuerste-fracht-der-titanic-133713254</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/was-war-die-teuerste-fracht-der-titanic-133713254"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
+      <updated>2026-11-12T22:21:33Z</updated>
+      <published>2026-11-12T22:21:33Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/was-war-die-teuerste-fracht-der-titanic.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/was-war-die-teuerste-fracht-der-titanic.jpg" alt="Was war die teuerste Fracht der Titanic?"/><p>Was war die teuerste Fracht der Titanic?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Buchstaben D.O.U.O.S.V.A.V.V. auf einem Denkmal kann niemand deuten</title>
-      <id>https://www.forschung-und-wissen.de/magazin/die-buchstaben-d.o.u.o.s.v.a.v.v.-auf-einem-denkmal-kann-niemand-deuten-133715374</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/die-buchstaben-d.o.u.o.s.v.a.v.v.-auf-einem-denkmal-kann-niemand-deuten-133715374"/>
-      <updated>2026-11-12T13:02:58Z</updated>
-      <published>2026-11-12T13:02:58Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-11/die-buchstaben-d.o.u.o.s.v.a.v.v.-auf-einem-denkmal-kann-niemand-deuten.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-11/die-buchstaben-d.o.u.o.s.v.a.v.v.-auf-einem-denkmal-kann-niemand-deuten.jpg" alt="Die Buchstaben D.O.U.O.S.V.A.V.V. auf einem Denkmal kann niemand deuten"/><p>Die Buchstaben D.O.U.O.S.V.A.V.V. auf einem Denkmal kann niemand deuten</p>]]></content>
     </entry>
 </feed>
