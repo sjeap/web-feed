@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-10T21:32:26Z</updated>
+  <updated>2026-11-12T13:59:36Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>33 Quadratmeter in Manhattan: So clever richtete eine Fotografin ihre Einzimmerwohnung mit Kamin ein</title>
+      <id>https://www.ad-magazin.de/artikel/einzimmerwohnung-im-boheme-stil-manhattan-new-york-anita-calero</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/einzimmerwohnung-im-boheme-stil-manhattan-new-york-anita-calero"/>
+      <updated>2026-11-12T13:59:36Z</updated>
+      <published>2026-11-12T13:59:36Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/68905df029a191628dde0732/1:1/w_354%2Cc_limit/anita-calero-ny-apt-photo%25C2%25A9monica-barreneche-29-final%2520copy.jpg" alt="33 Quadratmeter in Manhattan: So clever richtete eine Fotografin ihre Einzimmerwohnung mit Kamin ein"/><p>33 Quadratmeter in Manhattan: So clever richtete eine Fotografin ihre Einzimmerwohnung mit Kamin ein</p>]]></content>
+    </entry>
     <entry>
       <title>Hier geht’s schräg zu! Wie kurvige Wände und ein smarter Raumtrick aus 60 Quadratmetern ein großzügiges Zuhause machen</title>
       <id>https://www.ad-magazin.de/artikel/hier-gehts-schraeg-zu-wie-kurvige-waende-und-ein-smarter-raumtrick-60-quadratmeter-umstrukturierten</id>
@@ -171,14 +180,5 @@
       <published>2026-09-24T16:00:21Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6aad47a177aa5a1e6a947068/1:1/w_354%2Cc_limit/ORZAN_HAVRE_JBT-12.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6aad47a177aa5a1e6a947068/1:1/w_354%2Cc_limit/ORZAN_HAVRE_JBT-12.jpg" alt="55 Quadratmeter mit Garten: Wie die Farben der Natur dieser kleinen Wohnung in der Normandie neues Leben einhauchten"/><p>55 Quadratmeter mit Garten: Wie die Farben der Natur dieser kleinen Wohnung in der Normandie neues Leben einhauchten</p>]]></content>
-    </entry>
-    <entry>
-      <title>Kleine Schlafzimmer: Deshalb sind gemütliche Bettnischen die stilvollste Lösung für Mini-Wohnungen</title>
-      <id>https://www.ad-magazin.de/artikel/bettnische-inspiration-kleine-raeume-schlafzimmer</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/bettnische-inspiration-kleine-raeume-schlafzimmer"/>
-      <updated>2026-09-15T16:45:28Z</updated>
-      <published>2026-09-15T16:45:28Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a27ce437f7ca8eacedfa1b5/1:1/w_354%2Cc_limit/Dawid_Konieczny_%25C2%25A9_ONI_Studio_28576-10.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a27ce437f7ca8eacedfa1b5/1:1/w_354%2Cc_limit/Dawid_Konieczny_%25C2%25A9_ONI_Studio_28576-10.jpg" alt="Kleine Schlafzimmer: Deshalb sind gemütliche Bettnischen die stilvollste Lösung für Mini-Wohnungen"/><p>Kleine Schlafzimmer: Deshalb sind gemütliche Bettnischen die stilvollste Lösung für Mini-Wohnungen</p>]]></content>
     </entry>
 </feed>
