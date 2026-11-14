@@ -64,7 +64,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
      `parser: rss`), Schema `https://seekingalpha.com/api/sa/combined/{code}.xml`.
 
      <!-- TICKERS:START -->
-     `AIQUY`, `ASML`, `BNPQF`, `CHUEF`, `CLLKF`, `DHR`, `ENLAY`, `JOBY`, `LILMF`, `LIN`, `MUTRF`, `NEXPF`, `PCELF`, `RIO`, `SE`, `TEM`, `TMO`, `TSM`, `VWAGY`
+     `AAON`, `AIQUY`, `ASML`, `BNPQF`, `CHUEF`, `CLLKF`, `DHR`, `ENLAY`, `JOBY`, `LILMF`, `LIN`, `MOD`, `MUTRF`, `NEXPF`, `PCELF`, `RIO`, `SE`, `TEM`, `TMO`, `TSM`, `VWAGY`
      <!-- TICKERS:END -->
 - **Engines gemischt:** Die HTML-Quelle braucht den Headless-Browser (deshalb läuft der
   Chromium-Install-Step für diesen Feed); die RSS-Quellen laufen als schlanker HTTPS-Fetch
@@ -83,6 +83,9 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 - **Vorschaubild via Detail-Fetch:** der Block hat kein `<img>` (nur SVG-Icons), daher holt der
   Scraper pro Artikel das `og:image` (`detailImageSelector`, `detailEngine: "https"`). Kein Datum
   im Block → `pubDate` = Laufzeit, Reader deduplizieren über den stabilen Link.
+- **Ausschluss:** `excludeIf: "tagesschau\\s+in\\s+100\\s+Sekunden"` verwirft die wiederkehrende
+  Sendung „tagesschau in 100 Sekunden" (Titel-Text im Block; der Link nutzt Unterstriche und
+  matcht daher nicht versehentlich mit).
 
 ### `marketscreener` → `atom/feed-marketscreener.xml`
 - **Engine:** Default (HTTPS) **über Residential-Proxy** (`proxyCountry: "de"`). MarketScreener

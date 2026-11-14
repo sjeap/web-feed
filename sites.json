@@ -35,7 +35,7 @@
       "https://seekingalpha.com/market-news/notable-calls",
       { "url": "https://seekingalpha.com/tag/etf-portfolio-strategy.xml", "engine": "https", "parser": "rss" }
     ],
-    "tickers": ["AIQUY", "DHR", "SE", "TEM", "BNPQF", "ENLAY", "MUTRF", "RIO", "VWAGY", "CLLKF", "CHUEF", "JOBY", "LILMF", "PCELF", "ASML", "LIN", "TSM", "TMO", "NEXPF"],
+    "tickers": ["AIQUY", "DHR", "SE", "TEM", "BNPQF", "ENLAY", "MUTRF", "RIO", "VWAGY", "CLLKF", "CHUEF", "JOBY", "LILMF", "PCELF", "ASML", "LIN", "TSM", "TMO", "NEXPF", "AAON", "MOD"],
     "tickerTemplate": "https://seekingalpha.com/api/sa/combined/{code}.xml",
     "tickerEngine": "https",
     "tickerParser": "rss"
@@ -64,6 +64,7 @@
     "url": "https://www.tagesschau.de/",
     "language": "de-DE",
     "filter": null,
+    "excludeIf": "tagesschau\\s+in\\s+100\\s+Sekunden",
     "output": "atom/feed-tagesschau-topthemen.xml",
     "containerStart": "Die wichtigsten Nachrichten",
     "containerEnd": "</ul>",
