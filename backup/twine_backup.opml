@@ -4,13 +4,24 @@
     <title>Twine RSS Feeds</title>
   </head>
   <body>
-    <outline title="CNN Fear &amp; Greed Index" text="CNN Fear &amp; Greed Index" type="rss" xmlUrl="https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml" />
-    <outline title="Golem.de - Wissenschaft" text="Golem.de - Wissenschaft" type="rss" xmlUrl="https://rss.golem.de/rss.php?ms=wissenschaft&amp;feed=RSS1.0" />
-    <outline title="iNTELLiGENT iNVESTiEREN" text="iNTELLiGENT iNVESTiEREN" type="rss" xmlUrl="https://feeds.feedburner.com/IntelligentInvestieren" />
-    <outline title="Manager Magazin – Der … im Überblick" text="Manager Magazin – Der … im Überblick" type="rss" xmlUrl="https://sjeap.github.io/web-feed/feed-manager-magazin.xml" />
     <outline title="t3n.de - New Finance" text="t3n.de - New Finance" type="rss" xmlUrl="https://t3n.de/tag/finance/rss.xml" />
-    <outline title="Visual Capitalist – Popular" text="Visual Capitalist – Popular" type="rss" xmlUrl="https://sjeap.github.io/web-feed/feed-visualcapitalist.xml" />
-    <outline title="tagesschau.de - die erste Adresse für Nachrichten und Information" text="tagesschau.de - die erste Adresse für Nachrichten und Information" type="rss" xmlUrl="https://www.tagesschau.de/index~rss2.xmlInlandalle" />
+    <outline title="Golem.de - Wissenschaft" text="Golem.de - Wissenschaft" type="rss" xmlUrl="https://rss.golem.de/rss.php?ms=wissenschaft&amp;feed=RSS1.0" />
     <outline title="Golem.de - Open Source" text="Golem.de - Open Source" type="rss" xmlUrl="https://rss.golem.de/rss.php?ms=open-source&amp;feed=RSS1.0" />
+    <outline title="Stratechery" text="Stratechery" type="rss" xmlUrl="https://stratechery.com/feed/" />
+    <outline title="Gesunde Ernährung: News, Tipps &amp; Infos | FIT FOR FUN" text="Gesunde Ernährung: News, Tipps &amp; Infos | FIT FOR FUN" type="rss" xmlUrl="https://www.fitforfun.de/gesunde-ernaehrung/rss" />
+    <outline title="iNTELLiGENT iNVESTiEREN" text="iNTELLiGENT iNVESTiEREN" type="rss" xmlUrl="https://feeds.feedburner.com/IntelligentInvestieren" />
+    <outline title="Visual Capitalist – Popular" text="Visual Capitalist – Popular" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml" />
+    <outline title="Manager Magazin – Der … im Überblick" text="Manager Magazin – Der … im Überblick" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml" />
+    <outline title="Seeking Alpha – Notable Calls" text="Seeking Alpha – Notable Calls" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml" />
+    <outline title="CNN Fear &amp; Greed Index" text="CNN Fear &amp; Greed Index" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml" />
+    <outline title="tagesschau – LIVE und Topthemen" text="tagesschau – LIVE und Topthemen" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml" />
+    <outline title="MarketScreener – Börsenanalyse" text="MarketScreener – Börsenanalyse" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml" />
+    <outline title="The Paypers – Reports" text="The Paypers – Reports" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml" />
+    <outline title="CORRECTIV – Neueste Faktenchecks" text="CORRECTIV – Neueste Faktenchecks" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml" />
+    <outline title="AD Magazin – Small Spaces" text="AD Magazin – Small Spaces" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml" />
+    <outline title="Food and Nutrition on ZME Science" text="Food and Nutrition on ZME Science" type="rss" xmlUrl="https://www.zmescience.com/feature-post/health/food-and-nutrition/feed/" />
+    <outline title="sharedeals.de – Meistgelesen &amp; Erfolgsstorys" text="sharedeals.de – Meistgelesen &amp; Erfolgsstorys" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml" />
+    <outline title="Forschung und Wissen – Neuste Nachrichten" text="Forschung und Wissen – Neuste Nachrichten" type="rss" xmlUrl="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml" />
+    <outline title="n-tv.de - Wirtschaft" text="n-tv.de - Wirtschaft" type="rss" xmlUrl="https://www.n-tv.de/wirtschaft/rss" />
   </body>
 </opml>
