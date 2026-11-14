@@ -318,14 +318,25 @@ Abonnement-Backup aus Twine (`backup/twine_backup.opml`).
 Die Liste wird bei jedem Workflow-Run automatisch aus der OPML erzeugt.
 
 <!-- OPML:START -->
-- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/feed-cnn-fear-greed.xml) ⭐
-- [Golem.de - Wissenschaft](https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0)
-- [iNTELLiGENT iNVESTiEREN](https://feeds.feedburner.com/IntelligentInvestieren)
-- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/feed-manager-magazin.xml) ⭐
 - [t3n.de - New Finance](https://t3n.de/tag/finance/rss.xml)
-- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/feed-visualcapitalist.xml) ⭐
-- [tagesschau.de - die erste Adresse für Nachrichten und Information](https://www.tagesschau.de/index~rss2.xmlInlandalle)
+- [Golem.de - Wissenschaft](https://rss.golem.de/rss.php?ms=wissenschaft&feed=RSS1.0)
 - [Golem.de - Open Source](https://rss.golem.de/rss.php?ms=open-source&feed=RSS1.0)
+- [Stratechery](https://stratechery.com/feed/)
+- [Gesunde Ernährung: News, Tipps & Infos | FIT FOR FUN](https://www.fitforfun.de/gesunde-ernaehrung/rss)
+- [iNTELLiGENT iNVESTiEREN](https://feeds.feedburner.com/IntelligentInvestieren)
+- [Visual Capitalist – Popular](https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml) ⭐
+- [Manager Magazin – Der … im Überblick](https://sjeap.github.io/web-feed/atom/feed-manager-magazin.xml) ⭐
+- [Seeking Alpha – Notable Calls](https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml) ⭐
+- [CNN Fear & Greed Index](https://sjeap.github.io/web-feed/atom/feed-cnn-fear-greed.xml) ⭐
+- [tagesschau – LIVE und Topthemen](https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml) ⭐
+- [MarketScreener – Börsenanalyse](https://sjeap.github.io/web-feed/atom/feed-marketscreener.xml) ⭐
+- [The Paypers – Reports](https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml) ⭐
+- [CORRECTIV – Neueste Faktenchecks](https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml) ⭐
+- [AD Magazin – Small Spaces](https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml) ⭐
+- [Food and Nutrition on ZME Science](https://www.zmescience.com/feature-post/health/food-and-nutrition/feed/)
+- [sharedeals.de – Meistgelesen & Erfolgsstorys](https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml) ⭐
+- [Forschung und Wissen – Neuste Nachrichten](https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml) ⭐
+- [n-tv.de - Wirtschaft](https://www.n-tv.de/wirtschaft/rss)
 <!-- OPML:END -->
 
 <!-- ACKNOWLEDGMENTS:START -->
