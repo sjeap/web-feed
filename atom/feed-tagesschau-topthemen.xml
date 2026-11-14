@@ -5,63 +5,54 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-14T11:39:48Z</updated>
+  <updated>2026-11-14T18:19:44Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"/>
+      <updated>2026-11-14T18:19:44Z</updated>
+      <published>2026-11-14T18:19:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1280" alt="Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz"/><p>Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz</p>]]></content>
+    </entry>
+    <entry>
+      <title>USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht</title>
+      <id>https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"/>
+      <updated>2026-11-14T18:19:44Z</updated>
+      <published>2026-11-14T18:19:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1280" alt="USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht"/><p>USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht</p>]]></content>
+    </entry>
+    <entry>
       <title>Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger</title>
       <id>https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html"/>
-      <updated>2026-11-14T11:39:48Z</updated>
-      <published>2026-11-14T11:39:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/3e0b0b67-1ee3-4eda-9e04-a692aeb7694e/AAABodmST1M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/3e0b0b67-1ee3-4eda-9e04-a692aeb7694e/AAABodmST1M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-100.jpg?width=1280" alt="Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger"/><p>Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger</p>]]></content>
+      <updated>2026-11-14T18:19:44Z</updated>
+      <published>2026-11-14T18:19:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1280" alt="Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger"/><p>Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger</p>]]></content>
     </entry>
     <entry>
-      <title>Microsoft: Systeme nach Störung komplett wiederhergestellt</title>
-      <id>https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"/>
-      <updated>2026-11-14T11:39:48Z</updated>
-      <published>2026-11-14T11:39:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1280" alt="Microsoft: Systeme nach Störung komplett wiederhergestellt"/><p>Microsoft: Systeme nach Störung komplett wiederhergestellt</p>]]></content>
+      <title>Grüne und SPD stimmen Koalitionsvertrag in MV zu</title>
+      <id>https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/gruene-und-spd-stimmen-koalitionsvertrag-in-mv-zu,mvlandtag-122.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/regional/mecklenburgvorpommern/gruene-und-spd-stimmen-koalitionsvertrag-in-mv-zu,mvlandtag-122.html"/>
+      <updated>2026-11-14T18:19:44Z</updated>
+      <published>2026-11-14T18:19:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.ndr.de/image/1ea0d636-df23-47ba-9efe-221e93044c4b/AAABodp8ZEE/AAABnSSvrFg/16x9-big/mvfoto-9794.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.ndr.de/image/1ea0d636-df23-47ba-9efe-221e93044c4b/AAABodp8ZEE/AAABnSSvrFg/16x9-big/mvfoto-9794.jpg?width=1280" alt="Grüne und SPD stimmen Koalitionsvertrag in MV zu"/><p>Grüne und SPD stimmen Koalitionsvertrag in MV zu</p>]]></content>
     </entry>
     <entry>
-      <title>Vorübergehendes Startverbot in den USA: &quot;Unglaublich veraltetes Flugsicherungssystem&quot;</title>
-      <id>https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html"/>
-      <updated>2026-11-14T11:39:48Z</updated>
-      <published>2026-11-14T11:39:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1280" alt="Vorübergehendes Startverbot in den USA: "Unglaublich veraltetes Flugsicherungssystem""/><p>Vorübergehendes Startverbot in den USA: &quot;Unglaublich veraltetes Flugsicherungssystem&quot;</p>]]></content>
-    </entry>
-    <entry>
-      <title>Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an</title>
-      <id>https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"/>
-      <updated>2026-11-14T11:39:48Z</updated>
-      <published>2026-11-14T11:39:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1280" alt="Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an"/><p>Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an</p>]]></content>
-    </entry>
-    <entry>
-      <title>US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans</title>
-      <id>https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html"/>
-      <updated>2026-11-14T11:39:48Z</updated>
-      <published>2026-11-14T11:39:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodk9D7w/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodk9D7w/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1280" alt="US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans"/><p>US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans</p>]]></content>
-    </entry>
-    <entry>
-      <title>tagesschau in 100 Sekunden</title>
-      <id>https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1683630.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/tagesschau_in_100_sekunden/video-1683630.html"/>
-      <updated>2026-11-14T11:39:48Z</updated>
-      <published>2026-11-14T11:39:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f4718097-c2e4-4271-9f15-7fbad904b7e6/AAABodk_CW8/AAABnSSvrFg/16x9-big/sendungsbild-1827356.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f4718097-c2e4-4271-9f15-7fbad904b7e6/AAABodk_CW8/AAABnSSvrFg/16x9-big/sendungsbild-1827356.jpg?width=1280" alt="tagesschau in 100 Sekunden"/><p>tagesschau in 100 Sekunden</p>]]></content>
+      <title>Pläne für höhere Abzüge bei vorgezogener Rente</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html"/>
+      <updated>2026-11-14T18:19:44Z</updated>
+      <published>2026-11-14T18:19:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/b3a3c354-5f2d-4a9f-92a3-2b7089c93450/AAABodq066c/AAABnSSvrFg/16x9-big/rentner-165.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/b3a3c354-5f2d-4a9f-92a3-2b7089c93450/AAABodq066c/AAABnSSvrFg/16x9-big/rentner-165.jpg?width=1280" alt="Pläne für höhere Abzüge bei vorgezogener Rente"/><p>Pläne für höhere Abzüge bei vorgezogener Rente</p>]]></content>
     </entry>
 </feed>
