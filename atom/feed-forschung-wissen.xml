@@ -5,17 +5,44 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml</id>
   <link rel="alternate" href="https://www.forschung-und-wissen.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-forschung-wissen.xml"/>
-  <updated>2026-11-14T11:39:50Z</updated>
+  <updated>2026-11-14T18:19:51Z</updated>
   <author>
     <name>Forschung und Wissen – Neuste Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Ein Herzschlag aus Magma reißt einen Kontinent auseinander</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/geologie/ein-herzschlag-aus-magma-reisst-einen-kontinent-auseinander-133715807</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/ein-herzschlag-aus-magma-reisst-einen-kontinent-auseinander-133715807"/>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-11/ein-herzschlag-aus-magma-reisst-einen-kontinent-auseinander.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-11/ein-herzschlag-aus-magma-reisst-einen-kontinent-auseinander.jpg" alt="Ein Herzschlag aus Magma reißt einen Kontinent auseinander"/><p>Ein Herzschlag aus Magma reißt einen Kontinent auseinander</p>]]></content>
+    </entry>
+    <entry>
+      <title>Ein Thorium-Reaktor wird erstmals im laufenden Betrieb nachgeladen</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/ein-thorium-reaktor-wird-erstmals-im-laufenden-betrieb-nachgeladen-133715806</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/ein-thorium-reaktor-wird-erstmals-im-laufenden-betrieb-nachgeladen-133715806"/>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-11/ein-thorium-reaktor-wird-erstmals-im-laufenden-betrieb-nachgeladen.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-11/ein-thorium-reaktor-wird-erstmals-im-laufenden-betrieb-nachgeladen.jpg" alt="Ein Thorium-Reaktor wird erstmals im laufenden Betrieb nachgeladen"/><p>Ein Thorium-Reaktor wird erstmals im laufenden Betrieb nachgeladen</p>]]></content>
+    </entry>
+    <entry>
+      <title>Erstmals fährt ein Serienauto schneller als 500 Kilometer pro Stunde</title>
+      <id>https://www.forschung-und-wissen.de/nachrichten/technik/erstmals-faehrt-ein-serienauto-schneller-als-500-kilometer-pro-stunde-133715804</id>
+      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/technik/erstmals-faehrt-ein-serienauto-schneller-als-500-kilometer-pro-stunde-133715804"/>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-11/erstmals-faehrt-ein-serienauto-schneller-als-500-kilometer-pro-stunde.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/technik/Magazin-Gross/2026-11/erstmals-faehrt-ein-serienauto-schneller-als-500-kilometer-pro-stunde.jpg" alt="Erstmals fährt ein Serienauto schneller als 500 Kilometer pro Stunde"/><p>Erstmals fährt ein Serienauto schneller als 500 Kilometer pro Stunde</p>]]></content>
+    </entry>
+    <entry>
       <title>In einer Höhle liegt ein mindestens 67.800 Jahre alter Handabdruck</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/in-einer-hoehle-liegt-ein-mindestens-67.800-jahre-alter-handabdruck-133715803</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/in-einer-hoehle-liegt-ein-mindestens-67.800-jahre-alter-handabdruck-133715803"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-11/in-einer-hoehle-liegt-ein-mindestens-67.800-jahre-alter-handabdruck.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-11/in-einer-hoehle-liegt-ein-mindestens-67.800-jahre-alter-handabdruck.jpg" alt="In einer Höhle liegt ein mindestens 67.800 Jahre alter Handabdruck"/><p>In einer Höhle liegt ein mindestens 67.800 Jahre alter Handabdruck</p>]]></content>
     </entry>
@@ -23,8 +50,8 @@
       <title>Bei der Suche nach Gold findet sich ein 4 Kilometer großer Meteoritenkrater</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/geologie/bei-der-suche-nach-gold-findet-sich-ein-4-kilometer-grosser-meteoritenkrater-133715800</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/geologie/bei-der-suche-nach-gold-findet-sich-ein-4-kilometer-grosser-meteoritenkrater-133715800"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-11/bei-der-suche-nach-gold-findet-sich-ein-4-kilometer-grosser-meteoritenkrater.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/geologie/Magazin-Gross/2026-11/bei-der-suche-nach-gold-findet-sich-ein-4-kilometer-grosser-meteoritenkrater.jpg" alt="Bei der Suche nach Gold findet sich ein 4 Kilometer großer Meteoritenkrater"/><p>Bei der Suche nach Gold findet sich ein 4 Kilometer großer Meteoritenkrater</p>]]></content>
     </entry>
@@ -32,44 +59,17 @@
       <title>Ein Goldschatz trägt den ältesten Namen des Gottes Odin</title>
       <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/ein-goldschatz-traegt-den-aeltesten-namen-des-gottes-odin-133715795</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/ein-goldschatz-traegt-den-aeltesten-namen-des-gottes-odin-133715795"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-11/ein-goldschatz-traegt-den-aeltesten-namen-des-gottes-odin.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-11/ein-goldschatz-traegt-den-aeltesten-namen-des-gottes-odin.jpg" alt="Ein Goldschatz trägt den ältesten Namen des Gottes Odin"/><p>Ein Goldschatz trägt den ältesten Namen des Gottes Odin</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ein Asteroid bringt den Zucker des Lebens zur Erde</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/astronomie/ein-asteroid-bringt-den-zucker-des-lebens-zur-erde-133715792</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/astronomie/ein-asteroid-bringt-den-zucker-des-lebens-zur-erde-133715792"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-11/ein-asteroid-bringt-den-zucker-des-lebens-zur-erde.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/astronomie/Magazin-Gross/2026-11/ein-asteroid-bringt-den-zucker-des-lebens-zur-erde.jpg" alt="Ein Asteroid bringt den Zucker des Lebens zur Erde"/><p>Ein Asteroid bringt den Zucker des Lebens zur Erde</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ein 3.000 Jahre alter Schatz enthält Eisen aus dem All</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/archaeologie/ein-3.000-jahre-alter-schatz-enthaelt-eisen-aus-dem-all-133715789</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/archaeologie/ein-3.000-jahre-alter-schatz-enthaelt-eisen-aus-dem-all-133715789"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-11/ein-3.000-jahre-alter-schatz-enthaelt-eisen-aus-dem-all.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/archaeologie/Magazin-Gross/2026-11/ein-3.000-jahre-alter-schatz-enthaelt-eisen-aus-dem-all.jpg" alt="Ein 3.000 Jahre alter Schatz enthält Eisen aus dem All"/><p>Ein 3.000 Jahre alter Schatz enthält Eisen aus dem All</p>]]></content>
-    </entry>
-    <entry>
-      <title>Länder mit besonders vielen Katzen sind im Schnitt glücklicher</title>
-      <id>https://www.forschung-und-wissen.de/nachrichten/psychologie/laender-mit-besonders-vielen-katzen-sind-im-schnitt-gluecklicher-133713749</id>
-      <link rel="alternate" href="https://www.forschung-und-wissen.de/nachrichten/psychologie/laender-mit-besonders-vielen-katzen-sind-im-schnitt-gluecklicher-133713749"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/laender-mit-besonders-vielen-katzen-sind-im-schnitt-gluecklicher.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/psychologie/Magazin-Gross/2026-10/laender-mit-besonders-vielen-katzen-sind-im-schnitt-gluecklicher.jpg" alt="Länder mit besonders vielen Katzen sind im Schnitt glücklicher"/><p>Länder mit besonders vielen Katzen sind im Schnitt glücklicher</p>]]></content>
     </entry>
     <entry>
       <title>Als das Fahrrad erfunden wurde, glaubten Ärzte, es bringe Menschen um</title>
       <id>https://www.forschung-und-wissen.de/magazin/als-das-fahrrad-erfunden-wurde-glaubten-aerzte-es-bringe-menschen-um-133713301</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/als-das-fahrrad-erfunden-wurde-glaubten-aerzte-es-bringe-menschen-um-133713301"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/als-das-fahrrad-erfunden-wurde-glaubten-aerzte-es-bringe-menschen-um.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-09/als-das-fahrrad-erfunden-wurde-glaubten-aerzte-es-bringe-menschen-um.jpg" alt="Als das Fahrrad erfunden wurde, glaubten Ärzte, es bringe Menschen um"/><p>Als das Fahrrad erfunden wurde, glaubten Ärzte, es bringe Menschen um</p>]]></content>
     </entry>
@@ -77,8 +77,8 @@
       <title>Bevor es ins Fitnessstudio kam, war das Laufband eine Strafe für Häftlinge</title>
       <id>https://www.forschung-und-wissen.de/magazin/bevor-es-ins-fitnessstudio-kam-war-das-laufband-eine-strafe-fuer-haeftlinge-133715387</id>
       <link rel="alternate" href="https://www.forschung-und-wissen.de/magazin/bevor-es-ins-fitnessstudio-kam-war-das-laufband-eine-strafe-fuer-haeftlinge-133715387"/>
-      <updated>2026-11-14T11:39:50Z</updated>
-      <published>2026-11-14T11:39:50Z</published>
+      <updated>2026-11-14T18:19:51Z</updated>
+      <published>2026-11-14T18:19:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-11/bevor-es-ins-fitnessstudio-kam-war-das-laufband-eine-strafe-fuer-haeftlinge.jpg"/>
       <content type="html"><![CDATA[<img src="https://www.forschung-und-wissen.de/bilder/magazin/Magazin-Gross/2026-11/bevor-es-ins-fitnessstudio-kam-war-das-laufband-eine-strafe-fuer-haeftlinge.jpg" alt="Bevor es ins Fitnessstudio kam, war das Laufband eine Strafe für Häftlinge"/><p>Bevor es ins Fitnessstudio kam, war das Laufband eine Strafe für Häftlinge</p>]]></content>
     </entry>
