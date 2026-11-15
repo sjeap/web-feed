@@ -5,11 +5,56 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml</id>
   <link rel="alternate" href="https://www.sharedeals.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-sharedeals.xml"/>
-  <updated>2026-11-14T16:59:58Z</updated>
+  <updated>2026-11-15T11:58:13Z</updated>
   <author>
     <name>sharedeals.de – Meistgelesen &amp; Erfolgsstorys</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>BYD-Aktie: Billig genug zum Kauf?</title>
+      <id>https://www.sharedeals.de/byd-aktie-billig-genug-zum-kauf/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/byd-aktie-billig-genug-zum-kauf/"/>
+      <updated>2026-11-15T11:58:13Z</updated>
+      <published>2026-11-15T11:58:13Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/BYD-Logo-540x350.jpeg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/BYD-Logo-540x350.jpeg" alt="Bitcoin symbol spinning over financial charts with red downward arrows and market data."/><p>BYD-Aktie: Billig genug zum Kauf?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Amazon-Aktie: Auf zum Rekordhoch?</title>
+      <id>https://www.sharedeals.de/amazon-aktie-auf-zum-rekordhoch/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/amazon-aktie-auf-zum-rekordhoch/"/>
+      <updated>2026-11-15T11:25:54Z</updated>
+      <published>2026-11-15T11:25:54Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/08/Amazon-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/08/Amazon-540x350.jpg" alt="Amazon building with a Prime box and a rising upward arrow illustrating growth and success"/><p>Amazon-Aktie: Auf zum Rekordhoch?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Deutsche-Telekom-Aktie -22,6%: Musks 8-Milliarden-Deal – Bedrohung oder Geldsegen?</title>
+      <id>https://www.sharedeals.de/deutsche-telekom-aktie-226-musks-8-milliarden-deal-bedrohung-oder-geldsegen/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/deutsche-telekom-aktie-226-musks-8-milliarden-deal-bedrohung-oder-geldsegen/"/>
+      <updated>2026-11-15T10:28:22Z</updated>
+      <published>2026-11-15T10:28:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/10/Telekom-Hauptsitz-mit-fallendem-Aktienchart-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/10/Telekom-Hauptsitz-mit-fallendem-Aktienchart-540x350.jpg" alt="Deutsche-Telekom-Aktie -22,6%: Musks 8-Milliarden-Deal – Bedrohung oder Geldsegen?"/><p>Deutsche-Telekom-Aktie -22,6%: Musks 8-Milliarden-Deal – Bedrohung oder Geldsegen?</p>]]></content>
+    </entry>
+    <entry>
+      <title>SpaceX-Aktie -13,6%: Was steckt hinter Peter Thiels 17 Milliarden US$?</title>
+      <id>https://www.sharedeals.de/spacex-aktie-136-was-steckt-hinter-peter-thiels-17-milliarden-us/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/spacex-aktie-136-was-steckt-hinter-peter-thiels-17-milliarden-us/"/>
+      <updated>2026-11-15T07:40:26Z</updated>
+      <published>2026-11-15T07:40:26Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/07/SpaceX-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/07/SpaceX-540x350.jpg" alt="SpaceX rocket launch with a green upward-trending line and a red downward stock chart arc in the sky, symbolizing market recovery after a drop."/><p>SpaceX-Aktie -13,6%: Was steckt hinter Peter Thiels 17 Milliarden US$?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Evotec-Aktie mit -95% – lohnt sich jetzt der Einstieg?</title>
+      <id>https://www.sharedeals.de/evotec-aktie-mit-95-lohnt-sich-jetzt-der-einstieg/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/evotec-aktie-mit-95-lohnt-sich-jetzt-der-einstieg/"/>
+      <updated>2026-11-15T05:05:47Z</updated>
+      <published>2026-11-15T05:05:47Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/11/Evotec-540x350.jpg"/>
+      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/11/Evotec-540x350.jpg" alt="Evotec-Aktie mit -95% – lohnt sich jetzt der Einstieg?"/><p>Evotec-Aktie mit -95% – lohnt sich jetzt der Einstieg?</p>]]></content>
+    </entry>
     <entry>
       <title>Dell-Aktie: Absturz nach Enthüllungen – Kaufchance?</title>
       <id>https://www.sharedeals.de/dell-aktie-absturz-nach-enthuellungen-kaufchance/</id>
@@ -101,51 +146,6 @@
       <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/05/gold-and-black-round-emblem-9pCV2MB65y8-540x350.jpeg" alt="gold and black round emblem"/><p>Bitcoin-Kurs: Fallendes Messer oder große Kaufchance?</p>]]></content>
     </entry>
     <entry>
-      <title>Sixt-Aktie: Analysten sehen 110 € – was steckt dahinter?</title>
-      <id>https://www.sharedeals.de/sixt-aktie-analysten-sehen-110-e-was-steckt-dahinter/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/sixt-aktie-analysten-sehen-110-e-was-steckt-dahinter/"/>
-      <updated>2026-11-13T16:20:15Z</updated>
-      <published>2026-11-13T16:20:15Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/04/Artikelbilder-2-6-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/04/Artikelbilder-2-6-540x350.jpg" alt="Sixt"/><p>Sixt-Aktie: Analysten sehen 110 € – was steckt dahinter?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Merck KGaA-Aktie: Halbleiter glänzen, US-Umsatz schmilzt</title>
-      <id>https://www.sharedeals.de/merck-kgaa-aktie-halbleiter-glaenzen-us-umsatz-schmilzt/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/merck-kgaa-aktie-halbleiter-glaenzen-us-umsatz-schmilzt/"/>
-      <updated>2026-11-13T16:15:07Z</updated>
-      <published>2026-11-13T16:15:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/05/Artikelbilder-4-2-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/05/Artikelbilder-4-2-540x350.jpg" alt="Merck KGaA"/><p>Merck KGaA-Aktie: Halbleiter glänzen, US-Umsatz schmilzt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Allianz-Aktie: 1,1 Milliarden für Unwetter, und trotzdem mehr Gewinn</title>
-      <id>https://www.sharedeals.de/allianz-aktie-11-milliarden-fuer-unwetter-und-trotzdem-mehr-gewinn/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/allianz-aktie-11-milliarden-fuer-unwetter-und-trotzdem-mehr-gewinn/"/>
-      <updated>2026-11-13T15:14:10Z</updated>
-      <published>2026-11-13T15:14:10Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2024/01/Allianz_AdobeStock_414910149-540x350.jpeg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2024/01/Allianz_AdobeStock_414910149-540x350.jpeg" alt="Allianz Aktie Versicherung, Finanzen, Dienstleister"/><p>Allianz-Aktie: 1,1 Milliarden für Unwetter, und trotzdem mehr Gewinn</p>]]></content>
-    </entry>
-    <entry>
-      <title>OHB-Aktie: Wie viel Potenzial steckt im Rücksetzer?</title>
-      <id>https://www.sharedeals.de/ohb-aktie-wie-viel-potenzial-steckt-im-ruecksetzer/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/ohb-aktie-wie-viel-potenzial-steckt-im-ruecksetzer/"/>
-      <updated>2026-11-13T14:48:43Z</updated>
-      <published>2026-11-13T14:48:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/OHB-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/OHB-540x350.jpg" alt="OHB space tech campus with rocket, satellite, and Earth in the background; OHB logo on building facade."/><p>OHB-Aktie: Wie viel Potenzial steckt im Rücksetzer?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Verbio-Aktie: Heftiger Kurssturz – völlig übertrieben?</title>
-      <id>https://www.sharedeals.de/verbio-aktie-heftiger-kurssturz-voellig-uebertrieben/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/verbio-aktie-heftiger-kurssturz-voellig-uebertrieben/"/>
-      <updated>2026-11-13T14:18:36Z</updated>
-      <published>2026-11-13T14:18:36Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.sharedeals.de/wp-content/uploads/2026/09/Verbio-Logo-09-2026-540x350.jpg"/>
-      <content type="html"><![CDATA[<img src="https://www.sharedeals.de/wp-content/uploads/2026/09/Verbio-Logo-09-2026-540x350.jpg" alt="Large biofuel plant with tall stainless tanks labeled Verbio, pipelines, and a tanker truck in the foreground at sunset."/><p>Verbio-Aktie: Heftiger Kurssturz – völlig übertrieben?</p>]]></content>
-    </entry>
-    <entry>
       <title>Siemens-Aktie: Trägt das Rekordjahr jetzt noch höhere Kurse?</title>
       <id>https://www.sharedeals.de/kompakt/siemens-aktie-traegt-das-rekordjahr-jetzt-noch-hoehere-kurse/</id>
       <link rel="alternate" href="https://www.sharedeals.de/kompakt/siemens-aktie-traegt-das-rekordjahr-jetzt-noch-hoehere-kurse/"/>
@@ -225,10 +225,10 @@
       <published>2026-11-13T10:09:01Z</published>
     </entry>
     <entry>
-      <title>Rheinmetall-Aktie: Bald für unter 600 € zu haben?</title>
-      <id>https://www.sharedeals.de/rheinmetall-aktie-bald-fuer-unter-600-e-zu-haben/</id>
-      <link rel="alternate" href="https://www.sharedeals.de/rheinmetall-aktie-bald-fuer-unter-600-e-zu-haben/"/>
-      <updated>2026-11-12T16:52:34Z</updated>
-      <published>2026-11-12T16:52:34Z</published>
+      <title>Almonty-Aktie mit -68% – Korrektur oder Crash?</title>
+      <id>https://www.sharedeals.de/almonty-aktie-mit-68-korrektur-oder-crash/</id>
+      <link rel="alternate" href="https://www.sharedeals.de/almonty-aktie-mit-68-korrektur-oder-crash/"/>
+      <updated>2026-11-13T05:25:33Z</updated>
+      <published>2026-11-13T05:25:33Z</published>
     </entry>
 </feed>
