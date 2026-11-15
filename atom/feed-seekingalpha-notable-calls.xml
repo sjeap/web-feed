@@ -5,11 +5,67 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-15T08:04:32Z</updated>
+  <updated>2026-11-15T19:02:06Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>ARKF: Tech Trouble Via Microsoft &amp; The FAA - Bitcoin&apos;s Plunge Adds Pressure</title>
+      <id>4968404</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968404-arkf-tech-trouble-via-microsoft-and-the-faa-bitcoins-plunge-adds-pressure?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T19:02:06Z</updated>
+      <published>2026-11-15T19:02:06Z</published>
+    </entry>
+    <entry>
+      <title>NBOS: Why This Put Writing ETF Beats The S&amp;P 500 In Today&apos;s Volatile Markets</title>
+      <id>4968399</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968399-nbos-why-this-put-writing-etf-beats-the-s-and-p-500-in-todays-volatile-markets?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T18:36:27Z</updated>
+      <published>2026-11-15T18:36:27Z</published>
+    </entry>
+    <entry>
+      <title>SCHD: This Is Where The AI Money Is Going</title>
+      <id>4968361</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968361-schd-this-is-where-the-ai-money-is-going?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T17:00:00Z</updated>
+      <published>2026-11-15T17:00:00Z</published>
+    </entry>
+    <entry>
+      <title>ETG: Big Distribution Bump For This Monthly Payer</title>
+      <id>4968394</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968394-etg-big-distribution-bump-for-this-monthly-payer?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T16:52:44Z</updated>
+      <published>2026-11-15T16:52:44Z</published>
+    </entry>
+    <entry>
+      <title>Key deals this week: Samsung, Oura, Greenland Energy, Siemens, and more</title>
+      <id>https://seekingalpha.com/MarketCurrent:4672791</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/MOD/news?source=feed_symbol_MOD"/>
+      <updated>2026-11-15T16:31:15Z</updated>
+      <published>2026-11-15T16:31:15Z</published>
+    </entry>
+    <entry>
+      <title>Revealing My Full Portfolio: 18.27% Return In October</title>
+      <id>4968353</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968353-revealing-my-full-portfolio-18-27-percent-return-in-october?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T14:00:00Z</updated>
+      <published>2026-11-15T14:00:00Z</published>
+    </entry>
+    <entry>
+      <title>How To Protect Your Social Security Check From A 22% Cut</title>
+      <id>4968205</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968205-how-to-protect-your-social-security-check-from-22-percent-cut?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T14:00:00Z</updated>
+      <published>2026-11-15T14:00:00Z</published>
+    </entry>
+    <entry>
+      <title>EOS: An Attractive Tech-Focused Income Fund With Nearly 10% Yield</title>
+      <id>4967006</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4967006-eos-an-attractive-tech-focused-income-fund-with-nearly-10-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-15T13:30:00Z</updated>
+      <published>2026-11-15T13:30:00Z</published>
+    </entry>
     <entry>
       <title>Brazilian Stocks After The Runoff: Cheap Again, But With Rates High For Longer</title>
       <id>4968356</id>
@@ -100,62 +156,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4968103-msd-us-dollar-heavy-portfolio-likely-to-weigh-on-returns?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-14T03:33:37Z</updated>
       <published>2026-11-14T03:33:37Z</published>
-    </entry>
-    <entry>
-      <title>Diversifying Within Equities Before Diversifying Away From Them</title>
-      <id>4968107</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4968107-diversifying-within-equities-before-diversifying-away-from-them?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-14T03:10:00Z</updated>
-      <published>2026-11-14T03:10:00Z</published>
-    </entry>
-    <entry>
-      <title>GCOW: Global Defensives Have Turned Pricier As AI Loses Steam (Rating Downgrade)</title>
-      <id>4967994</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967994-gcow-global-defensives-have-turned-pricier-as-ai-loses-steam-rating-downgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-13T21:01:25Z</updated>
-      <published>2026-11-13T21:01:25Z</published>
-    </entry>
-    <entry>
-      <title>VFMF: Why The Advantage May Not Persist</title>
-      <id>4967992</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967992-vfmf-why-the-advantage-may-not-persist?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-13T20:58:51Z</updated>
-      <published>2026-11-13T20:58:51Z</published>
-    </entry>
-    <entry>
-      <title>New 2026 Lows In Gold, And The GDX ETF Is A Cautious Buy</title>
-      <id>4967972</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967972-new-2026-lows-in-gold-and-the-gdx-etf-is-a-cautious-buy?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-13T20:10:28Z</updated>
-      <published>2026-11-13T20:10:28Z</published>
-    </entry>
-    <entry>
-      <title>BBJP: While Unhedged May Favor, Still In The Firing Line</title>
-      <id>4967904</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967904-bbjp-while-unhedged-may-favour-still-in-the-firing-line?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-13T17:38:34Z</updated>
-      <published>2026-11-13T17:38:34Z</published>
-    </entry>
-    <entry>
-      <title>USMV: A Defensive ETF With Surprisingly Strong Growth Potential</title>
-      <id>4967893</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967893-usmv-a-defensive-etf-with-surprisingly-strong-growth-potential?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-13T17:24:39Z</updated>
-      <published>2026-11-13T17:24:39Z</published>
-    </entry>
-    <entry>
-      <title>XQQI: The Selloff That Shrank The Check Is The Setup This Fund Was Built For</title>
-      <id>4967891</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967891-xqqi-the-selloff-that-shrank-the-check-is-the-setup-this-fund-was-built-for?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-13T17:19:44Z</updated>
-      <published>2026-11-13T17:19:44Z</published>
-    </entry>
-    <entry>
-      <title>From radiators to riches: Modine&apos;s data center pivot makes it an attractive target</title>
-      <id>https://seekingalpha.com/MarketCurrent:4672369</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/MOD/news?source=feed_symbol_MOD"/>
-      <updated>2026-11-13T16:32:14Z</updated>
-      <published>2026-11-13T16:32:14Z</published>
     </entry>
     <entry>
       <title>Enel SpA reports 9M results</title>
