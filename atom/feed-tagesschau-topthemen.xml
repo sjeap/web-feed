@@ -5,54 +5,54 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-16T10:40:18Z</updated>
+  <updated>2026-11-16T11:51:22Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>EU gibt UniCredit grünes Licht für Commerzbank-Übernahme</title>
+      <id>https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"/>
+      <updated>2026-11-16T11:51:22Z</updated>
+      <published>2026-11-16T11:51:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1280" alt="EU gibt UniCredit grünes Licht für Commerzbank-Übernahme"/><p>EU gibt UniCredit grünes Licht für Commerzbank-Übernahme</p>]]></content>
+    </entry>
+    <entry>
       <title>UN verhandeln Regeln zum Einsatz autonomer Waffensysteme</title>
       <id>https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html"/>
-      <updated>2026-11-16T10:40:18Z</updated>
-      <published>2026-11-16T10:40:18Z</published>
+      <updated>2026-11-16T11:51:22Z</updated>
+      <published>2026-11-16T11:51:22Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1280" alt="UN verhandeln Regeln zum Einsatz autonomer Waffensysteme"/><p>UN verhandeln Regeln zum Einsatz autonomer Waffensysteme</p>]]></content>
     </entry>
     <entry>
-      <title>Missglückter Raketenstart: Amazon verliert 40 Satelliten</title>
-      <id>https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html"/>
-      <updated>2026-11-16T10:40:18Z</updated>
-      <published>2026-11-16T10:40:18Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1280" alt="Missglückter Raketenstart: Amazon verliert 40 Satelliten"/><p>Missglückter Raketenstart: Amazon verliert 40 Satelliten</p>]]></content>
+      <title>Bundesrechnungshof beklagt Planungsmängel bei der Deutschen Bahn</title>
+      <id>https://www.tagesschau.de/wirtschaft/unternehmen/rechnungshof-bahn-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/rechnungshof-bahn-100.html"/>
+      <updated>2026-11-16T11:51:22Z</updated>
+      <published>2026-11-16T11:51:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/74e9b1f8-3599-45a6-a08d-37c4cf10089f/AAABoePRwP0/AAABnSSvrFg/16x9-big/bahn-baustelle-110.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/74e9b1f8-3599-45a6-a08d-37c4cf10089f/AAABoePRwP0/AAABnSSvrFg/16x9-big/bahn-baustelle-110.jpg?width=1280" alt="Bundesrechnungshof beklagt Planungsmängel bei der Deutschen Bahn"/><p>Bundesrechnungshof beklagt Planungsmängel bei der Deutschen Bahn</p>]]></content>
     </entry>
     <entry>
       <title>Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback</title>
       <id>https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-chefposten-100.html"/>
-      <updated>2026-11-16T10:40:18Z</updated>
-      <published>2026-11-16T10:40:18Z</published>
+      <updated>2026-11-16T11:51:22Z</updated>
+      <published>2026-11-16T11:51:22Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/aa0f8d48-38c2-4005-a1bc-2376cee7f6ef/AAABoeMV4y8/AAABnSSvrFg/16x9-big/jensen-huang-110.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/aa0f8d48-38c2-4005-a1bc-2376cee7f6ef/AAABoeMV4y8/AAABnSSvrFg/16x9-big/jensen-huang-110.jpg?width=1280" alt="Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback"/><p>Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback</p>]]></content>
     </entry>
     <entry>
-      <title>Spionage-Ermittlungen: Wie gelangten die Geheimpapiere aus dem BND?</title>
-      <id>https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/investigativ/ndr-wdr/bnd-hanning-108.html"/>
-      <updated>2026-11-16T10:40:18Z</updated>
-      <published>2026-11-16T10:40:18Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/848f317b-2b68-4d68-978c-5b736745df32/AAABoRVo1Pk/AAABnSSvrFg/16x9-big/hanning-124.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/848f317b-2b68-4d68-978c-5b736745df32/AAABoRVo1Pk/AAABnSSvrFg/16x9-big/hanning-124.jpg?width=1280" alt="Spionage-Ermittlungen: Wie gelangten die Geheimpapiere aus dem BND?"/><p>Spionage-Ermittlungen: Wie gelangten die Geheimpapiere aus dem BND?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Söder hält Stromsteuersenkung doch noch für möglich</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html"/>
-      <updated>2026-11-16T10:40:18Z</updated>
-      <published>2026-11-16T10:40:18Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1280" alt="Söder hält Stromsteuersenkung doch noch für möglich"/><p>Söder hält Stromsteuersenkung doch noch für möglich</p>]]></content>
+      <title>Missglückter Raketenstart: Amazon verliert 40 Satelliten</title>
+      <id>https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html"/>
+      <updated>2026-11-16T11:51:22Z</updated>
+      <published>2026-11-16T11:51:22Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1280" alt="Missglückter Raketenstart: Amazon verliert 40 Satelliten"/><p>Missglückter Raketenstart: Amazon verliert 40 Satelliten</p>]]></content>
     </entry>
 </feed>
