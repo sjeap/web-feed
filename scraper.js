@@ -2,6 +2,22 @@
  * scraper.js — Matrix-fähig (robuste Variante, v4)
  * Aufruf: node scraper.js <site-id>
  *
+ * Neu in v10:
+ *  • Feed-Limit 25 → 20 Einträge, für JEDEN Feed/jede Engine (MAX_FEED_ITEMS).
+ *    Kandidaten pro Quelle 25 → 40 (MAX_SOURCE_ITEMS).
+ *  • Der Quell-Cap zählt nur noch Items, die den Dedup (Link, dann Titel)
+ *    überleben: die Parser prüfen beide Schlüssel — innerhalb der Quelle UND
+ *    gegen die früheren Quellen des Laufs — BEVOR ein Item angerechnet wird,
+ *    und lesen sonst weiter. Vorher verbrauchte ein später verworfenes Item
+ *    einen Cap-Platz (Feed konnte < 20 bleiben, obwohl die Quelle mehr hatte).
+ *  • Abgleich mit dem letzten Feed-Stand: gibt es nach Dedup + Sort MEHR als 20
+ *    Kandidaten, werden die Einträge gegengeprüft, die aus dem LETZTEN Lauf im
+ *    Feed-XML stehen. Kandidaten, die dort schon vorkommen (Link, Titel oder
+ *    <id>), werden exkludiert und machen Platz für solche, die dort nicht
+ *    standen; freie Restplätze füllen die neuesten Dubletten wieder auf.
+ *    ≤ 20 Kandidaten: kein Abgleich, Verhalten wie bisher.
+ *    Siehe readPreviousEntries / limitFeedItems.
+ *
  * Neu in v6:
  *  • Optionale Detail-Anreicherung: fehlt das Datum im Listing, holt der Scraper
  *    es von der Artikelseite. Felder `detailDateSelector` (Regex, Gruppe 1) und
@@ -67,6 +83,18 @@ const { URL } = require("url");
 
 const SITES_FILE    = path.join(__dirname, "sites.json");
 const FEED_BASE_URL = "https://sjeap.github.io/web-feed/";
+
+// Limits (gelten für alle Feeds):
+//  • MAX_FEED_ITEMS   — max. Einträge im ausgelieferten Feed-XML.
+//  • MAX_SOURCE_ITEMS — max. Kandidaten, die eine Quelle beisteuert (vor
+//    Sortierung und Feed-Limit). Gezählt werden nur Items, die den Dedup
+//    überleben (siehe makeSourceDedup). Bewusst 2 × MAX_FEED_ITEMS:
+//    das letzte XML hat höchstens 20 Einträge, der Abgleich (limitFeedItems)
+//    kann also im Regelfall höchstens 20 Kandidaten als Dublette exkludieren —
+//    liefert eine Quelle ihre 40, bleiben danach immer noch 20 Nicht-Dubletten
+//    und der Feed wird ohne Auffüll-Dubletten voll.
+const MAX_FEED_ITEMS   = 20;
+const MAX_SOURCE_ITEMS = 40;
 
 // ── Site-ID aus Argument lesen ──
 const siteId = process.argv[2];
@@ -786,7 +814,7 @@ function buildTagesschauCarouselItems(html, site) {
     // guid bewusst NICHT gesetzt → buildAtom nutzt link als <id> (gültiges IRI).
     // Die Artikel-URL ist eindeutig/stabil; kein Datums-Scoping wie bei CNN.
     items.push({ title, link, pubDate, imgSrc, imgAlt, mimeType });
-    if (items.length >= 25) break;
+    if (items.length >= MAX_SOURCE_ITEMS) break;
   }
 
   return items;
@@ -990,11 +1018,30 @@ function parseFlexibleDate(str) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// Dedup beim Lesen (neu in v10)
+// ─────────────────────────────────────────────────────────────────────
+// Ein Prüfer pro Parser-Durchlauf. Dublette = gleicher Titel ODER gleicher Link
+// — gegen die bereits übernommenen Items DIESER Quelle und gegen `taken`, den
+// Dedup-Stand der früheren Quellen des Laufs ({ link:Set, title:Set }, wird
+// hier nur gelesen). Die Parser fragen ihn, BEVOR sie ein Item auf
+// MAX_SOURCE_ITEMS anrechnen: der Quell-Cap zählt damit ausschließlich Items,
+// die den Dedup überleben; für jede Dublette liest der Parser eins weiter.
+// Ein verworfenes Item reserviert nichts (weder Titel noch Link).
+function makeSourceDedup(taken) {
+  const links = new Set(), titles = new Set();
+  return {
+    titleTaken: (t) => titles.has(t) || (!!taken && taken.title.has(t)),
+    linkTaken:  (l) => links.has(l)  || (!!taken && taken.link.has(l)),
+    add:        (t, l) => { titles.add(t); links.add(l); },
+  };
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Haupt-Parser
 // ─────────────────────────────────────────────────────────────────────
-function parseHeadlines(html, site, baseUrl = site.url) {
+function parseHeadlines(html, site, baseUrl = site.url, taken = null) {
   const items = [];
-  const seen  = new Set();
+  const dedup = makeSourceDedup(taken);
 
   // v4: optionales Container-Slicing vor dem Split
   const scoped = sliceContainer(html, site.containerStart, site.containerEnd);
@@ -1044,11 +1091,10 @@ function parseHeadlines(html, site, baseUrl = site.url) {
       continue;
     }
 
-    if (seen.has(title)) {
+    if (dedup.titleTaken(title)) {
       stats.deduped++;
       continue;
     }
-    seen.add(title);
 
     const linkMatch = site.linkSelector ? new RegExp(site.linkSelector).exec(block) : null;
     const rawLink   = linkMatch ? linkMatch[1] : null;
@@ -1057,6 +1103,14 @@ function parseHeadlines(html, site, baseUrl = site.url) {
         ? rawLink
         : new URL(rawLink, baseUrl).href
       : baseUrl;
+
+    // Zweiter Dedup-Schlüssel (anderer Titel, gleiche URL) — ebenfalls VOR dem
+    // Anrechnen auf den Quell-Cap, nicht erst später in main().
+    if (dedup.linkTaken(fullLink)) {
+      stats.deduped++;
+      continue;
+    }
+    dedup.add(title, fullLink);
 
     const dateStr = extractText(block, site.dateSelector);
     const pubDate = parseFlexibleDate(dateStr);
@@ -1078,7 +1132,7 @@ function parseHeadlines(html, site, baseUrl = site.url) {
       imgAlt:  imgAlt || title,
     });
 
-    if (items.length >= 25) break;
+    if (items.length >= MAX_SOURCE_ITEMS) break;
   }
 
   console.log(
@@ -1115,9 +1169,9 @@ function feedAttr(block, tag, attr) {
   return m ? m[1] : null;
 }
 
-function parseFeedXml(xml, site, baseUrl) {
+function parseFeedXml(xml, site, baseUrl, taken = null) {
   const items = [];
-  const seen  = new Set();
+  const dedup = makeSourceDedup(taken);
 
   // RSS <item> bevorzugt; ohne Treffer Atom <entry>. parts[0] = Kanal-Header
   // (vor dem ersten Eintrag) und wird übersprungen.
@@ -1167,8 +1221,9 @@ function parseFeedXml(xml, site, baseUrl) {
       ? (rawLink.startsWith("http") ? rawLink : new URL(rawLink, baseUrl).href)
       : baseUrl;
 
-    if (seen.has(fullLink)) { stats.deduped++; continue; }
-    seen.add(fullLink);
+    // Beide Dedup-Schlüssel VOR dem Anrechnen auf den Quell-Cap (siehe makeSourceDedup).
+    if (dedup.linkTaken(fullLink) || dedup.titleTaken(title)) { stats.deduped++; continue; }
+    dedup.add(title, fullLink);
 
     // Datum: RSS <pubDate>, Atom <published>/<updated>, sonst <dc:date>.
     const dateStr =
@@ -1207,7 +1262,7 @@ function parseFeedXml(xml, site, baseUrl) {
     }
 
     items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt: title, guid });
-    if (items.length >= 25) break;
+    if (items.length >= MAX_SOURCE_ITEMS) break;
   }
 
   console.log(
@@ -1282,6 +1337,18 @@ function escapeXml(str) {
     .replace(/'/g,  "&apos;");
 }
 
+// Exakte Umkehrung von escapeXml (nur die fünf XML-Entities). &amp; bewusst
+// ZULETZT: sonst würde ein im Original wörtliches "&lt;" (im XML "&amp;lt;")
+// doppelt dekodiert und der Vergleich mit dem Roh-Titel/-Link schlüge fehl.
+function unescapeXml(str) {
+  return (str || "")
+    .replace(/&lt;/g,   "<")
+    .replace(/&gt;/g,   ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&amp;/g,  "&");
+}
+
 // Atom verlangt date-time nach RFC 3339. Akzeptiert RFC-822-Strings
 // (toUTCString), ISO-Strings oder Date; gibt "YYYY-MM-DDTHH:MM:SSZ" zurück.
 function toRfc3339(input) {
@@ -1345,10 +1412,108 @@ function buildAtom(items, site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// Feed-Limit + Abgleich mit dem letzten Feed-Stand (neu in v10)
+// ─────────────────────────────────────────────────────────────────────
+// Liest die Einträge, die AKTUELL im Feed-XML stehen — also den Stand aus dem
+// letzten Lauf (im Workflow: der ausgecheckte, zuletzt committete Feed). Muss
+// vor dem Überschreiben der Datei aufgerufen werden. Gibt pro <entry> die drei
+// Identitätsmerkmale zurück, die buildAtom schreibt: <title>, <id> und
+// <link rel="alternate">. Fehlt die Datei (neuer Feed) oder ist sie nicht
+// lesbar → [] (dann gibt es schlicht nichts gegenzuprüfen, kein Abbruch).
+function readPreviousEntries(file) {
+  let xml;
+  try {
+    xml = fs.readFileSync(file, "utf8");
+  } catch (e) {
+    return [];
+  }
+
+  const out   = [];
+  const parts = xml.split(/<entry\b/i);   // parts[0] = Feed-Header
+  for (let i = 1; i < parts.length; i++) {
+    const block = parts[i];
+    const alt   = /<link\b[^>]*\brel="alternate"[^>]*\bhref="([^"]*)"/i.exec(block)
+               || /<link\b[^>]*\bhref="([^"]*)"[^>]*\brel="alternate"/i.exec(block);
+    const entry = {
+      title: unescapeXml(feedField(block, "title") || "").trim(),
+      id:    unescapeXml(feedField(block, "id")    || "").trim(),
+      link:  alt ? unescapeXml(alt[1]).trim() : "",
+    };
+    if (entry.title || entry.id || entry.link) out.push(entry);
+  }
+  return out;
+}
+
+// Kappt `candidates` auf MAX_FEED_ITEMS. Erwartet die Kandidaten bereits
+// dedupliziert und in Feed-Reihenfolge (neueste zuerst); diese Reihenfolge
+// bleibt im Ergebnis erhalten.
+//
+//  • ≤ MAX_FEED_ITEMS Kandidaten: nichts zu tun, KEIN Abgleich.
+//  • Überhang (> MAX_FEED_ITEMS): jeder Kandidat wird gegen `prev` (Einträge
+//    aus dem letzten Lauf) geprüft. Dublette = gleicher Link ODER gleicher
+//    Titel ODER gleiche <id> — dieselben Kriterien wie der Cross-Source-Dedup,
+//    plus die Atom-ID. Dubletten werden exkludiert; die Plätze gehen an die
+//    neuesten Kandidaten, die NICHT im letzten XML standen.
+//  • Auffüllen: bleiben danach Plätze frei (weniger als MAX_FEED_ITEMS
+//    Nicht-Dubletten), rücken die neuesten Dubletten wieder nach. Sonst würde
+//    der Feed schrumpfen bzw. — wenn ALLE Kandidaten schon im letzten XML
+//    standen — leer bleiben und das Limit nie greifen.
+//
+// Gedächtnis ist ausschließlich das letzte XML: "nicht im letzten XML" heißt
+// NICHT "noch nie ausgeliefert". Ein hier exkludiertes Item steht im nächsten
+// Lauf nicht mehr drin und zählt dann wieder als Nicht-Dublette. Feeds mit
+// dauerhaftem Überhang rotieren daher von Lauf zu Lauf (siehe README).
+function limitFeedItems(candidates, prev) {
+  if (candidates.length <= MAX_FEED_ITEMS) return candidates;
+
+  if (!prev.length) {
+    console.log(
+      `   ✂ Limit ${MAX_FEED_ITEMS}: ${candidates.length} Kandidaten → ${MAX_FEED_ITEMS} ` +
+      `(kein letzter Feed-Stand vorhanden, kein Abgleich)`
+    );
+    return candidates.slice(0, MAX_FEED_ITEMS);
+  }
+
+  const prevLink = new Set(), prevTitle = new Set(), prevId = new Set();
+  for (const p of prev) {
+    if (p.link)  prevLink.add(p.link);
+    if (p.title) prevTitle.add(p.title);
+    if (p.id)    prevId.add(p.id);
+  }
+  const isDupe = (it) =>
+    prevLink.has(it.link) ||
+    prevTitle.has((it.title || "").trim()) ||
+    prevId.has(it.guid || it.link);
+
+  // unseen = stand NICHT im letzten XML; dupes = stand dort schon.
+  const unseen = [], dupes = [];
+  for (const it of candidates) (isDupe(it) ? dupes : unseen).push(it);
+
+  const keptUnseen = unseen.slice(0, MAX_FEED_ITEMS);
+  const refill     = dupes.slice(0, MAX_FEED_ITEMS - keptUnseen.length);
+  const keep       = new Set([...keptUnseen, ...refill]);
+
+  console.log(
+    `   🔁 Limit ${MAX_FEED_ITEMS}: ${candidates.length} Kandidaten · Abgleich mit letztem Feed-Stand ` +
+    `(${prev.length} Einträge): ${dupes.length} Dubletten, ${unseen.length} nicht im letzten XML → ` +
+    `${keptUnseen.length} übernommen, ${dupes.length - refill.length} Dubletten exkludiert` +
+    (refill.length ? `, ${refill.length} Dubletten zum Auffüllen behalten` : "") +
+    (unseen.length > keptUnseen.length ? `, ${unseen.length - keptUnseen.length} weitere über Limit` : "")
+  );
+
+  return candidates.filter((it) => keep.has(it));
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Main
 // ─────────────────────────────────────────────────────────────────────
 async function main() {
   console.log(`[${new Date().toISOString()}] [${site.id}] Start ...`);
+
+  // Feed-Stand aus dem LETZTEN Lauf einlesen, bevor in diesem Lauf irgendetwas
+  // geschrieben wird — Grundlage für den Dubletten-Abgleich in limitFeedItems.
+  const outputFile  = path.join(__dirname, site.output);
+  const prevEntries = readPreviousEntries(outputFile);
 
   let items;
 
@@ -1393,8 +1558,13 @@ async function main() {
     //    Feed eine JS-HTML-Seite und viele RSS-Feeds mischen (seekingalpha).
     //    Ohne `urls`/`tickers` bleibt es beim Single-URL-HTML-Verhalten.
     const sources = buildSourceList(site);
-    const merged  = [];
     let lastRaw   = "";
+    // Lauf-weiter Dedup-Stand über ALLE Quellen (Link, dann Titel). Die Parser
+    // prüfen dagegen, bevor sie ein Item auf den Quell-Cap anrechnen (siehe
+    // makeSourceDedup) — `items` enthält nach der Schleife also bereits die
+    // quellübergreifend deduplizierten Kandidaten.
+    const taken = { link: new Set(), title: new Set() };
+    items = [];
     // Innerhalb EINES Laufs identische Quellen (gleiche URL + Engine) nur einmal
     // laden. Nötig, wenn ein Feed dieselbe Seite mehrfach mit unterschiedlichem
     // Container-Schnitt parst (sharedeals: EINE Startseite → zwei Abschnitte);
@@ -1419,10 +1589,20 @@ async function main() {
         // Site-Config = Site ∪ Overrides. Ohne Overrides bleibt die Site selbst.
         const effSite = src.overrides ? { ...site, ...src.overrides } : site;
         const part = src.parser === "rss"
-          ? parseFeedXml(raw, effSite, src.url)
-          : parseHeadlines(raw, effSite, src.url);
+          ? parseFeedXml(raw, effSite, src.url, taken)
+          : parseHeadlines(raw, effSite, src.url, taken);
         console.log(`   → ${part.length} Item(s) aus ${src.url}`);
-        merged.push(...part);
+        // Erst NACH erfolgreichem Parsen in den Dedup-Stand übernehmen: bricht ein
+        // Parser mittendrin ab (Quelle wird übersprungen), blockieren seine halb
+        // gelesenen Items keine späteren Quellen. Die Prüfung hier ist nur noch
+        // ein Sicherheitsnetz — die Parser liefern bereits ausschließlich
+        // Überlebende.
+        for (const it of part) {
+          if (taken.link.has(it.link) || taken.title.has(it.title)) continue;
+          taken.link.add(it.link);
+          taken.title.add(it.title);
+          items.push(it);
+        }
       } catch (err) {
         // Einzelne Quelle (Timeout, tote Proxy-Exit-IP, Anti-Bot-Block, Netz-
         // fehler) darf den gesamten Feed-Lauf NICHT abbrechen — überspringen.
@@ -1430,21 +1610,16 @@ async function main() {
       }
     }
 
-    // Cross-Source-Dedup (Link zuerst, dann Titel), neueste zuerst sortiert, Cap 25.
-    const seenLink  = new Set();
-    const seenTitle = new Set();
-    items = [];
-    for (const it of merged) {
-      if (seenLink.has(it.link) || seenTitle.has(it.title)) continue;
-      seenLink.add(it.link);
-      seenTitle.add(it.title);
-      items.push(it);
-    }
+    // Kandidaten sind bereits dedupliziert (Link, dann Titel — beim Lesen, s. o.).
+    // Neueste zuerst sortieren, dann Feed-Limit. Bei Überhang (> MAX_FEED_ITEMS
+    // Kandidaten) prüft limitFeedItems gegen die Einträge aus dem letzten Lauf
+    // und exkludiert Dubletten.
     items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
-    if (items.length > 25) items = items.slice(0, 25);
+    const dedupedCount = items.length;
+    items = limitFeedItems(items, prevEntries);
 
     // Optionale Detail-Anreicherung: Datum von der Artikelseite holen, wenn es im
-    // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH dem Cap → nur für die final
+    // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH dem Limit → nur für die final
     // ausgelieferten Items wird ein Zweit-Fetch gemacht. Pro-Item fault-isoliert;
     // schlägt der Detail-Fetch fehl (Block/Timeout), bleibt das bisherige pubDate.
     if ((site.detailDateSelector || site.detailImageSelector) && items.length) {
@@ -1482,7 +1657,7 @@ async function main() {
     }
 
     if (sources.length > 1) {
-      console.log(`   🧩 Aggregiert: ${sources.length} Quellen · ${merged.length} → ${items.length} Item(s) (dedupliziert, sortiert)`);
+      console.log(`   🧩 Aggregiert: ${sources.length} Quellen · ${dedupedCount} Kandidaten (quellübergreifend dedupliziert) → ${items.length} Item(s) (sortiert, Limit ${MAX_FEED_ITEMS})`);
     }
 
     if (items.length === 0) {
@@ -1501,7 +1676,11 @@ async function main() {
     process.exit(2);
   }
 
-  const outputFile = path.join(__dirname, site.output);
+  // Feed-Limit für ALLE Engines. Der Standard-Pfad hat es bereits vor dem
+  // Detail-Fetch angewandt (hier dann No-op); greift für die Sonder-Engines
+  // (cnn-fear-greed, tagesschau-carousel) und jede künftige.
+  items = limitFeedItems(items, prevEntries);
+
   fs.mkdirSync(path.dirname(outputFile), { recursive: true });   // Output-Ordner (z.B. atom/) anlegen
   fs.writeFileSync(outputFile, buildAtom(items, site), "utf8");
   console.log(`✅ [${site.id}] ${items.length} Item(s) → ${site.output}`);

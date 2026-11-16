@@ -35,7 +35,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Selektoren, deutsche Datumsformate.
 
 ### `visualcapitalist` → `atom/feed-visualcapitalist.xml`
-- **Aggregiert zwei Quellen** in EINEN Feed (dedupliziert über Link/Titel, sortiert, Cap 25):
+- **Aggregiert zwei Quellen** in EINEN Feed (dedupliziert über Link/Titel, sortiert, Limit 20):
   1. Startseite (HTML, `engine: browser`) — `containerStart`/`containerEnd` schneiden den
      relevanten HTML-Bereich **vor** dem `teaserSplit` heraus, damit keine Sidebar-Teaser
      im Feed landen.
@@ -57,7 +57,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 
 ### `seekingalpha-notable-calls` → `atom/feed-seekingalpha-notable-calls.xml`
 - **Aggregiert mehrere Quellen** in EINEN Feed (dedupliziert über Link/Titel, nach Datum
-  sortiert, auf 25 Items gekappt):
+  sortiert, auf 20 Items limitiert):
   1. `market-news/notable-calls` — die ursprüngliche JS-Seite (HTML, `engine: browser`).
   2. `tag/etf-portfolio-strategy.xml` — Tag-Feed (RSS, `engine: https`, `parser: rss`).
   3. je ein SeekingAlpha-**combined**-Feed pro Ticker der Watchlist unten (RSS, `https`,
@@ -94,7 +94,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   TLS, Erfolg nicht garantiert). Siehe [Residential-Proxy](#residential-proxy-dataimpulse).
 - **Eigenheit:** Einziger Feed mit dem optionalen `urls`-Array (Schwerpunkte, ETF, Aktien):
   drei Sub-Seiten, ein Feed. Ergebnisse werden über alle Quellen dedupliziert (Link, dann
-  Titel), nach Datum sortiert, auf 25 gekappt. `url` bleibt die kanonische Seite; die
+  Titel), nach Datum sortiert, auf 20 limitiert. `url` bleibt die kanonische Seite; die
   Scrape-Ziele stehen in `urls`. Deutsches Datum „Am 03. Juli 2026 um 17:13 Uhr".
 - **Quellen-Filter:** `excludeIf: "alphavalue"` verwirft alle Items mit dem „AlphaValue"-Label
   (Provider-Icon rechts neben dem Timestamp). Items ohne Label oder mit anderer Quelle (z. B.
@@ -129,14 +129,14 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   `data-testid="SummaryItemHed"`, Link = absolute `…/artikel/…`-URL.
 - **Datum via Detail-Fetch:** Das Tag-Listing hat kein Datum, daher holt der Scraper es pro Artikel
   (`detailDateSelector` liest die ISO-`datetime` des `ContentHeaderPublishDate`-`<time>`). Läuft nach
-  dem Cap, pro-Artikel fault-isoliert; Datum ist SSR → `detailEngine: "https"` (Wohn-IP statt Browser).
+  dem Limit, pro-Artikel fault-isoliert; Datum ist SSR → `detailEngine: "https"` (Wohn-IP statt Browser).
 - **Runtime-Vorbehalt (Bot-Block):** Selektoren stimmen, offen ist der **Zugriff** — AD blockt
   CI-/Datacenter-IPs (wie SeekingAlpha/MarketScreener). Bei Block bleibt der Feed leer (Exit 2 →
   Snapshot); zuverlässig wäre eine ScrapingBee-Engine (hier nicht verdrahtet).
 
 ### `sharedeals` → `atom/feed-sharedeals.xml`
 - **Aggregiert zwei Abschnitte DERSELBEN Startseite** in EINEN Feed (dedupliziert über Link/Titel,
-  nach Datum sortiert, Cap 25). Beide Quellen stehen im `urls`-Array und zeigen auf dieselbe `url`
+  nach Datum sortiert, Limit 20). Beide Quellen stehen im `urls`-Array und zeigen auf dieselbe `url`
   (`proxyCountry: de`, WordPress/Thrive, server-gerendert); die Seite wird pro Lauf nur **einmal**
   geladen (Fetch-Cache) und zweimal unterschiedlich geschnitten:
   1. **Meistgelesen** — `containerStart`/`containerEnd` isolieren die `ol.article-list-ranked`
@@ -163,7 +163,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   darunter liegenden `magazin articlelist`. Beide teilen dieselbe innere Struktur, daher wird an
   **`<picture>`** gesplittet (hält Bild + Titel im selben Block) und mit **einem** Selektor-Satz
   geparst: Titel `<h3 class="headline"><a>…`, `linkSelector` host-optional auf `…/nachrichten/…`
-  bzw. `…/magazin/…`. Cap 25 (aktuell ~8 Items).
+  bzw. `…/magazin/…`. Limit 20 (aktuell ~8 Items).
 - **Bild:** `<img src>` (Fallback `data-src`); relative `/bilder/…`-Pfade werden gegen die
   Quelle absolutiert (siehe Default-Engine-Hinweis). **Kein Datum** im Block → `pubDate` =
   Laufzeit, Dedup der Reader über den stabilen Link.
@@ -193,6 +193,21 @@ Feed HTML- und RSS-Quellen mischen kann (`seekingalpha`).
 `de-DE`). Datumsangaben werden nach RFC 3339 ausgegeben (`<updated>`/`<published>`); der
 Datumsparser deckt deutsche, englische (inkl. Ordinal), relative ("5 hours ago") und reine
 Uhrzeit-Formate ab.
+
+## Feed-Limit & Abgleich mit dem letzten Lauf
+
+- **Limit:** höchstens **20 Einträge** pro Feed (`MAX_FEED_ITEMS`, alle Engines). Jede Quelle
+  steuert bis zu **40 Kandidaten** bei (`MAX_SOURCE_ITEMS`); gezählt werden nur Items, die den
+  Dedup überleben (Link, dann Titel — in der Quelle und gegen frühere Quellen des Laufs).
+- **Abgleich bei > 20 Kandidaten:** Kandidaten, die schon im Feed-XML des **letzten Laufs**
+  stehen (gleicher Link, Titel oder `<id>`), werden exkludiert; die 20 Plätze gehen an die
+  neuesten übrigen. Bleiben weniger als 20, füllen die neuesten Dubletten auf. Bei ≤ 20
+  Kandidaten oder fehlendem XML: kein Abgleich.
+- **Folge:** Gedächtnis ist nur das letzte XML — ein exkludiertes Item zählt im nächsten Lauf
+  wieder als neu. Feeds mit dauerhaftem Überhang **rotieren** daher pro Lauf: ab 40 Kandidaten
+  komplett zwischen zwei 20er-Sätzen (typisch Plätze 1–20 ↔ 21–40), darunter nur am Feed-Ende.
+  Das XML ändert sich dann in jedem Lauf; der Reader muss mindestens einmal pro Lauf-Intervall
+  (aktuell 12 h) synchronisieren, um nichts zu verpassen.
 
 ## Neue Quelle hinzufügen
 
@@ -228,7 +243,8 @@ Timestamp (bei `marketscreener` das „AlphaValue"-Label). Beide Regexes matchen
 
 Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
 aggregiert**: jede URL wird geparst, die Ergebnisse werden über alle Quellen dedupliziert
-(Link, dann Titel), nach Datum sortiert und auf 25 Items gekappt. Ohne `urls` bleibt es beim
+(Link, dann Titel), nach Datum sortiert und auf 20 Items limitiert (siehe
+[Feed-Limit](#feed-limit--abgleich-mit-dem-letzten-lauf)). Ohne `urls` bleibt es beim
 Single-URL-Verhalten via `url` (siehe `marketscreener`).
 
 Ein `urls`-Eintrag darf ein **String** sein (nutzt `engine`/`parser` der Site) oder ein
