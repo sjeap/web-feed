@@ -196,18 +196,20 @@ Uhrzeit-Formate ab.
 
 ## Feed-Limit & Abgleich mit dem letzten Lauf
 
-- **Limit:** höchstens **20 Einträge** pro Feed (`MAX_FEED_ITEMS`, alle Engines). Jede Quelle
-  steuert bis zu **40 Kandidaten** bei (`MAX_SOURCE_ITEMS`); gezählt werden nur Items, die den
-  Dedup überleben (Link, dann Titel — in der Quelle und gegen frühere Quellen des Laufs).
-- **Abgleich bei > 20 Kandidaten:** Kandidaten, die schon im Feed-XML des **letzten Laufs**
-  stehen (gleicher Link, Titel oder `<id>`), werden exkludiert; die 20 Plätze gehen an die
-  neuesten übrigen. Bleiben weniger als 20, füllen die neuesten Dubletten auf. Bei ≤ 20
-  Kandidaten oder fehlendem XML: kein Abgleich.
-- **Folge:** Gedächtnis ist nur das letzte XML — ein exkludiertes Item zählt im nächsten Lauf
-  wieder als neu. Feeds mit dauerhaftem Überhang **rotieren** daher pro Lauf: ab 40 Kandidaten
-  komplett zwischen zwei 20er-Sätzen (typisch Plätze 1–20 ↔ 21–40), darunter nur am Feed-Ende.
-  Das XML ändert sich dann in jedem Lauf; der Reader muss mindestens einmal pro Lauf-Intervall
-  (aktuell 12 h) synchronisieren, um nichts zu verpassen.
+- **Pool:** Jeder Lauf liest alle Quellen des Feeds (jede URL, API oder jedes RSS-Target ist eine
+  Quelle; je bis zu **40 Kandidaten**, `MAX_SOURCE_ITEMS`, gezählt nach Dedup innerhalb der
+  Quelle). Alle Kandidaten kommen in einen Pool und werden dort dedupliziert (Link, dann Titel);
+  ein Duplikat zählt für jede seiner Quellen als Treffer.
+- **Abgleich:** Items, die schon im Feed-XML des **letzten Laufs** stehen (gleicher Link, Titel
+  oder `<id>`), fallen aus dem Pool.
+- **Auswahl, höchstens 20** (`MAX_FEED_ITEMS`): erst 1 Item je Quelle (ihr neuestes), dann ein
+  zweites je Quelle (`SOURCE_QUOTA`), dann die neuesten übrigen. Reichen die Plätze nicht für
+  alle Quellen, gewinnen die neuesten; eine Quelle ohne Item im Rest-Pool fällt aus. Bleibt der
+  Feed unter 20, füllen die abgezogenen Items nach derselben Regel auf.
+- **Folge:** Gedächtnis ist nur das letzte XML — ein abgezogenes Item zählt im nächsten Lauf
+  wieder als neu. Feeds mit Pool > 20 **rotieren** daher pro Lauf, das XML ändert sich jedes
+  Mal; der Reader muss mindestens einmal pro Lauf-Intervall (aktuell 12 h) synchronisieren. Hat
+  ein Feed 20 oder mehr Quellen mit Items, bekommt jede höchstens einen Platz.
 
 ## Neue Quelle hinzufügen
 

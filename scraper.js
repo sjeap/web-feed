@@ -3,20 +3,19 @@
  * Aufruf: node scraper.js <site-id>
  *
  * Neu in v10:
- *  • Feed-Limit 25 → 20 Einträge, für JEDEN Feed/jede Engine (MAX_FEED_ITEMS).
- *    Kandidaten pro Quelle 25 → 40 (MAX_SOURCE_ITEMS).
- *  • Der Quell-Cap zählt nur noch Items, die den Dedup (Link, dann Titel)
- *    überleben: die Parser prüfen beide Schlüssel — innerhalb der Quelle UND
- *    gegen die früheren Quellen des Laufs — BEVOR ein Item angerechnet wird,
- *    und lesen sonst weiter. Vorher verbrauchte ein später verworfenes Item
- *    einen Cap-Platz (Feed konnte < 20 bleiben, obwohl die Quelle mehr hatte).
- *  • Abgleich mit dem letzten Feed-Stand: gibt es nach Dedup + Sort MEHR als 20
- *    Kandidaten, werden die Einträge gegengeprüft, die aus dem LETZTEN Lauf im
- *    Feed-XML stehen. Kandidaten, die dort schon vorkommen (Link, Titel oder
- *    <id>), werden exkludiert und machen Platz für solche, die dort nicht
- *    standen; freie Restplätze füllen die neuesten Dubletten wieder auf.
- *    ≤ 20 Kandidaten: kein Abgleich, Verhalten wie bisher.
- *    Siehe readPreviousEntries / limitFeedItems.
+ *  • Auswahl komplett neu (Pool-Modell), für JEDEN Feed/jede Engine:
+ *    1. Jeder Lauf liest ALLE Quellen des Feeds (je Quelle bis zu 40
+ *       Kandidaten, MAX_SOURCE_ITEMS; gezählt werden nur Items, die den Dedup
+ *       innerhalb der Quelle überleben).
+ *    2. Alle Kandidaten kommen in einen Pool; dort wird quellübergreifend
+ *       dedupliziert (Link, dann Titel). Ein Duplikat zählt für jede seiner
+ *       Quellen als Treffer.
+ *    3. Items, die schon im Feed-XML des LETZTEN Laufs stehen (Link, Titel
+ *       oder <id>), fallen aus dem Pool.
+ *    4. Aus dem Rest werden max. 20 gewählt (MAX_FEED_ITEMS): erst 1 Item je
+ *       Quelle, dann ein 2. je Quelle (SOURCE_QUOTA), dann die neuesten
+ *       übrigen. Reichen die Plätze nicht, gewinnen die neuesten.
+ *    Siehe readPreviousEntries / selectFeedItems.
  *
  * Neu in v6:
  *  • Optionale Detail-Anreicherung: fehlt das Datum im Listing, holt der Scraper
@@ -86,15 +85,16 @@ const FEED_BASE_URL = "https://sjeap.github.io/web-feed/";
 
 // Limits (gelten für alle Feeds):
 //  • MAX_FEED_ITEMS   — max. Einträge im ausgelieferten Feed-XML.
-//  • MAX_SOURCE_ITEMS — max. Kandidaten, die eine Quelle beisteuert (vor
-//    Sortierung und Feed-Limit). Gezählt werden nur Items, die den Dedup
-//    überleben (siehe makeSourceDedup). Bewusst 2 × MAX_FEED_ITEMS:
-//    das letzte XML hat höchstens 20 Einträge, der Abgleich (limitFeedItems)
-//    kann also im Regelfall höchstens 20 Kandidaten als Dublette exkludieren —
-//    liefert eine Quelle ihre 40, bleiben danach immer noch 20 Nicht-Dubletten
-//    und der Feed wird ohne Auffüll-Dubletten voll.
+//  • MAX_SOURCE_ITEMS — max. Kandidaten, die EINE Quelle in den Pool gibt.
+//    Gezählt werden nur Items, die den Dedup innerhalb der Quelle überleben
+//    (siehe makeSourceDedup). Bewusst 2 × MAX_FEED_ITEMS: das letzte XML hat
+//    höchstens 20 Einträge — liefert eine Quelle ihre 40, bleiben nach dem
+//    Abgleich mit dem letzten Lauf immer noch 20 eigene Kandidaten.
+//  • SOURCE_QUOTA     — so viele Items bekommt jede Quelle garantiert im Feed,
+//    bevor freie Plätze rein nach Datum vergeben werden (siehe selectFeedItems).
 const MAX_FEED_ITEMS   = 20;
 const MAX_SOURCE_ITEMS = 40;
+const SOURCE_QUOTA     = 2;
 
 // ── Site-ID aus Argument lesen ──
 const siteId = process.argv[2];
@@ -1020,18 +1020,18 @@ function parseFlexibleDate(str) {
 // ─────────────────────────────────────────────────────────────────────
 // Dedup beim Lesen (neu in v10)
 // ─────────────────────────────────────────────────────────────────────
-// Ein Prüfer pro Parser-Durchlauf. Dublette = gleicher Titel ODER gleicher Link
-// — gegen die bereits übernommenen Items DIESER Quelle und gegen `taken`, den
-// Dedup-Stand der früheren Quellen des Laufs ({ link:Set, title:Set }, wird
-// hier nur gelesen). Die Parser fragen ihn, BEVOR sie ein Item auf
-// MAX_SOURCE_ITEMS anrechnen: der Quell-Cap zählt damit ausschließlich Items,
-// die den Dedup überleben; für jede Dublette liest der Parser eins weiter.
-// Ein verworfenes Item reserviert nichts (weder Titel noch Link).
-function makeSourceDedup(taken) {
+// Ein Prüfer pro Parser-Durchlauf, also pro Quelle. Dublette = gleicher Titel
+// ODER gleicher Link wie ein bereits übernommenes Item DERSELBEN Quelle. Die
+// Parser fragen ihn, BEVOR sie ein Item auf MAX_SOURCE_ITEMS anrechnen: der
+// Quell-Cap zählt damit nur Items, die den Dedup überleben; für jede Dublette
+// liest der Parser eins weiter. Ein verworfenes Item reserviert nichts.
+// Duplikate ZWISCHEN Quellen werden hier bewusst nicht verworfen — sie sind
+// ein Treffer beider Quellen und werden erst im Pool zusammengeführt (main()).
+function makeSourceDedup() {
   const links = new Set(), titles = new Set();
   return {
-    titleTaken: (t) => titles.has(t) || (!!taken && taken.title.has(t)),
-    linkTaken:  (l) => links.has(l)  || (!!taken && taken.link.has(l)),
+    titleTaken: (t) => titles.has(t),
+    linkTaken:  (l) => links.has(l),
     add:        (t, l) => { titles.add(t); links.add(l); },
   };
 }
@@ -1039,9 +1039,9 @@ function makeSourceDedup(taken) {
 // ─────────────────────────────────────────────────────────────────────
 // Haupt-Parser
 // ─────────────────────────────────────────────────────────────────────
-function parseHeadlines(html, site, baseUrl = site.url, taken = null) {
+function parseHeadlines(html, site, baseUrl = site.url) {
   const items = [];
-  const dedup = makeSourceDedup(taken);
+  const dedup = makeSourceDedup();
 
   // v4: optionales Container-Slicing vor dem Split
   const scoped = sliceContainer(html, site.containerStart, site.containerEnd);
@@ -1169,9 +1169,9 @@ function feedAttr(block, tag, attr) {
   return m ? m[1] : null;
 }
 
-function parseFeedXml(xml, site, baseUrl, taken = null) {
+function parseFeedXml(xml, site, baseUrl) {
   const items = [];
-  const dedup = makeSourceDedup(taken);
+  const dedup = makeSourceDedup();
 
   // RSS <item> bevorzugt; ohne Treffer Atom <entry>. parts[0] = Kanal-Header
   // (vor dem ersten Eintrag) und wird übersprungen.
@@ -1412,7 +1412,7 @@ function buildAtom(items, site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Feed-Limit + Abgleich mit dem letzten Feed-Stand (neu in v10)
+// Letzter Feed-Stand + Auswahl aus dem Pool (neu in v10)
 // ─────────────────────────────────────────────────────────────────────
 // Liest die Einträge, die AKTUELL im Feed-XML stehen — also den Stand aus dem
 // letzten Lauf (im Workflow: der ausgecheckte, zuletzt committete Feed). Muss
@@ -1444,64 +1444,100 @@ function readPreviousEntries(file) {
   return out;
 }
 
-// Kappt `candidates` auf MAX_FEED_ITEMS. Erwartet die Kandidaten bereits
-// dedupliziert und in Feed-Reihenfolge (neueste zuerst); diese Reihenfolge
-// bleibt im Ergebnis erhalten.
+// Wählt die Feed-Einträge aus dem Pool. `pool` = alle Kandidaten ALLER Quellen
+// des Feeds, bereits dedupliziert und neueste zuerst sortiert; diese
+// Reihenfolge bleibt im Ergebnis erhalten. Jedes Item trägt `sources`: die
+// Menge der Quell-Indizes, in denen es vorkam (ein quellübergreifendes
+// Duplikat zählt für JEDE seiner Quellen). Fehlt `sources` (Sonder-Engines),
+// gilt das Item als Treffer der einen Quelle 0.
 //
-//  • ≤ MAX_FEED_ITEMS Kandidaten: nichts zu tun, KEIN Abgleich.
-//  • Überhang (> MAX_FEED_ITEMS): jeder Kandidat wird gegen `prev` (Einträge
-//    aus dem letzten Lauf) geprüft. Dublette = gleicher Link ODER gleicher
-//    Titel ODER gleiche <id> — dieselben Kriterien wie der Cross-Source-Dedup,
-//    plus die Atom-ID. Dubletten werden exkludiert; die Plätze gehen an die
-//    neuesten Kandidaten, die NICHT im letzten XML standen.
-//  • Auffüllen: bleiben danach Plätze frei (weniger als MAX_FEED_ITEMS
-//    Nicht-Dubletten), rücken die neuesten Dubletten wieder nach. Sonst würde
-//    der Feed schrumpfen bzw. — wenn ALLE Kandidaten schon im letzten XML
-//    standen — leer bleiben und das Limit nie greifen.
+//  1. Abgleich mit dem letzten Lauf: Pool-Items, die schon im letzten Feed-XML
+//     standen (`prev`; gleicher Link ODER Titel ODER <id>), fallen aus dem
+//     Pool. Sie bleiben nur als Reserve (Punkt 3).
+//  2. Auswahl aus dem Rest, höchstens MAX_FEED_ITEMS, in Stufen:
+//       a) jede Quelle bekommt 1 Item — ihr neuestes;
+//       b) jede Quelle bekommt ein weiteres, bis SOURCE_QUOTA (2) erreicht ist;
+//       c) freie Plätze gehen an die neuesten übrigen Items, quellunabhängig.
+//     Reichen die Plätze in a) oder b) nicht für alle Quellen, gewinnen die
+//     neuesten Items; a) hat Vorrang vor b). Eine Quelle ohne Item im Rest
+//     fällt aus.
+//  3. Reserve: bleibt der Feed danach unter MAX_FEED_ITEMS (Rest zu klein),
+//     füllen die in Punkt 1 abgezogenen Items nach denselben Stufen auf. Ohne
+//     das wäre ein Feed, dessen Quellen zusammen ≤ 20 Items haben, in jedem
+//     zweiten Lauf leer.
 //
-// Gedächtnis ist ausschließlich das letzte XML: "nicht im letzten XML" heißt
-// NICHT "noch nie ausgeliefert". Ein hier exkludiertes Item steht im nächsten
-// Lauf nicht mehr drin und zählt dann wieder als Nicht-Dublette. Feeds mit
-// dauerhaftem Überhang rotieren daher von Lauf zu Lauf (siehe README).
-function limitFeedItems(candidates, prev) {
-  if (candidates.length <= MAX_FEED_ITEMS) return candidates;
+// Passt der ganze Pool in den Feed (≤ MAX_FEED_ITEMS), kommt nach 1–3 ohnehin
+// alles hinein → direkt zurück, ohne Log.
+//
+// Gedächtnis ist ausschließlich das letzte XML: ein abgezogenes Item steht im
+// nächsten Lauf nicht mehr drin und zählt dann wieder als neu. Feeds, deren
+// Pool dauerhaft größer ist als 20, rotieren daher von Lauf zu Lauf.
+function selectFeedItems(pool, prev) {
+  if (pool.length <= MAX_FEED_ITEMS) return pool;
 
-  if (!prev.length) {
-    console.log(
-      `   ✂ Limit ${MAX_FEED_ITEMS}: ${candidates.length} Kandidaten → ${MAX_FEED_ITEMS} ` +
-      `(kein letzter Feed-Stand vorhanden, kein Abgleich)`
-    );
-    return candidates.slice(0, MAX_FEED_ITEMS);
-  }
-
+  // ── 1. Abgleich mit dem letzten Lauf ──
   const prevLink = new Set(), prevTitle = new Set(), prevId = new Set();
   for (const p of prev) {
     if (p.link)  prevLink.add(p.link);
     if (p.title) prevTitle.add(p.title);
     if (p.id)    prevId.add(p.id);
   }
-  const isDupe = (it) =>
+  const inPrev = (it) =>
     prevLink.has(it.link) ||
     prevTitle.has((it.title || "").trim()) ||
     prevId.has(it.guid || it.link);
 
-  // unseen = stand NICHT im letzten XML; dupes = stand dort schon.
-  const unseen = [], dupes = [];
-  for (const it of candidates) (isDupe(it) ? dupes : unseen).push(it);
+  const rest = [], reserve = [];
+  for (const it of pool) (inPrev(it) ? reserve : rest).push(it);
 
-  const keptUnseen = unseen.slice(0, MAX_FEED_ITEMS);
-  const refill     = dupes.slice(0, MAX_FEED_ITEMS - keptUnseen.length);
-  const keep       = new Set([...keptUnseen, ...refill]);
+  // ── 2./3. Stufenweise Auswahl ──
+  const SINGLE    = new Set([0]);
+  const srcOf     = (it) => it.sources || SINGLE;
+  const picked    = new Set();
+  const perSource = new Map();                       // Quell-Index → gewählte Items
+  const countOf   = (s) => perSource.get(s) || 0;
+  const full      = () => picked.size >= MAX_FEED_ITEMS;
+  const take      = (it) => {
+    picked.add(it);
+    for (const s of srcOf(it)) perSource.set(s, countOf(s) + 1);
+  };
 
+  const drain = (group) => {
+    // Stufen a) und b): `group` ist neueste-zuerst sortiert → das erste freie
+    // Item, das zu einer Quelle unterhalb der Quote gehört, ist das neueste
+    // unter den jeweils nächsten Items aller noch unterversorgten Quellen.
+    for (let quota = 1; quota <= SOURCE_QUOTA; quota++) {
+      while (!full()) {
+        const next = group.find((it) =>
+          !picked.has(it) && [...srcOf(it)].some((s) => countOf(s) < quota));
+        if (!next) break;
+        take(next);
+      }
+    }
+    // Stufe c): Rest nach Datum.
+    for (const it of group) {
+      if (full()) break;
+      if (!picked.has(it)) take(it);
+    }
+  };
+
+  drain(rest);
+  const fromRest = picked.size;
+  drain(reserve);
+
+  // Log: Verteilung je Quelle (Q-Nummern wie in den "→ Qn:"-Zeilen oben).
+  const allSources = new Set();
+  for (const it of pool) for (const s of srcOf(it)) allSources.add(s);
+  const dist = [...allSources].sort((a, b) => a - b).map((s) => `Q${s + 1}:${countOf(s)}`).join(" ");
   console.log(
-    `   🔁 Limit ${MAX_FEED_ITEMS}: ${candidates.length} Kandidaten · Abgleich mit letztem Feed-Stand ` +
-    `(${prev.length} Einträge): ${dupes.length} Dubletten, ${unseen.length} nicht im letzten XML → ` +
-    `${keptUnseen.length} übernommen, ${dupes.length - refill.length} Dubletten exkludiert` +
-    (refill.length ? `, ${refill.length} Dubletten zum Auffüllen behalten` : "") +
-    (unseen.length > keptUnseen.length ? `, ${unseen.length - keptUnseen.length} weitere über Limit` : "")
+    `   🎯 Auswahl ${MAX_FEED_ITEMS} aus Pool ${pool.length} (${allSources.size} Quelle(n)) · ` +
+    `${reserve.length} im letzten XML (${prev.length} Einträge) abgezogen → ` +
+    `${fromRest} aus dem Rest` +
+    (picked.size > fromRest ? `, ${picked.size - fromRest} aus der Reserve aufgefüllt` : "") +
+    ` · je Quelle: ${dist}`
   );
 
-  return candidates.filter((it) => keep.has(it));
+  return pool.filter((it) => picked.has(it));
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -1511,7 +1547,7 @@ async function main() {
   console.log(`[${new Date().toISOString()}] [${site.id}] Start ...`);
 
   // Feed-Stand aus dem LETZTEN Lauf einlesen, bevor in diesem Lauf irgendetwas
-  // geschrieben wird — Grundlage für den Dubletten-Abgleich in limitFeedItems.
+  // geschrieben wird — Grundlage für den Abgleich in selectFeedItems.
   const outputFile  = path.join(__dirname, site.output);
   const prevEntries = readPreviousEntries(outputFile);
 
@@ -1559,19 +1595,20 @@ async function main() {
     //    Ohne `urls`/`tickers` bleibt es beim Single-URL-HTML-Verhalten.
     const sources = buildSourceList(site);
     let lastRaw   = "";
-    // Lauf-weiter Dedup-Stand über ALLE Quellen (Link, dann Titel). Die Parser
-    // prüfen dagegen, bevor sie ein Item auf den Quell-Cap anrechnen (siehe
-    // makeSourceDedup) — `items` enthält nach der Schleife also bereits die
-    // quellübergreifend deduplizierten Kandidaten.
-    const taken = { link: new Set(), title: new Set() };
-    items = [];
+    // Pool: alle Kandidaten ALLER Quellen dieses Laufs. Dedup im Pool (Link, dann
+    // Titel): ein Item, das schon eine frühere Quelle geliefert hat, wird nicht
+    // doppelt aufgenommen, zählt aber für BEIDE Quellen als Treffer (`sources`
+    // = Menge der Quell-Indizes) — wichtig für die Quoten in selectFeedItems.
+    const pool    = [];
+    const byLink  = new Map();
+    const byTitle = new Map();
     // Innerhalb EINES Laufs identische Quellen (gleiche URL + Engine) nur einmal
     // laden. Nötig, wenn ein Feed dieselbe Seite mehrfach mit unterschiedlichem
     // Container-Schnitt parst (sharedeals: EINE Startseite → zwei Abschnitte);
     // sonst kein Effekt, da normale Feeds durchweg unterschiedliche URLs haben.
     const rawCache = new Map();
 
-    for (const src of sources) {
+    for (const [srcIdx, src] of sources.entries()) {
       try {
         const label    = `${src.engine || site.engine || "https"}/${src.parser}`;
         const cacheKey = `${src.engine || site.engine || "https"}::${src.url}`;
@@ -1589,19 +1626,18 @@ async function main() {
         // Site-Config = Site ∪ Overrides. Ohne Overrides bleibt die Site selbst.
         const effSite = src.overrides ? { ...site, ...src.overrides } : site;
         const part = src.parser === "rss"
-          ? parseFeedXml(raw, effSite, src.url, taken)
-          : parseHeadlines(raw, effSite, src.url, taken);
-        console.log(`   → ${part.length} Item(s) aus ${src.url}`);
-        // Erst NACH erfolgreichem Parsen in den Dedup-Stand übernehmen: bricht ein
-        // Parser mittendrin ab (Quelle wird übersprungen), blockieren seine halb
-        // gelesenen Items keine späteren Quellen. Die Prüfung hier ist nur noch
-        // ein Sicherheitsnetz — die Parser liefern bereits ausschließlich
-        // Überlebende.
+          ? parseFeedXml(raw, effSite, src.url)
+          : parseHeadlines(raw, effSite, src.url);
+        console.log(`   → Q${srcIdx + 1}: ${part.length} Item(s) aus ${src.url}`);
+        // Erst NACH erfolgreichem Parsen in den Pool: bricht ein Parser mittendrin
+        // ab (Quelle wird übersprungen), landet nichts Halbes im Pool.
         for (const it of part) {
-          if (taken.link.has(it.link) || taken.title.has(it.title)) continue;
-          taken.link.add(it.link);
-          taken.title.add(it.title);
-          items.push(it);
+          const known = byLink.get(it.link) || byTitle.get(it.title);
+          if (known) { known.sources.add(srcIdx); continue; }
+          it.sources = new Set([srcIdx]);
+          byLink.set(it.link, it);
+          byTitle.set(it.title, it);
+          pool.push(it);
         }
       } catch (err) {
         // Einzelne Quelle (Timeout, tote Proxy-Exit-IP, Anti-Bot-Block, Netz-
@@ -1610,16 +1646,14 @@ async function main() {
       }
     }
 
-    // Kandidaten sind bereits dedupliziert (Link, dann Titel — beim Lesen, s. o.).
-    // Neueste zuerst sortieren, dann Feed-Limit. Bei Überhang (> MAX_FEED_ITEMS
-    // Kandidaten) prüft limitFeedItems gegen die Einträge aus dem letzten Lauf
-    // und exkludiert Dubletten.
-    items.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
-    const dedupedCount = items.length;
-    items = limitFeedItems(items, prevEntries);
+    // Pool neueste zuerst sortieren, dann Abgleich mit dem letzten Lauf + Auswahl
+    // mit Quoten je Quelle (siehe selectFeedItems).
+    pool.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
+    const poolCount = pool.length;
+    items = selectFeedItems(pool, prevEntries);
 
     // Optionale Detail-Anreicherung: Datum von der Artikelseite holen, wenn es im
-    // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH dem Limit → nur für die final
+    // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH der Auswahl → nur für die final
     // ausgelieferten Items wird ein Zweit-Fetch gemacht. Pro-Item fault-isoliert;
     // schlägt der Detail-Fetch fehl (Block/Timeout), bleibt das bisherige pubDate.
     if ((site.detailDateSelector || site.detailImageSelector) && items.length) {
@@ -1657,7 +1691,7 @@ async function main() {
     }
 
     if (sources.length > 1) {
-      console.log(`   🧩 Aggregiert: ${sources.length} Quellen · ${dedupedCount} Kandidaten (quellübergreifend dedupliziert) → ${items.length} Item(s) (sortiert, Limit ${MAX_FEED_ITEMS})`);
+      console.log(`   🧩 Aggregiert: ${sources.length} Quellen · Pool ${poolCount} (dedupliziert) → ${items.length} Item(s) (sortiert, Limit ${MAX_FEED_ITEMS})`);
     }
 
     if (items.length === 0) {
@@ -1676,10 +1710,10 @@ async function main() {
     process.exit(2);
   }
 
-  // Feed-Limit für ALLE Engines. Der Standard-Pfad hat es bereits vor dem
+  // Auswahl für ALLE Engines. Der Standard-Pfad hat sie bereits vor dem
   // Detail-Fetch angewandt (hier dann No-op); greift für die Sonder-Engines
-  // (cnn-fear-greed, tagesschau-carousel) und jede künftige.
-  items = limitFeedItems(items, prevEntries);
+  // (cnn-fear-greed, tagesschau-carousel — je EINE Quelle) und jede künftige.
+  items = selectFeedItems(items, prevEntries);
 
   fs.mkdirSync(path.dirname(outputFile), { recursive: true });   // Output-Ordner (z.B. atom/) anlegen
   fs.writeFileSync(outputFile, buildAtom(items, site), "utf8");
