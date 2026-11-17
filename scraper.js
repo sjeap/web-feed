@@ -3,19 +3,26 @@
  * Aufruf: node scraper.js <site-id>
  *
  * Neu in v10:
- *  • Auswahl komplett neu (Pool-Modell), für JEDEN Feed/jede Engine:
- *    1. Jeder Lauf liest ALLE Quellen des Feeds (je Quelle bis zu 40
- *       Kandidaten, MAX_SOURCE_ITEMS; gezählt werden nur Items, die den Dedup
- *       innerhalb der Quelle überleben).
- *    2. Alle Kandidaten kommen in einen Pool; dort wird quellübergreifend
- *       dedupliziert (Link, dann Titel). Ein Duplikat zählt für jede seiner
- *       Quellen als Treffer.
- *    3. Items, die schon im Feed-XML des LETZTEN Laufs stehen (Link, Titel
- *       oder <id>), fallen aus dem Pool.
- *    4. Aus dem Rest werden max. 20 gewählt (MAX_FEED_ITEMS): erst 1 Item je
- *       Quelle, dann ein 2. je Quelle (SOURCE_QUOTA), dann die neuesten
- *       übrigen. Reichen die Plätze nicht, gewinnen die neuesten.
- *    Siehe readPreviousEntries / selectFeedItems.
+ *  • Auswahl komplett neu (Pool + Gedächtnis), für JEDEN Feed/jede Engine:
+ *    1. Jeder Lauf liest ALLE Quellen des Feeds vollständig — alles, was die
+ *       Quelle gerade listet, ohne Obergrenze je Quelle; Dubletten innerhalb
+ *       einer Quelle fallen beim Lesen weg — und wirft die Items in EINEN Pool
+ *       je Feed; dort Dedup über Link, dann Titel.
+ *    2. Pool ≤ 25 (MAX_FEED_ITEMS): alle Items kommen in den Feed. Fertig.
+ *    3. Pool > 25: Auswahl im Rundgang durch die Quellen — erst das neueste
+ *       Item jeder Quelle, dann das zweitneueste jeder Quelle usw., bis 25
+ *       voll sind. Ein persistentes Gedächtnis (memory/<id>.json) merkt sich
+ *       jedes Pool-Item und ob es schon einmal im Feed stand. Reihenfolge der
+ *       Vergabe: neue Items → frühestens alle 24 h: noch nie gezeigte Items
+ *       aus dem Gedächtnis → bereits gezeigte (nur zum Auffüllen).
+ *    4. Das Gedächtnis enthält nichts, was älter ist als der 1. Januar des
+ *       Vorjahres. Beim Anlegen (Erstlauf) bleiben JE QUELLE höchstens die
+ *       100 neuesten nicht gewählten Items als Rückstand; ältere gelten als
+ *       gezeigt.
+ *    Siehe selectFeedItems / updateMemory.
+ *  • Neues Opt-in-Feld `sharedLinkPattern` (RSS-Quellen): Links auf eine
+ *    Sammelseite, die sich mehrere Einträge teilen, bekommen die Eintrags-ID
+ *    als Fragment und sind damit je Eintrag eindeutig.
  *
  * Neu in v6:
  *  • Optionale Detail-Anreicherung: fehlt das Datum im Listing, holt der Scraper
@@ -83,18 +90,46 @@ const { URL } = require("url");
 const SITES_FILE    = path.join(__dirname, "sites.json");
 const FEED_BASE_URL = "https://sjeap.github.io/web-feed/";
 
-// Limits (gelten für alle Feeds):
-//  • MAX_FEED_ITEMS   — max. Einträge im ausgelieferten Feed-XML.
-//  • MAX_SOURCE_ITEMS — max. Kandidaten, die EINE Quelle in den Pool gibt.
-//    Gezählt werden nur Items, die den Dedup innerhalb der Quelle überleben
-//    (siehe makeSourceDedup). Bewusst 2 × MAX_FEED_ITEMS: das letzte XML hat
-//    höchstens 20 Einträge — liefert eine Quelle ihre 40, bleiben nach dem
-//    Abgleich mit dem letzten Lauf immer noch 20 eigene Kandidaten.
-//  • SOURCE_QUOTA     — so viele Items bekommt jede Quelle garantiert im Feed,
-//    bevor freie Plätze rein nach Datum vergeben werden (siehe selectFeedItems).
-const MAX_FEED_ITEMS   = 20;
-const MAX_SOURCE_ITEMS = 40;
-const SOURCE_QUOTA     = 2;
+// Limit (gilt für alle Feeds): max. Einträge im ausgelieferten Feed-XML.
+// Eine Obergrenze je QUELLE gibt es nicht mehr: jede Quelle gibt alles in den
+// Pool, was sie gerade listet (nach Dedup innerhalb der Quelle).
+const MAX_FEED_ITEMS = 25;
+
+// Gedächtnis (nur für Feeds, deren Pool größer ist als MAX_FEED_ITEMS):
+//  • MEMORY_DIR            — Ordner der Gedächtnis-Dateien, eine je Feed
+//    (<MEMORY_DIR>/<site-id>.json). Der Workflow committet sie mit.
+//  • MEMORY_FILL_MIN_HOURS — Mindestabstand zwischen zwei Läufen, die noch nie
+//    gezeigte Items aus dem Gedächtnis nachliefern. Gewollt sind 24 h (= jeder
+//    zweite Lauf bei 12-h-Cron). Bewusst 23: Actions-Läufe starten um Minuten
+//    versetzt; bei exakt 24 h würde jeder Lauf, der etwas FRÜHER startet als
+//    der vor 24 h, auf den nächsten Lauf (36 h) rutschen.
+//  • NEW_SLACK_HOURS       — ein Item gilt als "neu", wenn das Gedächtnis es
+//    nicht kennt UND sein Datum nicht älter ist als (letzter Lauf − Toleranz).
+//    Die Toleranz fängt tagesgenaue Datumsangaben ab (Artikel von heute
+//    Nachmittag trägt 00:00 Uhr). Unbekannte ÄLTERE Items sind Rückstand.
+//  • FIRST_RUN_LOOKBACK_HOURS — gibt es noch kein Gedächtnis (Erstlauf), fehlt
+//    der "letzte Lauf" für das NEU-Fenster. Dann wird einer vor so vielen
+//    Stunden angenommen: frisch ist im Erstlauf, was jünger ist als
+//    FIRST_RUN_LOOKBACK_HOURS + NEW_SLACK_HOURS (= 36 h).
+const MEMORY_DIR               = "memory";
+const MEMORY_FILL_MIN_HOURS    = 23;
+const NEW_SLACK_HOURS          = 24;
+const FIRST_RUN_LOOKBACK_HOURS = 12;
+//  • MEMORY_INITIAL_BACKLOG_PER_SOURCE — Deckel für den Rückstand beim ANLEGEN
+//    des Gedächtnisses (Erstlauf), JE QUELLE: bleiben von einer Quelle mehr
+//    Items ohne Feed-Auftritt übrig, gelten nur ihre neuesten als Rückstand;
+//    ihre älteren werden als gezeigt markiert (shown: "skipped") und nie
+//    nachgeliefert. Greift nur, wenn eine Quelle mehr Items listet als der
+//    Deckel (plus die im Erstlauf gewählten).
+const MEMORY_INITIAL_BACKLOG_PER_SOURCE = 100;
+
+// Laufzeitpunkt für alle Gedächtnis-Entscheidungen. Per WEB_FEED_NOW (ISO 8601)
+// überschreibbar, um Läufe zu simulieren ("was passiert 12 h / 24 h später?").
+const RUN_TIME = process.env.WEB_FEED_NOW ? new Date(process.env.WEB_FEED_NOW) : new Date();
+if (isNaN(RUN_TIME.getTime())) {
+  console.error(`❌ WEB_FEED_NOW ist kein gültiges Datum: ${process.env.WEB_FEED_NOW}`);
+  process.exit(1);
+}
 
 // ── Site-ID aus Argument lesen ──
 const siteId = process.argv[2];
@@ -814,7 +849,6 @@ function buildTagesschauCarouselItems(html, site) {
     // guid bewusst NICHT gesetzt → buildAtom nutzt link als <id> (gültiges IRI).
     // Die Artikel-URL ist eindeutig/stabil; kein Datums-Scoping wie bei CNN.
     items.push({ title, link, pubDate, imgSrc, imgAlt, mimeType });
-    if (items.length >= MAX_SOURCE_ITEMS) break;
   }
 
   return items;
@@ -1021,10 +1055,9 @@ function parseFlexibleDate(str) {
 // Dedup beim Lesen (neu in v10)
 // ─────────────────────────────────────────────────────────────────────
 // Ein Prüfer pro Parser-Durchlauf, also pro Quelle. Dublette = gleicher Titel
-// ODER gleicher Link wie ein bereits übernommenes Item DERSELBEN Quelle. Die
-// Parser fragen ihn, BEVOR sie ein Item auf MAX_SOURCE_ITEMS anrechnen: der
-// Quell-Cap zählt damit nur Items, die den Dedup überleben; für jede Dublette
-// liest der Parser eins weiter. Ein verworfenes Item reserviert nichts.
+// ODER gleicher Link wie ein bereits übernommenes Item DERSELBEN Quelle; sie
+// wird verworfen und reserviert nichts. Die Parser lesen jede Quelle bis zum
+// Ende — eine Obergrenze je Quelle gibt es nicht.
 // Duplikate ZWISCHEN Quellen werden hier bewusst nicht verworfen — sie sind
 // ein Treffer beider Quellen und werden erst im Pool zusammengeführt (main()).
 function makeSourceDedup() {
@@ -1104,8 +1137,7 @@ function parseHeadlines(html, site, baseUrl = site.url) {
         : new URL(rawLink, baseUrl).href
       : baseUrl;
 
-    // Zweiter Dedup-Schlüssel (anderer Titel, gleiche URL) — ebenfalls VOR dem
-    // Anrechnen auf den Quell-Cap, nicht erst später in main().
+    // Zweiter Dedup-Schlüssel innerhalb der Quelle: anderer Titel, gleiche URL.
     if (dedup.linkTaken(fullLink)) {
       stats.deduped++;
       continue;
@@ -1131,8 +1163,6 @@ function parseHeadlines(html, site, baseUrl = site.url) {
       imgSrc,
       imgAlt:  imgAlt || title,
     });
-
-    if (items.length >= MAX_SOURCE_ITEMS) break;
   }
 
   console.log(
@@ -1169,6 +1199,20 @@ function feedAttr(block, tag, attr) {
   return m ? m[1] : null;
 }
 
+// Macht einen Link, den sich mehrere Feed-Einträge teilen, je Eintrag eindeutig:
+// hängt die ID des Eintrags als Fragment an (…/symbol/MOD/news?…#MarketCurrent:123).
+// Das Ziel der URL bleibt gleich; Reader, die über den Link deduplizieren, und
+// das Gedächtnis unterscheiden die Einträge damit. Rein aus Link + guid
+// abgeleitet, also in jedem Lauf dasselbe Ergebnis — unabhängig davon, wie
+// viele Einträge sich den Link gerade teilen.
+function linkWithGuidFragment(link, guid) {
+  const tail = guid.replace(/[?#].*$/, "").replace(/\/+$/, "").split("/").pop() || "";
+  const frag = /^[A-Za-z0-9:._~-]{1,80}$/.test(tail)
+    ? tail
+    : crypto.createHash("sha1").update(guid).digest("hex").slice(0, 12);
+  return link.replace(/#.*$/, "") + "#" + frag;
+}
+
 function parseFeedXml(xml, site, baseUrl) {
   const items = [];
   const dedup = makeSourceDedup();
@@ -1189,6 +1233,15 @@ function parseFeedXml(xml, site, baseUrl) {
     try { excludeRegex = new RegExp(site.excludeIf, "i"); }
     catch (e) { console.error(`   ⚠ Ungültiges excludeIf "${site.excludeIf}": ${e.message}`); }
   }
+  // Opt-in `sharedLinkPattern`: Links, die auf dieses Muster passen, zeigen auf
+  // eine Sammelseite und werden von mehreren Einträgen geteilt (Seeking Alpha:
+  // alle News eines Tickers → /symbol/<TICKER>/news). Solche Links bekommen die
+  // Eintrags-ID als Fragment (siehe linkWithGuidFragment).
+  let sharedLinkRegex = null;
+  if (site.sharedLinkPattern) {
+    try { sharedLinkRegex = new RegExp(site.sharedLinkPattern); }
+    catch (e) { console.error(`   ⚠ Ungültiges sharedLinkPattern "${site.sharedLinkPattern}": ${e.message}`); }
+  }
 
   const stats = {
     blocks:     Math.max(0, parts.length - 1),
@@ -1196,6 +1249,7 @@ function parseFeedXml(xml, site, baseUrl) {
     filtered:   0,
     excluded:   0,
     deduped:    0,
+    uniqued:    0,
   };
 
   for (let i = 1; i < parts.length; i++) {
@@ -1217,11 +1271,22 @@ function parseFeedXml(xml, site, baseUrl) {
                || /<link\b[^>]*\bhref="([^"]+)"[^>]*\brel="alternate"/i.exec(block);
       rawLink = alt ? alt[1] : feedAttr(block, "link", "href");
     }
-    const fullLink = rawLink
+    let fullLink = rawLink
       ? (rawLink.startsWith("http") ? rawLink : new URL(rawLink, baseUrl).href)
       : baseUrl;
 
-    // Beide Dedup-Schlüssel VOR dem Anrechnen auf den Quell-Cap (siehe makeSourceDedup).
+    // Stabile ID: RSS <guid>, Atom <id>, sonst Link.
+    const rawGuid =
+      cleanText(unwrapCdata(feedField(block, "guid"))) ||
+      cleanText(unwrapCdata(feedField(block, "id")))   ||
+      null;
+    if (sharedLinkRegex && rawGuid && sharedLinkRegex.test(fullLink)) {
+      fullLink = linkWithGuidFragment(fullLink, rawGuid);
+      stats.uniqued++;
+    }
+    const guid = rawGuid || fullLink;
+
+    // Beide Dedup-Schlüssel innerhalb der Quelle (siehe makeSourceDedup).
     if (dedup.linkTaken(fullLink) || dedup.titleTaken(title)) { stats.deduped++; continue; }
     dedup.add(title, fullLink);
 
@@ -1232,12 +1297,6 @@ function parseFeedXml(xml, site, baseUrl) {
       cleanText(feedField(block, "updated"))   ||
       cleanText(feedField(block, "dc:date"));
     const pubDate = parseFlexibleDate(dateStr);
-
-    // Stabile ID: RSS <guid>, Atom <id>, sonst Link.
-    const guid =
-      cleanText(unwrapCdata(feedField(block, "guid"))) ||
-      cleanText(unwrapCdata(feedField(block, "id")))   ||
-      fullLink;
 
     // Bild: media:content / media:thumbnail / enclosure, sonst erstes <img> in
     // description|content.
@@ -1262,13 +1321,13 @@ function parseFeedXml(xml, site, baseUrl) {
     }
 
     items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt: title, guid });
-    if (items.length >= MAX_SOURCE_ITEMS) break;
   }
 
   console.log(
     `   📊 RSS-Stats (<${tag}>): ${stats.blocks} Blöcke · ${stats.titleFound} Titel · ` +
     `${stats.filtered} per Filter · ${stats.excluded} per excludeIf · ` +
-    `${stats.deduped} Duplikate · ${items.length} Items`
+    `${stats.deduped} Duplikate · ${items.length} Items` +
+    (stats.uniqued ? ` · ${stats.uniqued} geteilte Links eindeutig gemacht` : "")
   );
   return items;
 }
@@ -1412,14 +1471,15 @@ function buildAtom(items, site) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
-// Letzter Feed-Stand + Auswahl aus dem Pool (neu in v10)
+// Letzter Feed-Stand, Gedächtnis und Auswahl aus dem Pool (neu in v10)
 // ─────────────────────────────────────────────────────────────────────
 // Liest die Einträge, die AKTUELL im Feed-XML stehen — also den Stand aus dem
 // letzten Lauf (im Workflow: der ausgecheckte, zuletzt committete Feed). Muss
 // vor dem Überschreiben der Datei aufgerufen werden. Gibt pro <entry> die drei
 // Identitätsmerkmale zurück, die buildAtom schreibt: <title>, <id> und
 // <link rel="alternate">. Fehlt die Datei (neuer Feed) oder ist sie nicht
-// lesbar → [] (dann gibt es schlicht nichts gegenzuprüfen, kein Abbruch).
+// lesbar → []. Wird nur noch EINMAL je Feed gebraucht: beim Anlegen des
+// Gedächtnisses gelten diese Einträge als "stand schon im Feed".
 function readPreviousEntries(file) {
   let xml;
   try {
@@ -1444,6 +1504,80 @@ function readPreviousEntries(file) {
   return out;
 }
 
+// Identitäts-Abgleich: findet zu einem Pool-Item den passenden Eintrag aus
+// `entries` (Gedächtnis-Einträge oder Einträge des letzten XML; je mit id, link,
+// title). Treffer über <id> (guid bzw. Link), dann Link, dann Titel — dieselben
+// Kriterien wie der Dedup im Pool. `add` nimmt neue Einträge in den Index auf.
+function makeEntryIndex(entries) {
+  const byId = new Map(), byLink = new Map(), byTitle = new Map();
+  const add = (e) => {
+    if (e.id    && !byId.has(e.id))       byId.set(e.id, e);
+    const link = e.link || e.id;          // Gedächtnis lässt link weg, wenn = id
+    if (link    && !byLink.has(link))     byLink.set(link, e);
+    if (e.title && !byTitle.has(e.title)) byTitle.set(e.title, e);
+  };
+  for (const e of entries) add(e);
+  const find = (it) =>
+    byId.get(it.guid || it.link) ||
+    byLink.get(it.link) ||
+    byTitle.get((it.title || "").trim());
+  return { find, add };
+}
+
+// Quell-Indizes eines Pool-Items. Fehlt `sources` (Sonder-Engines mit genau
+// einer Quelle), gilt das Item als Treffer der Quelle 0.
+const SINGLE_SOURCE = new Set([0]);
+function sourcesOf(it) {
+  return it.sources || SINGLE_SOURCE;
+}
+
+// Stichtag des Gedächtnisses: 1. Januar des Vorjahres (UTC). Ältere Items
+// werden nie gemerkt und nie als "neu" oder Rückstand behandelt.
+function memoryCutoff(now) {
+  return Date.UTC(now.getUTCFullYear() - 1, 0, 1);
+}
+
+function itemTime(it, now) {
+  const t = Date.parse(it.pubDate);
+  return isNaN(t) ? now.getTime() : t;
+}
+
+// Gedächtnis laden. Fehlt die Datei → null (wird angelegt, sobald der Pool das
+// erste Mal größer ist als MAX_FEED_ITEMS). Ist sie unlesbar → Warnung + null:
+// der Lauf verhält sich dann wie ein Erstlauf, statt abzubrechen.
+function loadMemory(file) {
+  let text;
+  try {
+    text = fs.readFileSync(file, "utf8");
+  } catch (e) {
+    return null;
+  }
+  try {
+    const raw = JSON.parse(text);
+    if (!raw || !Array.isArray(raw.items)) throw new Error("Feld 'items' fehlt");
+    return {
+      lastRunAt:  raw.lastRunAt  || null,
+      lastFillAt: raw.lastFillAt || null,
+      items:      raw.items.filter((e) => e && (e.id || e.title)),
+    };
+  } catch (e) {
+    console.log(`   ⚠ Gedächtnis unlesbar (${path.basename(file)}: ${e.message}) – wird neu angelegt`);
+    return null;
+  }
+}
+
+// Ein Eintrag pro Zeile, stabil sortiert (neueste zuerst) → kleine Git-Diffs.
+function saveMemory(file, mem) {
+  const lines = mem.items.map((e) => "    " + JSON.stringify(e));
+  const body =
+    `{\n  "version": 1,\n` +
+    `  "lastRunAt": ${JSON.stringify(mem.lastRunAt)},\n` +
+    `  "lastFillAt": ${JSON.stringify(mem.lastFillAt)},\n` +
+    `  "items": [\n${lines.join(",\n")}\n  ]\n}\n`;
+  fs.mkdirSync(path.dirname(file), { recursive: true });
+  fs.writeFileSync(file, body, "utf8");
+}
+
 // Wählt die Feed-Einträge aus dem Pool. `pool` = alle Kandidaten ALLER Quellen
 // des Feeds, bereits dedupliziert und neueste zuerst sortiert; diese
 // Reihenfolge bleibt im Ergebnis erhalten. Jedes Item trägt `sources`: die
@@ -1451,93 +1585,187 @@ function readPreviousEntries(file) {
 // Duplikat zählt für JEDE seiner Quellen). Fehlt `sources` (Sonder-Engines),
 // gilt das Item als Treffer der einen Quelle 0.
 //
-//  1. Abgleich mit dem letzten Lauf: Pool-Items, die schon im letzten Feed-XML
-//     standen (`prev`; gleicher Link ODER Titel ODER <id>), fallen aus dem
-//     Pool. Sie bleiben nur als Reserve (Punkt 3).
-//  2. Auswahl aus dem Rest, höchstens MAX_FEED_ITEMS, in Stufen:
-//       a) jede Quelle bekommt 1 Item — ihr neuestes;
-//       b) jede Quelle bekommt ein weiteres, bis SOURCE_QUOTA (2) erreicht ist;
-//       c) freie Plätze gehen an die neuesten übrigen Items, quellunabhängig.
-//     Reichen die Plätze in a) oder b) nicht für alle Quellen, gewinnen die
-//     neuesten Items; a) hat Vorrang vor b). Eine Quelle ohne Item im Rest
-//     fällt aus.
-//  3. Reserve: bleibt der Feed danach unter MAX_FEED_ITEMS (Rest zu klein),
-//     füllen die in Punkt 1 abgezogenen Items nach denselben Stufen auf. Ohne
-//     das wäre ein Feed, dessen Quellen zusammen ≤ 20 Items haben, in jedem
-//     zweiten Lauf leer.
+// Pool ≤ MAX_FEED_ITEMS: alles kommt in den Feed, keine weitere Logik.
 //
-// Passt der ganze Pool in den Feed (≤ MAX_FEED_ITEMS), kommt nach 1–3 ohnehin
-// alles hinein → direkt zurück, ohne Log.
+// Pool > MAX_FEED_ITEMS: jedes Item fällt in genau eine Klasse —
+//   NEU       dem Gedächtnis unbekannt und frisch (Datum ≥ letzter Lauf −
+//             NEW_SLACK_HOURS).
+//   RÜCKSTAND im Pool gefunden, aber noch nie im Feed gewesen: dem Gedächtnis
+//             bekannt mit shown=false, oder unbekannt und älter als das
+//             NEU-Fenster.
+//   GEZEIGT   stand schon einmal im Feed — oder ist älter als der Stichtag des
+//             Gedächtnisses (wird dann nie gemerkt).
+// Der Erstlauf (noch kein Gedächtnis) läuft nach denselben Regeln: "unbekannt"
+// ist dann alles, was nicht im letzten XML stand; als letzter Lauf gilt einer
+// vor FIRST_RUN_LOOKBACK_HOURS; nachgeliefert werden darf sofort. Frische
+// Items einer lebhaften Quelle kommen so direkt in den Feed, statt hinter dem
+// Altbestand aller anderen Quellen zu warten, bis die Quelle sie nicht mehr
+// listet.
+// Vergeben wird in dieser Reihenfolge: NEU → RÜCKSTAND (nur wenn seit dem
+// letzten Nachliefern mindestens MEMORY_FILL_MIN_HOURS vergangen sind) →
+// GEZEIGT (reines Auffüllen, damit ein Item länger als einen Lauf im XML steht
+// und der Feed an ruhigen Tagen nicht leerläuft).
 //
-// Gedächtnis ist ausschließlich das letzte XML: ein abgezogenes Item steht im
-// nächsten Lauf nicht mehr drin und zählt dann wieder als neu. Feeds, deren
-// Pool dauerhaft größer ist als 20, rotieren daher von Lauf zu Lauf.
-function selectFeedItems(pool, prev) {
-  if (pool.length <= MAX_FEED_ITEMS) return pool;
-
-  // ── 1. Abgleich mit dem letzten Lauf ──
-  const prevLink = new Set(), prevTitle = new Set(), prevId = new Set();
-  for (const p of prev) {
-    if (p.link)  prevLink.add(p.link);
-    if (p.title) prevTitle.add(p.title);
-    if (p.id)    prevId.add(p.id);
+// Für NEU und RÜCKSTAND gilt der Rundgang durch die Quellen: zuerst bekommt
+// jede Quelle ihr neuestes Item, dann jede ihr zweitneuestes usw. Gezählt wird
+// über beide Klassen hinweg — beim Nachliefern kommen also zuerst die Quellen
+// dran, die bisher am wenigsten im Feed haben. Passt ein Durchgang nicht mehr
+// ganz hinein, gewinnen darin die neuesten Items.
+// GEZEIGTE füllen ohne Rundgang auf: zuerst die, die zuletzt erstmals im Feed
+// standen. Was im letzten Lauf neu oder nachgeliefert war, bleibt so stehen,
+// bis Neueres den Platz braucht — und ohne Neues ändert sich das XML gar nicht.
+function selectFeedItems(pool, mem, prev, now) {
+  if (pool.length <= MAX_FEED_ITEMS) {
+    return { items: pool, picked: null, backlogUsed: 0 };
   }
-  const inPrev = (it) =>
-    prevLink.has(it.link) ||
-    prevTitle.has((it.title || "").trim()) ||
-    prevId.has(it.guid || it.link);
 
-  const rest = [], reserve = [];
-  for (const it of pool) (inPrev(it) ? reserve : rest).push(it);
+  const nowMs    = now.getTime();
+  const cutoff   = memoryCutoff(now);
+  const memIndex = makeEntryIndex(mem ? mem.items : []);
+  const prevIdx  = makeEntryIndex(prev);
+  const lastRunMs = mem && mem.lastRunAt
+    ? Date.parse(mem.lastRunAt)
+    : nowMs - FIRST_RUN_LOOKBACK_HOURS * 3600e3;
+  const winStart  = lastRunMs - NEW_SLACK_HOURS * 3600e3;
 
-  // ── 2./3. Stufenweise Auswahl ──
-  const SINGLE    = new Set([0]);
-  const srcOf     = (it) => it.sources || SINGLE;
+  const fresh = [], backlog = [], shown = [];
+  const shownAt = new Map();                         // Item → Zeitpunkt des ersten Zeigens
+  for (const it of pool) {
+    const t = itemTime(it, now);
+    if (t < cutoff) { shown.push(it); continue; }
+    if (!mem && prevIdx.find(it)) { shown.push(it); continue; }   // Erstlauf: stand im letzten XML
+    const e = memIndex.find(it);
+    if (e && e.shown) { shown.push(it); shownAt.set(it, Date.parse(e.shown) || 0); }
+    else if (e)       backlog.push(it);
+    else              (t >= winStart ? fresh : backlog).push(it);
+  }
+  // GEZEIGT: zuletzt erstmals gezeigte zuerst; bei Gleichstand bleibt die
+  // Pool-Reihenfolge (neueste zuerst) — Array.sort ist stabil.
+  shown.sort((a, b) => (shownAt.get(b) || 0) - (shownAt.get(a) || 0));
+
+  const fillDue = !mem || !mem.lastFillAt ||
+    nowMs - Date.parse(mem.lastFillAt) >= MEMORY_FILL_MIN_HOURS * 3600e3;
+
+  // ── Rundgang durch die Quellen ──
+  const srcOf     = sourcesOf;
   const picked    = new Set();
   const perSource = new Map();                       // Quell-Index → gewählte Items
   const countOf   = (s) => perSource.get(s) || 0;
-  const full      = () => picked.size >= MAX_FEED_ITEMS;
   const take      = (it) => {
     picked.add(it);
     for (const s of srcOf(it)) perSource.set(s, countOf(s) + 1);
   };
-
-  const drain = (group) => {
-    // Stufen a) und b): `group` ist neueste-zuerst sortiert → das erste freie
-    // Item, das zu einer Quelle unterhalb der Quote gehört, ist das neueste
-    // unter den jeweils nächsten Items aller noch unterversorgten Quellen.
-    for (let quota = 1; quota <= SOURCE_QUOTA; quota++) {
-      while (!full()) {
-        const next = group.find((it) =>
-          !picked.has(it) && [...srcOf(it)].some((s) => countOf(s) < quota));
-        if (!next) break;
-        take(next);
+  // `group` ist neueste-zuerst sortiert. Jeder Schritt nimmt das Item, dessen
+  // Quelle bisher am wenigsten im Feed hat; bei Gleichstand das neueste. Das
+  // ergibt genau die Durchgänge: 1. je Quelle, 2. je Quelle, 3. je Quelle …
+  const roundRobin = (group) => {
+    const open = group.slice();
+    while (picked.size < MAX_FEED_ITEMS && open.length) {
+      let best = 0, bestCount = Infinity;
+      for (let i = 0; i < open.length; i++) {
+        let c = Infinity;
+        for (const s of srcOf(open[i])) c = Math.min(c, countOf(s));
+        if (c < bestCount) { bestCount = c; best = i; }
       }
-    }
-    // Stufe c): Rest nach Datum.
-    for (const it of group) {
-      if (full()) break;
-      if (!picked.has(it)) take(it);
+      take(open.splice(best, 1)[0]);
     }
   };
 
-  drain(rest);
-  const fromRest = picked.size;
-  drain(reserve);
+  roundRobin(fresh);
+  const nFresh = picked.size;
+  if (fillDue) roundRobin(backlog);
+  const nBacklog = picked.size - nFresh;
+  for (const it of shown) {
+    if (picked.size >= MAX_FEED_ITEMS) break;
+    take(it);
+  }
+  const nShown = picked.size - nFresh - nBacklog;
 
   // Log: Verteilung je Quelle (Q-Nummern wie in den "→ Qn:"-Zeilen oben).
   const allSources = new Set();
   for (const it of pool) for (const s of srcOf(it)) allSources.add(s);
   const dist = [...allSources].sort((a, b) => a - b).map((s) => `Q${s + 1}:${countOf(s)}`).join(" ");
+  const nextFill = mem && mem.lastFillAt
+    ? toRfc3339(new Date(Date.parse(mem.lastFillAt) + MEMORY_FILL_MIN_HOURS * 3600e3))
+    : null;
   console.log(
-    `   🎯 Auswahl ${MAX_FEED_ITEMS} aus Pool ${pool.length} (${allSources.size} Quelle(n)) · ` +
-    `${reserve.length} im letzten XML (${prev.length} Einträge) abgezogen → ` +
-    `${fromRest} aus dem Rest` +
-    (picked.size > fromRest ? `, ${picked.size - fromRest} aus der Reserve aufgefüllt` : "") +
-    ` · je Quelle: ${dist}`
+    `   🎯 Auswahl ${picked.size} aus Pool ${pool.length} (${allSources.size} Quelle(n)): ` +
+    `${nFresh} von ${fresh.length} neuen · ` +
+    (fillDue
+      ? `${nBacklog} von ${backlog.length} aus dem Rückstand`
+      : `Rückstand ${backlog.length} ruht bis ${nextFill}`) +
+    (mem ? "" : ` · Erstlauf, Gedächtnis wird angelegt`) +
+    ` · ${nShown} bereits gezeigte · je Quelle: ${dist}`
   );
 
-  return pool.filter((it) => picked.has(it));
+  return { items: pool.filter((it) => picked.has(it)), picked, backlogUsed: nBacklog };
+}
+
+// Führt das Gedächtnis nach der Auswahl fort und gibt den neuen Stand zurück:
+//  • jedes Pool-Item ab dem Stichtag bekommt (falls noch nicht vorhanden) einen
+//    Eintrag { id, link?, title, date, shown };
+//  • shown = Zeitpunkt, zu dem das Item ERSTMALS im Feed stand, sonst false;
+//    Sonderwert "skipped": beim Anlegen als gezeigt markiert, ohne je im Feed
+//    gestanden zu haben (Deckel MEMORY_INITIAL_BACKLOG_PER_SOURCE);
+//  • Einträge vor dem Stichtag (1. Januar des Vorjahres) fliegen raus;
+//  • lastRunAt = dieser Lauf; lastFillAt = letzter Lauf, der mindestens ein
+//    Rückstands-Item nachgeliefert hat (beim Anlegen: der Anlege-Lauf).
+// `sel.picked` = Menge der gewählten Items, oder null, wenn der ganze Pool im
+// Feed steht. Erst NACH dem Detail-Fetch aufrufen, damit nachgeladene
+// Datumsangaben im Gedächtnis landen.
+function updateMemory(mem, pool, sel, prev, now) {
+  const nowIso  = toRfc3339(now);
+  const cutoff  = memoryCutoff(now);
+  const created = !mem;
+  const next = {
+    lastRunAt:  nowIso,
+    lastFillAt: created || sel.backlogUsed > 0 ? nowIso : mem.lastFillAt,
+    items:      created ? [] : mem.items.map((e) => ({ ...e })),   // Kopien: Eingabe bleibt unverändert
+  };
+  const index   = makeEntryIndex(next.items);
+  const prevIdx = makeEntryIndex(created ? prev : []);
+  const pendingBySource = new Map();                 // nur beim Anlegen: Quelle → [{ e, t }]
+
+  for (const it of pool) {
+    const t = itemTime(it, now);
+    if (t < cutoff) continue;
+    let e = index.find(it);
+    if (!e) {
+      const id = it.guid || it.link;
+      e = { id };
+      if (it.link && it.link !== id) e.link = it.link;
+      e.title = (it.title || "").trim();
+      e.date  = toRfc3339(new Date(t));
+      e.shown = prevIdx.find(it) ? nowIso : false;   // nur beim Anlegen: stand im letzten XML
+      next.items.push(e);
+      index.add(e);
+    }
+    if (!e.shown && (!sel.picked || sel.picked.has(it))) e.shown = nowIso;
+    if (created && !e.shown) {
+      for (const s of sourcesOf(it)) {
+        if (!pendingBySource.has(s)) pendingBySource.set(s, []);
+        pendingBySource.get(s).push({ e, t });
+      }
+    }
+  }
+
+  // Nur beim Anlegen: Rückstand JE QUELLE auf ihre neuesten
+  // MEMORY_INITIAL_BACKLOG_PER_SOURCE Items deckeln; ältere werden "skipped".
+  // Ein Item mehrerer Quellen bleibt Rückstand, solange es bei EINER davon
+  // unter den neuesten liegt.
+  if (created) {
+    const keep = new Set(), over = new Set();
+    for (const list of pendingBySource.values()) {
+      list.sort((a, b) => b.t - a.t);
+      list.forEach(({ e }, i) => (i < MEMORY_INITIAL_BACKLOG_PER_SOURCE ? keep : over).add(e));
+    }
+    for (const e of over) if (!keep.has(e)) e.shown = "skipped";
+  }
+
+  next.items = next.items
+    .filter((e) => { const t = Date.parse(e.date); return isNaN(t) || t >= cutoff; })
+    .sort((a, b) => (Date.parse(b.date) - Date.parse(a.date)) || String(a.id).localeCompare(String(b.id)));
+  return next;
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -1546,12 +1774,17 @@ function selectFeedItems(pool, prev) {
 async function main() {
   console.log(`[${new Date().toISOString()}] [${site.id}] Start ...`);
 
-  // Feed-Stand aus dem LETZTEN Lauf einlesen, bevor in diesem Lauf irgendetwas
-  // geschrieben wird — Grundlage für den Abgleich in selectFeedItems.
+  // Stand aus dem LETZTEN Lauf einlesen, bevor in diesem Lauf irgendetwas
+  // geschrieben wird: Feed-XML (nur für das Anlegen des Gedächtnisses) und das
+  // Gedächtnis selbst.
   const outputFile  = path.join(__dirname, site.output);
+  const memoryFile  = path.join(__dirname, MEMORY_DIR, `${site.id}.json`);
   const prevEntries = readPreviousEntries(outputFile);
+  const memory      = loadMemory(memoryFile);
 
-  let items;
+  let items;         // ausgelieferte Einträge
+  let pool = null;   // alle Kandidaten dieses Laufs (Grundlage fürs Gedächtnis)
+  let sel  = null;   // Ergebnis von selectFeedItems
 
   if (site.engine === "cnn-fear-greed") {
     // ── JSON-API-Pfad: kein HTML-Scraping, kein Teaser-Splitting
@@ -1598,8 +1831,8 @@ async function main() {
     // Pool: alle Kandidaten ALLER Quellen dieses Laufs. Dedup im Pool (Link, dann
     // Titel): ein Item, das schon eine frühere Quelle geliefert hat, wird nicht
     // doppelt aufgenommen, zählt aber für BEIDE Quellen als Treffer (`sources`
-    // = Menge der Quell-Indizes) — wichtig für die Quoten in selectFeedItems.
-    const pool    = [];
+    // = Menge der Quell-Indizes) — wichtig für den Rundgang in selectFeedItems.
+    pool          = [];
     const byLink  = new Map();
     const byTitle = new Map();
     // Innerhalb EINES Laufs identische Quellen (gleiche URL + Engine) nur einmal
@@ -1646,11 +1879,12 @@ async function main() {
       }
     }
 
-    // Pool neueste zuerst sortieren, dann Abgleich mit dem letzten Lauf + Auswahl
-    // mit Quoten je Quelle (siehe selectFeedItems).
+    // Pool neueste zuerst sortieren, dann Auswahl (Rundgang durch die Quellen,
+    // Gedächtnis — siehe selectFeedItems).
     pool.sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
     const poolCount = pool.length;
-    items = selectFeedItems(pool, prevEntries);
+    sel   = selectFeedItems(pool, memory, prevEntries, RUN_TIME);
+    items = sel.items;
 
     // Optionale Detail-Anreicherung: Datum von der Artikelseite holen, wenn es im
     // Listing fehlt (z. B. AD-Tag-Seiten). Läuft NACH der Auswahl → nur für die final
@@ -1710,13 +1944,39 @@ async function main() {
     process.exit(2);
   }
 
-  // Auswahl für ALLE Engines. Der Standard-Pfad hat sie bereits vor dem
-  // Detail-Fetch angewandt (hier dann No-op); greift für die Sonder-Engines
-  // (cnn-fear-greed, tagesschau-carousel — je EINE Quelle) und jede künftige.
-  items = selectFeedItems(items, prevEntries);
+  // Auswahl für die Sonder-Engines (cnn-fear-greed, tagesschau-carousel — je
+  // EINE Quelle) und jede künftige; der Standard-Pfad hat sie bereits vor dem
+  // Detail-Fetch angewandt.
+  if (!sel) {
+    pool  = items;
+    sel   = selectFeedItems(pool, memory, prevEntries, RUN_TIME);
+    items = sel.items;
+  }
 
   fs.mkdirSync(path.dirname(outputFile), { recursive: true });   // Output-Ordner (z.B. atom/) anlegen
   fs.writeFileSync(outputFile, buildAtom(items, site), "utf8");
+
+  // Gedächtnis fortführen: angelegt wird es erst, wenn der Pool das erste Mal
+  // größer ist als MAX_FEED_ITEMS; existiert es schon, wird es in JEDEM Lauf
+  // gepflegt (auch wenn der Pool gerade komplett in den Feed passt).
+  if (memory || sel.picked) {
+    const next    = updateMemory(memory, pool, sel, prevEntries, RUN_TIME);
+    const pending = next.items.filter((e) => !e.shown).length;
+    const skipped = memory ? 0 : next.items.filter((e) => e.shown === "skipped").length;
+    saveMemory(memoryFile, next);
+    if (skipped) {
+      console.log(
+        `   ✂ Erstlauf: Rückstand je Quelle auf die ${MEMORY_INITIAL_BACKLOG_PER_SOURCE} neuesten Items begrenzt, ` +
+        `${skipped} ältere als gezeigt markiert (werden nicht nachgeliefert)`
+      );
+    }
+    console.log(
+      `   🧠 Gedächtnis ${MEMORY_DIR}/${site.id}.json: ${next.items.length} Einträge, ` +
+      `${pending} noch nie im Feed · Stichtag ${toRfc3339(new Date(memoryCutoff(RUN_TIME))).slice(0, 10)} · ` +
+      `nächstes Nachliefern frühestens ${toRfc3339(new Date(Date.parse(next.lastFillAt) + MEMORY_FILL_MIN_HOURS * 3600e3))}`
+    );
+  }
+
   console.log(`✅ [${site.id}] ${items.length} Item(s) → ${site.output}`);
   items.forEach(({ title }) => console.log(`   • ${title}`));
 }

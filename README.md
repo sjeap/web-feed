@@ -15,6 +15,8 @@ web-feed/
 │   └── feed-*.xml           ← z. B. feed-manager-magazin.xml
 ├── asset/                  ← generierte Zusatz-Artefakte (gaugeOutput)
 │   └── *.svg               ← z. B. Gauge-SVG für cnn-fear-greed
+├── memory/                 ← Gedächtnis je Feed (nur Feeds mit mehr als 25 Kandidaten)
+│   └── <site-id>.json      ← welche Pool-Items schon im Feed standen; vom Workflow mit committet
 ├── backup/                 ← OPML-Exporte
 │   └── twine_backup.opml   ← Twine-Abo-Backup (Quelle für den OPML-Abschnitt)
 ├── ACKNOWLEDGMENTS.md      ← Credits/Quellen (wird ins README gespiegelt)
@@ -35,7 +37,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Selektoren, deutsche Datumsformate.
 
 ### `visualcapitalist` → `atom/feed-visualcapitalist.xml`
-- **Aggregiert zwei Quellen** in EINEN Feed (dedupliziert über Link/Titel, sortiert, Limit 20):
+- **Aggregiert zwei Quellen** in EINEN Feed (dedupliziert über Link/Titel, sortiert, Limit 25):
   1. Startseite (HTML, `engine: browser`) — `containerStart`/`containerEnd` schneiden den
      relevanten HTML-Bereich **vor** dem `teaserSplit` heraus, damit keine Sidebar-Teaser
      im Feed landen.
@@ -57,11 +59,13 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 
 ### `seekingalpha-notable-calls` → `atom/feed-seekingalpha-notable-calls.xml`
 - **Aggregiert mehrere Quellen** in EINEN Feed (dedupliziert über Link/Titel, nach Datum
-  sortiert, auf 20 Items limitiert):
+  sortiert, auf 25 Items limitiert):
   1. `market-news/notable-calls` — die ursprüngliche JS-Seite (HTML, `engine: browser`).
   2. `tag/etf-portfolio-strategy.xml` — Tag-Feed (RSS, `engine: https`, `parser: rss`).
   3. je ein SeekingAlpha-**combined**-Feed pro Ticker der Watchlist unten (RSS, `https`,
-     `parser: rss`), Schema `https://seekingalpha.com/api/sa/combined/{code}.xml`.
+     `parser: rss`), Schema `https://seekingalpha.com/api/sa/combined/{code}.xml`. Ticker-News
+     verlinken dort alle auf `/symbol/<TICKER>/news`; `sharedLinkPattern` macht sie je News
+     eindeutig.
 
      <!-- TICKERS:START -->
      `AAON`, `AIQUY`, `ASML`, `BNPQF`, `CHUEF`, `CLLKF`, `DHR`, `ENLAY`, `JOBY`, `LILMF`, `LIN`, `MOD`, `MUTRF`, `NEXPF`, `PCELF`, `RIO`, `SE`, `TEM`, `TMO`, `TSM`, `VWAGY`
@@ -94,7 +98,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   TLS, Erfolg nicht garantiert). Siehe [Residential-Proxy](#residential-proxy-dataimpulse).
 - **Eigenheit:** Einziger Feed mit dem optionalen `urls`-Array (Schwerpunkte, ETF, Aktien):
   drei Sub-Seiten, ein Feed. Ergebnisse werden über alle Quellen dedupliziert (Link, dann
-  Titel), nach Datum sortiert, auf 20 limitiert. `url` bleibt die kanonische Seite; die
+  Titel), nach Datum sortiert, auf 25 limitiert. `url` bleibt die kanonische Seite; die
   Scrape-Ziele stehen in `urls`. Deutsches Datum „Am 03. Juli 2026 um 17:13 Uhr".
 - **Quellen-Filter:** `excludeIf: "alphavalue"` verwirft alle Items mit dem „AlphaValue"-Label
   (Provider-Icon rechts neben dem Timestamp). Items ohne Label oder mit anderer Quelle (z. B.
@@ -136,7 +140,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
 
 ### `sharedeals` → `atom/feed-sharedeals.xml`
 - **Aggregiert zwei Abschnitte DERSELBEN Startseite** in EINEN Feed (dedupliziert über Link/Titel,
-  nach Datum sortiert, Limit 20). Beide Quellen stehen im `urls`-Array und zeigen auf dieselbe `url`
+  nach Datum sortiert, Limit 25). Beide Quellen stehen im `urls`-Array und zeigen auf dieselbe `url`
   (`proxyCountry: de`, WordPress/Thrive, server-gerendert); die Seite wird pro Lauf nur **einmal**
   geladen (Fetch-Cache) und zweimal unterschiedlich geschnitten:
   1. **Meistgelesen** — `containerStart`/`containerEnd` isolieren die `ol.article-list-ranked`
@@ -163,7 +167,7 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   darunter liegenden `magazin articlelist`. Beide teilen dieselbe innere Struktur, daher wird an
   **`<picture>`** gesplittet (hält Bild + Titel im selben Block) und mit **einem** Selektor-Satz
   geparst: Titel `<h3 class="headline"><a>…`, `linkSelector` host-optional auf `…/nachrichten/…`
-  bzw. `…/magazin/…`. Limit 20 (aktuell ~8 Items).
+  bzw. `…/magazin/…`. Limit 25 (aktuell ~8 Items).
 - **Bild:** `<img src>` (Fallback `data-src`); relative `/bilder/…`-Pfade werden gegen die
   Quelle absolutiert (siehe Default-Engine-Hinweis). **Kein Datum** im Block → `pubDate` =
   Laufzeit, Dedup der Reader über den stabilen Link.
@@ -194,22 +198,27 @@ Feed HTML- und RSS-Quellen mischen kann (`seekingalpha`).
 Datumsparser deckt deutsche, englische (inkl. Ordinal), relative ("5 hours ago") und reine
 Uhrzeit-Formate ab.
 
-## Feed-Limit & Abgleich mit dem letzten Lauf
+## Feed-Limit & Auswahl
 
-- **Pool:** Jeder Lauf liest alle Quellen des Feeds (jede URL, API oder jedes RSS-Target ist eine
-  Quelle; je bis zu **40 Kandidaten**, `MAX_SOURCE_ITEMS`, gezählt nach Dedup innerhalb der
-  Quelle). Alle Kandidaten kommen in einen Pool und werden dort dedupliziert (Link, dann Titel);
-  ein Duplikat zählt für jede seiner Quellen als Treffer.
-- **Abgleich:** Items, die schon im Feed-XML des **letzten Laufs** stehen (gleicher Link, Titel
-  oder `<id>`), fallen aus dem Pool.
-- **Auswahl, höchstens 20** (`MAX_FEED_ITEMS`): erst 1 Item je Quelle (ihr neuestes), dann ein
-  zweites je Quelle (`SOURCE_QUOTA`), dann die neuesten übrigen. Reichen die Plätze nicht für
-  alle Quellen, gewinnen die neuesten; eine Quelle ohne Item im Rest-Pool fällt aus. Bleibt der
-  Feed unter 20, füllen die abgezogenen Items nach derselben Regel auf.
-- **Folge:** Gedächtnis ist nur das letzte XML — ein abgezogenes Item zählt im nächsten Lauf
-  wieder als neu. Feeds mit Pool > 20 **rotieren** daher pro Lauf, das XML ändert sich jedes
-  Mal; der Reader muss mindestens einmal pro Lauf-Intervall (aktuell 12 h) synchronisieren. Hat
-  ein Feed 20 oder mehr Quellen mit Items, bekommt jede höchstens einen Platz.
+- **Pool:** Jeder Lauf liest alle Quellen des Feeds vollständig (jede URL, API oder jedes
+  RSS-Target ist eine Quelle; keine Obergrenze je Quelle, Dubletten innerhalb einer Quelle fallen
+  beim Lesen weg). Alles kommt in einen Pool je Feed; dort Dedup über Link, dann Titel. Ein
+  Duplikat zählt für jede seiner Quellen.
+- **Limit 25** (`MAX_FEED_ITEMS`): Hat der Pool höchstens 25 Items, stehen alle im Feed.
+- **Rundgang bei mehr als 25:** erst das neueste Item jeder Quelle, dann das zweitneueste jeder
+  Quelle usw., bis 25 voll sind. Passt ein Durchgang nicht mehr ganz hinein, gewinnen die neuesten.
+- **Gedächtnis** (`memory/<id>.json`, nur bei Pool > 25, wird mit committet): merkt sich jedes
+  Pool-Item und ob es schon im Feed stand. Plätze gehen zuerst an **neue** Items (dem Gedächtnis
+  unbekannt und nicht älter als letzter Lauf − 24 h; im Erstlauf: jünger als 36 h), dann —
+  frühestens alle 24 h, im Erstlauf sofort — an **noch nie gezeigte**; für beide gilt der Rundgang. Was dann noch frei ist, füllen
+  bereits gezeigte Items auf, die zuletzt gezeigten zuerst. Einträge vor dem 1. Januar des
+  Vorjahres hält das Gedächtnis nicht.
+- **Erstlauf-Deckel je Quelle:** Beim Anlegen des Gedächtnisses bleiben von jeder Quelle höchstens
+  ihre 100 neuesten nicht gewählten Items als Rückstand (`MEMORY_INITIAL_BACKLOG_PER_SOURCE`);
+  ältere gelten als gezeigt und werden nie nachgeliefert.
+- **24-h-Sperre:** `MEMORY_FILL_MIN_HOURS = 23`, weil Actions-Läufe um Minuten versetzt starten;
+  mit exakt 24 würde das Nachliefern oft erst nach 36 h greifen.
+- **Simulieren:** `WEB_FEED_NOW=2026-11-17T04:30:00Z node scraper.js <id>` setzt den Laufzeitpunkt.
 
 ## Neue Quelle hinzufügen
 
@@ -231,7 +240,7 @@ Uhrzeit-Formate ab.
 
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
 `engine`, `parser`, `filter`, `excludeIf`, `containerStart`/`containerEnd`, `language`,
-`gaugeOutput`, `urls`, `tickers`/`tickerTemplate`, `proxy: false` (Proxy-Opt-out; Proxy ist
+`gaugeOutput`, `urls`, `tickers`/`tickerTemplate`, `sharedLinkPattern`, `proxy: false` (Proxy-Opt-out; Proxy ist
 global an), `proxyCountry`/`proxyLocale`/`proxyTimezone`, `detailDateSelector`/`detailEngine`
 (Datum von der Artikelseite nachladen, wenn es im Listing fehlt) — ohne `engine`-Feld läuft die
 Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext der Seite ab
@@ -245,8 +254,8 @@ Timestamp (bei `marketscreener` das „AlphaValue"-Label). Beide Regexes matchen
 
 Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
 aggregiert**: jede URL wird geparst, die Ergebnisse werden über alle Quellen dedupliziert
-(Link, dann Titel), nach Datum sortiert und auf 20 Items limitiert (siehe
-[Feed-Limit](#feed-limit--abgleich-mit-dem-letzten-lauf)). Ohne `urls` bleibt es beim
+(Link, dann Titel), nach Datum sortiert und auf 25 Items limitiert (siehe
+[Feed-Limit](#feed-limit--auswahl)). Ohne `urls` bleibt es beim
 Single-URL-Verhalten via `url` (siehe `marketscreener`).
 
 Ein `urls`-Eintrag darf ein **String** sein (nutzt `engine`/`parser` der Site) oder ein
@@ -267,6 +276,12 @@ Quelle (Default `tickerEngine: "https"`, `tickerParser: "rss"`). Beispiel `seeki
 `tickerTemplate: "https://seekingalpha.com/api/sa/combined/{code}.xml"`. Das `tickers`-Array
 ist die Single Source of Truth; die alphabetisch sortierte Watchlist-Liste im README wird
 daraus gespiegelt.
+
+`sharedLinkPattern` (Regex, nur RSS-Quellen, Opt-in): Passt der Link eines Eintrags auf das
+Muster, zeigt er auf eine Sammelseite, die sich mehrere Einträge teilen. Der Scraper hängt dann
+die Eintrags-ID (`<guid>`) als Fragment an (`…/symbol/MOD/news?…#MarketCurrent:4672369`), sodass
+jeder Eintrag einen eigenen Link hat — sonst bliebe je Quelle nur einer übrig, und Reader, die
+über den Link deduplizieren, zeigten spätere Einträge nie als neu.
 
 ### Schritt 2 — Eintrag in `update-rss.yml`
 
@@ -326,7 +341,7 @@ Jede Quelle läuft als **eigener paralleler Job**. `fail-fast: false` → eine f
 Quelle blockiert die anderen nicht. Erzeugt ein Lauf **0 Artikel**, wird kein leerer Feed
 geschrieben; der Lauf vermerkt dies als **Warnung** (ohne fehlzuschlagen) und der zuletzt
 veröffentlichte Feed bleibt unverändert. Jeder Job committet nur seine eigenen Artefakte (XML
-+ ggf. SVG); die Pfade kommen aus `sites.json` (`jq`). Parallele Pushes sind durch
++ ggf. SVG + ggf. `memory/<id>.json`); die Pfade kommen aus `sites.json` (`jq`). Parallele Pushes sind durch
 Rebase-Retry race-frei. Ein separater `sync-readme`-Job spiegelt **nach** der Matrix
 `ACKNOWLEDGMENTS.md` in dieses README.
 

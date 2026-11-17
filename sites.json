@@ -38,7 +38,8 @@
     "tickers": ["AIQUY", "DHR", "SE", "TEM", "BNPQF", "ENLAY", "MUTRF", "RIO", "VWAGY", "CLLKF", "CHUEF", "JOBY", "LILMF", "PCELF", "ASML", "LIN", "TSM", "TMO", "NEXPF", "AAON", "MOD"],
     "tickerTemplate": "https://seekingalpha.com/api/sa/combined/{code}.xml",
     "tickerEngine": "https",
-    "tickerParser": "rss"
+    "tickerParser": "rss",
+    "sharedLinkPattern": "/symbol/[^/?#]+/news"
   },
   {
     "id": "visualcapitalist",
