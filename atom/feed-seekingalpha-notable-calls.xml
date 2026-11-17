@@ -5,149 +5,184 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-17T13:25:00Z</updated>
+  <updated>2026-11-17T22:54:10Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Why 5% Bond Yields Are More Attractive Than The S&amp;P 500, And Will Be For A While</title>
-      <id>4968770</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4968770-why-5-percent-bond-yields-are-more-attractive-than-sp500-and-will-be-for-while?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-17T13:25:00Z</updated>
-      <published>2026-11-17T13:25:00Z</published>
+      <title>NVIDIA expands supply chain capacity for AI systems and Vera Rubin platforms</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673956</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673956"/>
+      <updated>2026-11-17T22:54:10Z</updated>
+      <published>2026-11-17T22:54:10Z</published>
     </entry>
     <entry>
-      <title>Danaher Corporation (DHR) Presents at Jefferies Global Healthcare Conference 2026 Transcript</title>
-      <id>https://seekingalpha.com/Article:4969000</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4969000-danaher-corporation-dhr-presents-at-jefferies-global-healthcare-conference-2026-transcript?source=feed_symbol_DHR"/>
-      <updated>2026-11-17T13:03:04Z</updated>
-      <published>2026-11-17T13:03:04Z</published>
+      <title>MMU: Negative Z-Score And A Historically High Discount Of ~9.2%</title>
+      <id>4969269</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969269-mmu-negative-z-score-and-a-historically-high-discount-of-9-2-percent?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T22:04:07Z</updated>
+      <published>2026-11-17T22:04:07Z</published>
     </entry>
     <entry>
-      <title>Linde: An Exceptional Business With Too Little Room For Error</title>
-      <id>https://seekingalpha.com/Article:4968957</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4968957-linde-an-exceptional-business-with-too-little-room-for-error?source=feed_symbol_LIN"/>
-      <updated>2026-11-17T10:12:02Z</updated>
-      <published>2026-11-17T10:12:02Z</published>
+      <title>Quant ratings on Third Point&apos;s top holdings: META, NVDA, UNM lead</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673873</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673873"/>
+      <updated>2026-11-17T21:01:50Z</updated>
+      <published>2026-11-17T21:01:50Z</published>
     </entry>
     <entry>
-      <title>Modine Manufacturing: Healthy Backlog, Strong Order Pipeline, And Samsung Takeover Interest Strengthen The Buy Case</title>
-      <id>https://seekingalpha.com/Article:4968882</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4968882-modine-stock-healthy-backlog-strong-order-pipeline-samsung-takeover-interest-strengthen-buy-case?source=feed_symbol_MOD"/>
-      <updated>2026-11-17T05:13:58Z</updated>
-      <published>2026-11-17T05:13:58Z</published>
+      <title>DBMF: Insurance For When The 60/40 Falters</title>
+      <id>4969250</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969250-dbmf-insurance-for-when-the-6040-falters?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T20:54:23Z</updated>
+      <published>2026-11-17T20:54:23Z</published>
     </entry>
     <entry>
-      <title>3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves</title>
-      <id>https://seekingalpha.com/MarketCurrent:4673335</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM"/>
-      <updated>2026-11-16T22:21:21Z</updated>
-      <published>2026-11-16T22:21:21Z</published>
+      <title>Weekly Closed-End Fund Roundup (November 8, 2026)</title>
+      <id>4969231</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969231-weekly-closed-end-fund-roundup-november-8-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T20:09:53Z</updated>
+      <published>2026-11-17T20:09:53Z</published>
     </entry>
     <entry>
-      <title>Enel SpA (ENLAY) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4967270</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967270-enel-spa-enlay-q3-2026-earnings-call-transcript?source=feed_symbol_ENLAY"/>
-      <updated>2026-11-12T22:29:11Z</updated>
-      <published>2026-11-12T22:29:11Z</published>
+      <title>DBB: Metals Show Strength Despite A Rising Dollar, Making It A Buy</title>
+      <id>4969225</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969225-dbb-metals-show-strength-despite-a-rising-dollar-making-it-a-buy?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T20:01:04Z</updated>
+      <published>2026-11-17T20:01:04Z</published>
     </entry>
     <entry>
-      <title>Sea Limited 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4967333</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967333-sea-limited-2026-q3-results-earnings-call-presentation?source=feed_symbol_SE"/>
-      <updated>2026-11-12T20:19:30Z</updated>
-      <published>2026-11-12T20:19:30Z</published>
+      <title>RDVI: The Rare Option Income ETF That Moved Its Portfolio In Time</title>
+      <id>4969222</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969222-rdvi-the-rare-option-income-etf-that-moved-its-portfolio-in-time?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T19:54:52Z</updated>
+      <published>2026-11-17T19:54:52Z</published>
     </entry>
     <entry>
-      <title>Mutares SE &amp; Co. KGaA 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4967312</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967312-mutares-se-and-co-kgaa-2026-q3-results-earnings-call-presentation?source=feed_symbol_MUTRF"/>
-      <updated>2026-11-12T19:32:16Z</updated>
-      <published>2026-11-12T19:32:16Z</published>
+      <title>EXI: Industrials Dashboard For November</title>
+      <id>4969219</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969219-exi-industrials-dashboard-for-november?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T19:39:10Z</updated>
+      <published>2026-11-17T19:39:10Z</published>
     </entry>
     <entry>
-      <title>AAON, Inc. (AAON) Presents at Baird 2026 Global Industrial Conference 2026 Transcript</title>
-      <id>https://seekingalpha.com/Article:4967113</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4967113-aaon-inc-aaon-presents-at-baird-2026-global-industrial-conference-2026-transcript?source=feed_symbol_AAON"/>
-      <updated>2026-11-12T19:09:01Z</updated>
-      <published>2026-11-12T19:09:01Z</published>
+      <title>EIPI: Nice Yield, But Underperformance Is The Trade-Off</title>
+      <id>4969209</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969209-eipi-nice-yield-but-underperformance-is-the-trade-off?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T19:06:25Z</updated>
+      <published>2026-11-17T19:06:25Z</published>
     </entry>
     <entry>
-      <title>BICO Group AB (publ) 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4966620</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4966620-bico-group-ab-publ-2026-q3-results-earnings-call-presentation?source=feed_symbol_CLLKF"/>
-      <updated>2026-11-11T18:32:10Z</updated>
-      <published>2026-11-11T18:32:10Z</published>
+      <title>GOVI: Stands In The Way Of Inflation Which Is Tending Up</title>
+      <id>4969184</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969184-govi-stands-in-the-way-of-inflation-which-is-tending-up?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T18:17:26Z</updated>
+      <published>2026-11-17T18:17:26Z</published>
     </entry>
     <entry>
-      <title>Nexi S.p.A. (NEXXY) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4962813</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4962813-nexi-s-p-a-nexxy-q3-2026-earnings-call-transcript?source=feed_symbol_NEXPF"/>
-      <updated>2026-11-05T11:54:36Z</updated>
-      <published>2026-11-05T11:54:36Z</published>
+      <title>UTF: Steady Income From Utilities And Infrastructure Stocks</title>
+      <id>4969177</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969177-utf-steady-income-from-utilities-and-infrastructure-stocks?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T18:07:27Z</updated>
+      <published>2026-11-17T18:07:27Z</published>
     </entry>
     <entry>
-      <title>Joby outlines $135M-$140M 2026 revenue plan while targeting TIA in first half of 2027</title>
-      <id>https://seekingalpha.com/MarketCurrent:4666153</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY"/>
-      <updated>2026-11-05T03:55:25Z</updated>
-      <published>2026-11-05T03:55:25Z</published>
+      <title>Chip stocks pare losses after Huang says he would return as Nvidia CEO if asked</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673744</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673744"/>
+      <updated>2026-11-17T16:26:10Z</updated>
+      <published>2026-11-17T16:26:10Z</published>
     </entry>
     <entry>
-      <title>Tempus AI: An Inflection Point Has Arrived (Earnings Analysis)</title>
-      <id>https://seekingalpha.com/Article:4962047</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4962047-tempus-ai-stock-inflection-point-arrived-earnings-analysis?source=feed_symbol_TEM"/>
-      <updated>2026-11-04T10:49:19Z</updated>
-      <published>2026-11-04T10:49:19Z</published>
+      <title>Linde: A Quality Compounder With Limited Upside</title>
+      <id>https://seekingalpha.com/Article:4969122</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969122-linde-a-quality-compounder-with-limited-upside?source=feed_symbol_LIN"/>
+      <updated>2026-11-17T16:20:08Z</updated>
+      <published>2026-11-17T16:20:08Z</published>
     </entry>
     <entry>
-      <title>Volkswagen AG (VWA:CA) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4959200</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959200-volkswagen-ag-vwa-ca-q3-2026-earnings-call-transcript?source=feed_symbol_VWAGY"/>
-      <updated>2026-11-02T11:28:26Z</updated>
-      <published>2026-11-02T11:28:26Z</published>
+      <title>Quant ratings on Appaloosa Management&apos;s top holdings: MU, AMZN, TSM</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673736</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673736"/>
+      <updated>2026-11-17T15:59:02Z</updated>
+      <published>2026-11-17T15:59:02Z</published>
     </entry>
     <entry>
-      <title>BNP Paribas: The Market Leader That Keeps On Performing</title>
-      <id>https://seekingalpha.com/Article:4960696</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960696-bnp-paribas-the-market-leader-that-keeps-on-performing?source=feed_symbol_BNPQF"/>
-      <updated>2026-11-01T03:35:57Z</updated>
-      <published>2026-11-01T03:35:57Z</published>
+      <title>Diagnostic stocks safe from proposed crackdown on Medicare fraud</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673720</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM#MarketCurrent:4673720"/>
+      <updated>2026-11-17T15:41:16Z</updated>
+      <published>2026-11-17T15:41:16Z</published>
     </entry>
     <entry>
-      <title>Rio Tinto: Commodity Risks Keep Us Neutral</title>
-      <id>https://seekingalpha.com/Article:4960591</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960591-rio-tinto-commodity-risks-keep-us-neutral?source=feed_symbol_RIO"/>
-      <updated>2026-10-31T10:54:35Z</updated>
-      <published>2026-10-31T10:54:35Z</published>
+      <title>Enel: The Grid Business Keeps Delivering, And We Remain Buyers</title>
+      <id>https://seekingalpha.com/Article:4969081</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969081-enel-the-grid-business-keeps-delivering-and-we-remain-buyers?source=feed_symbol_ENLAY"/>
+      <updated>2026-11-17T15:21:31Z</updated>
+      <published>2026-11-17T15:21:31Z</published>
     </entry>
     <entry>
-      <title>L&apos;Air Liquide S.A. (AIQUY) Q3 2026 Sales/Trading Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4959461</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4959461-lair-liquide-s-a-aiquy-q3-2026-sales-trading-call-transcript?source=feed_symbol_AIQUY"/>
-      <updated>2026-10-29T16:08:37Z</updated>
-      <published>2026-10-29T16:08:37Z</published>
+      <title>The Changing Calculus Of Diversification</title>
+      <id>4969067</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4969067-changing-calculus-diversification?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T14:41:00Z</updated>
+      <published>2026-11-17T14:41:00Z</published>
     </entry>
     <entry>
-      <title>ASML: Exceptional Semiconductor Business, Expensive Valuation</title>
-      <id>https://seekingalpha.com/Article:4958343</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958343-asml-exceptional-semiconductor-business-expensive-valuation?source=feed_symbol_ASML"/>
-      <updated>2026-10-28T07:02:51Z</updated>
-      <published>2026-10-28T07:02:51Z</published>
+      <title>DRAM: AI Bubble Burst Could Take Down The Memory Trade (Rating Downgrade)</title>
+      <id>4968984</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968984-dram-ai-bubble-burst-could-take-down-the-memory-trade-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T14:23:21Z</updated>
+      <published>2026-11-17T14:23:21Z</published>
     </entry>
     <entry>
-      <title>PowerCell Q3 EPS loss widens as sales fall 61%</title>
-      <id>https://seekingalpha.com/MarketCurrent:4655709</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/PCELF/news?source=feed_symbol_PCELF"/>
-      <updated>2026-10-22T06:59:25Z</updated>
-      <published>2026-10-22T06:59:25Z</published>
+      <title>PJP: Healthcare Sector Dashboard For November</title>
+      <id>4968784</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968784-pjp-healthcare-sector-dashboard-for-november?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-17T13:10:00Z</updated>
+      <published>2026-11-17T13:10:00Z</published>
     </entry>
     <entry>
-      <title>Thermo Fisher: You Don&apos;t Need A Microscope To See The Growth Anymore</title>
-      <id>https://seekingalpha.com/Article:4956061</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4956061-thermo-fisher-you-dont-need-a-microscope-to-see-the-growth-anymore?source=feed_symbol_TMO"/>
-      <updated>2026-10-21T20:57:11Z</updated>
-      <published>2026-10-21T20:57:11Z</published>
+      <title>AAON, Inc. (AAON) Presents at Baird 2026 Global Industrial Conference 2026 - Slideshow</title>
+      <id>https://seekingalpha.com/Article:4968825</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4968825-aaon-inc-aaon-presents-at-baird-2026-global-industrial-conference-2026-slideshow?source=feed_symbol_AAON"/>
+      <updated>2026-11-16T23:20:41Z</updated>
+      <published>2026-11-16T23:20:41Z</published>
+    </entry>
+    <entry>
+      <title>Rio Tinto signs electricity deal to restart New Zealand smelter line</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673325</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO#MarketCurrent:4673325"/>
+      <updated>2026-11-16T21:48:02Z</updated>
+      <published>2026-11-16T21:48:02Z</published>
+    </entry>
+    <entry>
+      <title>Druckenmiller&apos;s Duquesne adds bedding and mining, dumps Alphabet class A, among Q3 trades</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673260</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673260"/>
+      <updated>2026-11-16T21:08:06Z</updated>
+      <published>2026-11-16T21:08:06Z</published>
+    </entry>
+    <entry>
+      <title>Tiger Global exits Chime, adds Ferrari, boosts Nvidia stake, among Q3 trades</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673255</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/DHR/news?source=feed_symbol_DHR#MarketCurrent:4673255"/>
+      <updated>2026-11-16T20:36:04Z</updated>
+      <published>2026-11-16T20:36:04Z</published>
+    </entry>
+    <entry>
+      <title>Iron ore futures fall to four-year lows amid weak Chinese steel outlook</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673403</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO#MarketCurrent:4673403"/>
+      <updated>2026-11-16T18:35:28Z</updated>
+      <published>2026-11-16T18:35:28Z</published>
+    </entry>
+    <entry>
+      <title>Taiwan Semi&apos;s deal with power supplier provides long-term visibility for Arizona fab: BofA</title>
+      <id>https://seekingalpha.com/MarketCurrent:4673145</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673145"/>
+      <updated>2026-11-16T17:48:36Z</updated>
+      <published>2026-11-16T17:48:36Z</published>
     </entry>
 </feed>
