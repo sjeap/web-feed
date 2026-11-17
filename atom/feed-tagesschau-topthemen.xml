@@ -5,54 +5,54 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-16T13:01:02Z</updated>
+  <updated>2026-11-17T00:21:21Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/eilmeldung-schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/eilmeldung-schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"/>
-      <updated>2026-11-16T13:01:02Z</updated>
-      <published>2026-11-16T13:01:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0d7104df-f254-4aa4-9114-6b2e51095b79/AAABoeRb1BY/AAABnSSvrFg/16x9-big/schwesig-414.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0d7104df-f254-4aa4-9114-6b2e51095b79/AAABoeRb1BY/AAABnSSvrFg/16x9-big/schwesig-414.jpg?width=1280" alt="SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt"/><p>SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt</p>]]></content>
+      <title>EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen</title>
+      <id>https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html"/>
+      <updated>2026-11-17T00:21:21Z</updated>
+      <published>2026-11-17T00:21:21Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/229ff8b4-9df7-476b-82f0-51b5220da903/AAABoeUPspM/AAABnSSvrFg/16x9-big/migrationskonferenz-teilnehmende-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/229ff8b4-9df7-476b-82f0-51b5220da903/AAABoeUPspM/AAABnSSvrFg/16x9-big/migrationskonferenz-teilnehmende-100.jpg?width=1280" alt="EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen"/><p>EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen</p>]]></content>
     </entry>
     <entry>
-      <title>Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss</title>
-      <id>https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"/>
-      <updated>2026-11-16T13:01:02Z</updated>
-      <published>2026-11-16T13:01:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1280" alt="Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss"/><p>Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss</p>]]></content>
+      <title>Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis</title>
+      <id>https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html"/>
+      <updated>2026-11-17T00:21:21Z</updated>
+      <published>2026-11-17T00:21:21Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/f505131b-ee55-4caf-8dea-05ee9d8a8585/AAABoeSaXU4/AAABnSSvrFg/16x9-big/stahlwerk-bremen-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/f505131b-ee55-4caf-8dea-05ee9d8a8585/AAABoeSaXU4/AAABnSSvrFg/16x9-big/stahlwerk-bremen-104.jpg?width=1280" alt="Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis"/><p>Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis</p>]]></content>
     </entry>
     <entry>
       <title>EU gibt UniCredit grünes Licht für Commerzbank-Übernahme</title>
       <id>https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"/>
-      <updated>2026-11-16T13:01:02Z</updated>
-      <published>2026-11-16T13:01:02Z</published>
+      <updated>2026-11-17T00:21:21Z</updated>
+      <published>2026-11-17T00:21:21Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/48088695-d98f-4a0b-8eb4-cc1626bbac65/AAABoeQe9Xs/AAABnSSvrFg/16x9-big/commerzbank-195.jpg?width=1280" alt="EU gibt UniCredit grünes Licht für Commerzbank-Übernahme"/><p>EU gibt UniCredit grünes Licht für Commerzbank-Übernahme</p>]]></content>
     </entry>
     <entry>
-      <title>UN verhandeln Regeln zum Einsatz autonomer Waffensysteme</title>
-      <id>https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html"/>
-      <updated>2026-11-16T13:01:02Z</updated>
-      <published>2026-11-16T13:01:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1280" alt="UN verhandeln Regeln zum Einsatz autonomer Waffensysteme"/><p>UN verhandeln Regeln zum Einsatz autonomer Waffensysteme</p>]]></content>
+      <title>Tesla kündigt Milliarden-Investition in Werk in Brandenburg an</title>
+      <id>https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"/>
+      <updated>2026-11-17T00:21:21Z</updated>
+      <published>2026-11-17T00:21:21Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1280" alt="Tesla kündigt Milliarden-Investition in Werk in Brandenburg an"/><p>Tesla kündigt Milliarden-Investition in Werk in Brandenburg an</p>]]></content>
     </entry>
     <entry>
-      <title>Bundesrechnungshof beklagt Planungsmängel bei der Deutschen Bahn</title>
-      <id>https://www.tagesschau.de/wirtschaft/unternehmen/rechnungshof-bahn-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/wirtschaft/unternehmen/rechnungshof-bahn-100.html"/>
-      <updated>2026-11-16T13:01:02Z</updated>
-      <published>2026-11-16T13:01:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/74e9b1f8-3599-45a6-a08d-37c4cf10089f/AAABoePRwP0/AAABnSSvrFg/16x9-big/bahn-baustelle-110.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/74e9b1f8-3599-45a6-a08d-37c4cf10089f/AAABoePRwP0/AAABnSSvrFg/16x9-big/bahn-baustelle-110.jpg?width=1280" alt="Bundesrechnungshof beklagt Planungsmängel bei der Deutschen Bahn"/><p>Bundesrechnungshof beklagt Planungsmängel bei der Deutschen Bahn</p>]]></content>
+      <title>SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt</title>
+      <id>https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"/>
+      <updated>2026-11-17T00:21:21Z</updated>
+      <published>2026-11-17T00:21:21Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/0d7104df-f254-4aa4-9114-6b2e51095b79/AAABoeSVHs0/AAABnSSvrFg/16x9-big/schwesig-414.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/0d7104df-f254-4aa4-9114-6b2e51095b79/AAABoeSVHs0/AAABnSSvrFg/16x9-big/schwesig-414.jpg?width=1280" alt="SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt"/><p>SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt</p>]]></content>
     </entry>
 </feed>
