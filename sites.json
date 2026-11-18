@@ -35,7 +35,31 @@
       "https://seekingalpha.com/market-news/notable-calls",
       { "url": "https://seekingalpha.com/tag/etf-portfolio-strategy.xml", "engine": "https", "parser": "rss" }
     ],
-    "tickers": ["AIQUY", "DHR", "SE", "TEM", "BNPQF", "ENLAY", "MUTRF", "RIO", "VWAGY", "CLLKF", "CHUEF", "JOBY", "LILMF", "PCELF", "ASML", "LIN", "TSM", "TMO", "NEXPF", "AAON", "MOD"],
+    "tickers": ["AIQUY", "DHR", "SE", "TEM", "BNPQF", "ENLAY", "MUTRF", "RIO", "VWAGY", "CLLKF", "CHUEF", "JOBY", "LILMF", "PCELF", "ASML", "LIN", "TSM", "TMO", "NEXPF", "AAON", "MOD", "CTATF"],
+    "tickerCompanies": {
+      "AIQUY": ["Air Liquide"],
+      "DHR":   ["Danaher"],
+      "SE":    ["Sea Limited", "Sea Ltd"],
+      "TEM":   ["Tempus AI"],
+      "BNPQF": ["BNP Paribas"],
+      "ENLAY": ["Enel"],
+      "MUTRF": ["Mutares"],
+      "RIO":   ["Rio Tinto"],
+      "VWAGY": ["Volkswagen", "VW"],
+      "CLLKF": ["BICO", "Cellink"],
+      "CHUEF": ["Chubu Electric"],
+      "JOBY":  ["Joby"],
+      "LILMF": ["Lilium"],
+      "PCELF": ["PowerCell"],
+      "ASML":  ["ASML"],
+      "LIN":   ["Linde"],
+      "TSM":   ["TSMC", "Taiwan Semiconductor"],
+      "TMO":   ["Thermo Fisher"],
+      "NEXPF": ["Nexi"],
+      "AAON":  ["AAON"],
+      "MOD":   ["Modine"],
+      "CTATF": ["CATL", "Contemporary Amperex"]
+    },
     "tickerTemplate": "https://seekingalpha.com/api/sa/combined/{code}.xml",
     "tickerEngine": "https",
     "tickerParser": "rss",
@@ -147,6 +171,11 @@
     "titleSelector": "<a class=\"title\"[^>]*>\\s*<span class=\"lines\">([\\s\\S]*?)<\\/span>",
     "dateSelector": "<time class=\"date\"[^>]*datetime=\"([^\"]+)\"",
     "linkSelector": "<a class=\"title\" href=\"([^\"]+)\"",
+    "companyFilter": {
+      "tickersFrom": "seekingalpha-notable-calls",
+      "detailStart": "<article",
+      "detailEnd": ["<div class=\"article-footer", "<aside"]
+    },
     "urls": [
       {
         "url": "https://www.sharedeals.de/",
@@ -156,9 +185,10 @@
       },
       {
         "url": "https://www.sharedeals.de/",
-        "containerStart": "category/performance/",
+        "containerStart": "category/performance/\">Unsere Erfolgsstorys</a></header>",
         "containerEnd": "<div class=\"one-plus-n\"",
-        "teaserSplit": "<div class=\"article\" itemscope"
+        "teaserSplit": "<div class=\"article\" itemscope",
+        "fallback": true
       }
     ]
   },
@@ -174,5 +204,17 @@
     "teaserSplit": "<picture>",
     "titleSelector": "<h3 class=\"headline\">\\s*<a[^>]*>([\\s\\S]*?)<\\/a>",
     "linkSelector": "href=\"((?:https://www\\.forschung-und-wissen\\.de)?/(?:nachrichten|magazin)/[^\"]+)\""
+  },
+  {
+    "id": "boersen-zeitung",
+    "name": "Börsen-Zeitung – Meinung & Analyse",
+    "url": "https://www.boersen-zeitung.de/",
+    "language": "de-DE",
+    "filter": null,
+    "excludeIf": "^(?![\\s\\S]*<category>meinung-analyse<\\/category>)",
+    "output": "atom/feed-boersen-zeitung.xml",
+    "urls": [
+      { "url": "https://feeds.purplemanager.com/3bb5104f-f2d6-4138-b889-ac5e5ca06778/alle-news-ohne-agenturmeldungen", "engine": "https", "parser": "rss" }
+    ]
   }
 ]

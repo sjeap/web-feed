@@ -58,26 +58,24 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   HTML angehen.
 
 ### `seekingalpha-notable-calls` → `atom/feed-seekingalpha-notable-calls.xml`
-- **Aggregiert mehrere Quellen** in EINEN Feed (dedupliziert über Link/Titel, nach Datum
-  sortiert, auf 25 Items limitiert):
-  1. `market-news/notable-calls` — die ursprüngliche JS-Seite (HTML, `engine: browser`).
-  2. `tag/etf-portfolio-strategy.xml` — Tag-Feed (RSS, `engine: https`, `parser: rss`).
-  3. je ein SeekingAlpha-**combined**-Feed pro Ticker der Watchlist unten (RSS, `https`,
-     `parser: rss`), Schema `https://seekingalpha.com/api/sa/combined/{code}.xml`. Ticker-News
-     verlinken dort alle auf `/symbol/<TICKER>/news`; `sharedLinkPattern` macht sie je News
-     eindeutig.
+- **Quellen** (ein Feed, dedupliziert über Link/Titel, nach Datum sortiert, Limit 25):
+  1. `market-news/notable-calls` — JS-Seite (HTML, `engine: browser`).
+  2. `tag/etf-portfolio-strategy.xml` — Tag-Feed (RSS, `https`).
+  3. je Ticker ein **combined**-Feed `https://seekingalpha.com/api/sa/combined/{code}.xml` (RSS,
+     `https`). Alle News verlinken auf `/symbol/<TICKER>/news`; `sharedLinkPattern` macht sie eindeutig.
 
      <!-- TICKERS:START -->
-     `AAON`, `AIQUY`, `ASML`, `BNPQF`, `CHUEF`, `CLLKF`, `DHR`, `ENLAY`, `JOBY`, `LILMF`, `LIN`, `MOD`, `MUTRF`, `NEXPF`, `PCELF`, `RIO`, `SE`, `TEM`, `TMO`, `TSM`, `VWAGY`
+     `AAON`, `AIQUY`, `ASML`, `BNPQF`, `CHUEF`, `CLLKF`, `CTATF`, `DHR`, `ENLAY`, `JOBY`, `LILMF`, `LIN`, `MOD`, `MUTRF`, `NEXPF`, `PCELF`, `RIO`, `SE`, `TEM`, `TMO`, `TSM`, `VWAGY`
      <!-- TICKERS:END -->
-- **Engines gemischt:** Die HTML-Quelle braucht den Headless-Browser (deshalb läuft der
-  Chromium-Install-Step für diesen Feed); die RSS-Quellen laufen als schlanker HTTPS-Fetch
-  über den Residential-Proxy. Pro-Quelle-Fehlertoleranz: eine blockte/timeoutende Quelle
-  wird übersprungen, der Feed baut aus dem Rest.
-- **Bekanntes Problem:** SeekingAlpha steht hinter **PerimeterX** (HUMAN Security) und blockt
-  Datacenter-/CI-IPs. Der Residential-Proxy verbessert die IP-Reputation, aber PerimeterX
-  fingerprintet auch TLS/Browser — Erfolg (v. a. für die HTML-Quelle) nicht garantiert. Die
-  RSS-Endpunkte sind der „sauberere Weg", können aber ebenfalls geblockt werden.
+- **`tickerCompanies`:** Ticker → Unternehmensnamen (`"TSM": ["TSMC", "Taiwan Semiconductor"]`;
+  `null` = kein Unternehmen), genutzt vom Filter in `sharedeals`. Zugeordnet über die jüngsten
+  Feed-Titel (z. B. „Mutares SE & Co. KGaA 2026 Q3"), sonst über zwei Kursdaten-Seiten
+  (18.11.2026: CHUEF, LILMF, CTATF). **Neuer Ticker → auch hier eintragen**, sonst filtert er
+  nicht mit (Log-Warnung).
+- **Engines:** Die HTML-Quelle braucht Chromium (deshalb der Install-Step), die RSS-Quellen laufen
+  per HTTPS über den Proxy; eine ausfallende Quelle wird übersprungen.
+- **Bekanntes Problem:** **PerimeterX** (HUMAN Security) fingerprintet IP, TLS und Browser. Der
+  Residential-Proxy hilft, garantiert aber nichts (v. a. HTML-Quelle); RSS ist robuster, nicht immun.
 
 ### `tagesschau-topthemen` → `atom/feed-tagesschau-topthemen.xml`
 - **Engine:** Default (HTML). Die Vue-`Carousel` „LIVE UND TOPTHEMEN" existiert nicht mehr;
@@ -139,23 +137,19 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Snapshot); zuverlässig wäre eine ScrapingBee-Engine (hier nicht verdrahtet).
 
 ### `sharedeals` → `atom/feed-sharedeals.xml`
-- **Aggregiert zwei Abschnitte DERSELBEN Startseite** in EINEN Feed (dedupliziert über Link/Titel,
-  nach Datum sortiert, Limit 25). Beide Quellen stehen im `urls`-Array und zeigen auf dieselbe `url`
-  (`proxyCountry: de`, WordPress/Thrive, server-gerendert); die Seite wird pro Lauf nur **einmal**
-  geladen (Fetch-Cache) und zweimal unterschiedlich geschnitten:
-  1. **Meistgelesen** — `containerStart`/`containerEnd` isolieren die `ol.article-list-ranked`
-     (Meistgelesen-Ranking) vom Rest der Seite (die weiteren `article`-Blöcke). `teaserSplit` =
-     `<li class="article"`. Kein Bild (reine Ranking-Liste); die Rang-Reihenfolge (1–5) geht durch
-     die Datums-Sortierung verloren — systembedingt, Reader sortieren ohnehin nach Datum.
-  2. **Unsere Erfolgsstorys** — `containerStart` = `category/performance/` (Section-Header),
-     `containerEnd` = das nächste `<div class="one-plus-n"` (Folge-Section), grenzt exakt die
-     Erfolgsstorys ein. `teaserSplit` = `<div class="article" itemscope`; Bild aus `.teaser-image`.
-- **Gemeinsame Selektoren** auf Site-Ebene (identisch für beide Abschnitte): Titel
-  `<a class="title"><span class="lines">`, Datum aus `<time class="date" datetime="…">` (ISO 8601).
-- **Merke:** Die beiden Abschnitte unterscheiden sich ausschließlich über das Container-Slicing.
-  Möglich macht das der **Per-Quelle-Parse-Override**: ein Objekt-Eintrag in `urls` darf neben
-  `engine`/`parser` auch `containerStart`/`containerEnd`/`teaserSplit`/Selektoren tragen
-  (effektive Config = Site ∪ Override).
+- **Zwei Abschnitte derselben Startseite** (`proxyCountry: de`), einmal geladen, per `urls`-Objekt
+  zweimal geschnitten (gemeinsame Selektoren: `<a class="title"><span class="lines">`, `<time datetime>`):
+  1. **Meistgelesen** — `article-list-ranked` … `</ol>`, Split `<li class="article"`; kein Bild.
+  2. **Erfolgsstorys** — `category/performance/">Unsere Erfolgsstorys</a></header>` … nächstes
+     `<div class="one-plus-n"`, Split `<div class="article" itemscope`, Bild aus `.teaser-image`.
+     Das `</header>` ist Pflicht, sonst greift der Schnitt im Hauptmenü.
+- **`companyFilter`:** Nur Artikel, die ein Unternehmen aus `tickerCompanies` von
+  `seekingalpha-notable-calls` nennen — erst im Teaser (Titel, Kicker, Anreißer), sonst auf der
+  Artikelseite (`<article` bis Autorenkasten, inkl. `stockname=…`, ohne Seitenleisten). Ganzes Wort,
+  Groß/Klein egal, Bindestrich/Genitiv-s erlaubt; eine Erwähnung reicht (Nvidia-Artikel mit TSMC
+  kommt durch). ≤ 9 Artikelabrufe pro Lauf.
+- **Fallback:** Kein Treffer → nur der neueste Erfolgsstorys-Artikel (`"fallback": true`), auch im
+  Gedächtnis-Erstlauf. 0 Items (Exit 2 + Warnung) nur bei leeren Erfolgsstorys.
 
 ### `forschung-wissen` → `atom/feed-forschung-wissen.xml`
 - **Engine:** Default (HTTPS) — forschung-und-wissen.de ist server-gerendert.
@@ -172,12 +166,27 @@ Inhalte ausliefert**. Das ist der Kern des Projekts:
   Quelle absolutiert (siehe Default-Engine-Hinweis). **Kein Datum** im Block → `pubDate` =
   Laufzeit, Dedup der Reader über den stabilen Link.
 
+### `boersen-zeitung` → `atom/feed-boersen-zeitung.xml`
+- **Quelle:** öffentlicher RSS-2.0-Feed „Alle News ohne Agenturmeldungen" (purplemanager), als
+  `urls`-Objekt mit `engine: https` + `parser: rss`; `url` bleibt die Startseite (Atom-`alternate`).
+- **Nur „Meinung & Analyse":** übernommen werden nur Items mit `<category>meinung-analyse</category>`.
+  Ein Item kann mehrere `<category>` tragen (z. B. zusätzlich `closing-bell`, `esg-pro`) — es zählt,
+  dass `meinung-analyse` darunter ist. Umsetzung ohne Code-Änderung als **Whitelist über `excludeIf`**
+  mit Negative Lookahead: `^(?![\s\S]*<category>meinung-analyse<\/category>)` matcht jeden `<item>`-Block,
+  der die Kategorie **nicht** enthält → verworfen. Das leere `<category />` des Kanal-Headers steht vor
+  dem ersten `<item>` und wird nicht geprüft.
+- Datum aus `<pubDate>` (RFC 822), Bild aus `<enclosure>` (URL mit `&amp;`-Query, siehe
+  Entity-Dekodierung unter [Engines](#engines-in-scraperjs)), `<guid>` (UUID) → `<id>`.
+
 ## Engines (in `scraper.js`)
 
 - **Default** — HTML laden, optional via `containerStart`/`containerEnd` zuschneiden, an
   `teaserSplit` in Items zerlegen, Titel/Datum/Link per Regex-Selektoren extrahieren. Relative
   bzw. protokoll-relative Bild-URLs werden gegen die Quelle absolutiert (analog zum host-optionalen
   `linkSelector`; MHTML-Snapshots maskieren das, weil sie `src` absolutieren, `srcset` aber relativ lassen).
+  **Entity-Dekodierung:** Bild-URLs (HTML-`src` wie RSS-`enclosure`/`media:*`) werden beim Lesen
+  dekodiert (`&amp;` → `&`) und erst in `buildAtom` wieder genau einmal escaped — vorher landete
+  `&amp;amp;` im XML und z. B. `?w=1152&amp;func=crop` kam beim Bild-Server als `amp;func` an.
 - **`cnn-fear-greed`** — JSON-API statt HTML; eigener Output inkl. Gauge-SVG.
 - **`tagesschau-carousel`** — liest die Teaser aus dem `data-v`-JSON der
   Startseiten-Carousel-Instanz (per `carouselName` ausgewählt); filtert via
@@ -240,9 +249,10 @@ Uhrzeit-Formate ab.
 
 Pflichtfelder: `id`, `name`, `url`, `output`, `teaserSplit`, Selektoren. Optional:
 `engine`, `parser`, `filter`, `excludeIf`, `containerStart`/`containerEnd`, `language`,
-`gaugeOutput`, `urls`, `tickers`/`tickerTemplate`, `sharedLinkPattern`, `proxy: false` (Proxy-Opt-out; Proxy ist
+`gaugeOutput`, `urls`, `tickers`/`tickerTemplate`/`tickerCompanies`, `sharedLinkPattern`, `proxy: false` (Proxy-Opt-out; Proxy ist
 global an), `proxyCountry`/`proxyLocale`/`proxyTimezone`, `detailDateSelector`/`detailEngine`
-(Datum von der Artikelseite nachladen, wenn es im Listing fehlt) — ohne `engine`-Feld läuft die
+(Datum von der Artikelseite nachladen, wenn es im Listing fehlt), `companyFilter` (siehe unten)
+— ohne `engine`-Feld läuft die
 Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext der Seite ab
 (Strg+U im Browser).
 
@@ -251,6 +261,8 @@ Default-Engine (HTML + Regex). Die Selektoren leitest du aus dem HTML-Quelltext 
 fliegen raus). Weil `excludeIf` den ganzen Block sieht — nicht nur den Titel — greift es auch
 bei Markern, die außerhalb des Titels stehen, z. B. einem Quellen-/Provider-Label neben dem
 Timestamp (bei `marketscreener` das „AlphaValue"-Label). Beide Regexes matchen case-insensitive.
+Eine **Whitelist gegen den rohen Block** (nur Items mit Marker X behalten) ist als `excludeIf` mit
+Negative Lookahead ausdrückbar: `^(?![\s\S]*X)` — siehe `boersen-zeitung` (RSS-`<category>`).
 
 Mit dem optionalen `urls`-Array (Liste von Sub-URLs) werden **mehrere Quellen zu einem Feed
 aggregiert**: jede URL wird geparst, die Ergebnisse werden über alle Quellen dedupliziert
@@ -283,6 +295,15 @@ die Eintrags-ID (`<guid>`) als Fragment an (`…/symbol/MOD/news?…#MarketCurre
 jeder Eintrag einen eigenen Link hat — sonst bliebe je Quelle nur einer übrig, und Reader, die
 über den Link deduplizieren, zeigten spätere Einträge nie als neu.
 
+`companyFilter` (Objekt, Opt-in): lässt nur Items durch, die ein Unternehmen hinter den Tickern
+eines **anderen** Feeds nennen. `tickersFrom` = ID dieses Feeds; dessen `tickers` bleibt die
+einzige Ticker-Liste, die Namen kommen aus seinem `tickerCompanies` (Ticker → Name oder
+[Name, Alias …]). `detailStart` (String) + `detailEnd` (String oder Liste; der früheste Fund
+gilt) schalten den Abgleich im Artikeltext ein: Items ohne Treffer im Teaser werden auf der
+Artikelseite in diesem Ausschnitt geprüft (Engine: `detailEngine` bzw. die der Site). Ohne
+Treffer im ganzen Lauf kommt das neueste Item der Quelle(n) mit `"fallback": true` (Feld im
+`urls`-Objekt, kein Parse-Override) allein in den Feed. Siehe `sharedeals`.
+
 ### Schritt 2 — Eintrag in `update-rss.yml`
 
 ```yaml
@@ -299,6 +320,7 @@ matrix:
     - ad-magazin-smallspaces
     - sharedeals
     - forschung-wissen
+    - boersen-zeitung
     - meine-site       # ← neu
 ```
 

@@ -23,6 +23,10 @@
  *  • Neues Opt-in-Feld `sharedLinkPattern` (RSS-Quellen): Links auf eine
  *    Sammelseite, die sich mehrere Einträge teilen, bekommen die Eintrags-ID
  *    als Fragment und sind damit je Eintrag eindeutig.
+ *  • Neues Opt-in-Feld `companyFilter` (+ `tickerCompanies` im Ticker-Feed,
+ *    `"fallback": true` je Quelle): nur Items, die ein Unternehmen hinter den
+ *    Tickern eines anderen Feeds nennen — im Teaser oder im Artikeltext; ohne
+ *    Treffer das neueste Item der Fallback-Quelle. Siehe applyCompanyFilter.
  *
  * Neu in v6:
  *  • Optionale Detail-Anreicherung: fehlt das Datum im Listing, holt der Scraper
@@ -419,6 +423,18 @@ function decodeEntities(str) {
 function cleanText(str) {
   if (!str) return null;
   return decodeEntities(str.replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
+}
+
+// Klartext für Text-Abgleiche (companyFilter). Anders als cleanText wird jedes Tag
+// zu einem LEERZEICHEN ("Fisher</h2><p>Die" → "Fisher Die", sonst scheitert die
+// Wortgrenze), und Skripte/Styles/Templates fallen samt Inhalt weg. Zweiter
+// Tag-Durchgang für escaptes HTML in RSS-Beschreibungen (&lt;p&gt;).
+function htmlToMatchText(html) {
+  if (!html) return "";
+  const noCode = html.replace(/<(script|style|template|noscript)\b[\s\S]*?<\/\1>/gi, " ");
+  const text   = decodeEntities(noCode.replace(/<[^>]+>/g, " "));
+  // nur echte Tags ("<p>", "</a>") — ein Text-"<" wie in "Kurs < 5 €" bleibt stehen
+  return text.replace(/<\/?[a-zA-Z][^<>]*>/g, " ").replace(/\s+/g, " ").trim();
 }
 
 function extractText(snippet, regexStr) {
@@ -958,7 +974,10 @@ function extractImage(block) {
   const alt =
     (/\salt="([^"]*)"/i.exec(tag)        || [])[1] ||
     (/\saria-label="([^"]*)"/i.exec(tag) || [])[1] || null;
-  return { src, alt };
+  // src ist ein HTML-Attributwert (z. B. "…?w=1152&amp;func=crop") → hier zur echten
+  // URL dekodieren; buildAtom escaped beim Schreiben genau einmal. Sonst landet
+  // "&amp;amp;" im XML und der Query-Parameter heißt "amp;func".
+  return { src: src ? decodeEntities(src) : null, alt };
 }
 
 // ─────────────────────────────────────────────────────────────────────
@@ -1156,13 +1175,17 @@ function parseHeadlines(html, site, baseUrl = site.url) {
       try { imgSrc = new URL(imgSrc, baseUrl).href; } catch (e) { /* im Zweifel unverändert lassen */ }
     }
 
-    items.push({
+    const it = {
       title,
       link:    fullLink,
       pubDate,
       imgSrc,
       imgAlt:  imgAlt || title,
-    });
+    };
+    // companyFilter: Klartext des ganzen Teasers (Titel, Kicker, Anreißer) für den
+    // Unternehmens-Abgleich merken — nur bei Feeds mit Filter.
+    if (site.companyFilter) it.blockText = htmlToMatchText(block);
+    items.push(it);
   }
 
   console.log(
@@ -1319,8 +1342,13 @@ function parseFeedXml(xml, site, baseUrl) {
         if (m) { imgSrc = m[1]; break; }
       }
     }
+    // Attributwerte sind XML-/HTML-escaped (enclosure url="…?a=1&amp;b=2") →
+    // echte URL; buildAtom escaped beim Schreiben genau einmal (vgl. extractImage).
+    if (imgSrc) imgSrc = decodeEntities(imgSrc);
 
-    items.push({ title, link: fullLink, pubDate, imgSrc, imgAlt: title, guid });
+    const it = { title, link: fullLink, pubDate, imgSrc, imgAlt: title, guid };
+    if (site.companyFilter) it.blockText = htmlToMatchText(unwrapCdata(block));
+    items.push(it);
   }
 
   console.log(
@@ -1352,11 +1380,14 @@ function buildSourceList(site) {
     if (typeof entry === "string") {
       list.push({ url: entry, engine: site.engine, parser: site.parser || "html" });
     } else if (entry && entry.url) {
-      const { url, engine, parser, ...overrides } = entry;
+      const { url, engine, parser, fallback, ...overrides } = entry;
       list.push({
         url,
         engine: engine || site.engine,
         parser: parser || site.parser || "html",
+        // Opt-in für companyFilter: findet ein Lauf keinen Unternehmens-Treffer,
+        // kommt das neueste Item dieser Quelle in den Feed (kein Parse-Override).
+        fallback: fallback === true,
         // Restliche Felder des Objekt-Eintrags sind Per-Quelle-Parse-Overrides
         // (containerStart/containerEnd/teaserSplit/*Selector/filter/excludeIf …).
         // In main() wird daraus eine effektive Site-Config (Site ∪ Overrides)
@@ -1442,7 +1473,8 @@ function buildAtom(items, site) {
     if (descriptionHtml) {
       content = `\n      <content type="html"><![CDATA[${descriptionHtml}]]></content>`;
     } else if (imgSrc) {
-      content = `\n      <content type="html"><![CDATA[<img src="${imgSrc}" alt="${imgAlt || title}"/><p>${escapeXml(title)}</p>]]></content>`;
+      // imgSrc ist die dekodierte URL → für das HTML-Attribut escapen ("&" → "&amp;").
+      content = `\n      <content type="html"><![CDATA[<img src="${escapeXml(imgSrc)}" alt="${imgAlt || title}"/><p>${escapeXml(title)}</p>]]></content>`;
     }
 
     return `
@@ -1769,6 +1801,137 @@ function updateMemory(mem, pool, sel, prev, now) {
 }
 
 // ─────────────────────────────────────────────────────────────────────
+// Unternehmens-Filter (opt-in: site.companyFilter)
+// ─────────────────────────────────────────────────────────────────────
+// Lässt nur Items durch, die eines der Unternehmen hinter den Tickern eines
+// ANDEREN Feeds nennen (sharedeals ← seekingalpha-notable-calls). Die Ticker-
+// Liste bleibt dort die einzige Quelle: Unternehmensnamen stehen in
+// `tickerCompanies` desselben Eintrags (Ticker → Name bzw. [Name, Alias …];
+// null = Ticker zeigt bewusst auf kein Unternehmen). Ein Ticker ohne Eintrag
+// filtert nicht mit und wird im Log gemeldet.
+//
+// Abgleich je Item in zwei Stufen:
+//   1. Liste   — Klartext des Teasers (Titel, Kicker, Anreißer), kostet nichts.
+//   2. Artikel — nur für Items ohne Treffer in Stufe 1: Detailseite laden, auf
+//                detailStart … detailEnd schneiden (Artikel ohne Seitenleisten,
+//                Autorenkasten, "Das könnte Dich auch interessieren") und dort
+//                Text + Kurswecker-Referenz (stockname=…) prüfen.
+// Treffer = Name als ganzes Wort, Groß/Klein egal, Leerzeichen auch als
+// Bindestrich ("Thermo-Fisher-Aktie"), Genitiv-s erlaubt ("Thermo Fishers").
+//
+// Kein Treffer im ganzen Lauf → das neueste Item der Quelle(n) mit
+// `"fallback": true` kommt allein in den Feed. Der Filter läuft VOR der
+// Auswahl, gilt also im Gedächtnis-Erstlauf wie in jedem späteren Lauf.
+function companyAliasPattern(alias) {
+  return String(alias).trim()
+    .replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+    .replace(/[\s-]+/g, "[\\s\\u00a0\\-]*");
+}
+
+function buildCompanyMatchers(cf) {
+  const from = sites.find((s) => s.id === cf.tickersFrom);
+  if (!from) {
+    console.log(`   ⚠ companyFilter: Feed '${cf.tickersFrom}' nicht in sites.json — kein Unternehmen aktiv`);
+    return [];
+  }
+  const names   = from.tickerCompanies || {};
+  const out     = [];
+  const missing = [];
+  for (const code of from.tickers || []) {
+    const c = String(code).trim();
+    if (!c) continue;
+    if (!Object.prototype.hasOwnProperty.call(names, c)) { missing.push(c); continue; }
+    const aliases = [].concat(names[c] ?? []).filter((a) => a && String(a).trim());
+    if (!aliases.length) continue;                      // null/[] = bewusst kein Unternehmen
+    const body = aliases.map(companyAliasPattern).join("|");
+    out.push({
+      code: c,
+      name: String(aliases[0]).trim(),
+      re:   new RegExp(`(?<![\\p{L}\\p{N}])(?:${body})(?:['’]?s)?(?![\\p{L}\\p{N}])`, "iu"),
+    });
+  }
+  if (missing.length) {
+    console.log(`   ⚠ companyFilter: ${missing.join(", ")} ohne Eintrag in ${from.id}.tickerCompanies — filtern nicht mit`);
+  }
+  return out;
+}
+
+function matchCompany(text, matchers) {
+  if (!text) return null;
+  for (const m of matchers) if (m.re.test(text)) return m;
+  return null;
+}
+
+// Artikel-Ausschnitt detailStart … (früheste von) detailEnd. Fehlt der Start,
+// gibt es KEINEN Ausschnitt (null) — lieber kein Artikel-Abgleich als einer
+// über Seitenleisten mit fremden Unternehmen.
+function companyDetailText(html, cf) {
+  const s = html.indexOf(cf.detailStart);
+  if (s === -1) return null;
+  let e = html.length;
+  for (const end of [].concat(cf.detailEnd || [])) {
+    const i = html.indexOf(end, s + cf.detailStart.length);
+    if (i !== -1 && i < e) e = i;
+  }
+  const slice = html.slice(s, e);
+  // Kurswecker-Link "…?stockname=Thermo+Fisher+Scientific&stockidentifier=…":
+  // die strukturierte Referenz auf das Unternehmen, steht nur in einem Attribut.
+  const refs = [];
+  for (const m of slice.matchAll(/[?&](?:amp;)?stockname=([^&"'\s]+)/gi)) {
+    try { refs.push(decodeURIComponent(m[1].replace(/\+/g, " "))); } catch (err) { /* kaputtes %-Encoding: ignorieren */ }
+  }
+  return (refs.length ? refs.join(" · ") + " · " : "") + htmlToMatchText(slice);
+}
+
+async function applyCompanyFilter(pool, sources, cf) {
+  const matchers = buildCompanyMatchers(cf);
+  console.log(`   🏢 companyFilter: ${matchers.length} Unternehmen aus ${cf.tickersFrom} · ${pool.length} Kandidat(en)`);
+
+  const hits = [];
+  const rest = [];
+  for (const it of pool) {
+    const m = matchCompany(it.blockText || it.title, matchers);
+    if (m) { it.company = m; it.companyVia = "Liste"; hits.push(it); }
+    else rest.push(it);
+  }
+
+  if (cf.detailStart && rest.length && matchers.length) {
+    const engine = cf.detailEngine || site.detailEngine || site.engine || "https";
+    console.log(`   🔎 companyFilter: Artikelseiten für ${rest.length} Kandidat(en) (engine=${engine})`);
+    const htmlByUrl = await fetchDetails(rest.map((it) => it.link), engine, PROXY);
+    let noSlice = 0;
+    for (const it of rest) {
+      const html = htmlByUrl.get(it.link);
+      if (!html) continue;
+      const text = companyDetailText(html, cf);
+      if (text === null) { noSlice++; continue; }
+      const m = matchCompany(text, matchers);
+      if (m) { it.company = m; it.companyVia = "Artikel"; hits.push(it); }
+    }
+    if (noSlice) console.log(`   ⚠ companyFilter: detailStart nicht gefunden in ${noSlice} Artikelseite(n) — dort nur Listen-Abgleich`);
+  }
+
+  for (const it of hits) {
+    console.log(`   ✓ ${it.company.code} (${it.company.name}) via ${it.companyVia}: ${it.title}`);
+  }
+  if (hits.length) return hits;
+
+  // Kein Treffer: neuestes Item der Fallback-Quelle(n).
+  const fb = new Set(sources.map((s, i) => (s.fallback ? i : -1)).filter((i) => i >= 0));
+  const candidates = pool
+    .filter((it) => [...(it.sources || [])].some((i) => fb.has(i)))
+    .sort((a, b) => Date.parse(b.pubDate) - Date.parse(a.pubDate));
+  if (candidates.length) {
+    const it = candidates[0];
+    const q  = [...it.sources].filter((i) => fb.has(i)).map((i) => `Q${i + 1}`).join("/");
+    console.log(`   ↩ companyFilter: kein Treffer → Fallback, neuestes Item aus ${q}: ${it.title}`);
+    return [it];
+  }
+  console.log(`   ⚠ companyFilter: kein Treffer und kein Fallback-Item`);
+  return [];
+}
+
+// ─────────────────────────────────────────────────────────────────────
 // Main
 // ─────────────────────────────────────────────────────────────────────
 async function main() {
@@ -1878,6 +2041,10 @@ async function main() {
         console.error(`   ⚠ Quelle übersprungen (${src.url}): ${err.message}`);
       }
     }
+
+    // Optionaler Unternehmens-Filter (inkl. Fallback-Item) — VOR der Auswahl,
+    // damit Gedächtnis und Rundgang nur noch die gefilterten Items sehen.
+    if (site.companyFilter) pool = await applyCompanyFilter(pool, sources, site.companyFilter);
 
     // Pool neueste zuerst sortieren, dann Auswahl (Rundgang durch die Quellen,
     // Gedächtnis — siehe selectFeedItems).
