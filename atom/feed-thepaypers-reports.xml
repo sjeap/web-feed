@@ -5,18 +5,27 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml</id>
   <link rel="alternate" href="https://thepaypers.com/reports"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-thepaypers-reports.xml"/>
-  <updated>2026-11-13T00:00:00Z</updated>
+  <updated>2026-11-18T00:00:00Z</updated>
   <author>
     <name>The Paypers – Reports</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Serve and Protect: Building the Layers of Fraud Defence</title>
+      <id>https://thepaypers.com/fraud-and-fincrime/reports/serve-and-protect-building-the-layers-of-fraud-defence</id>
+      <link rel="alternate" href="https://thepaypers.com/fraud-and-fincrime/reports/serve-and-protect-building-the-layers-of-fraud-defence"/>
+      <updated>2026-11-18T00:00:00Z</updated>
+      <published>2026-11-18T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Paymentology%20report%20banner%202026.png?w=1152&amp;func=crop"/>
+      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Paymentology%20report%20banner%202026.png?w=1152&amp;func=crop" alt="Serve and Protect: Building the Layers of Fraud Defence"/><p>Serve and Protect: Building the Layers of Fraud Defence</p>]]></content>
+    </entry>
     <entry>
       <title>The Total Economic Impact™ Of Thales Tokenization</title>
       <id>https://thepaypers.com/payments/reports/the-total-economic-impact-of-thales-tokenization</id>
       <link rel="alternate" href="https://thepaypers.com/payments/reports/the-total-economic-impact-of-thales-tokenization"/>
       <updated>2026-11-13T00:00:00Z</updated>
       <published>2026-11-13T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Forrester-TEI-study.jpg?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Forrester-TEI-study.jpg?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Forrester-TEI-study.jpg?w=1152&amp;func=crop" alt="The Total Economic Impact™ Of Thales Tokenization"/><p>The Total Economic Impact™ Of Thales Tokenization</p>]]></content>
     </entry>
     <entry>
@@ -25,7 +34,7 @@
       <link rel="alternate" href="https://thepaypers.com/payments/reports/the-latam-payment-performance-guide"/>
       <updated>2026-10-09T00:00:00Z</updated>
       <published>2026-10-09T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/PPRO055-SH-Optimisation%20Guide%20Banners.png?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/PPRO055-SH-Optimisation%20Guide%20Banners.png?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/PPRO055-SH-Optimisation%20Guide%20Banners.png?w=1152&amp;func=crop" alt="The LATAM payment performance guide"/><p>The LATAM payment performance guide</p>]]></content>
     </entry>
     <entry>
@@ -34,7 +43,7 @@
       <link rel="alternate" href="https://thepaypers.com/crypto-web3-and-cbdc/reports/stablecoin-integration-in-europe-a-strategic-decision-framework"/>
       <updated>2026-09-11T00:00:00Z</updated>
       <published>2026-09-11T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ripple_report_stablecoins_2026.jpg?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ripple_report_stablecoins_2026.jpg?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ripple_report_stablecoins_2026.jpg?w=1152&amp;func=crop" alt="Stablecoin Integration in Europe: A Strategic Decision Framework"/><p>Stablecoin Integration in Europe: A Strategic Decision Framework</p>]]></content>
     </entry>
     <entry>
@@ -43,7 +52,7 @@
       <link rel="alternate" href="https://thepaypers.com/fintech/reports/modernisation-without-disruption"/>
       <updated>2026-09-03T00:00:00Z</updated>
       <published>2026-09-03T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/BPC_Report_Modernisation_Without_Disruption.jpg?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/BPC_Report_Modernisation_Without_Disruption.jpg?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/BPC_Report_Modernisation_Without_Disruption.jpg?w=1152&amp;func=crop" alt="Modernisation without Disruption"/><p>Modernisation without Disruption</p>]]></content>
     </entry>
     <entry>
@@ -52,17 +61,8 @@
       <link rel="alternate" href="https://thepaypers.com/fraud-and-fincrime/reports/the-benefits-risks-of-agentic-ai-in-ecommerce"/>
       <updated>2026-08-26T00:00:00Z</updated>
       <published>2026-08-26T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Riskified_Report_Agentic_AI.jpg?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Riskified_Report_Agentic_AI.jpg?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Riskified_Report_Agentic_AI.jpg?w=1152&amp;func=crop" alt="The benefits &amp; risks of agentic AI in ecommerce"/><p>The benefits &amp; risks of agentic AI in ecommerce</p>]]></content>
-    </entry>
-    <entry>
-      <title>Global Fraud Trends 2026</title>
-      <id>https://thepaypers.com/fraud-and-fincrime/reports/global-fraud-trends-2026</id>
-      <link rel="alternate" href="https://thepaypers.com/fraud-and-fincrime/reports/global-fraud-trends-2026"/>
-      <updated>2026-06-17T00:00:00Z</updated>
-      <published>2026-06-17T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2026/Ravelin-report%20banner.png?w=1152&amp;amp;func=crop"/>
-      <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2026/Ravelin-report%20banner.png?w=1152&amp;func=crop" alt="Global Fraud Trends 2026"/><p>Global Fraud Trends 2026</p>]]></content>
     </entry>
     <entry>
       <title>Global Stablecoins Report 2026</title>
@@ -70,7 +70,7 @@
       <link rel="alternate" href="https://thepaypers.com/crypto-web3-and-cbdc/reports/global-stablecoins-report-2026"/>
       <updated>2026-03-25T00:00:00Z</updated>
       <published>2026-03-25T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports%202026/PAY276-Stablecoins-Report-2026-Twitter-1024x512_Peach.png?w=1152&amp;func=crop" alt="Global Stablecoins Report 2026"/><p>Global Stablecoins Report 2026</p>]]></content>
     </entry>
     <entry>
@@ -79,7 +79,7 @@
       <link rel="alternate" href="https://thepaypers.com/fintech/reports/open-finance-report-2025"/>
       <updated>2025-11-07T00:00:00Z</updated>
       <published>2025-11-07T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png?w=1152&amp;amp;func=crop"/>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png?w=1152&amp;func=crop"/>
       <content type="html"><![CDATA[<img src="https://assets.thepaypers.com/Reports2025/OFR-2025%20-%20visual%20blue.png?w=1152&amp;func=crop" alt="Open Finance Report 2025"/><p>Open Finance Report 2025</p>]]></content>
     </entry>
 </feed>
