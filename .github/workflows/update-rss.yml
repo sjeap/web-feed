@@ -28,6 +28,7 @@ jobs:
           - ad-magazin-smallspaces
           - sharedeals
           - forschung-wissen
+          - boersen-zeitung
 
     steps:
       - name: Checkout
@@ -114,8 +115,9 @@ jobs:
           OUT_XML=$(jq -r ".[] | select(.id==\"${SITE_ID}\") | .output // empty" sites.json)
           OUT_SVG=$(jq -r ".[] | select(.id==\"${SITE_ID}\") | .gaugeOutput // empty" sites.json)
           echo "Configured paths — xml: '$OUT_XML', svg: '$OUT_SVG'"
-          # Nur addieren was tatsächlich existiert (SVG gibts nur bei cnn-fear-greed)
-          for f in "$OUT_XML" "$OUT_SVG" "sites.json"; do
+          # Nur addieren was tatsächlich existiert (SVG gibts nur bei cnn-fear-greed,
+          # memory/<id>.json nur bei Feeds, deren Pool schon einmal > 25 war)
+          for f in "$OUT_XML" "$OUT_SVG" "memory/${SITE_ID}.json" "sites.json"; do
             [ -n "$f" ] && [ -f "$f" ] && git add "$f"
           done
           git diff --cached --quiet && echo "Keine Änderungen" && exit 0
