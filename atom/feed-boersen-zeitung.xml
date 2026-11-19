@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-18T16:42:16Z</updated>
+  <updated>2026-11-19T12:12:23Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Hinter der Fassade rührt sich was</title>
+      <id>91e82285-e6ef-4bd1-a931-a9c336ee800f</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/hinter-der-fassade-ruehrt-sich-was"/>
+      <updated>2026-11-19T12:12:23Z</updated>
+      <published>2026-11-19T12:12:23Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Hinter der Fassade rührt sich was"/><p>Hinter der Fassade rührt sich was</p>]]></content>
+    </entry>
+    <entry>
+      <title>Das Wichtigste von heute</title>
+      <id>45eba11a-094e-4779-9c79-356be36ed9a1</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-6"/>
+      <updated>2026-11-19T08:23:33Z</updated>
+      <published>2026-11-19T08:23:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
+    </entry>
     <entry>
       <title>Späte, aber richtige Novelle</title>
       <id>6845bca7-6c09-467c-a4ce-172ae3e7dee0</id>
@@ -72,15 +90,6 @@
       <published>2026-11-18T11:19:39Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/ae41902c-9a8b-4561-831e-49259ea59c9c/thumbnails/7661db78-3c41-4d6b-bddb-121d64517933-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/ae41902c-9a8b-4561-831e-49259ea59c9c/thumbnails/7661db78-3c41-4d6b-bddb-121d64517933-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Zerbrechlichkeit des Daseins"/><p>Die Zerbrechlichkeit des Daseins</p>]]></content>
-    </entry>
-    <entry>
-      <title>Das Wichtigste von heute</title>
-      <id>281fa7da-937b-4530-851c-a371dae6f851</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-5"/>
-      <updated>2026-11-18T08:21:53Z</updated>
-      <published>2026-11-18T08:21:53Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/281fa7da-937b-4530-851c-a371dae6f851/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/281fa7da-937b-4530-851c-a371dae6f851/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
     </entry>
     <entry>
       <title>Endlich handeln wie die Profis</title>
@@ -171,32 +180,5 @@
       <published>2026-11-16T11:53:02Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d3b192b7-d891-4e37-99a5-4e1b1c693e58/thumbnails/7c71459b-3d28-4b84-92f0-5843a947a836-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d3b192b7-d891-4e37-99a5-4e1b1c693e58/thumbnails/7c71459b-3d28-4b84-92f0-5843a947a836-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Gegenwind aus Amerika"/><p>Gegenwind aus Amerika</p>]]></content>
-    </entry>
-    <entry>
-      <title>Sayonara, heiß geliebte Reiscracker</title>
-      <id>7d9bf170-e70f-4330-95ff-0b3c164997d7</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/sayonara-heilige-reiscracker"/>
-      <updated>2026-11-16T11:04:16Z</updated>
-      <published>2026-11-16T11:04:16Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/7d9bf170-e70f-4330-95ff-0b3c164997d7/thumbnails/50674aba-63ad-4418-aed1-2c454d6916bb.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/7d9bf170-e70f-4330-95ff-0b3c164997d7/thumbnails/50674aba-63ad-4418-aed1-2c454d6916bb.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Sayonara, heiß geliebte Reiscracker"/><p>Sayonara, heiß geliebte Reiscracker</p>]]></content>
-    </entry>
-    <entry>
-      <title>Trübe Aussichten für Krypto-Assets</title>
-      <id>5b697725-9c84-4c33-876f-11f0f64eb457</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/truebe-aussichten-fuer-krypto-assets"/>
-      <updated>2026-11-15T14:23:15Z</updated>
-      <published>2026-11-15T14:23:15Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5b697725-9c84-4c33-876f-11f0f64eb457/thumbnails/7afb74d9-3124-4835-bafe-8047e1a11f7e-0-0-2560-1411.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5b697725-9c84-4c33-876f-11f0f64eb457/thumbnails/7afb74d9-3124-4835-bafe-8047e1a11f7e-0-0-2560-1411.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Trübe Aussichten für Krypto-Assets"/><p>Trübe Aussichten für Krypto-Assets</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Rückkehr des Beichtstuhls</title>
-      <id>31d8f1a4-5338-4c01-bbe5-e1634c1afe74</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/die-rueckkehr-des-beichtstuhls"/>
-      <updated>2026-11-15T13:16:37Z</updated>
-      <published>2026-11-15T13:16:37Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/31d8f1a4-5338-4c01-bbe5-e1634c1afe74/thumbnails/c4d11cd3-885f-4be6-ab43-11a88ec040a4-0-0-2560-1709.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/31d8f1a4-5338-4c01-bbe5-e1634c1afe74/thumbnails/c4d11cd3-885f-4be6-ab43-11a88ec040a4-0-0-2560-1709.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Rückkehr des Beichtstuhls"/><p>Die Rückkehr des Beichtstuhls</p>]]></content>
     </entry>
 </feed>
