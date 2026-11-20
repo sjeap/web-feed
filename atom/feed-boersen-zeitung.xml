@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-19T16:34:46Z</updated>
+  <updated>2026-11-20T12:07:57Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Gute Gründe für die wachsenden Sorgen der Investoren</title>
+      <id>59e7a397-c09c-4489-9868-370d68436424</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/gute-gruende-fuer-die-wachsenden-sorgen-der-investoren"/>
+      <updated>2026-11-20T12:07:57Z</updated>
+      <published>2026-11-20T12:07:57Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/59e7a397-c09c-4489-9868-370d68436424/thumbnails/60f2036c-737c-49db-aecb-2e6fed71204e.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/59e7a397-c09c-4489-9868-370d68436424/thumbnails/60f2036c-737c-49db-aecb-2e6fed71204e.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Gute Gründe für die wachsenden Sorgen der Investoren"/><p>Gute Gründe für die wachsenden Sorgen der Investoren</p>]]></content>
+    </entry>
+    <entry>
+      <title>Das Wichtigste von heute</title>
+      <id>5e5bde91-1e48-4d82-92c3-91bc46348996</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-7"/>
+      <updated>2026-11-20T06:51:56Z</updated>
+      <published>2026-11-20T06:51:56Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
+    </entry>
     <entry>
       <title>Altman übernimmt Vorsitz im Fanclub von Team Amodei</title>
       <id>5ef40dcc-4c3b-4dbc-b8ca-b8f4fba4c8ba</id>
@@ -63,15 +81,6 @@
       <published>2026-11-19T12:12:23Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Hinter der Fassade rührt sich was"/><p>Hinter der Fassade rührt sich was</p>]]></content>
-    </entry>
-    <entry>
-      <title>Das Wichtigste von heute</title>
-      <id>45eba11a-094e-4779-9c79-356be36ed9a1</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-6"/>
-      <updated>2026-11-19T08:23:33Z</updated>
-      <published>2026-11-19T08:23:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
     </entry>
     <entry>
       <title>Späte, aber richtige Novelle</title>
@@ -180,14 +189,5 @@
       <published>2026-11-17T11:35:15Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/4110d544-f138-4530-9295-c487b417c8ca/thumbnails/47652c65-54aa-47f0-9bc0-0e7a3a01980b-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/4110d544-f138-4530-9295-c487b417c8ca/thumbnails/47652c65-54aa-47f0-9bc0-0e7a3a01980b-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Rom redet bei Bankenkonsolidierung mit"/><p>Rom redet bei Bankenkonsolidierung mit</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Krypto-Börsen hängen in der Flaute fest</title>
-      <id>3cf01cdb-518b-4235-b354-e2e9395590dd</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/die-krypto-boersen-haengen-in-der-flaute-fest"/>
-      <updated>2026-11-16T16:46:34Z</updated>
-      <published>2026-11-16T16:46:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/3cf01cdb-518b-4235-b354-e2e9395590dd/thumbnails/1029320c-1604-471a-97da-82a70a3ba5b3.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/3cf01cdb-518b-4235-b354-e2e9395590dd/thumbnails/1029320c-1604-471a-97da-82a70a3ba5b3.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Krypto-Börsen hängen in der Flaute fest"/><p>Die Krypto-Börsen hängen in der Flaute fest</p>]]></content>
     </entry>
 </feed>
