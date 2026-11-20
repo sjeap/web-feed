@@ -5,11 +5,56 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-20T12:07:57Z</updated>
+  <updated>2026-11-20T21:36:02Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Ein Desaster für Privatanleger</title>
+      <id>09fb132f-3732-4700-8130-b23d7450c379</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/ein-desaster-fuer-privatanleger"/>
+      <updated>2026-11-20T21:36:02Z</updated>
+      <published>2026-11-20T21:36:02Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/09fb132f-3732-4700-8130-b23d7450c379/thumbnails/c25d605e-1636-49f5-978e-89c8957b122f-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/09fb132f-3732-4700-8130-b23d7450c379/thumbnails/c25d605e-1636-49f5-978e-89c8957b122f-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Ein Desaster für Privatanleger"/><p>Ein Desaster für Privatanleger</p>]]></content>
+    </entry>
+    <entry>
+      <title>Der weite Weg zur Finanzbildung</title>
+      <id>d231e474-f76a-4c3a-a3a9-ac1b07d191b8</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/der-weite-weg-zur-finanzbildung"/>
+      <updated>2026-11-20T18:54:08Z</updated>
+      <published>2026-11-20T18:54:08Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d231e474-f76a-4c3a-a3a9-ac1b07d191b8/thumbnails/fda65f53-8d94-4f9f-b0f0-bf90f2b99b6e-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d231e474-f76a-4c3a-a3a9-ac1b07d191b8/thumbnails/fda65f53-8d94-4f9f-b0f0-bf90f2b99b6e-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Der weite Weg zur Finanzbildung"/><p>Der weite Weg zur Finanzbildung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Regierungen erweisen der EZB einen Bärendienst</title>
+      <id>e5c74b31-ed6f-4e52-a695-a188ab82dc65</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/regierungen-erweisen-der-ezb-einen-baerendienst"/>
+      <updated>2026-11-20T17:24:38Z</updated>
+      <published>2026-11-20T17:24:38Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e5c74b31-ed6f-4e52-a695-a188ab82dc65/thumbnails/135ac0a2-1892-454c-8305-6811d8b854ef-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e5c74b31-ed6f-4e52-a695-a188ab82dc65/thumbnails/135ac0a2-1892-454c-8305-6811d8b854ef-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Regierungen erweisen der EZB einen Bärendienst"/><p>Regierungen erweisen der EZB einen Bärendienst</p>]]></content>
+    </entry>
+    <entry>
+      <title>Brexit: Der Preis der Wiederannäherung</title>
+      <id>50c389c3-a312-4d78-9325-0a1e7723ffd9</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/brexit-der-preis-der-wiederannaeherung"/>
+      <updated>2026-11-20T15:36:42Z</updated>
+      <published>2026-11-20T15:36:42Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50c389c3-a312-4d78-9325-0a1e7723ffd9/thumbnails/73031cca-5499-475b-b640-480afecb9ec0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50c389c3-a312-4d78-9325-0a1e7723ffd9/thumbnails/73031cca-5499-475b-b640-480afecb9ec0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Brexit: Der Preis der Wiederannäherung"/><p>Brexit: Der Preis der Wiederannäherung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Die Luxusgüterindustrie wird zur Zwei-Klassen-Gesellschaft</title>
+      <id>3f4d19dd-65a2-4eb5-8968-dca5b20e2e50</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/unternehmen-branchen/anhaltend-unguenstiges-umfeld-setzt-luxuskonzerne-unter-druck"/>
+      <updated>2026-11-20T13:50:00Z</updated>
+      <published>2026-11-20T13:50:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/3f4d19dd-65a2-4eb5-8968-dca5b20e2e50/thumbnails/d79731f3-afe4-4d9d-8ec0-72912ea30a50.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/3f4d19dd-65a2-4eb5-8968-dca5b20e2e50/thumbnails/d79731f3-afe4-4d9d-8ec0-72912ea30a50.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Luxusgüterindustrie wird zur Zwei-Klassen-Gesellschaft"/><p>Die Luxusgüterindustrie wird zur Zwei-Klassen-Gesellschaft</p>]]></content>
+    </entry>
     <entry>
       <title>Gute Gründe für die wachsenden Sorgen der Investoren</title>
       <id>59e7a397-c09c-4489-9868-370d68436424</id>
@@ -20,13 +65,13 @@
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/59e7a397-c09c-4489-9868-370d68436424/thumbnails/60f2036c-737c-49db-aecb-2e6fed71204e.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Gute Gründe für die wachsenden Sorgen der Investoren"/><p>Gute Gründe für die wachsenden Sorgen der Investoren</p>]]></content>
     </entry>
     <entry>
-      <title>Das Wichtigste von heute</title>
+      <title>Der „Ballmer-Moment“ für BASF-Chef Markus Kamieth</title>
       <id>5e5bde91-1e48-4d82-92c3-91bc46348996</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-7"/>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/der-ballmer-moment-fuer-basf-chef-markus-kamieth"/>
       <updated>2026-11-20T06:51:56Z</updated>
       <published>2026-11-20T06:51:56Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Der „Ballmer-Moment“ für BASF-Chef Markus Kamieth"/><p>Der „Ballmer-Moment“ für BASF-Chef Markus Kamieth</p>]]></content>
     </entry>
     <entry>
       <title>Altman übernimmt Vorsitz im Fanclub von Team Amodei</title>
@@ -81,6 +126,15 @@
       <published>2026-11-19T12:12:23Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Hinter der Fassade rührt sich was"/><p>Hinter der Fassade rührt sich was</p>]]></content>
+    </entry>
+    <entry>
+      <title>Das Wichtigste von heute</title>
+      <id>45eba11a-094e-4779-9c79-356be36ed9a1</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-6"/>
+      <updated>2026-11-19T08:23:33Z</updated>
+      <published>2026-11-19T08:23:33Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
     </entry>
     <entry>
       <title>Späte, aber richtige Novelle</title>
@@ -153,41 +207,5 @@
       <published>2026-11-17T16:31:25Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/8fb75fe8-9ebb-465d-9dda-5a1ec32d1420/thumbnails/6481ec63-b506-427b-a8c3-a2cb186fd3b1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/8fb75fe8-9ebb-465d-9dda-5a1ec32d1420/thumbnails/6481ec63-b506-427b-a8c3-a2cb186fd3b1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Endlich handeln wie die Profis"/><p>Endlich handeln wie die Profis</p>]]></content>
-    </entry>
-    <entry>
-      <title>Kollateralschäden am Anleihemarkt</title>
-      <id>5edd7331-f1d8-45f6-ac78-27b9dbddf983</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/kollateralschaeden-am-anleihemarkt"/>
-      <updated>2026-11-17T14:16:48Z</updated>
-      <published>2026-11-17T14:16:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5edd7331-f1d8-45f6-ac78-27b9dbddf983/thumbnails/0dcdb0ff-1c28-40be-a629-e24224ed50bf.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5edd7331-f1d8-45f6-ac78-27b9dbddf983/thumbnails/0dcdb0ff-1c28-40be-a629-e24224ed50bf.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Kollateralschäden am Anleihemarkt"/><p>Kollateralschäden am Anleihemarkt</p>]]></content>
-    </entry>
-    <entry>
-      <title>GAU für Deutsche-Bank-Chef Sewing</title>
-      <id>87e70faa-25c2-485a-92f8-4c5c63b48d9b</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/gau-fuer-deutsche-bank-chef-sewing"/>
-      <updated>2026-11-17T14:14:42Z</updated>
-      <published>2026-11-17T14:14:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/87e70faa-25c2-485a-92f8-4c5c63b48d9b/thumbnails/011be184-5e94-4ec4-9f80-edb61d53f453-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/87e70faa-25c2-485a-92f8-4c5c63b48d9b/thumbnails/011be184-5e94-4ec4-9f80-edb61d53f453-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="GAU für Deutsche-Bank-Chef Sewing"/><p>GAU für Deutsche-Bank-Chef Sewing</p>]]></content>
-    </entry>
-    <entry>
-      <title>Opfer in einem radikalen Wirtschaftskrieg</title>
-      <id>230eab6b-858b-43b2-90d4-a4e93a9eef2e</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/opfer-in-einem-radikalen-wirtschaftskrieg"/>
-      <updated>2026-11-17T12:33:03Z</updated>
-      <published>2026-11-17T12:33:03Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/230eab6b-858b-43b2-90d4-a4e93a9eef2e/thumbnails/0c38268c-5649-439b-8ccd-d108cb3d859b-775-95-1299-647.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/230eab6b-858b-43b2-90d4-a4e93a9eef2e/thumbnails/0c38268c-5649-439b-8ccd-d108cb3d859b-775-95-1299-647.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Opfer in einem radikalen Wirtschaftskrieg"/><p>Opfer in einem radikalen Wirtschaftskrieg</p>]]></content>
-    </entry>
-    <entry>
-      <title>Rom redet bei Bankenkonsolidierung mit</title>
-      <id>4110d544-f138-4530-9295-c487b417c8ca</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/rom-redet-bei-bankenkonsolidierung-mit"/>
-      <updated>2026-11-17T11:35:15Z</updated>
-      <published>2026-11-17T11:35:15Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/4110d544-f138-4530-9295-c487b417c8ca/thumbnails/47652c65-54aa-47f0-9bc0-0e7a3a01980b-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/4110d544-f138-4530-9295-c487b417c8ca/thumbnails/47652c65-54aa-47f0-9bc0-0e7a3a01980b-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Rom redet bei Bankenkonsolidierung mit"/><p>Rom redet bei Bankenkonsolidierung mit</p>]]></content>
     </entry>
 </feed>
