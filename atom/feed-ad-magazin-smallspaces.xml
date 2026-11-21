@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-19T10:47:56Z</updated>
+  <updated>2026-11-21T08:00:00Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Diese kleine Wohnung in der Toskana verbindet historische Ziegelgewölbe mit modernem Feng-Shui</title>
+      <id>https://www.ad-magazin.de/artikel/diese-kleine-wohnung-in-siena-verbindet-historische-ziegelgewoelbe-mit-modernem-feng-shui</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/diese-kleine-wohnung-in-siena-verbindet-historische-ziegelgewoelbe-mit-modernem-feng-shui"/>
+      <updated>2026-11-21T08:00:00Z</updated>
+      <published>2026-11-21T08:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6afd764bdd3a8d49c52c2bac/1:1/w_354%2Cc_limit/Violanti%2520Gradi%2520Siena-1.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6afd764bdd3a8d49c52c2bac/1:1/w_354%2Cc_limit/Violanti%2520Gradi%2520Siena-1.jpg" alt="Diese kleine Wohnung in der Toskana verbindet historische Ziegelgewölbe mit modernem Feng-Shui"/><p>Diese kleine Wohnung in der Toskana verbindet historische Ziegelgewölbe mit modernem Feng-Shui</p>]]></content>
+    </entry>
     <entry>
       <title>Sofas für kleine Räume: 7 clevere Lösungen, die Platz sparen</title>
       <id>https://www.ad-magazin.de/artikel/sofas-fuer-kleine-raeume-inspiration-clevere-ideen</id>
@@ -171,14 +180,5 @@
       <published>2026-10-15T16:26:48Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a5dd5ba5275c9de66e485cb/1:1/w_354%2Cc_limit/okIMG_2138.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a5dd5ba5275c9de66e485cb/1:1/w_354%2Cc_limit/okIMG_2138.jpg" alt="36 Quadratmeter voller Weite und Struktur: Wie geometrische Formen und viel Stauraum diese Mini-Wohnung in Barcelona aufräumten"/><p>36 Quadratmeter voller Weite und Struktur: Wie geometrische Formen und viel Stauraum diese Mini-Wohnung in Barcelona aufräumten</p>]]></content>
-    </entry>
-    <entry>
-      <title>34 Quadratmeter mit Schlaf-Höhle: So schafft eine Bettnische in dieser kleinen Wohnung in Warschau viel Platz und Gemütlichkeit</title>
-      <id>https://www.ad-magazin.de/artikel/kleine-wohnung-mit-bettnische-warschau</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/kleine-wohnung-mit-bettnische-warschau"/>
-      <updated>2026-10-08T09:12:00Z</updated>
-      <published>2026-10-08T09:12:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a27ce437f7ca8eacedfa1b5/1:1/w_354%2Cc_limit/Dawid_Konieczny_%25C2%25A9_ONI_Studio_28576-10.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a27ce437f7ca8eacedfa1b5/1:1/w_354%2Cc_limit/Dawid_Konieczny_%25C2%25A9_ONI_Studio_28576-10.jpg" alt="34 Quadratmeter mit Schlaf-Höhle: So schafft eine Bettnische in dieser kleinen Wohnung in Warschau viel Platz und Gemütlichkeit"/><p>34 Quadratmeter mit Schlaf-Höhle: So schafft eine Bettnische in dieser kleinen Wohnung in Warschau viel Platz und Gemütlichkeit</p>]]></content>
     </entry>
 </feed>
