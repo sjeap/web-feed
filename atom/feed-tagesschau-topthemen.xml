@@ -5,17 +5,35 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml</id>
   <link rel="alternate" href="https://www.tagesschau.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-tagesschau-topthemen.xml"/>
-  <updated>2026-11-21T12:52:53Z</updated>
+  <updated>2026-11-21T21:46:41Z</updated>
   <author>
     <name>tagesschau – Die wichtigsten Nachrichten</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
+      <title>Scheitert die UN-Klimakonferenz in Antalya?</title>
+      <id>https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html"/>
+      <updated>2026-11-21T21:46:41Z</updated>
+      <published>2026-11-21T21:46:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2617cbc8-b4c1-47b6-a5d0-9743b9d9405e/AAABof7T7cY/AAABnSSvrFg/16x9-big/cop31-118.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2617cbc8-b4c1-47b6-a5d0-9743b9d9405e/AAABof7T7cY/AAABnSSvrFg/16x9-big/cop31-118.jpg?width=1280" alt="Scheitert die UN-Klimakonferenz in Antalya?"/><p>Scheitert die UN-Klimakonferenz in Antalya?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee</title>
+      <id>https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html</id>
+      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"/>
+      <updated>2026-11-21T21:46:41Z</updated>
+      <published>2026-11-21T21:46:41Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1280"/>
+      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1280" alt="Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee"/><p>Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee</p>]]></content>
+    </entry>
+    <entry>
       <title>Bilger fordert Bekenntnis der Autoindustrie zu Deutschland</title>
       <id>https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html"/>
-      <updated>2026-11-21T12:52:53Z</updated>
-      <published>2026-11-21T12:52:53Z</published>
+      <updated>2026-11-21T21:46:41Z</updated>
+      <published>2026-11-21T21:46:41Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/673dcd9f-5137-4447-b004-64a6d4d7f425/AAABof24MAs/AAABnSSvrFg/16x9-big/autoindustrie-126.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/673dcd9f-5137-4447-b004-64a6d4d7f425/AAABof24MAs/AAABnSSvrFg/16x9-big/autoindustrie-126.jpg?width=1280" alt="Bilger fordert Bekenntnis der Autoindustrie zu Deutschland"/><p>Bilger fordert Bekenntnis der Autoindustrie zu Deutschland</p>]]></content>
     </entry>
@@ -23,8 +41,8 @@
       <title>&quot;Palisades Fire&quot; - Angeklagter im zweiten Anlauf schuldig gesprochen</title>
       <id>https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html"/>
-      <updated>2026-11-21T12:52:53Z</updated>
-      <published>2026-11-21T12:52:53Z</published>
+      <updated>2026-11-21T21:46:41Z</updated>
+      <published>2026-11-21T21:46:41Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/2e8a116a-f62e-4357-8076-8dff66240fe0/AAABof0TGU8/AAABnSSvrFg/16x9-big/pacific-palisades-108.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/2e8a116a-f62e-4357-8076-8dff66240fe0/AAABof0TGU8/AAABnSSvrFg/16x9-big/pacific-palisades-108.jpg?width=1280" alt=""Palisades Fire" - Angeklagter im zweiten Anlauf schuldig gesprochen"/><p>&quot;Palisades Fire&quot; - Angeklagter im zweiten Anlauf schuldig gesprochen</p>]]></content>
     </entry>
@@ -32,27 +50,9 @@
       <title>Offenbar Hackerangriffe auf FBI und US-Agrarministerium</title>
       <id>https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html</id>
       <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"/>
-      <updated>2026-11-21T12:52:53Z</updated>
-      <published>2026-11-21T12:52:53Z</published>
+      <updated>2026-11-21T21:46:41Z</updated>
+      <published>2026-11-21T21:46:41Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1280"/>
       <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1280" alt="Offenbar Hackerangriffe auf FBI und US-Agrarministerium"/><p>Offenbar Hackerangriffe auf FBI und US-Agrarministerium</p>]]></content>
-    </entry>
-    <entry>
-      <title>Erdbeben erschüttert Perus Andenregion</title>
-      <id>https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html"/>
-      <updated>2026-11-21T12:52:53Z</updated>
-      <published>2026-11-21T12:52:53Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/6b6c6cae-4905-4f19-a88d-119b19ec276d/AAABof1qMKc/AAABnSSvrFg/16x9-big/lima-erdbeben-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/6b6c6cae-4905-4f19-a88d-119b19ec276d/AAABof1qMKc/AAABnSSvrFg/16x9-big/lima-erdbeben-100.jpg?width=1280" alt="Erdbeben erschüttert Perus Andenregion"/><p>Erdbeben erschüttert Perus Andenregion</p>]]></content>
-    </entry>
-    <entry>
-      <title>Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus</title>
-      <id>https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html</id>
-      <link rel="alternate" href="https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html"/>
-      <updated>2026-11-21T12:52:53Z</updated>
-      <published>2026-11-21T12:52:53Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://images.tagesschau.de/image/fdb97cf4-2dd2-4866-ba11-31f4c4c6202b/AAABofqwIi0/AAABnSSvrFg/16x9-big/daenemark-anschlagsplaene-100.jpg?width=1280"/>
-      <content type="html"><![CDATA[<img src="https://images.tagesschau.de/image/fdb97cf4-2dd2-4866-ba11-31f4c4c6202b/AAABofqwIi0/AAABnSSvrFg/16x9-big/daenemark-anschlagsplaene-100.jpg?width=1280" alt="Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus"/><p>Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus</p>]]></content>
     </entry>
 </feed>
