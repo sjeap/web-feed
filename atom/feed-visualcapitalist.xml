@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml</id>
   <link rel="alternate" href="https://www.visualcapitalist.com/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-visualcapitalist.xml"/>
-  <updated>2026-11-16T19:30:19Z</updated>
+  <updated>2026-11-21T05:17:44Z</updated>
   <author>
     <name>Visual Capitalist – Popular</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Dealmaker Week: 5 Trends Shaping the Future of Business</title>
+      <id>https://www.visualcapitalist.com/?p=208210</id>
+      <link rel="alternate" href="https://www.visualcapitalist.com/adb02-dealmaker-week-5-trends-shaping-the-future-of-business/"/>
+      <updated>2026-11-21T05:17:44Z</updated>
+      <published>2026-11-21T05:17:44Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/11/Adobe-dealmaker-ads_wrap-up_1200x600px.webp"/>
+      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/11/Adobe-dealmaker-ads_wrap-up_1200x600px.webp" alt="Dealmaker Week: 5 Trends Shaping the Future of Business"/><p>Dealmaker Week: 5 Trends Shaping the Future of Business</p>]]></content>
+    </entry>
     <entry>
       <title>What’s New: Dealmaker Week Is Open for Business</title>
       <id>https://www.visualcapitalist.com/?p=207661</id>
@@ -90,14 +99,5 @@
       <published>2026-09-19T11:58:02Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/shareable-17.webp"/>
       <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/shareable-17.webp" alt="Ranked: The World’s Best Countries at Math in 2026"/><p>Ranked: The World’s Best Countries at Math in 2026</p>]]></content>
-    </entry>
-    <entry>
-      <title>The New World Map the UN Wants You to Use</title>
-      <id>https://www.visualcapitalist.com/?p=204812</id>
-      <link rel="alternate" href="https://www.visualcapitalist.com/mapped-new-world-map-un-endorsed-equal-earth/"/>
-      <updated>2026-09-14T23:50:43Z</updated>
-      <published>2026-09-14T23:50:43Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://www.visualcapitalist.com/wp-content/uploads/2026/09/new-un-map-SHARE.webp"/>
-      <content type="html"><![CDATA[<img src="https://www.visualcapitalist.com/wp-content/uploads/2026/09/new-un-map-SHARE.webp" alt="The New World Map the UN Wants You to Use"/><p>The New World Map the UN Wants You to Use</p>]]></content>
     </entry>
 </feed>
