@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-20T21:36:02Z</updated>
+  <updated>2026-11-22T13:34:21Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Für Bitcoin wird es richtig bitter</title>
+      <id>75da0dfe-08a1-4411-8ffd-7ee30747e8e0</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/fuer-bitcoin-wird-es-richtig-bitter"/>
+      <updated>2026-11-22T13:34:21Z</updated>
+      <published>2026-11-22T13:34:21Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/75da0dfe-08a1-4411-8ffd-7ee30747e8e0/thumbnails/4a7aaa1b-9cc3-4281-8fac-19428052a5fc.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/75da0dfe-08a1-4411-8ffd-7ee30747e8e0/thumbnails/4a7aaa1b-9cc3-4281-8fac-19428052a5fc.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Für Bitcoin wird es richtig bitter"/><p>Für Bitcoin wird es richtig bitter</p>]]></content>
+    </entry>
     <entry>
       <title>Ein Desaster für Privatanleger</title>
       <id>09fb132f-3732-4700-8130-b23d7450c379</id>
@@ -198,14 +207,5 @@
       <published>2026-11-18T11:19:39Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/ae41902c-9a8b-4561-831e-49259ea59c9c/thumbnails/7661db78-3c41-4d6b-bddb-121d64517933-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/ae41902c-9a8b-4561-831e-49259ea59c9c/thumbnails/7661db78-3c41-4d6b-bddb-121d64517933-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Zerbrechlichkeit des Daseins"/><p>Die Zerbrechlichkeit des Daseins</p>]]></content>
-    </entry>
-    <entry>
-      <title>Endlich handeln wie die Profis</title>
-      <id>8fb75fe8-9ebb-465d-9dda-5a1ec32d1420</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/handeln-wie-die-profis-der-maerkte"/>
-      <updated>2026-11-17T16:31:25Z</updated>
-      <published>2026-11-17T16:31:25Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/8fb75fe8-9ebb-465d-9dda-5a1ec32d1420/thumbnails/6481ec63-b506-427b-a8c3-a2cb186fd3b1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/8fb75fe8-9ebb-465d-9dda-5a1ec32d1420/thumbnails/6481ec63-b506-427b-a8c3-a2cb186fd3b1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Endlich handeln wie die Profis"/><p>Endlich handeln wie die Profis</p>]]></content>
     </entry>
 </feed>
