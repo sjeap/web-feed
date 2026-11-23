@@ -5,11 +5,74 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-22T21:30:00Z</updated>
+  <updated>2026-11-23T14:26:13Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>ASML Stock Fell 25% In The AI Selloff, But Its Outlook Hasn&apos;t Budged</title>
+      <id>https://seekingalpha.com/Article:4971065</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971065-asml-stock-fell-25-percent-in-the-ai-selloff-but-its-outlook-hasnt-budged?source=feed_symbol_ASML"/>
+      <updated>2026-11-23T14:26:13Z</updated>
+      <published>2026-11-23T14:26:13Z</published>
+    </entry>
+    <entry>
+      <title>BALT: Tracking SPY With A 20% Buffer, 12.8% Remaining</title>
+      <id>4970969</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4970969-balt-tracking-spy-with-a-20-percent-buffer-12-8-percent-remaining?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-23T12:05:00Z</updated>
+      <published>2026-11-23T12:05:00Z</published>
+    </entry>
+    <entry>
+      <title>LCY’s China chip chemicals business draws $600M takeover interest from HSG-led consortium - report</title>
+      <id>https://seekingalpha.com/MarketCurrent:4675488</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4675488"/>
+      <updated>2026-11-23T11:50:52Z</updated>
+      <published>2026-11-23T11:50:52Z</published>
+    </entry>
+    <entry>
+      <title>Tech stocks surge as Nvidia reinstates Jensen Huang as CEO</title>
+      <id>https://seekingalpha.com/MarketCurrent:4675477</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4675477"/>
+      <updated>2026-11-23T11:39:35Z</updated>
+      <published>2026-11-23T11:39:35Z</published>
+    </entry>
+    <entry>
+      <title>SBAR: High-Fixed Income Rate With Increased Option Premium (Tactical Call)</title>
+      <id>4971026</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971026-sbar-high-fixed-income-rate-with-increased-option-premium-tactical-call?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-23T11:29:11Z</updated>
+      <published>2026-11-23T11:29:11Z</published>
+    </entry>
+    <entry>
+      <title>History Does Not Always Repeat, But It Sure Does Rhyme Sometimes</title>
+      <id>4970983</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4970983-history-does-not-always-repeat-but-it-sure-does-rhyme-sometimes?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-23T11:05:00Z</updated>
+      <published>2026-11-23T11:05:00Z</published>
+    </entry>
+    <entry>
+      <title>GLO: Discount Gets Even Wider, Still Remaining On The Sidelines</title>
+      <id>4970972</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4970972-glo-discount-gets-even-wider-still-remaining-on-the-sidelines?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-23T05:22:01Z</updated>
+      <published>2026-11-23T05:22:01Z</published>
+    </entry>
+    <entry>
+      <title>3 Stocks To Weather The AI Bust In 2027</title>
+      <id>4970970</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4970970-3-stocks-to-weather-the-ai-bust-in-2027?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-23T05:16:32Z</updated>
+      <published>2026-11-23T05:16:32Z</published>
+    </entry>
+    <entry>
+      <title>FFC: Upgrading This CEF From Sell To Hold As Preferred Valuations Reset</title>
+      <id>4970957</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4970957-ffc-upgrading-this-cef-from-sell-to-hold-as-preferred-valuations-reset?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-23T02:30:40Z</updated>
+      <published>2026-11-23T02:30:40Z</published>
+    </entry>
     <entry>
       <title>Why Finding Schrödinger&apos;s Cat Creates Ultra-Efficient Propellers</title>
       <id>4970943</id>
@@ -67,13 +130,6 @@
       <published>2026-11-22T14:30:00Z</published>
     </entry>
     <entry>
-      <title>Automatic Data Processing, Paychex reinstated at Buy, Hold at BofA Securities</title>
-      <id>https://seekingalpha.com/news/4674654-automatic-data-processing-paychex-reinstated-at-buy-hold-at-bofa-securities#source=url_first_level%3Amarket-news%7Csection%3Anotable-calls%7Csection_asset%3Anews_title</id>
-      <link rel="alternate" href="https://seekingalpha.com/news/4674654-automatic-data-processing-paychex-reinstated-at-buy-hold-at-bofa-securities#source=url_first_level%3Amarket-news%7Csection%3Anotable-calls%7Csection_asset%3Anews_title"/>
-      <updated>2026-11-19T12:50:07Z</updated>
-      <published>2026-11-19T12:50:07Z</published>
-    </entry>
-    <entry>
       <title>3G Capital starts position Nu, adds to Taiwan Semiconductor, cuts stake in Intel among Q3 moves</title>
       <id>https://seekingalpha.com/MarketCurrent:4673335</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4673335"/>
@@ -88,20 +144,6 @@
       <published>2026-11-10T11:51:19Z</published>
     </entry>
     <entry>
-      <title>AAON projects 72% to 75% 2026 sales growth as it discloses $10.7M revenue restatement and material weakness</title>
-      <id>https://seekingalpha.com/MarketCurrent:4669535</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/AAON/news?source=feed_symbol_AAON#MarketCurrent:4669535"/>
-      <updated>2026-11-10T08:02:17Z</updated>
-      <published>2026-11-10T08:02:17Z</published>
-    </entry>
-    <entry>
-      <title>Modine: From $200 To $91 - Rethinking Margins, Debt, And Execution (Rating Downgrade)</title>
-      <id>https://seekingalpha.com/Article:4964644</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4964644-modine-from-200-to-91-rethinking-margins-debt-and-execution?source=feed_symbol_MOD"/>
-      <updated>2026-11-07T18:16:49Z</updated>
-      <published>2026-11-07T18:16:49Z</published>
-    </entry>
-    <entry>
       <title>Joby Aviation GAAP EPS of -$0.22 beats by $0.03, revenue of $55.09M beats by $14.67M</title>
       <id>https://seekingalpha.com/MarketCurrent:4665588</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY#MarketCurrent:4665588"/>
@@ -114,20 +156,6 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM#MarketCurrent:4662769"/>
       <updated>2026-11-02T18:29:34Z</updated>
       <published>2026-11-02T18:29:34Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto: Commodity Risks Keep Us Neutral</title>
-      <id>https://seekingalpha.com/Article:4960591</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4960591-rio-tinto-commodity-risks-keep-us-neutral?source=feed_symbol_RIO"/>
-      <updated>2026-10-31T10:54:35Z</updated>
-      <published>2026-10-31T10:54:35Z</published>
-    </entry>
-    <entry>
-      <title>Linde guides Q4 EPS to $4.40-$4.50 while taking $425M restructuring charge and evaluating Lincare options</title>
-      <id>https://seekingalpha.com/MarketCurrent:4660490</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/LIN/news?source=feed_symbol_LIN#MarketCurrent:4660490"/>
-      <updated>2026-10-29T16:30:44Z</updated>
-      <published>2026-10-29T16:30:44Z</published>
     </entry>
     <entry>
       <title>L&apos;Air Liquide S.A. (AIQUY) Q3 2026 Sales/Trading Call Transcript</title>
@@ -151,38 +179,10 @@
       <published>2026-10-28T07:02:51Z</published>
     </entry>
     <entry>
-      <title>PowerCell Q3 EPS loss widens as sales fall 61%</title>
-      <id>https://seekingalpha.com/MarketCurrent:4655709</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/PCELF/news?source=feed_symbol_PCELF#MarketCurrent:4655709"/>
-      <updated>2026-10-22T06:59:25Z</updated>
-      <published>2026-10-22T06:59:25Z</published>
-    </entry>
-    <entry>
       <title>Thermo Fisher: You Don&apos;t Need A Microscope To See The Growth Anymore</title>
       <id>https://seekingalpha.com/Article:4956061</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4956061-thermo-fisher-you-dont-need-a-microscope-to-see-the-growth-anymore?source=feed_symbol_TMO"/>
       <updated>2026-10-21T20:57:11Z</updated>
       <published>2026-10-21T20:57:11Z</published>
-    </entry>
-    <entry>
-      <title>Danaher forecasts 2027 core growth of 4%-5% ex respiratory while lifting 2026 adjusted EPS guidance to $8.57-$8.62</title>
-      <id>https://seekingalpha.com/MarketCurrent:4655496</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/DHR/news?source=feed_symbol_DHR#MarketCurrent:4655496"/>
-      <updated>2026-10-21T19:47:30Z</updated>
-      <published>2026-10-21T19:47:30Z</published>
-    </entry>
-    <entry>
-      <title>BICO Group AB (publ) (BCCOY) Q2 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4938430</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938430-bico-group-ab-publ-bccoy-q2-2026-earnings-call-transcript?source=feed_symbol_CLLKF"/>
-      <updated>2026-08-19T19:01:54Z</updated>
-      <published>2026-08-19T19:01:54Z</published>
-    </entry>
-    <entry>
-      <title>Mutares SE &amp; Co. KGaA 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4938317</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938317-mutares-se-and-co-kgaa-2026-q2-results-earnings-call-presentation?source=feed_symbol_MUTRF"/>
-      <updated>2026-08-19T14:30:48Z</updated>
-      <published>2026-08-19T14:30:48Z</published>
     </entry>
 </feed>
