@@ -5,19 +5,37 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-23T13:58:18Z</updated>
+  <updated>2026-11-23T16:18:18Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
     <entry>
-      <title>Erstmal kleinere Brötchen backen</title>
+      <title>Jensen Huang ist der gefährlichste Untote aller Zeiten</title>
+      <id>681a889b-86bc-4aec-ae7a-f6a615f42c3c</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/jensen-huang-ist-der-gefaehrlichste-untote-aller-zeiten"/>
+      <updated>2026-11-23T16:18:18Z</updated>
+      <published>2026-11-23T16:18:18Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/681a889b-86bc-4aec-ae7a-f6a615f42c3c/thumbnails/f6cf29c3-d290-4e5e-9320-32c4795a0084-0-0-2560-1705.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/681a889b-86bc-4aec-ae7a-f6a615f42c3c/thumbnails/f6cf29c3-d290-4e5e-9320-32c4795a0084-0-0-2560-1705.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Jensen Huang ist der gefährlichste Untote aller Zeiten"/><p>Jensen Huang ist der gefährlichste Untote aller Zeiten</p>]]></content>
+    </entry>
+    <entry>
+      <title>Wie kapitalfreundlich wird Spanien?</title>
+      <id>123f6bef-92ee-4ced-8aa5-e1ed032ff4b2</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/wirtschaft-bereitet-sich-auf-regierungswechsel-in-madrid-vor"/>
+      <updated>2026-11-23T15:31:35Z</updated>
+      <published>2026-11-23T15:31:35Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/123f6bef-92ee-4ced-8aa5-e1ed032ff4b2/thumbnails/b760bb19-888a-43c7-b0fd-342a29a3f25a-0-0-940-580.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/123f6bef-92ee-4ced-8aa5-e1ed032ff4b2/thumbnails/b760bb19-888a-43c7-b0fd-342a29a3f25a-0-0-940-580.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Wie kapitalfreundlich wird Spanien?"/><p>Wie kapitalfreundlich wird Spanien?</p>]]></content>
+    </entry>
+    <entry>
+      <title>Die Achterbahnfahrt geht weiter</title>
       <id>402367a6-e0f2-44a8-858e-6792ba9f16de</id>
       <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/erstmal-kleinere-broetchen-backen"/>
       <updated>2026-11-23T13:58:18Z</updated>
       <published>2026-11-23T13:58:18Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/402367a6-e0f2-44a8-858e-6792ba9f16de/thumbnails/be938ff2-d2d7-44db-a56a-32e58d3fc795-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/402367a6-e0f2-44a8-858e-6792ba9f16de/thumbnails/be938ff2-d2d7-44db-a56a-32e58d3fc795-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Erstmal kleinere Brötchen backen"/><p>Erstmal kleinere Brötchen backen</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/402367a6-e0f2-44a8-858e-6792ba9f16de/thumbnails/be938ff2-d2d7-44db-a56a-32e58d3fc795-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Achterbahnfahrt geht weiter"/><p>Die Achterbahnfahrt geht weiter</p>]]></content>
     </entry>
     <entry>
       <title>Befreiungsschlag – jetzt amtlich</title>
@@ -198,32 +216,5 @@
       <published>2026-11-18T16:34:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/b4261298-a0fc-4ae9-8c91-d4fca4a0a11d/thumbnails/cce50625-a6cf-4cb5-9e7f-c7957109725e-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/b4261298-a0fc-4ae9-8c91-d4fca4a0a11d/thumbnails/cce50625-a6cf-4cb5-9e7f-c7957109725e-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="KI-Realitätscheck lähmt Hongkongs IPO-Markt"/><p>KI-Realitätscheck lähmt Hongkongs IPO-Markt</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nvidia muss dringend Klarheit über CEO-Nachfolge schaffen</title>
-      <id>d0383407-bd50-45f8-a005-acf2825b5881</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/nvidia-muss-dringend-klarheit-ueber-ceo-nachfolge-schaffen"/>
-      <updated>2026-11-18T16:01:49Z</updated>
-      <published>2026-11-18T16:01:49Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d0383407-bd50-45f8-a005-acf2825b5881/thumbnails/7d81d0f5-bfae-41d2-9519-dfc21817e79a-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d0383407-bd50-45f8-a005-acf2825b5881/thumbnails/7d81d0f5-bfae-41d2-9519-dfc21817e79a-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Nvidia muss dringend Klarheit über CEO-Nachfolge schaffen"/><p>Nvidia muss dringend Klarheit über CEO-Nachfolge schaffen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Trügerisches Rekordtief bei der NPL-Quote</title>
-      <id>e9741660-445d-4806-93af-5312a688f9e3</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/zu-frueh-fuer-entwarnung"/>
-      <updated>2026-11-18T15:30:40Z</updated>
-      <published>2026-11-18T15:30:40Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e9741660-445d-4806-93af-5312a688f9e3/thumbnails/e6dff2ab-055b-4697-8c60-7405e3e4c9f1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e9741660-445d-4806-93af-5312a688f9e3/thumbnails/e6dff2ab-055b-4697-8c60-7405e3e4c9f1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Trügerisches Rekordtief bei der NPL-Quote"/><p>Trügerisches Rekordtief bei der NPL-Quote</p>]]></content>
-    </entry>
-    <entry>
-      <title>Dollar-Stärke ist auch Euro-Schwäche</title>
-      <id>dc63aaf3-dd35-41e0-8d3a-22189fcb93a5</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/dollar-staerke-ist-auch-euro-schwaeche"/>
-      <updated>2026-11-18T12:48:39Z</updated>
-      <published>2026-11-18T12:48:39Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/dc63aaf3-dd35-41e0-8d3a-22189fcb93a5/thumbnails/9bf9425e-757a-4a7e-8261-c826cb627e50-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/dc63aaf3-dd35-41e0-8d3a-22189fcb93a5/thumbnails/9bf9425e-757a-4a7e-8261-c826cb627e50-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Dollar-Stärke ist auch Euro-Schwäche"/><p>Dollar-Stärke ist auch Euro-Schwäche</p>]]></content>
     </entry>
 </feed>
