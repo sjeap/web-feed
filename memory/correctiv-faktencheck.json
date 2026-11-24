@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastRunAt": "2026-11-23T15:07:23Z",
-  "lastFillAt": "2026-11-22T21:55:24Z",
+  "lastRunAt": "2026-11-24T02:59:16Z",
+  "lastFillAt": "2026-11-24T02:59:16Z",
   "items": [
     {"id":"https://correctiv.org/faktencheck/2026/11/20/tiktok-video-zu-todesfaellen-wegen-gefaelschter-vapes-ist-gefaelscht/","title":"Tiktok-Video zu Todesfällen wegen gefälschter Vapes ist gefälscht","date":"2026-11-20T00:00:00Z","shown":"2026-11-20T22:44:22Z"},
     {"id":"https://correctiv.org/aktuelles/hybride-kriegsfuehrung/2026/06/04/ein-leak-enthuellt-wie-kreml-geheimdienst-und-private-firmen-zusammenarbeiten/","title":"Ein Leak enthüllt, wie Kreml, Geheimdienst und private Firmen zusammenarbeiten","date":"2026-11-18T18:30:31Z","shown":"2026-11-18T18:30:28Z"},
@@ -153,7 +153,7 @@
     {"id":"https://correctiv.org/faktencheck/2026/05/21/luxusyacht-gekauft-kreml-medien-und-afd-politiker-krah-verbreiten-fake-zu-eu-kredit-fuer-ukraine/","title":"Luxusyacht gekauft? Kreml-Medien und AfD-Politiker Krah verbreiten Fake zu EU-Kredit für Ukraine","date":"2026-05-21T00:00:00Z","shown":"2026-11-22T21:55:24Z"},
     {"id":"https://correctiv.org/faktencheck/2026/05/20/nein-diese-karte-zeigt-keine-hantavirus-faelle/","title":"Nein, diese Karte zeigt keine Hantavirus-Fälle","date":"2026-05-20T00:00:00Z","shown":"2026-11-22T21:55:24Z"},
     {"id":"https://correctiv.org/faktencheck/2026/05/20/umgeknicktes-windrad-altes-video-fuer-desinformation-genutzt/","title":"Umgeknicktes Windrad: Altes Video für Desinformation genutzt","date":"2026-05-20T00:00:00Z","shown":"2026-11-22T21:55:24Z"},
-    {"id":"https://correctiv.org/faktencheck/2026/05/19/parken-beim-supermarkt-keine-deutschlandweite-gebuehr-geplant/","title":"Parken beim Supermarkt: Keine deutschlandweite Gebühr geplant","date":"2026-05-19T00:00:00Z","shown":false},
+    {"id":"https://correctiv.org/faktencheck/2026/05/19/parken-beim-supermarkt-keine-deutschlandweite-gebuehr-geplant/","title":"Parken beim Supermarkt: Keine deutschlandweite Gebühr geplant","date":"2026-05-19T00:00:00Z","shown":"2026-11-24T02:59:16Z"},
     {"id":"https://correctiv.org/faktencheck/2026/05/13/ekel-fuer-klicks-diese-videos-von-essen-in-indien-sind-ki-generiert/","title":"Ekel für Klicks? Diese Videos von indischem Essen sind KI-generiert","date":"2026-05-13T00:00:00Z","shown":"skipped"},
     {"id":"https://correctiv.org/faktencheck/2026/05/13/hantavirus-altes-donald-trump-video-ueber-corona-pandemie-falsch-zugeschrieben/","title":"Altes Video mit Trump wird fälschlich dem Hantavirus zugeschrieben","date":"2026-05-13T00:00:00Z","shown":"skipped"},
     {"id":"https://correctiv.org/faktencheck/2026/05/12/afd-wuppertal-tiktok-kanal-gab-vor-offizielles-partei-profil-zu-sein/","title":"„AfD Wuppertal“: Tiktok-Kanal gab vor, offizielles Partei-Profil zu sein","date":"2026-05-12T00:00:00Z","shown":"skipped"},
