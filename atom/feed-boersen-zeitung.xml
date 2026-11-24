@@ -5,11 +5,47 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-23T16:18:18Z</updated>
+  <updated>2026-11-24T14:17:18Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Strategischer Fit mit Risiken</title>
+      <id>e00dc5d4-c563-4819-b022-71250b2b8e63</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/strategischer-fit-mit-risiken"/>
+      <updated>2026-11-24T14:17:18Z</updated>
+      <published>2026-11-24T14:17:18Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e00dc5d4-c563-4819-b022-71250b2b8e63/thumbnails/fdcbf254-e540-4714-a033-a480f481196f-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e00dc5d4-c563-4819-b022-71250b2b8e63/thumbnails/fdcbf254-e540-4714-a033-a480f481196f-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Strategischer Fit mit Risiken"/><p>Strategischer Fit mit Risiken</p>]]></content>
+    </entry>
+    <entry>
+      <title>Anthropic-Euphorie verglüht schneller als bei SpaceX</title>
+      <id>c73e1049-50ee-4d2f-81b9-c65604d6f08c</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/anthropic-euphorie-verglueht-schneller-als-bei-spacex"/>
+      <updated>2026-11-24T12:37:29Z</updated>
+      <published>2026-11-24T12:37:29Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c73e1049-50ee-4d2f-81b9-c65604d6f08c/thumbnails/451ab4f8-6bf0-419b-943d-bb17fa4368b0-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c73e1049-50ee-4d2f-81b9-c65604d6f08c/thumbnails/451ab4f8-6bf0-419b-943d-bb17fa4368b0-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Anthropic-Euphorie verglüht schneller als bei SpaceX"/><p>Anthropic-Euphorie verglüht schneller als bei SpaceX</p>]]></content>
+    </entry>
+    <entry>
+      <title>„Wir gehen all in“</title>
+      <id>e40a5d7d-2728-45ea-9d79-59ddc3511fa8</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/wir-gehen-all-in"/>
+      <updated>2026-11-24T11:03:58Z</updated>
+      <published>2026-11-24T11:03:58Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="„Wir gehen all in“"/><p>„Wir gehen all in“</p>]]></content>
+    </entry>
+    <entry>
+      <title>Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen</title>
+      <id>70eeed34-d90f-4af3-af37-68726bd6d36f</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/der-joker-ist-zurueck-bei-nvidia-aber-viele-fragen-bleiben-offen"/>
+      <updated>2026-11-24T06:53:07Z</updated>
+      <published>2026-11-24T06:53:07Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/70eeed34-d90f-4af3-af37-68726bd6d36f/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/70eeed34-d90f-4af3-af37-68726bd6d36f/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen"/><p>Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen</p>]]></content>
+    </entry>
     <entry>
       <title>Jensen Huang ist der gefährlichste Untote aller Zeiten</title>
       <id>681a889b-86bc-4aec-ae7a-f6a615f42c3c</id>
@@ -180,41 +216,5 @@
       <published>2026-11-19T14:05:04Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e4c80218-f70b-403c-a318-17f6dac6f2b5/thumbnails/5a1924df-e666-438d-9e1a-6ba3f19334d2-0-0-2560-1741.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e4c80218-f70b-403c-a318-17f6dac6f2b5/thumbnails/5a1924df-e666-438d-9e1a-6ba3f19334d2-0-0-2560-1741.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Klimarisiken im Finanzsektor bleiben"/><p>Die Klimarisiken im Finanzsektor bleiben</p>]]></content>
-    </entry>
-    <entry>
-      <title>Hinter der Fassade rührt sich was</title>
-      <id>91e82285-e6ef-4bd1-a931-a9c336ee800f</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/hinter-der-fassade-ruehrt-sich-was"/>
-      <updated>2026-11-19T12:12:23Z</updated>
-      <published>2026-11-19T12:12:23Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/91e82285-e6ef-4bd1-a931-a9c336ee800f/thumbnails/4dcc4cfb-6c92-437d-81bb-34a067ad4388.jpeg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Hinter der Fassade rührt sich was"/><p>Hinter der Fassade rührt sich was</p>]]></content>
-    </entry>
-    <entry>
-      <title>Das Wichtigste von heute</title>
-      <id>45eba11a-094e-4779-9c79-356be36ed9a1</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/das-wichtigste-von-heute-6"/>
-      <updated>2026-11-19T08:23:33Z</updated>
-      <published>2026-11-19T08:23:33Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/45eba11a-094e-4779-9c79-356be36ed9a1/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Das Wichtigste von heute"/><p>Das Wichtigste von heute</p>]]></content>
-    </entry>
-    <entry>
-      <title>Späte, aber richtige Novelle</title>
-      <id>6845bca7-6c09-467c-a4ce-172ae3e7dee0</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/finanzmarkt-deutschland-holt-auf"/>
-      <updated>2026-11-18T16:42:16Z</updated>
-      <published>2026-11-18T16:42:16Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/6845bca7-6c09-467c-a4ce-172ae3e7dee0/thumbnails/d47d1bbc-1b65-4c59-9c65-0ce991b3cee7.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/6845bca7-6c09-467c-a4ce-172ae3e7dee0/thumbnails/d47d1bbc-1b65-4c59-9c65-0ce991b3cee7.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Späte, aber richtige Novelle"/><p>Späte, aber richtige Novelle</p>]]></content>
-    </entry>
-    <entry>
-      <title>KI-Realitätscheck lähmt Hongkongs IPO-Markt</title>
-      <id>b4261298-a0fc-4ae9-8c91-d4fca4a0a11d</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/banken-finanzen/ki-realitaetscheck-laehmt-hongkongs-ipo-markt"/>
-      <updated>2026-11-18T16:34:51Z</updated>
-      <published>2026-11-18T16:34:51Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/b4261298-a0fc-4ae9-8c91-d4fca4a0a11d/thumbnails/cce50625-a6cf-4cb5-9e7f-c7957109725e-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/b4261298-a0fc-4ae9-8c91-d4fca4a0a11d/thumbnails/cce50625-a6cf-4cb5-9e7f-c7957109725e-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="KI-Realitätscheck lähmt Hongkongs IPO-Markt"/><p>KI-Realitätscheck lähmt Hongkongs IPO-Markt</p>]]></content>
     </entry>
 </feed>
