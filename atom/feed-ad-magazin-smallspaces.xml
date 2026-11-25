@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml</id>
   <link rel="alternate" href="https://www.ad-magazin.de/tag/smallspaces"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-ad-magazin-smallspaces.xml"/>
-  <updated>2026-11-21T08:00:00Z</updated>
+  <updated>2026-11-25T11:45:43Z</updated>
   <author>
     <name>AD Magazin – Small Spaces</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>So smart strukturiert ein Würfel aus Messing diese 25-Quadratmeter-Wohnung in Warschau</title>
+      <id>https://www.ad-magazin.de/artikel/so-smart-strukturiert-ein-wuerfel-aus-messing-diese-25-quadratmeter-wohnung-in-warschau</id>
+      <link rel="alternate" href="https://www.ad-magazin.de/artikel/so-smart-strukturiert-ein-wuerfel-aus-messing-diese-25-quadratmeter-wohnung-in-warschau"/>
+      <updated>2026-11-25T11:45:43Z</updated>
+      <published>2026-11-25T11:45:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6b041b17d94eca20e11f8fd5/1:1/w_354%2Cc_limit/Retouch_DSC09658.jpg"/>
+      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6b041b17d94eca20e11f8fd5/1:1/w_354%2Cc_limit/Retouch_DSC09658.jpg" alt="So smart strukturiert ein Würfel aus Messing diese 25-Quadratmeter-Wohnung in Warschau"/><p>So smart strukturiert ein Würfel aus Messing diese 25-Quadratmeter-Wohnung in Warschau</p>]]></content>
+    </entry>
     <entry>
       <title>Diese kleine Wohnung in der Toskana verbindet historische Ziegelgewölbe mit modernem Feng-Shui</title>
       <id>https://www.ad-magazin.de/artikel/diese-kleine-wohnung-in-siena-verbindet-historische-ziegelgewoelbe-mit-modernem-feng-shui</id>
@@ -171,14 +180,5 @@
       <published>2026-10-17T07:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6aba050c43f95e40f056aae5/1:1/w_354%2Cc_limit/03_Teleno_Salitre.jpg"/>
       <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6aba050c43f95e40f056aae5/1:1/w_354%2Cc_limit/03_Teleno_Salitre.jpg" alt="So erhielten 56 Quadratmeter in Madrid einen schummrig-schönen Look mit Skandi-Flair und japanischen Einflüssen"/><p>So erhielten 56 Quadratmeter in Madrid einen schummrig-schönen Look mit Skandi-Flair und japanischen Einflüssen</p>]]></content>
-    </entry>
-    <entry>
-      <title>36 Quadratmeter voller Weite und Struktur: Wie geometrische Formen und viel Stauraum diese Mini-Wohnung in Barcelona aufräumten</title>
-      <id>https://www.ad-magazin.de/artikel/36-quadratmeter-voller-weite-und-struktur-mini-wohnung-in-barcelona</id>
-      <link rel="alternate" href="https://www.ad-magazin.de/artikel/36-quadratmeter-voller-weite-und-struktur-mini-wohnung-in-barcelona"/>
-      <updated>2026-10-15T16:26:48Z</updated>
-      <published>2026-10-15T16:26:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://assets.ad-magazin.de/photos/6a5dd5ba5275c9de66e485cb/1:1/w_354%2Cc_limit/okIMG_2138.jpg"/>
-      <content type="html"><![CDATA[<img src="https://assets.ad-magazin.de/photos/6a5dd5ba5275c9de66e485cb/1:1/w_354%2Cc_limit/okIMG_2138.jpg" alt="36 Quadratmeter voller Weite und Struktur: Wie geometrische Formen und viel Stauraum diese Mini-Wohnung in Barcelona aufräumten"/><p>36 Quadratmeter voller Weite und Struktur: Wie geometrische Formen und viel Stauraum diese Mini-Wohnung in Barcelona aufräumten</p>]]></content>
     </entry>
 </feed>
