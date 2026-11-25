@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-24T14:17:18Z</updated>
+  <updated>2026-11-24T16:31:43Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Die UBS braucht ein neues Lied</title>
+      <id>90c515e4-56d5-47dc-bd50-752f1389fb4d</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/banken-finanzen/quo-vadis-ubs"/>
+      <updated>2026-11-24T16:31:43Z</updated>
+      <published>2026-11-24T16:31:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/90c515e4-56d5-47dc-bd50-752f1389fb4d/thumbnails/28f5e1e3-5b6f-4a7f-a0f9-3efac88a808c.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/90c515e4-56d5-47dc-bd50-752f1389fb4d/thumbnails/28f5e1e3-5b6f-4a7f-a0f9-3efac88a808c.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die UBS braucht ein neues Lied"/><p>Die UBS braucht ein neues Lied</p>]]></content>
+    </entry>
+    <entry>
+      <title>BASF-Agrar-IPO wird aktionärsfreundlich mit Aufsichtsrat ohne Arbeitnehmer</title>
+      <id>c14512f0-bde3-4f02-8556-6c1c2415f393</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/basf-agrar-ipo-wird-aktionaersfreundlich-durch-arbeitnehmerfreien-aufsichtsrat"/>
+      <updated>2026-11-24T15:20:51Z</updated>
+      <published>2026-11-24T15:20:51Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c14512f0-bde3-4f02-8556-6c1c2415f393/thumbnails/b48be1e0-c99d-49ff-b640-f357e2bf8696-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c14512f0-bde3-4f02-8556-6c1c2415f393/thumbnails/b48be1e0-c99d-49ff-b640-f357e2bf8696-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="BASF-Agrar-IPO wird aktionärsfreundlich mit Aufsichtsrat ohne Arbeitnehmer"/><p>BASF-Agrar-IPO wird aktionärsfreundlich mit Aufsichtsrat ohne Arbeitnehmer</p>]]></content>
+    </entry>
     <entry>
       <title>Strategischer Fit mit Risiken</title>
       <id>e00dc5d4-c563-4819-b022-71250b2b8e63</id>
@@ -180,41 +198,5 @@
       <published>2026-11-19T16:34:46Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5ef40dcc-4c3b-4dbc-b8ca-b8f4fba4c8ba/thumbnails/dd2c56a0-1f10-4b92-abd2-35d7a49807c5-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5ef40dcc-4c3b-4dbc-b8ca-b8f4fba4c8ba/thumbnails/dd2c56a0-1f10-4b92-abd2-35d7a49807c5-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Altman übernimmt Vorsitz im Fanclub von Team Amodei"/><p>Altman übernimmt Vorsitz im Fanclub von Team Amodei</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ein Sieg der Vernunft</title>
-      <id>1540e6d6-4e43-48d1-82be-b7ad875591cf</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/basf-ein-sieg-der-vernunft"/>
-      <updated>2026-11-19T15:56:34Z</updated>
-      <published>2026-11-19T15:56:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/1540e6d6-4e43-48d1-82be-b7ad875591cf/thumbnails/4d824975-1b85-4c61-b116-db0b4cae0c52-0-0-1707-2560.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/1540e6d6-4e43-48d1-82be-b7ad875591cf/thumbnails/4d824975-1b85-4c61-b116-db0b4cae0c52-0-0-1707-2560.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Ein Sieg der Vernunft"/><p>Ein Sieg der Vernunft</p>]]></content>
-    </entry>
-    <entry>
-      <title>Spiel, Satz und Sieg Orcel</title>
-      <id>8b9dc994-b516-48be-9419-c941d1ddbd3a</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/spiel-satz-und-sieg-orcel"/>
-      <updated>2026-11-19T15:48:06Z</updated>
-      <published>2026-11-19T15:48:06Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/8b9dc994-b516-48be-9419-c941d1ddbd3a/thumbnails/3e31b8a6-5660-4254-8ee7-23e1732358c8-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/8b9dc994-b516-48be-9419-c941d1ddbd3a/thumbnails/3e31b8a6-5660-4254-8ee7-23e1732358c8-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Spiel, Satz und Sieg Orcel"/><p>Spiel, Satz und Sieg Orcel</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Immobilie ist das kleinste Problem</title>
-      <id>0a8ca5c9-5218-4a74-bb9b-30d59ceb9161</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/die-immobilie-ist-das-kleinste-problem"/>
-      <updated>2026-11-19T15:34:48Z</updated>
-      <published>2026-11-19T15:34:48Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/0a8ca5c9-5218-4a74-bb9b-30d59ceb9161/thumbnails/772ac826-9094-46ce-ba4e-183e61679d2d-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/0a8ca5c9-5218-4a74-bb9b-30d59ceb9161/thumbnails/772ac826-9094-46ce-ba4e-183e61679d2d-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Immobilie ist das kleinste Problem"/><p>Die Immobilie ist das kleinste Problem</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Klimarisiken im Finanzsektor bleiben</title>
-      <id>e4c80218-f70b-403c-a318-17f6dac6f2b5</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/esg-pro/die-rechnung-zahlen-die-banken"/>
-      <updated>2026-11-19T14:05:04Z</updated>
-      <published>2026-11-19T14:05:04Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e4c80218-f70b-403c-a318-17f6dac6f2b5/thumbnails/5a1924df-e666-438d-9e1a-6ba3f19334d2-0-0-2560-1741.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e4c80218-f70b-403c-a318-17f6dac6f2b5/thumbnails/5a1924df-e666-438d-9e1a-6ba3f19334d2-0-0-2560-1741.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Klimarisiken im Finanzsektor bleiben"/><p>Die Klimarisiken im Finanzsektor bleiben</p>]]></content>
     </entry>
 </feed>
