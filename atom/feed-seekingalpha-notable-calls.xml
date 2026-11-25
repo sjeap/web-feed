@@ -5,11 +5,102 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-24T14:37:57Z</updated>
+  <updated>2026-11-24T23:57:45Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Hunting For Bargains In &apos;Fixed&apos; Income: A Look At BBDC And FSCO</title>
+      <id>4971625</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971625-hunting-for-bargains-in-fixed-income-bbdc-fsco?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T23:57:45Z</updated>
+      <published>2026-11-24T23:57:45Z</published>
+    </entry>
+    <entry>
+      <title>GBIL: Low Duration, The Safe Way Out, But Lower Duration SGOV Preferred</title>
+      <id>4971610</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971610-gbil-low-duration-the-safe-way-out-but-lower-duration-sgov-preferred?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T22:47:00Z</updated>
+      <published>2026-11-24T22:47:00Z</published>
+    </entry>
+    <entry>
+      <title>UTES ETF: Tilt To Nuclear-Powered Utility Sector</title>
+      <id>4971604</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971604-utes-etf-tilt-to-nuclear-powered-utility-sector?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T22:26:45Z</updated>
+      <published>2026-11-24T22:26:45Z</published>
+    </entry>
+    <entry>
+      <title>BATT Vs. LIT: Why 2 Battery ETFs Deliver Different Exposure</title>
+      <id>4971593</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971593-batt-vs-lit-why-2-battery-etfs-deliver-different-exposure?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T21:30:00Z</updated>
+      <published>2026-11-24T21:30:00Z</published>
+    </entry>
+    <entry>
+      <title>IAF: Finding Value Down Under, In A Market Where Value Is Hard To Find (Rating Upgrade)</title>
+      <id>4971590</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971590-iaf-finding-value-down-under-in-a-market-where-value-is-hard-to-find-rating-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T21:06:47Z</updated>
+      <published>2026-11-24T21:06:47Z</published>
+    </entry>
+    <entry>
+      <title>XAR: Aerospace &amp; Defense Out Of Favor In The New Age Of Warfare (Rating Downgrade)</title>
+      <id>4971578</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971578-xar-aerospace-and-defense-out-of-favor-in-new-age-of-warfare-downgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T20:18:18Z</updated>
+      <published>2026-11-24T20:18:18Z</published>
+    </entry>
+    <entry>
+      <title>CDX Is The Hedge You Were Looking For, For What&apos;s About To Happen In The Markets</title>
+      <id>4971576</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971576-cdx-is-the-hedge-you-were-looking-for-for-whats-about-to-happen-in-the-markets?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T20:08:27Z</updated>
+      <published>2026-11-24T20:08:27Z</published>
+    </entry>
+    <entry>
+      <title>EIM: Back Into &apos;Buy&apos; Territory, But Leverage Headwinds Return (Rating Upgrade)</title>
+      <id>4971556</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971556-eim-back-into-buy-territory-but-leverage-headwinds-return-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T18:49:07Z</updated>
+      <published>2026-11-24T18:49:07Z</published>
+    </entry>
+    <entry>
+      <title>SPDV: High Free Cash Flow Yields Don&apos;t Guarantee High Quality</title>
+      <id>4971536</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971536-spdv-high-free-cash-flow-yields-dont-guarantee-high-quality?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T17:34:22Z</updated>
+      <published>2026-11-24T17:34:22Z</published>
+    </entry>
+    <entry>
+      <title>AGIX: Market Decline Setting Up A Strong Entry Point</title>
+      <id>4971531</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971531-agix-market-decline-setting-up-a-strong-entry-point?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T17:21:29Z</updated>
+      <published>2026-11-24T17:21:29Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Amazing Chance To Double Down On The AI Market Panic</title>
+      <id>https://seekingalpha.com/Article:4971252</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971252-tsmc-amazing-chance-to-double-down-on-the-ai-market-panic?source=feed_symbol_TSM"/>
+      <updated>2026-11-24T16:30:00Z</updated>
+      <published>2026-11-24T16:30:00Z</published>
+    </entry>
+    <entry>
+      <title>AI and chip stocks pull back sharply following Nvidia-driven rally</title>
+      <id>https://seekingalpha.com/MarketCurrent:4676053</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4676053"/>
+      <updated>2026-11-24T16:08:40Z</updated>
+      <published>2026-11-24T16:08:40Z</published>
+    </entry>
+    <entry>
+      <title>XFLT&apos;s Tender Offer Results</title>
+      <id>4971471</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971471-xflts-tender-offer-results?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-24T15:31:43Z</updated>
+      <published>2026-11-24T15:31:43Z</published>
+    </entry>
     <entry>
       <title>PALL: Substantial Portfolio Allocation Is Unwarranted Given Weak Long-Term Demand</title>
       <id>4971452</id>
@@ -37,13 +128,6 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4971440-space-tech-demand-outpacing-infrastructure-3-investment-takeaways-from-uplink-2026?source=feed_tag_etf_portfolio_strategy"/>
       <updated>2026-11-24T13:25:00Z</updated>
       <published>2026-11-24T13:25:00Z</published>
-    </entry>
-    <entry>
-      <title>Chip, AI stocks retreat after record-breaking rally on Huang&apos;s return</title>
-      <id>https://seekingalpha.com/MarketCurrent:4676053</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4676053"/>
-      <updated>2026-11-24T13:19:37Z</updated>
-      <published>2026-11-24T13:19:37Z</published>
     </entry>
     <entry>
       <title>CONY Lets You Bet On A Coinbase Rebound Without Needing To Be Right On Timing</title>
@@ -95,94 +179,10 @@
       <published>2026-11-24T11:00:00Z</published>
     </entry>
     <entry>
-      <title>PULS: A Reasonable Place To Park Your Cash</title>
-      <id>4971349</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971349-puls-a-reasonable-place-to-park-your-cash?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-24T09:41:25Z</updated>
-      <published>2026-11-24T09:41:25Z</published>
-    </entry>
-    <entry>
-      <title>CAIE Was Built For Today&apos;s Market Environment</title>
-      <id>4971296</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971296-caie-was-built-for-todays-market-environment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-24T06:12:34Z</updated>
-      <published>2026-11-24T06:12:34Z</published>
-    </entry>
-    <entry>
-      <title>Harbor Active Small Cap ETF Q3 2026 Commentary</title>
-      <id>4971307</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971307-harbor-active-small-cap-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-24T06:05:00Z</updated>
-      <published>2026-11-24T06:05:00Z</published>
-    </entry>
-    <entry>
       <title>TSMC, SK Hynix, and Asian tech surge after Jensen Huang&apos;s return as Nvidia CEO</title>
       <id>https://seekingalpha.com/MarketCurrent:4675957</id>
       <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4675957"/>
       <updated>2026-11-24T04:15:11Z</updated>
       <published>2026-11-24T04:15:11Z</published>
-    </entry>
-    <entry>
-      <title>BLOX: Why A 36% Distribution Rate Isn&apos;t Enough To Justify Ownership</title>
-      <id>4971239</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971239-blox-why-a-36-percent-distribution-rate-isnt-enough-to-justify-ownership?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-24T00:38:11Z</updated>
-      <published>2026-11-24T00:38:11Z</published>
-    </entry>
-    <entry>
-      <title>ASML surges 9% as chip stocks rally</title>
-      <id>https://seekingalpha.com/MarketCurrent:4675854</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/ASML/news?source=feed_symbol_ASML#MarketCurrent:4675854"/>
-      <updated>2026-11-23T21:23:28Z</updated>
-      <published>2026-11-23T21:23:28Z</published>
-    </entry>
-    <entry>
-      <title>Profit From Higher Federal Reserve Rates With These 6 CLO ETFs</title>
-      <id>4971189</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971189-profit-from-higher-federal-reserve-rates-with-these-6-clo-etfs?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-23T20:15:30Z</updated>
-      <published>2026-11-23T20:15:30Z</published>
-    </entry>
-    <entry>
-      <title>JBND: An Active Bond Approach That Could Benefit From The Coming Environment</title>
-      <id>4971165</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971165-jbnd-an-active-bond-approach-that-could-benefit-from-the-coming-environment?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-23T20:04:18Z</updated>
-      <published>2026-11-23T20:04:18Z</published>
-    </entry>
-    <entry>
-      <title>VYM Vs. DIVB: Two Buys With Different Tech Exposure</title>
-      <id>4971161</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971161-vym-vs-divb-two-buys-with-different-tech-exposure?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-23T19:51:11Z</updated>
-      <published>2026-11-23T19:51:11Z</published>
-    </entry>
-    <entry>
-      <title>Tech rally sparks 14% rise in Taiwan Semiconductor Manufacturing</title>
-      <id>https://seekingalpha.com/MarketCurrent:4675778</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4675778"/>
-      <updated>2026-11-23T19:50:33Z</updated>
-      <published>2026-11-23T19:50:33Z</published>
-    </entry>
-    <entry>
-      <title>URA: AI-Related Selloff Brought It Back To Long-Term Fundamentals</title>
-      <id>4971160</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971160-ura-ai-related-selloff-brought-it-back-to-long-term-fundamentals?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-23T19:42:56Z</updated>
-      <published>2026-11-23T19:42:56Z</published>
-    </entry>
-    <entry>
-      <title>Weekly Closed-End Fund Roundup (November 15, 2026)</title>
-      <id>4971157</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971157-weekly-closed-end-fund-roundup-november-15-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-23T19:41:02Z</updated>
-      <published>2026-11-23T19:41:02Z</published>
-    </entry>
-    <entry>
-      <title>DTD: A Well-Diversified Dividend ETF Built For This Market</title>
-      <id>4971153</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971153-dtd-a-well-diversified-dividend-etf-built-for-this-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-23T19:29:31Z</updated>
-      <published>2026-11-23T19:29:31Z</published>
     </entry>
 </feed>
