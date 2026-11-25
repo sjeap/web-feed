@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-24T16:31:43Z</updated>
+  <updated>2026-11-25T12:45:09Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Staatlich alimentierter Aufschwung</title>
+      <id>9d50a0ee-ec90-45b4-ac99-55fa25db877e</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/staatlich-alimentierter-aufschwung"/>
+      <updated>2026-11-25T12:45:09Z</updated>
+      <published>2026-11-25T12:45:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/9d50a0ee-ec90-45b4-ac99-55fa25db877e/thumbnails/c823d5e5-347a-47e6-a82b-bb2d68365b58-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/9d50a0ee-ec90-45b4-ac99-55fa25db877e/thumbnails/c823d5e5-347a-47e6-a82b-bb2d68365b58-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Staatlich alimentierter Aufschwung"/><p>Staatlich alimentierter Aufschwung</p>]]></content>
+    </entry>
+    <entry>
+      <title>Einfallstor digitales Gedächtnis</title>
+      <id>e3dcd49f-ec3a-4368-a479-8c75d317a1d5</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/einfallstor-digitales-gedaechtnis"/>
+      <updated>2026-11-25T10:47:20Z</updated>
+      <published>2026-11-25T10:47:20Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e3dcd49f-ec3a-4368-a479-8c75d317a1d5/thumbnails/7e04f10a-561e-408b-8271-4285703bda40.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e3dcd49f-ec3a-4368-a479-8c75d317a1d5/thumbnails/7e04f10a-561e-408b-8271-4285703bda40.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Einfallstor digitales Gedächtnis"/><p>Einfallstor digitales Gedächtnis</p>]]></content>
+    </entry>
+    <entry>
+      <title>Institutionelle Investoren versus Unicredit</title>
+      <id>5ad18586-7d77-4cc3-9c80-a94aa96c9f27</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/institutionelle-investoren-erwaegen-klage-gegen-unicredit"/>
+      <updated>2026-11-25T06:56:43Z</updated>
+      <published>2026-11-25T06:56:43Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5ad18586-7d77-4cc3-9c80-a94aa96c9f27/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5ad18586-7d77-4cc3-9c80-a94aa96c9f27/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Institutionelle Investoren versus Unicredit"/><p>Institutionelle Investoren versus Unicredit</p>]]></content>
+    </entry>
     <entry>
       <title>Die UBS braucht ein neues Lied</title>
       <id>90c515e4-56d5-47dc-bd50-752f1389fb4d</id>
@@ -20,13 +47,13 @@
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/90c515e4-56d5-47dc-bd50-752f1389fb4d/thumbnails/28f5e1e3-5b6f-4a7f-a0f9-3efac88a808c.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die UBS braucht ein neues Lied"/><p>Die UBS braucht ein neues Lied</p>]]></content>
     </entry>
     <entry>
-      <title>BASF-Agrar-IPO wird aktionärsfreundlich mit Aufsichtsrat ohne Arbeitnehmer</title>
+      <title>Wenn der Aufsichtsrat zur arbeitnehmerfreien Zone wird</title>
       <id>c14512f0-bde3-4f02-8556-6c1c2415f393</id>
       <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/basf-agrar-ipo-wird-aktionaersfreundlich-durch-arbeitnehmerfreien-aufsichtsrat"/>
       <updated>2026-11-24T15:20:51Z</updated>
       <published>2026-11-24T15:20:51Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c14512f0-bde3-4f02-8556-6c1c2415f393/thumbnails/b48be1e0-c99d-49ff-b640-f357e2bf8696-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c14512f0-bde3-4f02-8556-6c1c2415f393/thumbnails/b48be1e0-c99d-49ff-b640-f357e2bf8696-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="BASF-Agrar-IPO wird aktionärsfreundlich mit Aufsichtsrat ohne Arbeitnehmer"/><p>BASF-Agrar-IPO wird aktionärsfreundlich mit Aufsichtsrat ohne Arbeitnehmer</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c14512f0-bde3-4f02-8556-6c1c2415f393/thumbnails/b48be1e0-c99d-49ff-b640-f357e2bf8696-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Wenn der Aufsichtsrat zur arbeitnehmerfreien Zone wird"/><p>Wenn der Aufsichtsrat zur arbeitnehmerfreien Zone wird</p>]]></content>
     </entry>
     <entry>
       <title>Strategischer Fit mit Risiken</title>
@@ -47,13 +74,13 @@
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/c73e1049-50ee-4d2f-81b9-c65604d6f08c/thumbnails/451ab4f8-6bf0-419b-943d-bb17fa4368b0-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Anthropic-Euphorie verglüht schneller als bei SpaceX"/><p>Anthropic-Euphorie verglüht schneller als bei SpaceX</p>]]></content>
     </entry>
     <entry>
-      <title>„Wir gehen all in“</title>
+      <title>KI-Fabriken für Deutschland: „Wir gehen all in“</title>
       <id>e40a5d7d-2728-45ea-9d79-59ddc3511fa8</id>
       <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/wir-gehen-all-in"/>
       <updated>2026-11-24T11:03:58Z</updated>
       <published>2026-11-24T11:03:58Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="„Wir gehen all in“"/><p>„Wir gehen all in“</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="KI-Fabriken für Deutschland: „Wir gehen all in“"/><p>KI-Fabriken für Deutschland: „Wir gehen all in“</p>]]></content>
     </entry>
     <entry>
       <title>Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen</title>
@@ -162,41 +189,5 @@
       <published>2026-11-20T15:36:42Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50c389c3-a312-4d78-9325-0a1e7723ffd9/thumbnails/73031cca-5499-475b-b640-480afecb9ec0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50c389c3-a312-4d78-9325-0a1e7723ffd9/thumbnails/73031cca-5499-475b-b640-480afecb9ec0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Brexit: Der Preis der Wiederannäherung"/><p>Brexit: Der Preis der Wiederannäherung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Luxusgüterindustrie wird zur Zwei-Klassen-Gesellschaft</title>
-      <id>3f4d19dd-65a2-4eb5-8968-dca5b20e2e50</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/unternehmen-branchen/anhaltend-unguenstiges-umfeld-setzt-luxuskonzerne-unter-druck"/>
-      <updated>2026-11-20T13:50:00Z</updated>
-      <published>2026-11-20T13:50:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/3f4d19dd-65a2-4eb5-8968-dca5b20e2e50/thumbnails/d79731f3-afe4-4d9d-8ec0-72912ea30a50.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/3f4d19dd-65a2-4eb5-8968-dca5b20e2e50/thumbnails/d79731f3-afe4-4d9d-8ec0-72912ea30a50.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Luxusgüterindustrie wird zur Zwei-Klassen-Gesellschaft"/><p>Die Luxusgüterindustrie wird zur Zwei-Klassen-Gesellschaft</p>]]></content>
-    </entry>
-    <entry>
-      <title>Gute Gründe für die wachsenden Sorgen der Investoren</title>
-      <id>59e7a397-c09c-4489-9868-370d68436424</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/gute-gruende-fuer-die-wachsenden-sorgen-der-investoren"/>
-      <updated>2026-11-20T12:07:57Z</updated>
-      <published>2026-11-20T12:07:57Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/59e7a397-c09c-4489-9868-370d68436424/thumbnails/60f2036c-737c-49db-aecb-2e6fed71204e.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/59e7a397-c09c-4489-9868-370d68436424/thumbnails/60f2036c-737c-49db-aecb-2e6fed71204e.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Gute Gründe für die wachsenden Sorgen der Investoren"/><p>Gute Gründe für die wachsenden Sorgen der Investoren</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der „Ballmer-Moment“ für BASF-Chef Markus Kamieth</title>
-      <id>5e5bde91-1e48-4d82-92c3-91bc46348996</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/der-ballmer-moment-fuer-basf-chef-markus-kamieth"/>
-      <updated>2026-11-20T06:51:56Z</updated>
-      <published>2026-11-20T06:51:56Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5e5bde91-1e48-4d82-92c3-91bc46348996/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Der „Ballmer-Moment“ für BASF-Chef Markus Kamieth"/><p>Der „Ballmer-Moment“ für BASF-Chef Markus Kamieth</p>]]></content>
-    </entry>
-    <entry>
-      <title>Altman übernimmt Vorsitz im Fanclub von Team Amodei</title>
-      <id>5ef40dcc-4c3b-4dbc-b8ca-b8f4fba4c8ba</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/altman-uebernimmt-vorsitz-im-fanclub-von-team-amodei"/>
-      <updated>2026-11-19T16:34:46Z</updated>
-      <published>2026-11-19T16:34:46Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5ef40dcc-4c3b-4dbc-b8ca-b8f4fba4c8ba/thumbnails/dd2c56a0-1f10-4b92-abd2-35d7a49807c5-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/5ef40dcc-4c3b-4dbc-b8ca-b8f4fba4c8ba/thumbnails/dd2c56a0-1f10-4b92-abd2-35d7a49807c5-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Altman übernimmt Vorsitz im Fanclub von Team Amodei"/><p>Altman übernimmt Vorsitz im Fanclub von Team Amodei</p>]]></content>
     </entry>
 </feed>
