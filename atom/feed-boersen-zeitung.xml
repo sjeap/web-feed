@@ -5,11 +5,38 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-25T12:45:09Z</updated>
+  <updated>2026-11-25T16:37:45Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Trumpf liegt in der Bilanz</title>
+      <id>0c733206-fa2f-4a9e-b16a-d43014e30393</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/trumpf-liegt-in-der-bilanz"/>
+      <updated>2026-11-25T16:37:45Z</updated>
+      <published>2026-11-25T16:37:45Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/0c733206-fa2f-4a9e-b16a-d43014e30393/thumbnails/fa45454a-91c0-4df1-b5b6-b269b2c579a1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/0c733206-fa2f-4a9e-b16a-d43014e30393/thumbnails/fa45454a-91c0-4df1-b5b6-b269b2c579a1.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Trumpf liegt in der Bilanz"/><p>Trumpf liegt in der Bilanz</p>]]></content>
+    </entry>
+    <entry>
+      <title>Die letzten Hürden für den digitalen Euro</title>
+      <id>4ab5ee3e-b6ed-4602-ae04-5f278ac41fb4</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/ratsprotokoll-zeigt-letzte-streitpunkte-beim-digitalen-euro"/>
+      <updated>2026-11-25T16:30:00Z</updated>
+      <published>2026-11-25T16:30:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/4ab5ee3e-b6ed-4602-ae04-5f278ac41fb4/thumbnails/9d22b577-28ef-4650-98f7-a441457e9474-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/4ab5ee3e-b6ed-4602-ae04-5f278ac41fb4/thumbnails/9d22b577-28ef-4650-98f7-a441457e9474-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die letzten Hürden für den digitalen Euro"/><p>Die letzten Hürden für den digitalen Euro</p>]]></content>
+    </entry>
+    <entry>
+      <title>Trump und seine zwielichtigen Meme-Coins</title>
+      <id>2da2352c-faab-4607-b52b-945090be9035</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/trump-und-seine-zwielichtigen-meme-coins"/>
+      <updated>2026-11-25T15:09:31Z</updated>
+      <published>2026-11-25T15:09:31Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/2da2352c-faab-4607-b52b-945090be9035/thumbnails/3fdad037-dd08-420b-ac63-281b3fee73a3-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/2da2352c-faab-4607-b52b-945090be9035/thumbnails/3fdad037-dd08-420b-ac63-281b3fee73a3-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Trump und seine zwielichtigen Meme-Coins"/><p>Trump und seine zwielichtigen Meme-Coins</p>]]></content>
+    </entry>
     <entry>
       <title>Staatlich alimentierter Aufschwung</title>
       <id>9d50a0ee-ec90-45b4-ac99-55fa25db877e</id>
@@ -20,13 +47,13 @@
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/9d50a0ee-ec90-45b4-ac99-55fa25db877e/thumbnails/c823d5e5-347a-47e6-a82b-bb2d68365b58-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Staatlich alimentierter Aufschwung"/><p>Staatlich alimentierter Aufschwung</p>]]></content>
     </entry>
     <entry>
-      <title>Einfallstor digitales Gedächtnis</title>
+      <title>Wenn das digitale Gedächtnis zum Einfallstor wird</title>
       <id>e3dcd49f-ec3a-4368-a479-8c75d317a1d5</id>
       <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/einfallstor-digitales-gedaechtnis"/>
       <updated>2026-11-25T10:47:20Z</updated>
       <published>2026-11-25T10:47:20Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e3dcd49f-ec3a-4368-a479-8c75d317a1d5/thumbnails/7e04f10a-561e-408b-8271-4285703bda40.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e3dcd49f-ec3a-4368-a479-8c75d317a1d5/thumbnails/7e04f10a-561e-408b-8271-4285703bda40.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Einfallstor digitales Gedächtnis"/><p>Einfallstor digitales Gedächtnis</p>]]></content>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e3dcd49f-ec3a-4368-a479-8c75d317a1d5/thumbnails/7e04f10a-561e-408b-8271-4285703bda40.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Wenn das digitale Gedächtnis zum Einfallstor wird"/><p>Wenn das digitale Gedächtnis zum Einfallstor wird</p>]]></content>
     </entry>
     <entry>
       <title>Institutionelle Investoren versus Unicredit</title>
@@ -153,41 +180,5 @@
       <published>2026-11-22T13:34:21Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/75da0dfe-08a1-4411-8ffd-7ee30747e8e0/thumbnails/4a7aaa1b-9cc3-4281-8fac-19428052a5fc.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/75da0dfe-08a1-4411-8ffd-7ee30747e8e0/thumbnails/4a7aaa1b-9cc3-4281-8fac-19428052a5fc.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Für Bitcoin wird es richtig bitter"/><p>Für Bitcoin wird es richtig bitter</p>]]></content>
-    </entry>
-    <entry>
-      <title>Ein Desaster für Privatanleger</title>
-      <id>09fb132f-3732-4700-8130-b23d7450c379</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/ein-desaster-fuer-privatanleger"/>
-      <updated>2026-11-20T21:36:02Z</updated>
-      <published>2026-11-20T21:36:02Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/09fb132f-3732-4700-8130-b23d7450c379/thumbnails/c25d605e-1636-49f5-978e-89c8957b122f-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/09fb132f-3732-4700-8130-b23d7450c379/thumbnails/c25d605e-1636-49f5-978e-89c8957b122f-0-0-2560-1706.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Ein Desaster für Privatanleger"/><p>Ein Desaster für Privatanleger</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der weite Weg zur Finanzbildung</title>
-      <id>d231e474-f76a-4c3a-a3a9-ac1b07d191b8</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/der-weite-weg-zur-finanzbildung"/>
-      <updated>2026-11-20T18:54:08Z</updated>
-      <published>2026-11-20T18:54:08Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d231e474-f76a-4c3a-a3a9-ac1b07d191b8/thumbnails/fda65f53-8d94-4f9f-b0f0-bf90f2b99b6e-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/d231e474-f76a-4c3a-a3a9-ac1b07d191b8/thumbnails/fda65f53-8d94-4f9f-b0f0-bf90f2b99b6e-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Der weite Weg zur Finanzbildung"/><p>Der weite Weg zur Finanzbildung</p>]]></content>
-    </entry>
-    <entry>
-      <title>Regierungen erweisen der EZB einen Bärendienst</title>
-      <id>e5c74b31-ed6f-4e52-a695-a188ab82dc65</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/regierungen-erweisen-der-ezb-einen-baerendienst"/>
-      <updated>2026-11-20T17:24:38Z</updated>
-      <published>2026-11-20T17:24:38Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e5c74b31-ed6f-4e52-a695-a188ab82dc65/thumbnails/135ac0a2-1892-454c-8305-6811d8b854ef-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e5c74b31-ed6f-4e52-a695-a188ab82dc65/thumbnails/135ac0a2-1892-454c-8305-6811d8b854ef-0-0-2560-1703.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Regierungen erweisen der EZB einen Bärendienst"/><p>Regierungen erweisen der EZB einen Bärendienst</p>]]></content>
-    </entry>
-    <entry>
-      <title>Brexit: Der Preis der Wiederannäherung</title>
-      <id>50c389c3-a312-4d78-9325-0a1e7723ffd9</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/brexit-der-preis-der-wiederannaeherung"/>
-      <updated>2026-11-20T15:36:42Z</updated>
-      <published>2026-11-20T15:36:42Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50c389c3-a312-4d78-9325-0a1e7723ffd9/thumbnails/73031cca-5499-475b-b640-480afecb9ec0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50c389c3-a312-4d78-9325-0a1e7723ffd9/thumbnails/73031cca-5499-475b-b640-480afecb9ec0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Brexit: Der Preis der Wiederannäherung"/><p>Brexit: Der Preis der Wiederannäherung</p>]]></content>
     </entry>
 </feed>
