@@ -5,11 +5,109 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-25T14:35:00Z</updated>
+  <updated>2026-11-25T21:34:41Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>CHY: Entering Bear Territory Makes A More Compelling Case</title>
+      <id>4972039</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972039-chy-entering-bear-territory-makes-more-compelling-case?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T21:34:41Z</updated>
+      <published>2026-11-25T21:34:41Z</published>
+    </entry>
+    <entry>
+      <title>QUAL: Investors Are Paying Up For Quality, But This ETF&apos;s Valuation Has Improved (Rating Upgrade)</title>
+      <id>4972035</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972035-qual-investors-are-paying-up-for-quality-but-this-etfs-valuation-has-improved-upgrade?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T21:16:41Z</updated>
+      <published>2026-11-25T21:16:41Z</published>
+    </entry>
+    <entry>
+      <title>GARP: Growth ETFs Are Feeling The Pressure, But QQQ May Have More Rebound Potential (Rating Downgrade)</title>
+      <id>4972034</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972034-garp-growth-etfs-are-feeling-the-pressure-but-qqq-may-have-more-rebound-potential?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T21:12:39Z</updated>
+      <published>2026-11-25T21:12:39Z</published>
+    </entry>
+    <entry>
+      <title>FDRR: A More Favorable Outlook Than Its Track Record Suggests</title>
+      <id>4972029</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972029-fdrr-a-more-favorable-outlook-than-its-track-record-suggests?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T21:00:02Z</updated>
+      <published>2026-11-25T21:00:02Z</published>
+    </entry>
+    <entry>
+      <title>BNP Paribas faces higher capital requirement in FSB list of GSIBs</title>
+      <id>https://seekingalpha.com/MarketCurrent:4676684</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/BNPQF/news?source=feed_symbol_BNPQF#MarketCurrent:4676684"/>
+      <updated>2026-11-25T20:55:12Z</updated>
+      <published>2026-11-25T20:55:12Z</published>
+    </entry>
+    <entry>
+      <title>A Starship Caught, A Constituent Added: SpaceX Arrives In QGRW</title>
+      <id>4972004</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972004-starship-caught-constituent-added-spacex-arrives-qgrw?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T18:52:00Z</updated>
+      <published>2026-11-25T18:52:00Z</published>
+    </entry>
+    <entry>
+      <title>At These ETH Levels, I Wouldn&apos;t Buy ETHE</title>
+      <id>4971993</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971993-at-these-eth-levels-i-wouldnt-buy-ethe?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T18:20:37Z</updated>
+      <published>2026-11-25T18:20:37Z</published>
+    </entry>
+    <entry>
+      <title>Ultra Bloomberg Natural Gas: Seasonally A Tough Time Of Year For This Leveraged Gas ETF</title>
+      <id>4971992</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971992-ultra-bloomberg-natural-gas-seasonally-a-tough-time-of-year-for-this-leveraged-gas-etf?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T18:17:18Z</updated>
+      <published>2026-11-25T18:17:18Z</published>
+    </entry>
+    <entry>
+      <title>Market Volatility Doesn&apos;t Have To Mean A Turbulent Portfolio</title>
+      <id>4971987</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971987-market-volatility-doesnt-have-mean-turbulent-portfolio?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T18:10:00Z</updated>
+      <published>2026-11-25T18:10:00Z</published>
+    </entry>
+    <entry>
+      <title>FMTM: Momentum Without The AI Hangover</title>
+      <id>4971948</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971948-fmtm-momentum-without-the-ai-hangover?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T16:39:07Z</updated>
+      <published>2026-11-25T16:39:07Z</published>
+    </entry>
+    <entry>
+      <title>FMTM: Market Volatility, AI Narrative Shakiness May Lead To Underdelivery, Hold Maintained</title>
+      <id>4971936</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971936-fmtm-market-volatility-ai-narrative-shakiness-may-lead-to-underdelivery-hold-maintained?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T16:13:33Z</updated>
+      <published>2026-11-25T16:13:33Z</published>
+    </entry>
+    <entry>
+      <title>DVYE: Strong Yield And Discount To Broader Emerging Markets</title>
+      <id>4971935</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971935-dvye-strong-yield-and-discount-to-broader-emerging-markets?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T16:11:38Z</updated>
+      <published>2026-11-25T16:11:38Z</published>
+    </entry>
+    <entry>
+      <title>Chip stocks slide again as AI trade struggles to regain footing</title>
+      <id>https://seekingalpha.com/MarketCurrent:4676511</id>
+      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4676511"/>
+      <updated>2026-11-25T15:24:27Z</updated>
+      <published>2026-11-25T15:24:27Z</published>
+    </entry>
+    <entry>
+      <title>STK: What The Massive December 28% Special Distribution Really Means</title>
+      <id>4971892</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4971892-stk-what-the-massive-december-28-percent-special-distribution-really-means?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-25T15:01:28Z</updated>
+      <published>2026-11-25T15:01:28Z</published>
+    </entry>
     <entry>
       <title>Same Nasdaq-100 Companies, Different Weighting: The Case For Equal Weight</title>
       <id>4971911</id>
@@ -67,13 +165,6 @@
       <published>2026-11-25T12:30:45Z</published>
     </entry>
     <entry>
-      <title>Chip stocks slide again as AI trade struggles to regain footing</title>
-      <id>https://seekingalpha.com/MarketCurrent:4676511</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TSM/news?source=feed_symbol_TSM#MarketCurrent:4676511"/>
-      <updated>2026-11-25T12:10:26Z</updated>
-      <published>2026-11-25T12:10:26Z</published>
-    </entry>
-    <entry>
       <title>CORO: Country Picks That Have Paid Off So Far</title>
       <id>4971650</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4971650-coro-country-picks-that-have-paid-off-so-far?source=feed_tag_etf_portfolio_strategy"/>
@@ -88,101 +179,10 @@
       <published>2026-11-25T11:41:28Z</published>
     </entry>
     <entry>
-      <title>RAAX: A Hold For Some, But Redundancy Had Me Cut It</title>
-      <id>4971784</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971784-raax-a-hold-for-some-but-redundancy-had-me-cut-it?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T10:25:33Z</updated>
-      <published>2026-11-25T10:25:33Z</published>
-    </entry>
-    <entry>
-      <title>RDVI: Great Job Balancing Growth And Income For Today&apos;s Volatile Market</title>
-      <id>4971777</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971777-rdvi-great-job-balancing-growth-and-income-for-todays-volatile-market?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T10:08:06Z</updated>
-      <published>2026-11-25T10:08:06Z</published>
-    </entry>
-    <entry>
-      <title>RiverNorth CEF Preferred Shares: 7.6% Yield With Built-In Regulatory Safety</title>
-      <id>4971776</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971776-rivernorth-cef-preferred-shares-7_6-percent-yield-with-built-in-regulatory-safety?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T10:07:27Z</updated>
-      <published>2026-11-25T10:07:27Z</published>
-    </entry>
-    <entry>
-      <title>Evaluating A U.S. Core Equity Blend In November 2026</title>
-      <id>4971778</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971778-evaluating-us-core-equity-blend-in-november-2026?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T09:20:00Z</updated>
-      <published>2026-11-25T09:20:00Z</published>
-    </entry>
-    <entry>
       <title>TSMC: AI Kingmaker Trading At A Bargain Price</title>
       <id>https://seekingalpha.com/Article:4971755</id>
       <link rel="alternate" href="https://seekingalpha.com/article/4971755-tsmc-ai-kingmaker-trading-at-a-bargain-price?source=feed_symbol_TSM"/>
       <updated>2026-11-25T09:10:19Z</updated>
       <published>2026-11-25T09:10:19Z</published>
-    </entry>
-    <entry>
-      <title>SCHD: Still A Solid Income Play, But Getting Pricier (Rating Downgrade)</title>
-      <id>4971746</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971746-schd-still-a-solid-income-play-but-getting-pricier-downgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T08:23:55Z</updated>
-      <published>2026-11-25T08:23:55Z</published>
-    </entry>
-    <entry>
-      <title>Harbor Dividend Growth Leaders ETF Q3 2026 Commentary</title>
-      <id>4971739</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971739-harbor-dividend-growth-leaders-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T08:05:00Z</updated>
-      <published>2026-11-25T08:05:00Z</published>
-    </entry>
-    <entry>
-      <title>EVN: Extreme Z-Score And MUB Divergence Signal A Compelling Mean-Reversion Opportunity</title>
-      <id>4971722</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971722-evn-extreme-z-score-and-mub-divergence-signal-a-compelling-mean-reversion-opportunity?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T06:33:20Z</updated>
-      <published>2026-11-25T06:33:20Z</published>
-    </entry>
-    <entry>
-      <title>TSMC: What A Textbook Growth Stock Should Look Like</title>
-      <id>https://seekingalpha.com/Article:4971664</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971664-tsmc-what-textbook-growth-stock-should-look-like?source=feed_symbol_TSM"/>
-      <updated>2026-11-25T02:38:36Z</updated>
-      <published>2026-11-25T02:38:36Z</published>
-    </entry>
-    <entry>
-      <title>BIT: Reduced CCC Exposure And A Wide Discount Warrant An Upgrade</title>
-      <id>4971653</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4971653-bit-reduced-ccc-exposure-and-a-wide-discount-warrant-an-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-25T01:53:56Z</updated>
-      <published>2026-11-25T01:53:56Z</published>
-    </entry>
-    <entry>
-      <title>AAON, Inc. 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4965544</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4965544-aaon-inc-2026-q3-results-earnings-call-presentation?source=feed_symbol_AAON"/>
-      <updated>2026-11-10T05:07:04Z</updated>
-      <published>2026-11-10T05:07:04Z</published>
-    </entry>
-    <entry>
-      <title>Sea Limited: Shopee&apos;s Profit Test Is Coming</title>
-      <id>https://seekingalpha.com/Article:4965227</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4965227-sea-limited-shopees-profit-test-is-coming?source=feed_symbol_SE"/>
-      <updated>2026-11-09T19:40:19Z</updated>
-      <published>2026-11-09T19:40:19Z</published>
-    </entry>
-    <entry>
-      <title>Modine Manufacturing Company 2027 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4963471</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4963471-modine-manufacturing-company-2027-q2-results-earnings-call-presentation?source=feed_symbol_MOD"/>
-      <updated>2026-11-05T21:00:48Z</updated>
-      <published>2026-11-05T21:00:48Z</published>
-    </entry>
-    <entry>
-      <title>Joby Aviation Q3 Earnings Preview</title>
-      <id>https://seekingalpha.com/MarketCurrent:4664179</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/JOBY/news?source=feed_symbol_JOBY#MarketCurrent:4664179"/>
-      <updated>2026-11-03T22:35:31Z</updated>
-      <published>2026-11-03T22:35:31Z</published>
     </entry>
 </feed>
