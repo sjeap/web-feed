@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-11-26T00:00:00Z</updated>
+  <updated>2026-11-27T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Mann mit Hund ist kein Beweis, dass die Ukraine den Krieg inszeniert</title>
+      <id>https://correctiv.org/faktencheck/2026/11/27/mann-mit-hund-ist-kein-beweis-dass-die-ukraine-den-krieg-inszeniert/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/27/mann-mit-hund-ist-kein-beweis-dass-die-ukraine-den-krieg-inszeniert/"/>
+      <updated>2026-11-27T00:00:00Z</updated>
+      <published>2026-11-27T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/tinywow_635162677_92714169-scaled-e1795779028480.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/tinywow_635162677_92714169-scaled-e1795779028480.jpg" alt="Frau mit Hund vor einem zerstörten Haus"/><p>Mann mit Hund ist kein Beweis, dass die Ukraine den Krieg inszeniert</p>]]></content>
+    </entry>
     <entry>
       <title>Nein, Dieter Nuhr hat bei „Maischberger“ keine Krypto-Plattform beworben</title>
       <id>https://correctiv.org/faktencheck/2026/11/26/nein-dieter-nuhr-hat-bei-maischberger-keine-krypto-plattform-beworben/</id>
@@ -216,15 +225,6 @@
       <published>2026-05-22T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/05/hantavirus-busfahrer-maske-schutzkleidung-2020-england-coronavirus-scaled-e1779439385140.jpeg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/05/hantavirus-busfahrer-maske-schutzkleidung-2020-england-coronavirus-scaled-e1779439385140.jpeg" alt="Nach dem Coronavirus-Ausbruch im Januar 2020 wurden Briten aus Wuhan, China, evakuiert und in diesem Konvoi von Reisebussen in ein Krankenhaus bei Liverpool gebracht (Symbolbild: Photoshot / Picture Alliance)"/><p>Foto von Busfahrer ohne Maske hat keinen Bezug zu Hantavirus</p>]]></content>
-    </entry>
-    <entry>
-      <title>Luxusyacht gekauft? Kreml-Medien und AfD-Politiker Krah verbreiten Fake zu EU-Kredit für Ukraine</title>
-      <id>https://correctiv.org/faktencheck/2026/05/21/luxusyacht-gekauft-kreml-medien-und-afd-politiker-krah-verbreiten-fake-zu-eu-kredit-fuer-ukraine/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/05/21/luxusyacht-gekauft-kreml-medien-und-afd-politiker-krah-verbreiten-fake-zu-eu-kredit-fuer-ukraine/"/>
-      <updated>2026-05-21T00:00:00Z</updated>
-      <published>2026-05-21T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/05/superyacht-fedorowa-ukraine-kredit.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/05/superyacht-fedorowa-ukraine-kredit.jpg" alt="Luxusyacht gekauft? Kreml-Medien und AfD-Politiker Krah verbreiten Fake zu EU-Kredit für Ukraine"/><p>Luxusyacht gekauft? Kreml-Medien und AfD-Politiker Krah verbreiten Fake zu EU-Kredit für Ukraine</p>]]></content>
     </entry>
     <entry>
       <title>Parken beim Supermarkt: Keine deutschlandweite Gebühr geplant</title>
