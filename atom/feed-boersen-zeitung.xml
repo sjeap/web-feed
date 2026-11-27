@@ -5,11 +5,29 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml</id>
   <link rel="alternate" href="https://www.boersen-zeitung.de/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-boersen-zeitung.xml"/>
-  <updated>2026-11-26T13:19:55Z</updated>
+  <updated>2026-11-26T16:26:09Z</updated>
   <author>
     <name>Börsen-Zeitung – Meinung &amp; Analyse</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Die Lichtgestalten von Big Tech und ihre langen Schatten</title>
+      <id>30e6e8a1-d5d3-49b6-baed-32c13fb94b8b</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/die-lichtgestalten-von-big-tech-und-ihre-langen-schatten"/>
+      <updated>2026-11-26T16:26:09Z</updated>
+      <published>2026-11-26T16:26:09Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/30e6e8a1-d5d3-49b6-baed-32c13fb94b8b/thumbnails/e64fad8e-a595-4b88-90a3-c483996010bb-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/30e6e8a1-d5d3-49b6-baed-32c13fb94b8b/thumbnails/e64fad8e-a595-4b88-90a3-c483996010bb-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Lichtgestalten von Big Tech und ihre langen Schatten"/><p>Die Lichtgestalten von Big Tech und ihre langen Schatten</p>]]></content>
+    </entry>
+    <entry>
+      <title>Hohe Lasten in der Zukunft</title>
+      <id>563fb475-53fd-41e0-a65a-de02f7b6b87e</id>
+      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/hohe-lasten-in-der-zukunft"/>
+      <updated>2026-11-26T14:29:27Z</updated>
+      <published>2026-11-26T14:29:27Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/563fb475-53fd-41e0-a65a-de02f7b6b87e/thumbnails/d9c8917f-69ed-4815-97b3-b47fc790eb09-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
+      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/563fb475-53fd-41e0-a65a-de02f7b6b87e/thumbnails/d9c8917f-69ed-4815-97b3-b47fc790eb09-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Hohe Lasten in der Zukunft"/><p>Hohe Lasten in der Zukunft</p>]]></content>
+    </entry>
     <entry>
       <title>Fast-Fashion-Held auf der Kriechspur</title>
       <id>ac2d70b2-2a73-4e20-9318-07739e61ed6f</id>
@@ -144,50 +162,5 @@
       <published>2026-11-24T11:03:58Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
       <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/e40a5d7d-2728-45ea-9d79-59ddc3511fa8/thumbnails/094a6b23-05b9-4acc-811d-8def6be6ac8d.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="KI-Fabriken für Deutschland: „Wir gehen all in“"/><p>KI-Fabriken für Deutschland: „Wir gehen all in“</p>]]></content>
-    </entry>
-    <entry>
-      <title>Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen</title>
-      <id>70eeed34-d90f-4af3-af37-68726bd6d36f</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/der-joker-ist-zurueck-bei-nvidia-aber-viele-fragen-bleiben-offen"/>
-      <updated>2026-11-24T06:53:07Z</updated>
-      <published>2026-11-24T06:53:07Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/70eeed34-d90f-4af3-af37-68726bd6d36f/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/70eeed34-d90f-4af3-af37-68726bd6d36f/thumbnails/b9e956d6-8b5e-4d76-943e-cb8589fc3b66.png?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen"/><p>Der Joker ist zurück bei Nvidia – Aber viele Fragen bleiben offen</p>]]></content>
-    </entry>
-    <entry>
-      <title>Jensen Huang ist der gefährlichste Untote aller Zeiten</title>
-      <id>681a889b-86bc-4aec-ae7a-f6a615f42c3c</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/jensen-huang-ist-der-gefaehrlichste-untote-aller-zeiten"/>
-      <updated>2026-11-23T16:18:18Z</updated>
-      <published>2026-11-23T16:18:18Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/681a889b-86bc-4aec-ae7a-f6a615f42c3c/thumbnails/f6cf29c3-d290-4e5e-9320-32c4795a0084-0-0-2560-1705.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/681a889b-86bc-4aec-ae7a-f6a615f42c3c/thumbnails/f6cf29c3-d290-4e5e-9320-32c4795a0084-0-0-2560-1705.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Jensen Huang ist der gefährlichste Untote aller Zeiten"/><p>Jensen Huang ist der gefährlichste Untote aller Zeiten</p>]]></content>
-    </entry>
-    <entry>
-      <title>Wie kapitalfreundlich wird Spanien?</title>
-      <id>123f6bef-92ee-4ced-8aa5-e1ed032ff4b2</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/wirtschaft-bereitet-sich-auf-regierungswechsel-in-madrid-vor"/>
-      <updated>2026-11-23T15:31:35Z</updated>
-      <published>2026-11-23T15:31:35Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/123f6bef-92ee-4ced-8aa5-e1ed032ff4b2/thumbnails/b760bb19-888a-43c7-b0fd-342a29a3f25a-0-0-940-580.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/123f6bef-92ee-4ced-8aa5-e1ed032ff4b2/thumbnails/b760bb19-888a-43c7-b0fd-342a29a3f25a-0-0-940-580.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Wie kapitalfreundlich wird Spanien?"/><p>Wie kapitalfreundlich wird Spanien?</p>]]></content>
-    </entry>
-    <entry>
-      <title>Die Achterbahnfahrt geht weiter</title>
-      <id>402367a6-e0f2-44a8-858e-6792ba9f16de</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/erstmal-kleinere-broetchen-backen"/>
-      <updated>2026-11-23T13:58:18Z</updated>
-      <published>2026-11-23T13:58:18Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/402367a6-e0f2-44a8-858e-6792ba9f16de/thumbnails/be938ff2-d2d7-44db-a56a-32e58d3fc795-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/402367a6-e0f2-44a8-858e-6792ba9f16de/thumbnails/be938ff2-d2d7-44db-a56a-32e58d3fc795-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Die Achterbahnfahrt geht weiter"/><p>Die Achterbahnfahrt geht weiter</p>]]></content>
-    </entry>
-    <entry>
-      <title>Befreiungsschlag – jetzt amtlich</title>
-      <id>50a64be6-fb33-4b44-85b3-fc1aeb1e9187</id>
-      <link rel="alternate" href="https://www.boersen-zeitung.de/news/bz-all-rss/meinung-analyse/befreiungsschlag-jetzt-amtlich"/>
-      <updated>2026-11-23T13:50:34Z</updated>
-      <published>2026-11-23T13:50:34Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50a64be6-fb33-4b44-85b3-fc1aeb1e9187/thumbnails/630694a3-2835-4b19-b5ea-c8f1507431a0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB"/>
-      <content type="html"><![CDATA[<img src="https://e-content.boersen-zeitung.de/boersenzeitung/3bb5104f-f2d6-4138-b889-ac5e5ca06778/82945faf-1a44-4f57-92dd-7acfa968f260/50a64be6-fb33-4b44-85b3-fc1aeb1e9187/thumbnails/630694a3-2835-4b19-b5ea-c8f1507431a0-0-0-2560-1707.jpg?appId=a66e8a38-1467-4a51-a751-48c14cb861fc&amp;platform=WEB" alt="Befreiungsschlag – jetzt amtlich"/><p>Befreiungsschlag – jetzt amtlich</p>]]></content>
     </entry>
 </feed>
