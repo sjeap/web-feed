@@ -5,11 +5,60 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-26T12:10:00Z</updated>
+  <updated>2026-11-26T17:33:00Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>U.S. Equity Market Concentration: How Different Is This Time?</title>
+      <id>4972339</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972339-us-equity-market-concentration-how-different-this-time?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T17:33:00Z</updated>
+      <published>2026-11-26T17:33:00Z</published>
+    </entry>
+    <entry>
+      <title>What You Need To Know About The December 2026 Russell Reconstitution</title>
+      <id>4972311</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972311-what-know-about-december-2026-russell-reconstitution?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T15:15:00Z</updated>
+      <published>2026-11-26T15:15:00Z</published>
+    </entry>
+    <entry>
+      <title>IGSB: Largest Short-Term Investment-Grade Bond ETF In The Market, But Better Choices Out There</title>
+      <id>4972294</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972294-igsb-largest-short-term-investment-grade-bond-etf-in-the-market-but-better-choices-out-there?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T14:38:19Z</updated>
+      <published>2026-11-26T14:38:19Z</published>
+    </entry>
+    <entry>
+      <title>DLLL: A 2x Bet On Dell&apos;s AI Server Momentum</title>
+      <id>4972293</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972293-dlll-a-2x-bet-on-dells-ai-server-momentum?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T14:36:53Z</updated>
+      <published>2026-11-26T14:36:53Z</published>
+    </entry>
+    <entry>
+      <title>FINX: Cheap Payment Stocks, But Crypto And Rates Still Set The Direction</title>
+      <id>4972290</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972290-finx-cheap-payment-stocks-but-crypto-and-rates-still-set-the-direction?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T14:27:12Z</updated>
+      <published>2026-11-26T14:27:12Z</published>
+    </entry>
+    <entry>
+      <title>FTLS: A Smoother Ride But Risk/Benefit Is Average</title>
+      <id>4972289</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972289-ftls-smoother-ride-but-risk-benefit-is-average?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T14:26:40Z</updated>
+      <published>2026-11-26T14:26:40Z</published>
+    </entry>
+    <entry>
+      <title>BTZ: Not As Attractive For Income Investors As The Yield Suggests</title>
+      <id>4972284</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972284-btz-not-as-attractive-for-income-investors-as-the-yield-suggests?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-26T14:10:14Z</updated>
+      <published>2026-11-26T14:10:14Z</published>
+    </entry>
     <entry>
       <title>Anthropic&apos;s IPO Creates An Instant Securities Lending Market</title>
       <id>4972243</id>
@@ -135,54 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/article/4958168-tech-bubble-will-pop-in-2027?source=feed_symbol_ASML"/>
       <updated>2026-10-27T19:00:00Z</updated>
       <published>2026-10-27T19:00:00Z</published>
-    </entry>
-    <entry>
-      <title>Volkswagen, NXP forge strategic pact on software-defined vehicles</title>
-      <id>https://seekingalpha.com/MarketCurrent:4657058</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY#MarketCurrent:4657058"/>
-      <updated>2026-10-26T09:46:05Z</updated>
-      <published>2026-10-26T09:46:05Z</published>
-    </entry>
-    <entry>
-      <title>Danaher Corporation (DHR) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4955907</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955907-danaher-corporation-dhr-q3-2026-earnings-call-transcript?source=feed_symbol_DHR"/>
-      <updated>2026-10-21T19:44:01Z</updated>
-      <published>2026-10-21T19:44:01Z</published>
-    </entry>
-    <entry>
-      <title>Thermo Fisher Scientific Inc. (TMO) Q3 2026 Earnings Call Transcript</title>
-      <id>https://seekingalpha.com/Article:4955884</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4955884-thermo-fisher-scientific-inc-tmo-q3-2026-earnings-call-transcript?source=feed_symbol_TMO"/>
-      <updated>2026-10-21T15:34:37Z</updated>
-      <published>2026-10-21T15:34:37Z</published>
-    </entry>
-    <entry>
-      <title>Joby Aviation: A Compelling Opportunity, But Patience Is Required</title>
-      <id>https://seekingalpha.com/Article:4954617</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4954617-joby-aviation-a-compelling-opportunity-but-patience-is-required?source=feed_symbol_JOBY"/>
-      <updated>2026-10-15T22:14:33Z</updated>
-      <published>2026-10-15T22:14:33Z</published>
-    </entry>
-    <entry>
-      <title>L&apos;Air Liquide S.A. (AIQUY) Analyst/Investor Day Transcript</title>
-      <id>https://seekingalpha.com/Article:4952822</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4952822-lair-liquide-s-a-aiquy-analyst-investor-day-transcript?source=feed_symbol_AIQUY"/>
-      <updated>2026-10-08T17:43:41Z</updated>
-      <published>2026-10-08T17:43:41Z</published>
-    </entry>
-    <entry>
-      <title>BICO Group AB (publ) 2026 Q2 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4938146</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4938146-bico-group-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_symbol_CLLKF"/>
-      <updated>2026-08-19T08:32:47Z</updated>
-      <published>2026-08-19T08:32:47Z</published>
-    </entry>
-    <entry>
-      <title>Mutares SE &amp; Co. KGaA (MUTRF) Q2 2026 Earnings Call Prepared Remarks Transcript</title>
-      <id>https://seekingalpha.com/Article:4937709</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4937709-mutares-se-and-co-kgaa-mutrf-q2-2026-earnings-call-prepared-remarks-transcript?source=feed_symbol_MUTRF"/>
-      <updated>2026-08-18T15:31:49Z</updated>
-      <published>2026-08-18T15:31:49Z</published>
     </entry>
 </feed>
