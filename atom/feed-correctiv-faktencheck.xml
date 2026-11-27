@@ -5,11 +5,20 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml</id>
   <link rel="alternate" href="https://correctiv.org/faktencheck/neueste-artikel/"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-correctiv-faktencheck.xml"/>
-  <updated>2026-06-26T00:00:00Z</updated>
+  <updated>2026-11-26T00:00:00Z</updated>
   <author>
     <name>CORRECTIV – Neueste Faktenchecks</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>Nein, Dieter Nuhr hat bei „Maischberger“ keine Krypto-Plattform beworben</title>
+      <id>https://correctiv.org/faktencheck/2026/11/26/nein-dieter-nuhr-hat-bei-maischberger-keine-krypto-plattform-beworben/</id>
+      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/11/26/nein-dieter-nuhr-hat-bei-maischberger-keine-krypto-plattform-beworben/"/>
+      <updated>2026-11-26T00:00:00Z</updated>
+      <published>2026-11-26T00:00:00Z</published>
+      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/11/FS988-faktencheck-krypto.jpg"/>
+      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/11/FS988-faktencheck-krypto.jpg" alt="Nahaufnahme einer Frau, die eine Kreditkarte für Online-Einkäufe an einem Laptop verwendet."/><p>Nein, Dieter Nuhr hat bei „Maischberger“ keine Krypto-Plattform beworben</p>]]></content>
+    </entry>
     <entry>
       <title>Landverkauf an Israel? Bild von Grenzschild in Albanien ist nicht echt</title>
       <id>https://correctiv.org/faktencheck/2026/06/26/landverkauf-an-israel-bild-von-grenzschild-in-albanien-ist-nicht-echt/</id>
@@ -216,15 +225,6 @@
       <published>2026-05-21T00:00:00Z</published>
       <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/05/superyacht-fedorowa-ukraine-kredit.jpg"/>
       <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/05/superyacht-fedorowa-ukraine-kredit.jpg" alt="Luxusyacht gekauft? Kreml-Medien und AfD-Politiker Krah verbreiten Fake zu EU-Kredit für Ukraine"/><p>Luxusyacht gekauft? Kreml-Medien und AfD-Politiker Krah verbreiten Fake zu EU-Kredit für Ukraine</p>]]></content>
-    </entry>
-    <entry>
-      <title>Nein, diese Karte zeigt keine Hantavirus-Fälle</title>
-      <id>https://correctiv.org/faktencheck/2026/05/20/nein-diese-karte-zeigt-keine-hantavirus-faelle/</id>
-      <link rel="alternate" href="https://correctiv.org/faktencheck/2026/05/20/nein-diese-karte-zeigt-keine-hantavirus-faelle/"/>
-      <updated>2026-05-20T00:00:00Z</updated>
-      <published>2026-05-20T00:00:00Z</published>
-      <link rel="enclosure" type="image/jpeg" href="https://correctiv.org/wp-content/uploads/2026/05/hantavirusmap-hantavirus-karte-andes-variante-ausbruch-pandemie.jpg"/>
-      <content type="html"><![CDATA[<img src="https://correctiv.org/wp-content/uploads/2026/05/hantavirusmap-hantavirus-karte-andes-variante-ausbruch-pandemie.jpg" alt="Diese Karte wird in Sozialen Netzwerken falsch interpretiert. Die Punkte zeigen keine Hantavirus-Fälle, sondern sollen die Nachrichtenlage zum Hantavirus abbilden. (Quelle: hantavirusmap.com / Powerminds; Screenshot: CORRECTIV.Faktencheck)"/><p>Nein, diese Karte zeigt keine Hantavirus-Fälle</p>]]></content>
     </entry>
     <entry>
       <title>Parken beim Supermarkt: Keine deutschlandweite Gebühr geplant</title>
