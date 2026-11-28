@@ -5,11 +5,88 @@
   <id>https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml</id>
   <link rel="alternate" href="https://seekingalpha.com/market-news/notable-calls"/>
   <link rel="self" type="application/atom+xml" href="https://sjeap.github.io/web-feed/atom/feed-seekingalpha-notable-calls.xml"/>
-  <updated>2026-11-27T13:55:39Z</updated>
+  <updated>2026-11-27T21:12:24Z</updated>
   <author>
     <name>Seeking Alpha – Notable Calls</name>
   </author>
   <generator uri="https://github.com/sjeap/web-feed">web-feed</generator>
+    <entry>
+      <title>SHYM: I Was Wrong About The Market, But Not About The Management</title>
+      <id>4972646</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972646-shym-i-was-wrong-about-the-market-but-not-about-the-management?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T21:12:24Z</updated>
+      <published>2026-11-27T21:12:24Z</published>
+    </entry>
+    <entry>
+      <title>KRE: Regional Banks Offer Diversification In An AI-Dominated World</title>
+      <id>4972645</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972645-kre-regional-banks-offer-diversification-in-an-ai-dominated-world?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T21:08:32Z</updated>
+      <published>2026-11-27T21:08:32Z</published>
+    </entry>
+    <entry>
+      <title>TDAQ: The Best Of The Bunch Is Even Outperforming QQQ</title>
+      <id>4972644</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972644-tdaq-the-best-of-the-bunch-is-even-outperforming-qqq?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T21:01:07Z</updated>
+      <published>2026-11-27T21:01:07Z</published>
+    </entry>
+    <entry>
+      <title>TSMC: Starting To Look Like A Buy Again (Rating Upgrade)</title>
+      <id>https://seekingalpha.com/Article:4972639</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972639-tsmc-starting-to-look-like-a-buy-again-upgrade?source=feed_symbol_TSM"/>
+      <updated>2026-11-27T19:20:59Z</updated>
+      <published>2026-11-27T19:20:59Z</published>
+    </entry>
+    <entry>
+      <title>GLTR Is Not Glittering, Which Could Be A Golden Opportunity (Rating Downgrade)</title>
+      <id>4972637</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972637-gltr-is-not-glittering-which-could-be-a-golden-opportunity?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T19:02:48Z</updated>
+      <published>2026-11-27T19:02:48Z</published>
+    </entry>
+    <entry>
+      <title>JCE: Attractive Distribution, But Moving More Neutral As Discount Narrows</title>
+      <id>4972625</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972625-jce-attractive-distribution-but-moving-more-neutral-as-discount-narrows?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T18:29:47Z</updated>
+      <published>2026-11-27T18:29:47Z</published>
+    </entry>
+    <entry>
+      <title>BGR: Up 24% In 1 Year, 7% Yield</title>
+      <id>4972611</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972611-bgr-up-24-percent-in-1-year-7-percent-yield?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T17:47:38Z</updated>
+      <published>2026-11-27T17:47:38Z</published>
+    </entry>
+    <entry>
+      <title>The Oracle Of OMAH Likely Beats Berkshire Hathaway In Round 3</title>
+      <id>4972585</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972585-the-oracle-of-omah-likely-beats-berkshire-hathaway-in-round-3?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T16:27:07Z</updated>
+      <published>2026-11-27T16:27:07Z</published>
+    </entry>
+    <entry>
+      <title>ETB: Attractive 10% Yield And Deep Discount, But Patience Is Warranted</title>
+      <id>4972565</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972565-etb-attractive-10-percent-yield-and-deep-discount-but-patience-is-warranted?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T15:51:00Z</updated>
+      <published>2026-11-27T15:51:00Z</published>
+    </entry>
+    <entry>
+      <title>Triple-Factor Closed-End Fund Report, November 2026</title>
+      <id>4972566</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972566-triple-factor-closed-end-fund-report-november-2026?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T15:28:31Z</updated>
+      <published>2026-11-27T15:28:31Z</published>
+    </entry>
+    <entry>
+      <title>SPDW: Low-Cost Developed-Market Core, With Solid Competitors</title>
+      <id>4972544</id>
+      <link rel="alternate" href="https://seekingalpha.com/article/4972544-spdw-low-cost-developed-market-core-with-solid-competitors?source=feed_tag_etf_portfolio_strategy"/>
+      <updated>2026-11-27T14:32:32Z</updated>
+      <published>2026-11-27T14:32:32Z</published>
+    </entry>
     <entry>
       <title>NVDL Vs. NVDX: Choosing The Better Leveraged Nvidia Bet</title>
       <id>4972534</id>
@@ -95,42 +172,7 @@
       <published>2026-11-27T05:52:53Z</published>
     </entry>
     <entry>
-      <title>JPHY: Newer High-Yield Bond ETF, Reduced Credit Risk And Volatility, Solid Dividends</title>
-      <id>4972413</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4972413-jphy-newer-high-yield-bond-etf-reduced-credit-risk-and-volatility-solid-dividends?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-27T02:23:43Z</updated>
-      <published>2026-11-27T02:23:43Z</published>
-    </entry>
-    <entry>
-      <title>MGV: Still A Buy, But Mega-Cap Growth Stocks Are Getting Cheap</title>
-      <id>4972401</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4972401-mgv-still-a-buy-but-mega-cap-growth-stocks-are-getting-cheap?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-27T01:48:55Z</updated>
-      <published>2026-11-27T01:48:55Z</published>
-    </entry>
-    <entry>
-      <title>VO: Mid-Caps Offer AI Diversification And Improved Value (Rating Upgrade)</title>
-      <id>4972397</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4972397-vo-mid-caps-offer-ai-diversification-and-an-improved-value-upgrade?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-27T01:38:35Z</updated>
-      <published>2026-11-27T01:38:35Z</published>
-    </entry>
-    <entry>
-      <title>BLCR: Strong GARP Characteristics But Historical Risk Metrics Warrant Caution</title>
-      <id>4972393</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4972393-blcr-strong-garp-characteristics-but-historical-risk-metrics-warrant-caution-a-hold?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-27T01:30:57Z</updated>
-      <published>2026-11-27T01:30:57Z</published>
-    </entry>
-    <entry>
-      <title>Harbor Human Capital Factor US Small Cap ETF Q3 2026 Commentary</title>
-      <id>4972403</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4972403-harbor-human-capital-factor-us-small-cap-etf-q3-2026-commentary?source=feed_tag_etf_portfolio_strategy"/>
-      <updated>2026-11-27T00:55:00Z</updated>
-      <published>2026-11-27T00:55:00Z</published>
-    </entry>
-    <entry>
-      <title>Wedbush downgrades Klarna to Hold equivalent; initiates PayPal, Visa with neutral view</title>
+      <title>Wedbush downgrades Klarna to Hold equivalent; initiates PayPal with neutral view</title>
       <id>https://seekingalpha.com/news/4676571-wedbush-downgrades-klarna-to-hold-equivalent-initiates-paypal-visa-with-neutral-view#source=url_first_level%3Amarket-news%7Csection%3Anotable-calls%7Csection_asset%3Anews_title</id>
       <link rel="alternate" href="https://seekingalpha.com/news/4676571-wedbush-downgrades-klarna-to-hold-equivalent-initiates-paypal-visa-with-neutral-view#source=url_first_level%3Amarket-news%7Csection%3Anotable-calls%7Csection_asset%3Anews_title"/>
       <updated>2026-11-25T14:56:59Z</updated>
@@ -142,47 +184,5 @@
       <link rel="alternate" href="https://seekingalpha.com/symbol/SE/news?source=feed_symbol_SE#MarketCurrent:4668992"/>
       <updated>2026-11-09T14:15:13Z</updated>
       <published>2026-11-09T14:15:13Z</published>
-    </entry>
-    <entry>
-      <title>Modine expects $3.1B-$3.2B fiscal 2027 sales and $470M-$500M adjusted EBITDA as data center demand drives 80%-90% segment growth</title>
-      <id>https://seekingalpha.com/MarketCurrent:4665439</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/MOD/news?source=feed_symbol_MOD#MarketCurrent:4665439"/>
-      <updated>2026-11-04T19:55:34Z</updated>
-      <published>2026-11-04T19:55:34Z</published>
-    </entry>
-    <entry>
-      <title>Rio Tinto confirms Oyu Tolgoi operations paused after &apos;seismic event&apos;</title>
-      <id>https://seekingalpha.com/MarketCurrent:4660701</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/RIO/news?source=feed_symbol_RIO#MarketCurrent:4660701"/>
-      <updated>2026-10-29T20:11:16Z</updated>
-      <published>2026-10-29T20:11:16Z</published>
-    </entry>
-    <entry>
-      <title>BNP Paribas SA 2026 Q3 - Results - Earnings Call Presentation</title>
-      <id>https://seekingalpha.com/Article:4958552</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4958552-bnp-paribas-sa-2026-q3-results-earnings-call-presentation?source=feed_symbol_BNPQF"/>
-      <updated>2026-10-28T13:32:59Z</updated>
-      <published>2026-10-28T13:32:59Z</published>
-    </entry>
-    <entry>
-      <title>ASML: Creating Its Own Bottleneck</title>
-      <id>https://seekingalpha.com/Article:4957642</id>
-      <link rel="alternate" href="https://seekingalpha.com/article/4957642-asml-creating-its-own-bottleneck?source=feed_symbol_ASML"/>
-      <updated>2026-10-26T22:15:49Z</updated>
-      <published>2026-10-26T22:15:49Z</published>
-    </entry>
-    <entry>
-      <title>Trump touts Audi factory, promises more before midterms</title>
-      <id>https://seekingalpha.com/MarketCurrent:4656997</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/VWAGY/news?source=feed_symbol_VWAGY#MarketCurrent:4656997"/>
-      <updated>2026-10-25T17:50:02Z</updated>
-      <published>2026-10-25T17:50:02Z</published>
-    </entry>
-    <entry>
-      <title>Bristol, Tempus AI partnering with Pathos AI to advance neurological treatments</title>
-      <id>https://seekingalpha.com/MarketCurrent:4656853</id>
-      <link rel="alternate" href="https://seekingalpha.com/symbol/TEM/news?source=feed_symbol_TEM#MarketCurrent:4656853"/>
-      <updated>2026-10-23T21:08:23Z</updated>
-      <published>2026-10-23T21:08:23Z</published>
     </entry>
 </feed>
